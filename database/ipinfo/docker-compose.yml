@@ -1,0 +1,18 @@
+services:
+  postgres:
+    image: postgres:latest
+    container_name: postgres_db
+    restart: always
+    environment:
+      POSTGRES_DB: geo_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data  # Bind volume here
+
+volumes:
+  postgres_data:
+    external: true  # Use an existing volume
+    name: c137f217244cba153869e23f036dcdd4ec16cb24191ae8259ae4e9d1e1d256f4
