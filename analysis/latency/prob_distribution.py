@@ -1,106 +1,22 @@
 import numpy as np
-import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-from matplotlib.ticker import PercentFormatter
-from statistics import median
+import argparse
 from pathlib import Path
 from scipy import stats
 from scipy.spatial.distance import jensenshannon
 from matplotlib.gridspec import GridSpec
-import argparse
-import json
+from analysis.latency.data_parse_helpers import setup_paths, get_rtts
 
-parser = argparse.ArgumentParser(description="Process CDN origin for websites.")
-parser.add_argument("country", type=str, help="Country name to read and write JSON files")
-parser.add_argument('agg_func', type=str, help='Base longitude from VPN')
+parser = argparse.ArgumentParser(description="Generate RTT plots comparing IPv4 and IPv6 latency normal distributions.")
+parser.add_argument("--country", type=str, required=True, help="Country label")
+parser.add_argument("--code", type=str, required=True, help="Country code used for folder path")
+parser.add_argument("--save", action='store_true', help="Save the generated figures")
 args = parser.parse_args()
-
-base_path = Path(f"/Users/joaomello/Desktop/tcc/results/{args.country}")
-(base_path / "results" / "by_domain").mkdir(parents=True, exist_ok=True)
-(base_path / "results" / "by_probe_domain").mkdir(parents=True, exist_ok=True)
-
-latency_ipv4_input = base_path / "latency" / f"latency_ipv4.json"
-latency_ipv6_input = base_path / "latency" / f"latency_ipv6.json"
-fail_ipv6_input = base_path / "latency" / f"fail_ipv6_route.json"
-
-ipv4_rtts = []
-ipv6_rtts = []
-fail_ipv6_route = []
-
-# Save results
-def _filter_by_probe(ipv4_domain_probes, ipv6_domain_probes):
-    ipv4_results, ipv6_results, ipv4_error, ipv6_error = [], [], 0, 0
-    for probe_ipv4, probe_ipv6 in zip(ipv4_domain_probes, ipv6_domain_probes):
-        filtered_ipv4 = list(filter(lambda result: result != None and result != 0, probe_ipv4))
-        filtered_ipv6 = list(filter(lambda result: result != None and result != 0, probe_ipv6))
-
-        if len(filtered_ipv4) == 0:
-            ipv4_error += 1
-        if len(filtered_ipv6) == 0:
-            ipv6_error += 1
-        
-        if len(filtered_ipv4) > 0:
-            ipv4_results.append(median(filtered_ipv4))
-
-        if len(filtered_ipv6) > 0:  
-            ipv6_results.append(median(filtered_ipv6))
-
-    return ipv4_results, ipv6_results, ipv4_error, ipv6_error
-
-def _filter(ipv4_domain_probes, ipv6_domain_probes):
-    ipv4_results, ipv6_results = [], []
-    for probe_ipv4, probe_ipv6 in zip(ipv4_domain_probes, ipv6_domain_probes):
-        filtered_ipv4 = list(filter(lambda result: result != None and result != 0, probe_ipv4))
-        filtered_ipv6 = list(filter(lambda result: result != None and result != 0, probe_ipv6))
-
-        if len(filtered_ipv4) > 0: 
-            ipv4_results.append(median(filtered_ipv4))
-        if len(filtered_ipv6) > 0:  
-            ipv6_results.append(median(filtered_ipv6))
-    
-    domain_ipv4_median = [median(ipv4_results)] if len(ipv4_results) > 0 else []
-    domain_ipv6_median = [median(ipv6_results)] if len(ipv6_results) > 0 else []
-
-    return domain_ipv4_median, domain_ipv6_median
-
-
-ipv4_rtts_by_probe_domain = []
-ipv6_rtts_by_probe_domain = []
-ipv4_rtts_by_domain = []
-ipv6_rtts_by_domain = []
-
-with open(latency_ipv4_input, "r") as f, open(latency_ipv6_input, "r") as f1:
-    ipv4_rtts_raw = json.load(f)
-    ipv6_rtts_raw = json.load(f1)
-    
-    domains = list(set(ipv4_rtts_raw.keys()).union(set(ipv6_rtts_raw.keys())))
-    for domain in domains:
-        if domain not in ipv4_rtts_raw or domain not in ipv6_rtts_raw:
-            continue
-
-        ipv4_rtts_by_domain_result, ipv6_rtts_by_domain_result = _filter(ipv4_rtts_raw.get(domain), ipv6_rtts_raw.get(domain))
-        ipv4_domain_probes_result, ipv6_domain_probes_result, ipv4_error, ipv6_error = _filter_by_probe(ipv4_rtts_raw.get(domain), ipv6_rtts_raw.get(domain))
-        
-        ipv4_rtts_by_domain += ipv4_rtts_by_domain_result
-        ipv6_rtts_by_domain += ipv6_rtts_by_domain_result
-        ipv4_rtts_by_probe_domain += ipv4_domain_probes_result
-        ipv6_rtts_by_probe_domain += ipv6_domain_probes_result
-    
-
-    # Convert lists to numpy arrays
-    ipv4_rtts_by_domain = np.array(ipv4_rtts_by_domain)
-    ipv6_rtts_by_domain = np.array(ipv6_rtts_by_domain)
-    ipv4_rtts_by_probe_domain = np.array(ipv4_rtts_by_probe_domain)
-    ipv6_rtts_by_probe_domain = np.array(ipv6_rtts_by_probe_domain)
-
-with open(fail_ipv6_input, "r") as f:
-    fail_ipv6_route = json.load(f)
-
 
 
 # PLOT GENERATION
-def plot(ipv4_rtts, ipv6_rtts, subpath):
+def plot(ipv4_rtts, ipv6_rtts, label, subpath):
     probability_distribution = base_path / "results" / subpath / f"probability_distribution.png"
     
     # Set the visual styles
@@ -168,7 +84,7 @@ def plot(ipv4_rtts, ipv6_rtts, subpath):
                     interpolate=True, color=colors[1], alpha=0.3, label='IPv6 better')
 
     # Add title, labels, and legend
-    ax1.set_title(f'IPv4 vs IPv6 RTT Probability Distributions', fontsize=16)
+    ax1.set_title(f'IPv4 vs IPv6 RTT Probability Distributions ({args.country}, {label})', fontsize=16)
     ax1.set_xlabel('Round Trip Time (ms)', fontsize=14)
     ax1.set_ylabel('Probability Density', fontsize=14)
     ax1.grid(True, linestyle='--', alpha=0.7)
@@ -181,9 +97,9 @@ def plot(ipv4_rtts, ipv6_rtts, subpath):
         f"Wasserstein Distance: {w_distance:.2f} ms\n"
         f"Kolmogorov-Smirnov Stat: {ks_stat:.4f}"
     )
-    ax1.text(0.02, 0.98, stat_text, transform=ax1.transAxes, fontsize=12,
-            verticalalignment='top', horizontalalignment='left',
-            bbox=dict(facecolor='white', alpha=0.8, boxstyle='round,pad=0.5'))
+    #ax1.text(0.02, 0.98, stat_text, transform=ax1.transAxes, fontsize=12,
+    #        verticalalignment='top', horizontalalignment='left',
+    #        bbox=dict(facecolor='white', alpha=0.8, boxstyle='round,pad=0.5'))
 
     # Add histogram of actual data points (at the bottom)
     upper_bound = max(np.percentile(ipv4_rtts, 99), np.percentile(ipv6_rtts, 99)) * 1.2
@@ -198,8 +114,22 @@ def plot(ipv4_rtts, ipv6_rtts, subpath):
     ax2.legend(fontsize=10)
 
     plt.tight_layout()
-    plt.savefig(probability_distribution, dpi=300, bbox_inches='tight')
+    if args.save:
+        plt.savefig(probability_distribution, dpi=300)
+    else:
+        plt.show()
+        plt.close()
 
+# --- Load Latency Data ---
+base_path, latency_ipv4_input, latency_ipv6_input, fail_ipv6_input = setup_paths(args.code)
+ipv4_by_domain, ipv6_by_domain, ipv4_by_probe, ipv6_by_probe, fail_ipv6_route, domains_count = get_rtts(
+    latency_ipv4_input,
+    latency_ipv6_input,
+    fail_ipv6_input,
+)
+fail_count = len(fail_ipv6_route)
 
-plot(ipv4_rtts_by_domain, ipv6_rtts_by_domain, "by_domain")
-plot(ipv4_rtts_by_probe_domain, ipv6_rtts_by_probe_domain, "by_probe_domain")
+# --- Generate Plots ---
+plot(ipv4_by_domain, ipv6_by_domain, "aggregated by domain", "latency/by_domain")
+plot(ipv4_by_probe, ipv6_by_probe, "aggregated by probe", "latency/by_probe")
+

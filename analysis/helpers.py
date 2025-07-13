@@ -1,0 +1,41 @@
+country_names = {
+  "ag": "Antigua and Barbuda",
+  "ar": "Argentina",
+  "bb": "Barbados",
+  "bo": "Bolivia",
+  "br": "Brazil",
+  "bs": "Bahamas",
+  "bz": "Belize",
+  "ca": "Canada",
+  "cl": "Chile",
+  "co": "Colombia",
+  "cr": "Costa Rica",
+  "cu": "Cuba",
+  "dm": "Dominica",
+  "do": "Dominican Republic",
+  "ec": "Ecuador",
+  "gd": "Grenada",
+  "gt": "Guatemala",
+  "gy": "Guyana",
+  "hn": "Honduras",
+  "ht": "Haiti",
+  "jm": "Jamaica",
+  "kn": "Saint Kitts and Nevis",
+  "lc": "Saint Lucia",
+  "mx": "Mexico",
+  "ni": "Nicaragua",
+  "pa": "Panama",
+  "pe": "Peru",
+  "py": "Paraguay",
+  "sr": "Suriname",
+  "sv": "El Salvador",
+  "tt": "Trinidad and Tobago",
+  "us": "United States",
+  "uy": "Uruguay",
+  "vc": "Saint Vincent and the Grenadines",
+  "ve": "Venezuela"
+}
+
+def get_country_name(country_code):
+    """Returns the full name of a country given its code."""
+    return country_names.get(country_code, country_code)
