@@ -2,9 +2,10 @@ import json
 import argparse
 import os
 from math import ceil
-from src.lib import run_command
+from google.cloud import bigquery
 from src.steps.website_fetching.queries import country, get_global
 from src.steps.website_fetching.helpers import filter_unique_domains
+from tqdm import tqdm
 
 # ==========================
 # Query Map
@@ -42,8 +43,9 @@ if query is None:
 results = []
 pool_size = min(100, args.amount)
 range_count = ceil(args.amount / 100)
+client = bigquery.Client(project="crux-466413")
 
-for i in range(range_count):
+for i in tqdm(range(range_count), desc="Fetching websites", unit="batch"):
     sql_query = query(
         country_code=args.code,
         offset=i * pool_size,
@@ -51,21 +53,15 @@ for i in range(range_count):
         semester=args.semester
     )
 
-    result = run_command([
-        "bq", "query",
-        "--use_legacy_sql=false",
-        "--format=json",
-        sql_query
-    ])
-
-    if result is None:
-        print("❌ Query failed")
+    try:
+        query_job = client.query(sql_query)
+        rows = query_job.result()
+    except Exception as e:
+        print(f"❌ Error processing query: {e}")
         exit(1)
 
-    data = json.loads(result)
+    data = list(map(lambda row: row.origin, rows))
     results.extend(data)
-
-    print(f"Processed: {i / range_count * 100:.2f}%", end='\r')
 
 # ==========================
 # Output Handling
@@ -75,23 +71,20 @@ os.makedirs(output_dir, exist_ok=True)
 
 output_path = os.path.join(output_dir, "output.json")
 
-# Extract only domains
-domains = [entry.get("origin") for entry in results]
-
 # Save initial output
 with open(output_path, "w") as f:
-    json.dump(domains, f, indent=2)
+    json.dump(results, f, indent=2)
 
-print(f"\n✅ Processed {len(domains)} websites for {args.code}")
+print(f"\n✅ Processed {len(results)} websites for {args.code}")
 
 # DNS Filter Option
 if args.filter_dns:
-    filtered, repeated = filter_unique_domains(domains, False)
+    filtered, repeated = filter_unique_domains(results, False)
 
     repeated_path = os.path.join(output_dir, "repeated_output.json")
     with open(repeated_path, "w") as f:
         json.dump(repeated, f, indent=2)
 
-    print(f"🔍 DNS filter applied. Removed {len(domains) - len(filtered)} duplicated base domain names.")
+    print(f"🔍 DNS filter applied. Removed {len(results) - len(filtered)} duplicated base domain names.")
 
 print(f"✅ Output saved to {output_path}")
