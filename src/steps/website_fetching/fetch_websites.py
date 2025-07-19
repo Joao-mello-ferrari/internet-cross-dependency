@@ -2,9 +2,9 @@ import json
 import argparse
 import os
 from math import ceil
-from lib import run_command
-from steps.website_fetching.queries import country, get_global
-from steps.website_fetching.helpers import filter_unique_domains
+from src.lib import run_command
+from src.steps.website_fetching.queries import country, get_global
+from src.steps.website_fetching.helpers import filter_unique_domains
 
 # ==========================
 # Query Map

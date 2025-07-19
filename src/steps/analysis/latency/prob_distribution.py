@@ -2,11 +2,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import argparse
-from pathlib import Path
 from scipy import stats
 from scipy.spatial.distance import jensenshannon
 from matplotlib.gridspec import GridSpec
-from analysis.latency.data_parse_helpers import setup_paths, get_rtts
+from src.steps.analysis.latency.data_parse_helpers import setup_paths, get_rtts
 
 parser = argparse.ArgumentParser(description="Generate RTT plots comparing IPv4 and IPv6 latency normal distributions.")
 parser.add_argument("--country", type=str, required=True, help="Country label")

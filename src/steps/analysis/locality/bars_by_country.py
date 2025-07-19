@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 from collections import defaultdict
 from pathlib import Path
 import glob
-import os
 
 # ===================
 # Argument Parser
@@ -13,8 +12,8 @@ def parse_arguments():
     parser = argparse.ArgumentParser(description="Plot anycast usage by country with optional accumulation and VPN filter.")
     parser.add_argument("--country", type=str, required=True, help="Country label")
     parser.add_argument("--code", type=str, required=True, help="Country code used for folder path")
-    parser.add_argument("--save", type=str, required=True, help="Save the figure: 'true' or 'false'")
     parser.add_argument("--vpn", type=str, default=None, help="Optional VPN country code to filter")
+    parser.add_argument("--save", action="store_true", help="Save the figure: 'true' or 'false'")
     parser.add_argument("--accumulated", action="store_true", help="Generate an accumulated bar plot")
     return parser.parse_args()
 
@@ -146,13 +145,13 @@ def main():
     plt.legend()
     plt.grid(axis="y", linestyle="--", alpha=0.7)
 
-    output_path = Path(f"results/{args.code}/results")
+    output_path = Path(f"results/{args.code}/results/locality")
     output_path.mkdir(parents=True, exist_ok=True)
     suffix = "accumulated" if args.accumulated else "stacked"
     vpn_suffix = f"_vpn_{args.vpn}" if args.vpn else ""
     out_file = output_path / f"countries_{suffix}{vpn_suffix}.png"
 
-    if args.save.lower() == "true":
+    if args.save:
         plt.savefig(out_file)
     else:
         plt.show()

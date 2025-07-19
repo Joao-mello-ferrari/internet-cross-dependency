@@ -8,7 +8,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 from os import getenv
 from dotenv import load_dotenv
-from steps.website_classification.helpers import classify_batch
+from src.steps.website_classification.helpers import classify_batch
 
 
 # =======================

@@ -8,8 +8,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from tqdm import tqdm
 
-from steps.locality.geolocate.helpers import classify_provider, get_country, get_anycast
-from lib import run_command
+from src.steps.locality.geolocate.helpers import classify_provider, get_country, get_anycast
+from src.lib import run_command
 
 
 # ===================
@@ -109,7 +109,7 @@ def main():
     location_results, provider_results, ips_results = {}, {}, {}
 
     # === Process Websites ===
-    with ThreadPoolExecutor(max_workers=10) as executor:
+    with ThreadPoolExecutor(max_workers=20) as executor:
         futures = {
             executor.submit(process_website, website, args.code): website
             for website in websites

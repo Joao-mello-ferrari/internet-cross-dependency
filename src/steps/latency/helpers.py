@@ -1,6 +1,6 @@
 import math
 import re
-from lib import run_command
+from src.lib import run_command
 
 def haversine_distance(lat1, lon1, lat2, lon2):
     """

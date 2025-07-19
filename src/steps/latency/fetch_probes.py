@@ -5,7 +5,7 @@ import os
 from pathlib import Path
 from itertools import combinations
 
-from steps.latency.helpers import country_name_mapper, haversine_distance
+from src.steps.latency.helpers import country_name_mapper, haversine_distance
 
 ASPOP_URL = "https://stats.labs.apnic.net/cgi-bin/aspop?c={}&d=09/06/2025&f=j"
 RIPE_ATLAS_PROBES_URL = "https://atlas.ripe.net/api/v2/probes/"

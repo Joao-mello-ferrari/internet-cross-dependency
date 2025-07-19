@@ -6,7 +6,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from tqdm import tqdm
 
-from lib import run_command
+from src.lib import run_command
 
 # ===================
 # Regex and Constants
