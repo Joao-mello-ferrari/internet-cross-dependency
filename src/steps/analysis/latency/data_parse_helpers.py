@@ -4,7 +4,7 @@ from statistics import median
 from pathlib import Path
 
 
-def aggregate_ping_by_domain(domain_probes_v4, domain_probes_v6, require_both_procols_results):
+def aggregate_ping_by_domain(domain_probes_v4=[], domain_probes_v6=[], require_both_procols_results=True):
     ipv4_results, ipv6_results = [], []
 
     for probe_v4, probe_v6 in zip(domain_probes_v4, domain_probes_v6):
@@ -24,7 +24,7 @@ def aggregate_ping_by_domain(domain_probes_v4, domain_probes_v6, require_both_pr
         [median(ipv6_results)] if ipv6_results else []
     )
 
-def aggregate_ping_by_probes(domain_probes_v4, domain_probes_v6, require_both_procols_results=True):
+def aggregate_ping_by_probes(domain_probes_v4=[], domain_probes_v6=[], require_both_procols_results=True):
     ipv4_vals, ipv6_vals = [], []
     ipv4_err, ipv6_err = 0, 0
 
@@ -68,13 +68,17 @@ def get_rtts(ipv4_input, ipv6_input, fail_ipv6_input, require_both_procols_resul
     data_v4 = load(f_v4)
     data_v6 = load(f_v6)
 
-    domains = set(data_v4) & set(data_v6)
+    domains = set(data_v4) | set(data_v6) # Join the domains from both protocols
     ipv4_by_domain, ipv6_by_domain = [], []
     ipv4_by_probe, ipv6_by_probe = [], []
 
     for domain in domains:
-        res_v4_domain, res_v6_domain = aggregate_ping_by_domain(data_v4[domain], data_v6[domain], require_both_procols_results)
-        res_v4_probe, res_v6_probe, _, _ = aggregate_ping_by_probes(data_v4[domain], data_v6[domain], require_both_procols_results)
+        res_v4_domain, res_v6_domain = aggregate_ping_by_domain(
+            data_v4.get(domain, []), data_v6.get(domain, []), require_both_procols_results
+        )
+        res_v4_probe, res_v6_probe, _, _ = aggregate_ping_by_probes(
+            data_v4.get(domain, []), data_v6.get(domain, []), require_both_procols_results
+        )
 
         ipv4_by_domain += res_v4_domain
         ipv6_by_domain += res_v6_domain

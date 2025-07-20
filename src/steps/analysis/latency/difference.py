@@ -64,19 +64,20 @@ def plot(ipv4_rtts, ipv6_rtts, label, subdir):
     # Sorted difference
     plt.figure(figsize=(14, 8))
     x = np.arange(len(data_sorted))
-    plt.scatter(x, data_sorted["diff"], alpha=0.5, label="Sorted Diff", color="#3498db")
-    if len(data_sorted) > 4:
-        smoothed = savgol_filter(data_sorted["diff"], min(len(data_sorted) - 1 if len(data_sorted) % 2 == 0 else len(data_sorted), 15), 3)
-        plt.plot(x, smoothed, color="#e74c3c", label="Smoothed Trend")
+    plt.scatter(x, data_sorted["diff"], alpha=0.5, label="Difference of IPv6 & IPv4", color="#3498db", s=6)
+    #if len(data_sorted) > 4:
+    #    smoothed = savgol_filter(data_sorted["diff"], min(len(data_sorted) - 1 if len(data_sorted) % 2 == 0 else len(data_sorted), 15), 3)
+    #    plt.plot(x, smoothed, color="#e74c3c", label="Smoothed Trend")
     plt.axhline(0, linestyle="--", color="black")
     plt.fill_between(x, mean_diff - std_diff, mean_diff + std_diff, color="purple", alpha=0.2, label="±1 Std Dev")
-    plt.title(f"Sorted RTT Differences ({args.country}, {label})")
-    plt.xlabel("Measurements (sorted)")
-    plt.ylabel("IPv6 - IPv4 RTT (ms)")
+    plt.title(f"Sorted RTT Differences | {args.country} - {label}")
+    plt.xlabel("Measurement pair idx", fontsize=12)
+    plt.ylabel("IPv6 - IPv4 RTT (ms)", fontsize=12)
+    plt.tick_params(axis='both', which='major', labelsize=14)
     plt.grid(True, linestyle="--", alpha=0.6)
     plt.legend()
-    plt.text(0.02, 0.98, stats_text, transform=plt.gca().transAxes,
-             fontsize=12, verticalalignment='top', bbox=dict(facecolor='white', alpha=0.8))
+    #plt.text(0.02, 0.98, stats_text, transform=plt.gca().transAxes,
+    #         fontsize=12, verticalalignment='top', bbox=dict(facecolor='white', alpha=0.8))
     plt.tight_layout()
     if args.save:
         plt.savefig(out_path / "sorted_rtts_difference.png", dpi=300)
@@ -97,7 +98,7 @@ def plot(ipv4_rtts, ipv6_rtts, label, subdir):
     cross_idx = data_sorted["diff"].ge(0).idxmax()
     plt.axvline(x=cross_idx, color="black", linestyle="--", label=f"Crossover @ {cross_idx}")
     plt.title(f"Absolute RTT Values by Difference ({args.country}, {label})")
-    plt.xlabel("Measurements (sorted)")
+    plt.xlabel("Measurement idx")
     plt.ylabel("RTT (ms)")
     plt.grid(True, linestyle="--", alpha=0.6)
     plt.legend()
@@ -116,7 +117,7 @@ def plot(ipv4_rtts, ipv6_rtts, label, subdir):
 
 # --- Load Latency Data ---
 base_path, latency_ipv4_input, latency_ipv6_input, fail_ipv6_input = setup_paths(args.code)
-ipv4_by_domain, ipv6_by_domain, ipv4_by_probe, ipv6_by_probe, fail_ipv6_route, domains_count = get_rtts(
+ipv4_by_domain, ipv6_by_domain, ipv4_by_probe, ipv6_by_probe, fail_ipv6_route, _ = get_rtts(
     latency_ipv4_input,
     latency_ipv6_input,
     fail_ipv6_input,
@@ -124,5 +125,5 @@ ipv4_by_domain, ipv6_by_domain, ipv4_by_probe, ipv6_by_probe, fail_ipv6_route, d
 fail_count = len(fail_ipv6_route)
 
 # --- Generate Plots ---
-plot(ipv4_by_domain, ipv6_by_domain, "aggregated by domain", "latency/by_domain")
-plot(ipv4_by_probe, ipv6_by_probe, "aggregated by probe", "latency/by_probe")
+#plot(ipv4_by_domain, ipv6_by_domain, "Aggregated by domain", "latency/by_domain")
+plot(ipv4_by_probe, ipv6_by_probe, "Aggregated by probe", "latency/by_probe")

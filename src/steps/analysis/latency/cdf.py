@@ -53,7 +53,7 @@ def plot(ipv4_rtts, ipv6_rtts, fail_ipv6_route_annotation, subfolder, aggregatio
 
     plt.xlabel("Round Trip Time (ms)")
     plt.ylabel("Cumulative Probability")
-    plt.title("CDF for RTT - IPv4 vs IPv6 | {} - aggregated by {}".format(args.country, aggregation_type_label))
+    plt.title("CDF - IPv4 vs IPv6 | {} - Aggregated by {}".format(args.country, aggregation_type_label))
     plt.legend()
     plt.grid(True, linestyle='--', alpha=0.7)
     plt.gca().yaxis.set_major_formatter(PercentFormatter(1.0))
@@ -81,8 +81,9 @@ ipv4_by_domain, ipv6_by_domain, ipv4_by_probe, ipv6_by_probe, fail_ipv6_route, d
     latency_ipv6_input,
     fail_ipv6_input,
 )
+print(domains_count)
 fail_ipv6_route_annotation = "{} ({:.2f}% of domains)".format(len(fail_ipv6_route), (len(fail_ipv6_route) / domains_count) * 100)
 
 # --- Plot Results ---
-plot(ipv4_by_domain, ipv6_by_domain, fail_ipv6_route_annotation, "latency/by_domain", "domain")
+#plot(ipv4_by_domain, ipv6_by_domain, fail_ipv6_route_annotation, "latency/by_domain", "domain")
 plot(ipv4_by_probe, ipv6_by_probe, fail_ipv6_route_annotation, "latency/by_probe", "probe")

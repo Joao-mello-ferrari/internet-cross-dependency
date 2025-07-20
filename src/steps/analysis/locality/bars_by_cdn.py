@@ -157,9 +157,8 @@ def main():
     output_path.mkdir(parents=True, exist_ok=True)
     
     suffix = "accumulated" if args.accumulated else "stacked"
-    vpn_prefix = f"{args.vpn}/" if args.vpn else ""
     vpn_suffix = f"_vpn_{args.vpn}" if args.vpn else ""
-    out_file = output_path / f"{vpn_prefix}providers_{suffix}{vpn_suffix}.png"
+    out_file = output_path / f"providers_{suffix}{vpn_suffix}.png"
 
     if args.save:
         plt.savefig(out_file)

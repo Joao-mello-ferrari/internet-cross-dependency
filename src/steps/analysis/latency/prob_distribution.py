@@ -121,7 +121,7 @@ def plot(ipv4_rtts, ipv6_rtts, label, subpath):
 
 # --- Load Latency Data ---
 base_path, latency_ipv4_input, latency_ipv6_input, fail_ipv6_input = setup_paths(args.code)
-ipv4_by_domain, ipv6_by_domain, ipv4_by_probe, ipv6_by_probe, fail_ipv6_route, domains_count = get_rtts(
+ipv4_by_domain, ipv6_by_domain, ipv4_by_probe, ipv6_by_probe, fail_ipv6_route, _ = get_rtts(
     latency_ipv4_input,
     latency_ipv6_input,
     fail_ipv6_input,
