@@ -7,7 +7,7 @@ PYTHONPATH := $(PWD)
 NODE := node
 
 # =====================
-# Pipeline general Script - We should use theses scripts to run the pipeline
+# Pipeline general Script - We should use these scripts to run the pipeline
 # =====================
 
 setup:
@@ -50,6 +50,12 @@ fetch_websites:
 		--semester "$(SEMESTER)" \
 		--amount $(AMOUNT) \
 		$(FILTER_DNS)
+
+classify_websites:
+	@echo "Classifying websites for $(COUNTRY)..."
+	@PYTHONPATH=$(PYTHONPATH) $(PYTHON) src/steps/website_classification/classify_websites.py \
+		--country "$(COUNTRY)" \
+		--code "$(CODE)"
 
 ping:
 	@echo "Pinging websites for $(COUNTRY)..."

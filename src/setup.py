@@ -24,4 +24,4 @@ if __name__ == "__main__":
     os.makedirs(results_output, exist_ok=True)
     
     run_script(["make", "fetch_websites", f"COUNTRY=\"{args.country}\"", f"CODE=\"{args.code}\"", "QUERY=\"country\"", f"SEMESTER=\"{args.semester}\"", f"AMOUNT=\"{args.count}\""])
-    # Run script for classifying
+    run_script(["make", "classify_websites", f"COUNTRY=\"{args.country}\"", f"CODE=\"{args.code}\""])

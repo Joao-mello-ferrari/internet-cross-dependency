@@ -4,3 +4,6 @@ database/**/*.csv
 .env
 results
 .DS_Store
+*.pdf
+**/legacy/**
+todo.txt

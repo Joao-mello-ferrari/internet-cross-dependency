@@ -1,6 +1,6 @@
 import json
 import re
-from openai import OpenAIClient
+from openai import OpenAI
 
 # =======================
 # BUILD PROMPT
@@ -33,11 +33,11 @@ Your task is to classify the MAIN PURPOSE of the following websites into EXACTLY
 - If there is no clear category, classify it as "13. Other".
 - If the website is inaccessible, classify it as "14. Unknown".
 
-Return ONLY a JSON mapping of each website to its category in this format:
+Return ONLY a JSON mapping of each website to its category. The keys should be exactly the website.
 
 {
-  "example.com": "3. Entertainment & Leisure",
-  "another.com": "4. Financial Services"
+  "http://example.com": "3. Entertainment & Leisure",
+  "https://another.com": "4. Financial Services"
 }
 
 Websites:
@@ -63,7 +63,7 @@ def extract_json_from_text(text):
 # =======================
 # FUNCTION FOR API CALL
 # =======================
-def classify_batch(batch, client: OpenAIClient):
+def classify_batch(batch, client: OpenAI):
     prompt = build_prompt(batch)
     try:
         response = client.responses.create(
@@ -78,3 +78,28 @@ def classify_batch(batch, client: OpenAIClient):
         print(f"Error processing batch {batch}: {e}")
         return {}
 
+
+def narrow_classes(classified_websites: object):
+    mapping = {
+        "1. Critical Public Government Services": "1. Critical & Social Services",
+        "2. Education & Study Services": "1. Critical & Social Services", 
+        "3. Health": "1. Critical & Social Services", 
+        "4. Financial Services": "2. Financial Services",
+        "5. Commerce & Retail": "3. Commerce, Retail & Industry",
+        "6. Media & News": "4. Media & News",
+        "7. Entertainment, Social Media & Lifestyle": "5. Entertainment & Social Media",
+        "8. Industry & Business Services": "3. Commerce, Retail & Industry",
+        "9. Technology & Cloud Services": "3. Commerce, Retail & Industry",
+        "10. Travel & Mobility": "6. Travel & Mobility",
+        "11. Betting": "5. Entertainment & Social Media",
+        "12. Adult Content": "5. Entertainment & Social Media",
+        "13. Other": "7. Unclassified",
+        "14. Unknown": "7. Unclassified",
+    }
+
+    for site, category in classified_websites.items():
+        if category not in mapping.keys():
+            classified_websites[site] = "7. Unclassified"
+        else:
+            classified_websites[site] = mapping[category]
+    return classified_websites
