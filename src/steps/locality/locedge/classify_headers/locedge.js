@@ -2,7 +2,7 @@ import fs from 'fs';
 import cliProgress from 'cli-progress';
 
 import parse from './index.js';
-import { chunkArray, fetchHeaders, formatEdgeInfo } from './helpers.js';
+import { formatEdgeInfo } from './helpers.js';
 
 // ==============================
 // Args
@@ -29,14 +29,13 @@ if (!countryCode || !countryName || !vpn) {
 // ==============================
 // Load Websites
 // ==============================
-const jsonFile = `./results/${countryCode}/output.json`;
-
-let websitesData = [];
+const jsonFile = `results/${countryCode}/locality/${vpn}/edgeHeaders.json`;
+let websitesHeaders = [];
 try {
     const data = fs.readFileSync(jsonFile, 'utf-8');
-    websitesData = JSON.parse(data);
+    websitesHeaders = JSON.parse(data);
 } catch (error) {
-    console.error("❌ Error reading websites JSON:", error);
+    console.error("❌ Error reading websites headers JSON:", error);
     process.exit(1);
 }
 
@@ -51,24 +50,23 @@ const bar = new cliProgress.SingleBar({
     barIncompleteChar: '\u2591',
     hideCursor: true
 });
-bar.start(websitesData.length, 0);
+bar.start(Object.keys(websitesHeaders).length, 0);
 
 // ==============================
 // Processing
 // ==============================
-let counter = 0;
-for (const sites of chunkArray(websitesData)) {
-    const result = await fetchHeaders(sites);
-    result.forEach(({ headers }, idx) => {
-        const harData = { log: { entries: [{ response: { headers } }] } };
-        const parsed = parse(harData);
-        parsed.log.entries.forEach((host) => {
-            const key = sites[idx].replace(/^https?:\/\//, '');
-            outputData[key] = formatEdgeInfo(host._edgeInfo);
-        });
-        counter++;
-        bar.increment();
+for (const [site, { headers }] of Object.entries(websitesHeaders)) {
+    const formattedHeaders = Object.entries(headers).map(header => ({
+        name: header[0],
+        value: header[1]
+    }));
+    const harData = { log: { entries: [{ response: { headers: formattedHeaders } }] } };
+    const parsed = parse(harData);
+    parsed.log.entries.forEach((host) => {
+        const key = site.replace(/^https?:\/\//, '');
+        outputData[key] = formatEdgeInfo(host._edgeInfo);
     });
+    bar.increment();
 }
 
 bar.stop();

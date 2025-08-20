@@ -80,11 +80,15 @@ geolocate:
 
 locedge:
 	@echo "Searching for websites CDNs locality with locedge for $(COUNTRY)..."
-	@$(NODE) src/steps/locality/locedge/locedge.js \
+	@PYTHONPATH=$(PYTHONPATH) $(PYTHON) src/steps/locality/locedge/fetch_headers.py \
 		--country "$(COUNTRY)" \
 		--code "$(CODE)" \
 		--vpn "$(VPN)"
 
+	@$(NODE) src/steps/locality/locedge/classify_headers/locedge.js \
+		--country "$(COUNTRY)" \
+		--code "$(CODE)" \
+		--vpn "$(VPN)"
 
 
 # =====================
