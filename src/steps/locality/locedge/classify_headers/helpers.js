@@ -1,4 +1,4 @@
-import { popCountryMap, popCountryIso2Map } from './popMap.js';
+import { popCountryIso2Map } from './popMap.js';
 
 // ==============================
 // Helper Functions
@@ -17,10 +17,15 @@ export function formatEdgeInfo(edgeInfo) {
 
 
 function getLocality(pop) {
-    if (!(pop && pop.length && popCountryIso2Map[pop[0]])) {
+    if (!pop || !Array.isArray(pop) || pop.length === 0) {
         return null;
     }
-    return popCountryIso2Map[pop[0]];
+    for (const iata of pop) {
+        if (popCountryIso2Map[iata]) {
+            return popCountryIso2Map[iata];
+        }
+    }
+    return null;
 }
 
 function omitEmpty(obj) {
