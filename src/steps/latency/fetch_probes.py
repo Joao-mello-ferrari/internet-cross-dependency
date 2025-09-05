@@ -9,7 +9,25 @@ from src.steps.latency.helpers import country_name_mapper, haversine_distance
 
 ASPOP_URL = "https://stats.labs.apnic.net/cgi-bin/aspop?c={}&d=09/06/2025&f=j"
 RIPE_ATLAS_PROBES_URL = "https://atlas.ripe.net/api/v2/probes/"
+MIN_PROBES_PER_COUNTRY = 10
 
+def get_probes_without_asn(country_code):
+    """
+    Fetch RIPE Atlas probes in the given country that do not have an ASN assigned
+    """
+    params = {
+        'country_code__in': country_code,
+        'status': 1,  # Only connected probes
+        'page_size': 100  # Get a good number of probes to choose from
+    }
+    
+    response = requests.get(RIPE_ATLAS_PROBES_URL, params=params)
+    if response.status_code != 200:
+        print(f"Failed to fetch probes without ASN in {country_code}: {response.status_code}")
+        return []
+    
+    probes_data = response.json()
+    return probes_data.get('results', [])
 
 def get_probes_for_as(asn, country_code):
     """
@@ -142,6 +160,8 @@ def fetch_probes(country_code):
     # Implementation of the functionality described in the comments
     result = {}
     total_percent = 0
+    v4_probes_counter = 0
+    v6_probes_counter = 0
     for as_info in aspop_data:
         as_number = as_info.get('AS')
         if as_number:
@@ -168,7 +188,38 @@ def fetch_probes(country_code):
                 'percent': as_info.get('Percent of CC Pop', 0),
             }
             total_percent += as_info.get('Percent of CC Pop', 0)
+            v4_probes_counter += len(ipv4_probes)
+            v6_probes_counter += len(ipv6_probes)
     
+    # Ensure at least MIN_PROBES_PER_COUNTRY probes for each protocol
+    # by adding probes without ASN if necessary
+    if v4_probes_counter < MIN_PROBES_PER_COUNTRY or v6_probes_counter < MIN_PROBES_PER_COUNTRY:
+        default_probes = get_probes_without_asn(country_code=country_code)
+
+        remaining_v4 = max(0, MIN_PROBES_PER_COUNTRY - v4_probes_counter)
+        remaining_v6 = max(0, MIN_PROBES_PER_COUNTRY - v6_probes_counter)
+
+        v4_probes = []
+        v6_probes = []
+        
+        for probe in default_probes:
+            if remaining_v4 <= 0 and remaining_v6 <= 0:
+                break
+            
+            if probe.get('asn_v4') and remaining_v4 > 0:
+                v4_probes.append(probe.get('id'))
+                remaining_v4 -= 1
+            
+            if probe.get('asn_v6') and remaining_v6 > 0:
+                v6_probes.append(probe.get('id'))
+                remaining_v6 -= 1
+        
+        result["default"] = {
+            'v4': v4_probes,
+            'v6': v6_probes,
+        }
+
+
     country_probes = {
       'name': country_name_mapper.get(country_code, country_code),
       'ases': result,
