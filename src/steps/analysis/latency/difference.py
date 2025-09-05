@@ -17,6 +17,10 @@ args = parser.parse_args()
 
 # --- Plotting Function ---
 def plot(ipv4_rtts, ipv6_rtts, label, subdir):
+    if len(ipv6_rtts) == 0:
+        print("No IPv6 data available for plotting differences.")
+        return
+    
     out_path = base_path / "results" / subdir
     out_path.mkdir(parents=True, exist_ok=True)
 

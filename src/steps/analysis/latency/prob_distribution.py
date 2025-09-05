@@ -16,6 +16,10 @@ args = parser.parse_args()
 
 # PLOT GENERATION
 def plot(ipv4_rtts, ipv6_rtts, label, subpath):
+    if len(ipv6_rtts) == 0:
+        print("No IPv6 data available for plotting differences.")
+        return
+    
     probability_distribution = base_path / "results" / subpath / f"probability_distribution.png"
     
     # Set the visual styles

@@ -2,12 +2,13 @@ import numpy as np
 from json import load
 from statistics import median
 from pathlib import Path
+from itertools import zip_longest
 
 
 def aggregate_ping_by_domain(domain_probes_v4=[], domain_probes_v6=[], require_both_procols_results=True):
     ipv4_results, ipv6_results = [], []
 
-    for probe_v4, probe_v6 in zip(domain_probes_v4, domain_probes_v6):
+    for probe_v4, probe_v6 in zip_longest(domain_probes_v4, domain_probes_v6, fillvalue=[]):
         valid_v4 = list(filter(lambda x: x not in (None, 0), probe_v4))
         valid_v6 = list(filter(lambda x: x not in (None, 0), probe_v6))
 
@@ -28,7 +29,7 @@ def aggregate_ping_by_probes(domain_probes_v4=[], domain_probes_v6=[], require_b
     ipv4_vals, ipv6_vals = [], []
     ipv4_err, ipv6_err = 0, 0
 
-    for probe_v4, probe_v6 in zip(domain_probes_v4, domain_probes_v6):
+    for probe_v4, probe_v6 in zip_longest(domain_probes_v4, domain_probes_v6, fillvalue=[]):
         valid_v4 = list(filter(lambda x: x not in (None, 0), probe_v4))
         valid_v6 = list(filter(lambda x: x not in (None, 0), probe_v6))
 
