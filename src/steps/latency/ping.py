@@ -36,14 +36,17 @@ def fetch_measurement_result(measurement_id):
 def parse_rtt_results(response):
     sorted_by_probe = sorted(response, key=lambda x: x.get("prb_id"))
     results = []
+    results_with_probe_id = {}
     for entry in sorted_by_probe:
         probe_results = entry.get("result", [])
         rtts = [m.get("rtt") for m in probe_results if m.get("rtt") is not None]
         results.append(rtts)
-    return results
+        results_with_probe_id[entry.get("prb_id")] = rtts
+    return results, results_with_probe_id
 
 def fetch_all_rtts(measurements, proto, log):
     rtts = {}
+    rtts_with_probe_id = {}
     with ThreadPoolExecutor(max_workers=10) as executor:
         futures = {
             executor.submit(fetch_measurement_result, ids[0]): (site, ids[0])
@@ -53,14 +56,15 @@ def fetch_all_rtts(measurements, proto, log):
             site, measurement_id = futures[future]
             try:
                 data = future.result()
-                parsed = parse_rtt_results(data)
+                parsed, parsed_with_probe_id = parse_rtt_results(data)
                 rtts[site] = parsed
+                rtts_with_probe_id[site] = parsed_with_probe_id
                 log_entry = f"{proto.upper()} {site} ID {measurement_id}: {data}\n\n"
                 log += log_entry
             except Exception as e:
                 log += f"Error fetching {proto} {site}: {e}\n"
                 print(e)
-    return rtts, log
+    return rtts, rtts_with_probe_id, log
 
 def fetch_all_rtts_single(measurements, proto, log):
     rtts = {}
@@ -68,7 +72,7 @@ def fetch_all_rtts_single(measurements, proto, log):
         measurement_id = ids[0]
         try:
             data = fetch_measurement_result(measurement_id)
-            parsed = parse_rtt_results(data)
+            parsed, _ = parse_rtt_results(data)
             rtts[site] = parsed
             log_entry = f"{proto.upper()} {site} ID {measurement_id}: {data}\n\n"
             log += log_entry
@@ -135,7 +139,9 @@ def main():
 
     output_files = {
         "latency_v4": latency_path / "latency_ipv4.json",
+        "latency_v4_with_probe_id": latency_path / "latency_ipv4_with_probe_id.json",
         "latency_v6": latency_path / "latency_ipv6.json",
+        "latency_v6_with_probe_id": latency_path / "latency_ipv6_with_probe_id.json",
         "icmp_block": latency_path / "icmp_block.json",
         "fail_ipv6": latency_path / "fail_ipv6_route.json",
         "log": latency_path / "log.txt",
@@ -151,7 +157,6 @@ def main():
             probes_file = base_path / "probes.json"
         except: 
             print("Failed to fetch fresh probes, using existing probes file.")
-
     with open(probes_file) as f:
         probes = json.load(f).get("ases", {})
 
@@ -160,11 +165,13 @@ def main():
 
     time.sleep(30)
 
-    ipv4_rtts, log_v4 = fetch_all_rtts(results_v4, "v4", log_v4)
-    ipv6_rtts, log_v6 = fetch_all_rtts(results_v6, "v6", log_v6)
+    ipv4_rtts, ipv4_rtts_with_probe_id, log_v4 = fetch_all_rtts(results_v4, "v4", log_v4)
+    ipv6_rtts, ipv6_rtts_with_probe_id, log_v6 = fetch_all_rtts(results_v6, "v6", log_v6)
 
     save_json(ipv4_rtts, output_files["latency_v4"])
+    save_json(ipv4_rtts_with_probe_id, output_files["latency_v4_with_probe_id"])
     save_json(ipv6_rtts, output_files["latency_v6"])
+    save_json(ipv6_rtts_with_probe_id, output_files["latency_v6_with_probe_id"])
     save_json(ipv6_fail_v6, output_files["fail_ipv6"])
     save_json(icmp_block_v4, output_files["icmp_block"])
     save_json({"v4": results_v4, "v6": results_v6}, output_files["raw"])

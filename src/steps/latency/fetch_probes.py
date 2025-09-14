@@ -9,7 +9,8 @@ from src.steps.latency.helpers import country_name_mapper, haversine_distance
 
 ASPOP_URL = "https://stats.labs.apnic.net/cgi-bin/aspop?c={}&d=09/06/2025&f=j"
 RIPE_ATLAS_PROBES_URL = "https://atlas.ripe.net/api/v2/probes/"
-MIN_PROBES_PER_COUNTRY = 10
+MIN_PROBES_PER_PROTOCOL = 3
+MAX_PROBES_PER_PROTOCOL = 12
 
 def get_probes_without_asn(country_code):
     """
@@ -55,10 +56,10 @@ def get_probes_for_as(asn, country_code):
     return probes_data.get('results', [])
 
 
-def select_distant_probes(probes, max_probes=8, ipv6_boost_factor=2.0):
+def select_distant_probes(probes, max_probes=4, ipv6_boost_factor=2.0):
     """
     Highlight probes that are as far away as possible from each other (use lat and lon)
-    returning up to 8 probes per AS, with preference for IPv6-capable probes
+    returning up to 4 probes per AS, with preference for IPv6-capable probes
     """
     if not probes:
         return []
@@ -148,6 +149,51 @@ def extract_probe_info(probe):
         #'status': probe.get('status')
     }
 
+def weighted_clip_probes(ases_dict, protocol_key, max_total):
+        """
+        Clip probes using weighted distribution based on current probe count per AS
+        """
+        # Calculate current totals and weights
+        as_probe_counts = {}
+        total_current = 0
+        
+        for as_num, as_data in ases_dict.items():
+            if as_num == "default":  # Skip default for now
+                continue
+            probe_count = len(as_data.get(protocol_key, []))
+            as_probe_counts[as_num] = probe_count
+            total_current += probe_count
+        
+        if total_current <= max_total:
+            return  # No clipping needed
+        
+        # Calculate weights (proportion of probes each AS should keep)
+        total_weight = sum(as_probe_counts.values())
+        if total_weight == 0:
+            return
+        
+        # Distribute probes proportionally
+        remaining_probes = max_total
+        for as_num in sorted(as_probe_counts.keys()):  # Sort for consistent results
+            current_probes = ases_dict[as_num][protocol_key]
+            if remaining_probes <= 0:
+                # If no probes left, clear this AS
+                ases_dict[as_num][protocol_key] = current_probes[:1]
+                continue
+                
+            current_count = as_probe_counts[as_num]
+            if current_count == 0:
+                continue
+                
+            # Calculate how many probes this AS should get
+            weight = current_count / total_weight
+            allocated_probes = max(1, min(remaining_probes, round(weight * max_total)))
+            
+            # Clip the probes list for this AS
+            ases_dict[as_num][protocol_key] = current_probes[:allocated_probes]
+            remaining_probes -= allocated_probes
+    
+
 
 def fetch_probes(country_code):
     aspop_response = requests.get(ASPOP_URL.format(country_code))
@@ -191,13 +237,25 @@ def fetch_probes(country_code):
             v4_probes_counter += len(ipv4_probes)
             v6_probes_counter += len(ipv6_probes)
     
+    
+    # Apply weighted clipping
+    weighted_clip_probes(result, 'v4', MAX_PROBES_PER_PROTOCOL)
+    weighted_clip_probes(result, 'v6', MAX_PROBES_PER_PROTOCOL)
+    
+    # Recalculate counters after clipping
+    v4_probes_counter = sum(len(as_data.get('v4', [])) for as_data in result.values() if isinstance(as_data, dict))
+    v6_probes_counter = sum(len(as_data.get('v6', [])) for as_data in result.values() if isinstance(as_data, dict))
+
     # Ensure at least MIN_PROBES_PER_COUNTRY probes for each protocol
     # by adding probes without ASN if necessary
-    if v4_probes_counter < MIN_PROBES_PER_COUNTRY or v6_probes_counter < MIN_PROBES_PER_COUNTRY:
+    if v4_probes_counter < MIN_PROBES_PER_PROTOCOL or v6_probes_counter < MIN_PROBES_PER_PROTOCOL:
         default_probes = get_probes_without_asn(country_code=country_code)
 
-        remaining_v4 = max(0, MIN_PROBES_PER_COUNTRY - v4_probes_counter)
-        remaining_v6 = max(0, MIN_PROBES_PER_COUNTRY - v6_probes_counter)
+        # Calculate how many more probes we need, but don't exceed MAX_PROBES_PER_PROTOCOL
+        remaining_v4 = max(0, min(MIN_PROBES_PER_PROTOCOL - v4_probes_counter, 
+                                 MAX_PROBES_PER_PROTOCOL - v4_probes_counter))
+        remaining_v6 = max(0, min(MIN_PROBES_PER_PROTOCOL - v6_probes_counter,
+                                 MAX_PROBES_PER_PROTOCOL - v6_probes_counter))
 
         v4_probes = []
         v6_probes = []
@@ -214,10 +272,11 @@ def fetch_probes(country_code):
                 v6_probes.append(probe.get('id'))
                 remaining_v6 -= 1
         
-        result["default"] = {
-            'v4': v4_probes,
-            'v6': v6_probes,
-        }
+        if v4_probes or v6_probes:
+            result["default"] = {
+                'v4': v4_probes,
+                'v6': v6_probes,
+            }
 
 
     country_probes = {
