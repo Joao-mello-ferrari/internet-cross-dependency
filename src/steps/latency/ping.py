@@ -24,13 +24,16 @@ def save_json(data, filepath):
     with open(filepath, "w") as f:
         json.dump(data, f, indent=4)
 
-def fetch_measurement_result(measurement_id):
+def fetch_measurement_result(measurement_id, attempts=3):
     try:
-        resp = requests.get(RIPE_ATLAS_RESULTS_URL.format(measurement_id), timeout=5)
+        resp = requests.get(RIPE_ATLAS_RESULTS_URL.format(measurement_id), timeout=2)
         resp.raise_for_status()
         return resp.json()
     except requests.exceptions.Timeout:
-        print("Request timed out!")
+        print("Request timed out! Retrying...")
+        if attempts > 1:
+            time.sleep(2*(4-attempts))
+            return fetch_measurement_result(measurement_id, attempts - 1)
         raise Exception("Request timed out while fetching measurement results.")
 
 def parse_rtt_results(response):
@@ -160,10 +163,19 @@ def main():
     with open(probes_file) as f:
         probes = json.load(f).get("ases", {})
 
+    # --------------------------------
+    # file = open(output_files["raw"], "r")
+    # file = json.load(file)
+    # results_v4 = file["v4"]
+    # results_v6 = file["v6"]
+    # log_v4 = ""
+    # log_v6 = ""
+
     results_v4, icmp_block_v4, _, log_v4 = single_process(websites, probes, af=4)
     results_v6, _, ipv6_fail_v6, log_v6 = single_process(websites, probes, af=6)
 
     time.sleep(30)
+    # --------------------------------
 
     ipv4_rtts, ipv4_rtts_with_probe_id, log_v4 = fetch_all_rtts(results_v4, "v4", log_v4)
     ipv6_rtts, ipv6_rtts_with_probe_id, log_v6 = fetch_all_rtts(results_v6, "v6", log_v6)

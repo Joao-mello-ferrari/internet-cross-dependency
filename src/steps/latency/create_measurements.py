@@ -14,7 +14,7 @@ def get_probes_list(country_ases, af):
         probes.extend(country_as.get(key, []))
     return probes
 
-def create_ping_measurement(domain, country_ases, af):
+def create_ping_measurement(domain, country_ases, af, attempts=3):
     domain = domain.replace("http://", "").replace("https://", "")
     accepts_icmp = ping(domain, timeout=1)
     if not accepts_icmp:
@@ -60,5 +60,8 @@ def create_ping_measurement(domain, country_ases, af):
         else:
             raise Exception(f"Failed to create AF{af} measurement for {domain}: {resp.status_code} {resp.text}")
     except requests.exceptions.Timeout:
-        print("Request timed out!")
+        print("Request timed out! Retrying...")
+        if attempts > 0:
+            time.sleep(2*(4-attempts))
+            return create_ping_measurement(domain, country_ases, af, attempts - 1)
         raise Exception("Request timed out while creating measurement.")
