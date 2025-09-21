@@ -1,10 +1,10 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+import openchord_modified as ocd
 import argparse
 import json
 import glob
-from matplotlib.colors import LinearSegmentedColormap
 from pathlib import Path
 from collections import defaultdict
 
@@ -12,17 +12,17 @@ from collections import defaultdict
 # Argument Parser
 # ===================
 def parse_arguments():
-    parser = argparse.ArgumentParser(description='Create dependency matrix heatmap visualization')
+    parser = argparse.ArgumentParser(description='Create dependency matrix heatmap and chord visualizations')
     parser.add_argument("--country", type=str, help="Country label (for single country analysis)")
     parser.add_argument("--code", type=str, help="Country code used for folder path (for single country analysis)")
     parser.add_argument("--all-countries", action="store_true", help="Process all countries to create comprehensive matrix")
     parser.add_argument("--vpn", type=str, default=None, help="Optional VPN country code to filter")
-    parser.add_argument('--output', type=str, help='Output file path')
-    parser.add_argument('--title', type=str, default='Country Dependency Matrix', help='Plot title')
     parser.add_argument('--show-summary', action='store_true', help='Show additional summary plots')
-    parser.add_argument('--colormap', type=str, default='viridis', help='Matplotlib colormap name')
-    parser.add_argument('--show-values', action='store_true', help='Show percentage values in cells')
-    parser.add_argument("--save", action="store_true", help="Save the figure")
+    parser.add_argument("--save", action="store_true", help="Save the figures")
+    parser.add_argument("--heatmap-only", action="store_true", help="Generate only heatmap (skip chord diagram)")
+    parser.add_argument("--chord-only", action="store_true", help="Generate only chord diagram (skip heatmap)")
+    parser.add_argument("--cdn-providers", action="store_true", help="Analyze CDN provider dependencies instead of country dependencies")
+    parser.add_argument("--include-no-cdn", action="store_true", help="Include non-CDN providers in analysis (default: only CDN providers)")
     return parser.parse_args()
 
 
@@ -109,7 +109,7 @@ def get_continent_mapping():
         # North America
         'us': 'North America',
         'ca': 'North America', 
-        'mx': 'Central America',
+        'mx': 'North America',
         
         # Central America (Middle America)
         'gt': 'Central America',
@@ -219,6 +219,42 @@ def process_experiment(location_data, locedge_data, dependency_counts):
 
     return unknown_count
 
+def process_experiment_cdn(cdn_data, locedge_data, provider_data, provider_counts):
+    """
+    Process a single experiment to count dependencies on CDN providers.
+    
+    Args:
+        cdn_data: dict mapping domains to their CDN providers
+        locedge_data: dict with additional location/edge data
+        provider_data: dict mapping domains to provider info from whois
+        provider_counts: nested dict to accumulate provider counts
+    
+    Returns:
+        unknown_count: number of domains with unknown provider
+    """
+    unknown_count = 0
+    for domain, cdn_string in cdn_data.items():
+        by_whois_provider = provider_data.get(domain)
+        cdn_providers = set(cdn_string.replace("'", "").split(", ")) if cdn_string else []
+        no_cdn_providers = set(locedge_data.get(domain, {}).get("provider", []) + [by_whois_provider] if by_whois_provider is not None else [])
+
+        if len(cdn_providers) == 0 and len(no_cdn_providers) == 0:
+            unknown_count += 1
+            continue
+
+        if cdn_providers:
+            for provider in map(str.lower, cdn_providers):
+                if provider == "aws (not cdn)":
+                    continue
+                provider_counts[provider]["cdn"] += 1
+        else:
+            for provider in map(str.lower, no_cdn_providers):
+                if provider == "aws (not cdn)":
+                    continue
+                provider_counts[provider]["no_cdn"] += 1
+
+    return unknown_count
+
 def build_dependency_matrix(aggregated_data, country_labels):
     """
     Build a dependency matrix from aggregated country dependency data.
@@ -254,6 +290,262 @@ def build_dependency_matrix(aggregated_data, country_labels):
                     unmapped_dependencies[source_idx] += count
     
     return matrix, unmapped_dependencies
+
+def build_cdn_provider_matrix(aggregated_data, country_labels, include_no_cdn=False, min_threshold_percent=3.0):
+    """
+    Build a CDN provider dependency matrix from aggregated country-provider data.
+    
+    Args:
+        aggregated_data: dict where keys are source countries and values are 
+                        dicts of {provider: {"cdn": count, "no_cdn": count}}
+        country_labels: list of countries that have folders in results/
+        include_no_cdn: whether to include non-CDN providers in analysis
+        min_threshold_percent: minimum percentage threshold for keeping providers separate
+    
+    Returns:
+        matrix: n x m matrix of dependencies (countries x providers)
+        provider_labels: list of provider names (including "Others" if applicable)
+        provider_types: dict mapping provider to primary type ("cdn" or "no_cdn")
+    """
+    # Get all unique providers across all countries
+    all_providers = set()
+    for country_data in aggregated_data.values():
+        all_providers.update(country_data.keys())
+    
+    n_countries = len(country_labels)
+    
+    # Create matrices for CDN and non-CDN counts
+    provider_data = {}  # provider -> {"cdn": array, "no_cdn": array, "total": array}
+    
+    for provider in all_providers:
+        provider_data[provider] = {
+            "cdn": np.zeros(n_countries),
+            "no_cdn": np.zeros(n_countries),
+            "total": np.zeros(n_countries)
+        }
+    
+    # Fill the provider data
+    for country_idx, country in enumerate(country_labels):
+        if country in aggregated_data:
+            country_data = aggregated_data[country]
+            
+            for provider, counts in country_data.items():
+                cdn_count = counts.get("cdn", 0)
+                no_cdn_count = counts.get("no_cdn", 0)
+                
+                provider_data[provider]["cdn"][country_idx] = cdn_count
+                provider_data[provider]["no_cdn"][country_idx] = no_cdn_count
+                provider_data[provider]["total"][country_idx] = cdn_count + no_cdn_count
+    
+    # Determine which data to use based on include_no_cdn flag
+    final_provider_data = {}
+    provider_types = {}
+    
+    for provider, data in provider_data.items():
+        if include_no_cdn:
+            # Use total counts (CDN + non-CDN)
+            final_provider_data[provider] = data["total"]
+            # Determine primary type
+            total_cdn = np.sum(data["cdn"])
+            total_no_cdn = np.sum(data["no_cdn"])
+            provider_types[provider] = "cdn" if total_cdn >= total_no_cdn else "no_cdn"
+        else:
+            # Use only CDN counts, skip providers with no CDN usage
+            if np.sum(data["cdn"]) > 0:
+                final_provider_data[provider] = data["cdn"]
+                provider_types[provider] = "cdn"
+    
+    # Calculate normalized percentages for each provider to determine which to aggregate
+    providers_to_keep = []
+    providers_to_aggregate = []
+    
+    for provider, counts in final_provider_data.items():
+        # Calculate row sums for normalization
+        total_counts = np.sum(counts)
+        if total_counts == 0:
+            continue
+            
+        # Normalize to percentages for each country
+        country_totals = np.zeros(n_countries)
+        for country_idx, country in enumerate(country_labels):
+            if country in aggregated_data:
+                country_total = 0
+                for p, p_counts in aggregated_data[country].items():
+                    if include_no_cdn:
+                        country_total += p_counts.get("cdn", 0) + p_counts.get("no_cdn", 0)
+                    else:
+                        country_total += p_counts.get("cdn", 0)
+                country_totals[country_idx] = country_total
+        
+        # Avoid division by zero
+        country_totals[country_totals == 0] = 1
+        
+        # Calculate percentages for this provider
+        percentages = (counts / country_totals) * 100
+        max_percentage = np.max(percentages)
+        
+        # Check if any country has >= threshold% dependency on this provider
+        if max_percentage >= min_threshold_percent:
+            providers_to_keep.append(provider)
+        else:
+            providers_to_aggregate.append(provider)
+    
+    # Build the final matrix
+    kept_providers = sorted(providers_to_keep)
+    final_provider_labels = kept_providers.copy()
+    
+    # Calculate column sums for ordering (before normalization)
+    provider_sums = []
+    for provider in kept_providers:
+        total_sum = np.sum(final_provider_data[provider])
+        provider_sums.append((provider, total_sum))
+    
+    # Sort providers by total sum (descending)
+    provider_sums.sort(key=lambda x: x[1], reverse=True)
+    ordered_providers = [p[0] for p in provider_sums]
+    
+    # Create the matrix with ordered providers
+    has_aggregated = len(providers_to_aggregate) > 0
+    n_providers = len(ordered_providers) + (1 if has_aggregated else 0)
+    matrix = np.zeros((n_countries, n_providers))
+    
+    # Fill matrix with kept providers (in order)
+    final_provider_labels = ordered_providers.copy()
+    for provider_idx, provider in enumerate(ordered_providers):
+        matrix[:, provider_idx] = final_provider_data[provider]
+    
+    # Add aggregated column if needed
+    if has_aggregated:
+        aggregated_column = np.zeros(n_countries)
+        for provider in providers_to_aggregate:
+            aggregated_column += final_provider_data[provider]
+        
+        matrix[:, -1] = aggregated_column
+        final_provider_labels.append("Others")
+        provider_types["Others"] = "aggregated"
+    
+    print(f"Kept {len(ordered_providers)} major providers, aggregated {len(providers_to_aggregate)} minor providers")
+    
+    return matrix, final_provider_labels, provider_types
+
+def normalize_provider_matrix(matrix):
+    """
+    Normalize the provider matrix so each row sums to 100%.
+    
+    Args:
+        matrix: n x m matrix of dependencies (countries x providers)
+    
+    Returns:
+        normalized_matrix: n x m matrix with percentages
+    """
+    matrix = np.array(matrix, dtype=float)
+    
+    # Calculate row sums
+    row_sums = np.sum(matrix, axis=1)
+    
+    # Avoid division by zero
+    row_sums[row_sums == 0] = 1
+    
+    # Normalize each row to sum to 100%
+    normalized_matrix = (matrix / row_sums[:, np.newaxis]) * 100
+    
+    return normalized_matrix
+
+def create_cdn_provider_heatmap(matrix, country_labels, provider_labels, provider_types,
+                              title="Country to CDN Provider Dependency", save_path=None):
+    """
+    Create a CDN provider dependency heatmap visualization.
+    
+    Args:
+        matrix: n x m matrix of dependencies (countries x providers)
+        country_labels: list of country names/codes
+        provider_labels: list of provider names (including "Others" if applicable)
+        provider_types: dict mapping provider to type ("cdn", "no_cdn", or "aggregated")
+        title: plot title
+        save_path: path to save the figure (optional)
+    """
+    
+    # Normalize the matrix
+    normalized_matrix = normalize_provider_matrix(matrix)
+    
+    # Set up the plot
+    figsize = (max(16, len(provider_labels) * 0.8), max(12, len(country_labels) * 0.6))
+    fig, ax = plt.subplots(1, 1, figsize=figsize)
+    
+    # Create a mask for zero values to make them transparent
+    mask_zeros = normalized_matrix == 0
+    
+    # Create the heatmap
+    sns.heatmap(
+        normalized_matrix,
+        xticklabels=provider_labels,
+        yticklabels=country_labels,
+        annot=True,
+        fmt='.1f',
+        cmap='plasma',  # Different colormap for provider analysis
+        vmin=0,
+        vmax=100,
+        cbar_kws={'label': 'Provider Usage Percentage (%)'},
+        square=False,
+        linewidths=0.5,
+        linecolor='white',
+        mask=mask_zeros,  # This makes zero values transparent
+        ax=ax
+    )
+    
+    # Style the plot
+    ax.tick_params(axis='x', which='major', labelsize=9, top=True, bottom=False, labeltop=True, labelbottom=False)
+    ax.tick_params(axis='y', which='major', labelsize=9)
+    
+    # Rotate the x-axis labels for better readability
+    plt.setp(ax.get_xticklabels(), rotation=45, ha='left')
+    
+    # Color-code provider labels based on type
+    x_labels = ax.get_xticklabels()
+    for i, label in enumerate(x_labels):
+        provider = provider_labels[i]
+        provider_type = provider_types.get(provider, "unknown")
+        if provider_type == "cdn":
+            label.set_color('blue')
+        elif provider_type == "aggregated":
+            label.set_color('purple')
+        else:
+            label.set_color('red')
+    
+    # Set labels
+    ax.set_xlabel('CDN/Content Providers')
+    ax.set_ylabel('Countries')
+    
+    # Add title
+    ax.set_title(title, fontsize=14, fontweight='bold', pad=20)
+    
+    # Add legend for provider types
+    from matplotlib.patches import Patch
+    legend_elements = [
+        Patch(facecolor='blue', label='CDN Providers')
+    ]
+    
+    # Add non-CDN and aggregated to legend if they exist
+    if any(provider_types.get(p) == "no_cdn" for p in provider_labels):
+        legend_elements.append(Patch(facecolor='red', label='Non-CDN Providers'))
+    
+    if any(provider_types.get(p) == "aggregated" for p in provider_labels):
+        legend_elements.append(Patch(facecolor='purple', label='Aggregated (Others)'))
+    
+    ax.legend(handles=legend_elements, loc='upper left', bbox_to_anchor=(1.02, 1))
+    
+    # Adjust layout
+    plt.tight_layout()
+    
+    # Save if path provided
+    if save_path:
+        plt.savefig(save_path, dpi=300, bbox_inches='tight')
+        print(f"CDN Provider heatmap saved to: {save_path}")
+    
+    # Show the plot
+    plt.show()
+    
+    return normalized_matrix
 def normalize_matrix(matrix, unmapped_dependencies):
     """
     Normalize the matrix so each row sums to 100%.
@@ -283,8 +575,7 @@ def normalize_matrix(matrix, unmapped_dependencies):
     return normalized_matrix
 
 def create_dependency_heatmap(matrix, unmapped_dependencies, country_labels, 
-                            title="Country Dependency Matrix", figsize=(12, 10),
-                            save_path=None, colormap='viridis', show_values=True):
+                            title="Country Dependency Matrix", save_path=None):
     """
     Create a dependency heatmap visualization.
     
@@ -293,55 +584,60 @@ def create_dependency_heatmap(matrix, unmapped_dependencies, country_labels,
         unmapped_dependencies: list of size n with unmapped dependencies  
         country_labels: list of country names/codes
         title: plot title
-        figsize: figure size tuple
         save_path: path to save the figure (optional)
-        colormap: matplotlib colormap name
-        show_values: whether to show percentage values in cells
     """
     
     # Normalize the matrix
     normalized_matrix = normalize_matrix(matrix, unmapped_dependencies)
     
-    # Create extended labels (countries + "Unmapped")
-    extended_labels = country_labels + ["Unmapped"]
-    
     # Set up the plot with subplots for separation
+    figsize = (16, 12) if len(country_labels) > 10 else (12, 10)
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(figsize[0] * 1.1, figsize[1]), 
                                    gridspec_kw={'width_ratios': [len(country_labels), 1], 'wspace': 0.02})
     
     # Create the main country-to-country heatmap
     country_matrix = normalized_matrix[:, :-1]  # All columns except last (unmapped)
+    
+    # Create a mask for zero values to make them transparent
+    mask_zeros = country_matrix == 0
+    
     sns.heatmap(
         country_matrix,
         xticklabels=country_labels,
         yticklabels=country_labels,
-        annot=show_values,
+        annot=True,
         fmt='.1f',
-        cmap=colormap,
+        cmap='viridis',
         vmin=0,
         vmax=100,
         cbar=False,  # We'll add a shared colorbar later
         square=False,
         linewidths=0.5,
         linecolor='white',
+        mask=mask_zeros,  # This makes zero values transparent
         ax=ax1
     )
     
     # Create the unmapped dependencies heatmap (single column)
     unmapped_matrix = normalized_matrix[:, -1:] # Last column only
+    
+    # Create a mask for zero values in unmapped column
+    mask_unmapped_zeros = unmapped_matrix == 0
+    
     sns.heatmap(
         unmapped_matrix,
         xticklabels=["Unmapped"],
         yticklabels=False,  # Don't repeat country labels
-        annot=show_values,
+        annot=True,
         fmt='.1f',
-        cmap=colormap,
+        cmap='viridis',
         vmin=0,
         vmax=100,
         cbar_kws={'label': 'Dependency Percentage (%)'},
         square=False,
         linewidths=0.5,
         linecolor='white',
+        mask=mask_unmapped_zeros,  # This makes zero values transparent
         ax=ax2
     )
     
@@ -376,6 +672,53 @@ def create_dependency_heatmap(matrix, unmapped_dependencies, country_labels,
     plt.show()
     
     return normalized_matrix
+
+
+def create_dependency_chord(matrix, country_labels, save_path=None):
+    """
+    Create a dependency chord diagram visualization.
+    
+    Args:
+        matrix: n x n matrix of dependencies between countries
+        country_labels: list of country names/codes
+        save_path: path to save the figure (optional)
+    """
+    
+    # Create a copy to avoid modifying the original matrix
+    matrix_processed = matrix.copy()
+    
+    # Make matrix symmetric by adding small values to zero cells in transpose positions
+    for n in range(matrix_processed.shape[0]):
+        for m in range(matrix_processed.shape[1]):
+            # If cell (n,m) has a value and cell (m,n) is zero, add small value to (m,n)
+            if matrix_processed[n, m] != 0 and matrix_processed[m, n] == 0:
+                matrix_processed[m, n] = matrix_processed[n, m] * 0.01
+    
+    # Calculate column sums and apply cubic root transformation for gentle scaling
+    col_sums = np.sum(matrix_processed, axis=0)
+    col_sums_cbrt = np.cbrt(col_sums + 1e-10)  # Add tiny value for numerical stability
+    
+    # Apply scaling
+    matrix_scaled = matrix_processed * col_sums_cbrt[:, np.newaxis]
+    
+    # Create and display the chord diagram
+    print(f"Creating chord diagram with {len(country_labels)} countries...")
+    print(f"Original column sums: {col_sums}")
+    print(f"Scaled column sums: {col_sums_cbrt}")
+    
+    fig = ocd.Chord(matrix_scaled, country_labels)
+    fig.show()
+    
+    # Save if path provided
+    if save_path:
+        fig.save_svg(save_path)
+        print(f"Chord diagram saved to: {save_path}")
+    
+    return matrix_scaled
+    
+    
+
+
 
 def create_summary_plots(normalized_matrix, country_labels):
     """
@@ -440,54 +783,108 @@ def main():
         country_codes = [args.code]
 
     # Process all countries to build comprehensive dependency data
-    all_dependency_data = defaultdict(lambda: defaultdict(int))
-    total_unknown = 0
-    total_experiments = 0
+    if args.cdn_providers:
+        # CDN Provider analysis
+        all_provider_data = defaultdict(lambda: defaultdict(lambda: {"cdn": 0, "no_cdn": 0}))
+        total_unknown = 0
+        total_experiments = 0
 
-    for country_code in country_codes:
-        print(f"\nProcessing country: {country_code}")
-        base_path = Path(f"results/{country_code}/locality")
+        for country_code in country_codes:
+            print(f"\nProcessing country: {country_code}")
+            base_path = Path(f"results/{country_code}/locality")
 
-        # Find all experiment files for this country
-        experiment_paths = []
-        for location_file in glob.glob(str(base_path / "**/location.json"), recursive=True):
-            if args.vpn and args.vpn not in location_file:
-                continue
+            # Find all experiment files for this country
+            experiment_paths = []
+            for location_file in glob.glob(str(base_path / "**/location.json"), recursive=True):
+                if args.vpn and args.vpn not in location_file:
+                    continue
 
-            experiment_dir = Path(location_file).parent
-            locedge_file = experiment_dir / "locedge.json"
-            if locedge_file.exists():
-                experiment_paths.append((location_file, locedge_file))
+                experiment_dir = Path(location_file).parent
+                locedge_file = experiment_dir / "locedge.json"
+                cdn_file = experiment_dir / "cdn.json"
+                provider_file = experiment_dir / "provider.json"
+                
+                if locedge_file.exists() and cdn_file.exists() and provider_file.exists():
+                    experiment_paths.append((locedge_file, cdn_file, provider_file))
 
-        print(f"  Found {len(experiment_paths)} experiments")
-        
-        # Process all experiments for this country
-        for location_path, locedge_path in experiment_paths:
-            with open(location_path) as f:
-                location_data = json.load(f)
-            with open(locedge_path) as f:
-                locedge_data = json.load(f)
-
-            # Process this experiment to get dependency counts
-            dependency_counts = defaultdict(int)
-            unknown_count = process_experiment(location_data, locedge_data, dependency_counts)
-            total_unknown += unknown_count
-            total_experiments += 1
+            print(f"  Found {len(experiment_paths)} experiments with CDN data")
             
-            # Add to aggregated data (source country is the current country_code)
-            for target_country, count in dependency_counts.items():
-                all_dependency_data[country_code][target_country] += count
+            # Process all experiments for this country
+            for locedge_path, cdn_path, provider_path in experiment_paths:
+                with open(locedge_path) as f:
+                    locedge_data = json.load(f)
+                with open(cdn_path) as f:
+                    cdn_data = json.load(f)
+                with open(provider_path) as f:
+                    provider_data = json.load(f)
 
-        # Print summary for this country
-        country_total = sum(all_dependency_data[country_code].values())
-        print(f"  Total dependencies: {country_total}")
+                # Process this experiment to get provider counts
+                provider_counts = defaultdict(lambda: {"cdn": 0, "no_cdn": 0})
+                unknown_count = process_experiment_cdn(cdn_data, locedge_data, provider_data, provider_counts)
+                total_unknown += unknown_count
+                total_experiments += 1
+                
+                # Add to aggregated data (source country is the current country_code)
+                for provider, counts in provider_counts.items():
+                    all_provider_data[country_code][provider]["cdn"] += counts["cdn"]
+                    all_provider_data[country_code][provider]["no_cdn"] += counts["no_cdn"]
+
+            # Print summary for this country
+            country_total = sum(
+                sum(provider_counts.values()) 
+                for provider_counts in all_provider_data[country_code].values()
+            )
+            print(f"  Total provider dependencies: {country_total}")
+
+    else:
+        # Country dependency analysis (original logic)
+        all_dependency_data = defaultdict(lambda: defaultdict(int))
+        total_unknown = 0
+        total_experiments = 0
+
+        for country_code in country_codes:
+            print(f"\nProcessing country: {country_code}")
+            base_path = Path(f"results/{country_code}/locality")
+
+            # Find all experiment files for this country
+            experiment_paths = []
+            for location_file in glob.glob(str(base_path / "**/location.json"), recursive=True):
+                if args.vpn and args.vpn not in location_file:
+                    continue
+
+                experiment_dir = Path(location_file).parent
+                locedge_file = experiment_dir / "locedge.json"
+                if locedge_file.exists():
+                    experiment_paths.append((location_file, locedge_file))
+
+            print(f"  Found {len(experiment_paths)} experiments")
+            
+            # Process all experiments for this country
+            for location_path, locedge_path in experiment_paths:
+                with open(location_path) as f:
+                    location_data = json.load(f)
+                with open(locedge_path) as f:
+                    locedge_data = json.load(f)
+
+                # Process this experiment to get dependency counts
+                dependency_counts = defaultdict(int)
+                unknown_count = process_experiment(location_data, locedge_data, dependency_counts)
+                total_unknown += unknown_count
+                total_experiments += 1
+                
+                # Add to aggregated data (source country is the current country_code)
+                for target_country, count in dependency_counts.items():
+                    all_dependency_data[country_code][target_country] += count
+
+            # Print summary for this country
+            country_total = sum(all_dependency_data[country_code].values())
+            print(f"  Total dependencies: {country_total}")
 
     if total_experiments == 0:
         print("No experiment files found")
         return
 
     # Use ONLY the countries we actually studied (have folders) as labels
-    # NOT all countries that appear in the dependency data
     if args.all_countries:
         country_codes_sorted = sort_countries_by_continent(country_codes)  # Sort by continent
         country_labels = convert_codes_to_names(country_codes_sorted)  # Convert to full names
@@ -516,77 +913,168 @@ def main():
             if continent in continent_groups:
                 print(f"  {continent}: {', '.join(continent_groups[continent])}")
     
-    # Build the dependency matrix (still using codes internally)
-    # Any dependencies on countries NOT in country_codes_sorted will go to unmapped
-    matrix, unmapped_dependencies = build_dependency_matrix(all_dependency_data, country_codes_sorted)
-    
-    # Show what countries appear in data but are not studied (go to unmapped)
-    all_target_countries = set()
-    for source_data in all_dependency_data.values():
-        all_target_countries.update(source_data.keys())
-    
-    unmapped_countries = all_target_countries - set(country_codes_sorted)
-    if unmapped_countries:
-        print(f"Countries in data but not studied (going to unmapped): {', '.join(sorted(unmapped_countries))}")
-    else:
-        print("All target countries are studied countries (no additional unmapped countries)")
-    
-    # Create title
-    if args.all_countries:
-        title = "Global Country Dependency Matrix"
-        if args.vpn:
-            title += f" (VPN: {args.vpn})"
-    else:
-        title = f"Country Dependency Matrix - {args.country}"
-        if args.vpn:
-            title += f" (VPN: {args.vpn})"
-    
-    # Generate output path if saving
-    output_path = None
-    if args.save:
+    # Branch based on analysis type
+    if args.cdn_providers:
+        # CDN Provider Analysis
+        print("\n=== CDN Provider Analysis ===")
+        
+        # Build the CDN provider matrix
+        matrix, provider_labels, provider_types = build_cdn_provider_matrix(
+            all_provider_data, 
+            country_codes_sorted,
+            include_no_cdn=args.include_no_cdn,
+            min_threshold_percent=3.0
+        )
+        
+        print(f"Found {len(provider_labels)} unique providers: {', '.join(provider_labels[:10])}{'...' if len(provider_labels) > 10 else ''}")
+        
+        # Create title
         if args.all_countries:
-            output_dir = Path("results/global_analysis")
-            output_dir.mkdir(parents=True, exist_ok=True)
-            vpn_suffix = f"_vpn_{args.vpn}" if args.vpn else ""
-            output_path = output_dir / f"global_dependency_heatmap{vpn_suffix}.png"
+            title = "Global CDN Provider Dependency Analysis"
+            if args.vpn:
+                title += f" (VPN: {args.vpn})"
         else:
-            output_dir = Path(f"results/{args.code}/results/locality")
-            output_dir.mkdir(parents=True, exist_ok=True)
-            vpn_suffix = f"_vpn_{args.vpn}" if args.vpn else ""
-            output_path = output_dir / f"dependency_heatmap{vpn_suffix}.png"
+            title = f"CDN Provider Dependency Analysis - {args.country}"
+            if args.vpn:
+                title += f" (VPN: {args.vpn})"
+        
+        # Generate output path if saving
+        heatmap_path = None
+        if args.save:
+            if args.all_countries:
+                output_dir = Path("results")
+                output_dir.mkdir(parents=True, exist_ok=True)
+                vpn_suffix = f"_vpn_{args.vpn}" if args.vpn else ""
+                heatmap_path = output_dir / f"global_cdn_provider_heatmap{vpn_suffix}.png"
+            else:
+                output_dir = Path(f"results/{args.code}/results/locality")
+                output_dir.mkdir(parents=True, exist_ok=True)
+                vpn_suffix = f"_vpn_{args.vpn}" if args.vpn else ""
+                heatmap_path = output_dir / f"cdn_provider_heatmap{vpn_suffix}.png"
+        
+        # Create CDN provider heatmap
+        print("\n=== Creating CDN Provider Heatmap ===")
+        normalized_matrix = create_cdn_provider_heatmap(
+            matrix, 
+            country_labels,
+            provider_labels,
+            provider_types,
+            title=title,
+            save_path=heatmap_path
+        )
+        
+        # Print comprehensive statistics
+        print("\n=== CDN Provider Statistics ===")
+        print(f"Matrix shape: {normalized_matrix.shape}")
+        print(f"Countries analyzed: {len(country_labels)}")
+        print(f"Providers found: {len(provider_labels)}")
+        print(f"Include non-CDN providers: {args.include_no_cdn}")
+        print(f"Minimum threshold for separate display: 3.0%")
+        print(f"Total experiment files processed: {total_experiments}")
+        print(f"Total unknown providers: {total_unknown}")
+        
+        # Show top providers by usage
+        provider_totals = np.sum(matrix, axis=0)
+        top_providers_with_totals = list(zip(provider_labels, provider_totals))
+        # Don't sort again since they're already ordered, just show top 10 or all if fewer
+        top_providers = top_providers_with_totals[:min(10, len(top_providers_with_totals))]
+        
+        print(f"\nTop Providers by Total Usage:")
+        for i, (provider, total) in enumerate(top_providers, 1):
+            provider_type = provider_types.get(provider, "unknown")
+            if provider == "Others":
+                print(f"  {i}. {provider} (aggregated): {total:.0f} total uses")
+            else:
+                print(f"  {i}. {provider} ({provider_type}): {total:.0f} total uses")
     
-    # Create the heatmap with larger figure size for country names
-    figsize = (16, 12) if args.all_countries else (12, 10)
-    normalized_matrix = create_dependency_heatmap(
-        matrix, 
-        unmapped_dependencies, 
-        country_labels,
-        title=title,
-        figsize=figsize,
-        save_path=output_path,
-        colormap=args.colormap,
-        show_values=args.show_values
-    )
-    
-    # Create summary plots only if flag is set
-    if args.show_summary:
-        create_summary_plots(normalized_matrix, country_labels)
-    
-    # Print comprehensive statistics
-    print("\n=== Dependency Statistics ===")
-    print(f"Matrix shape: {normalized_matrix.shape}")
-    print(f"Countries analyzed: {len(country_labels)}")
-    print(f"Source countries processed: {len(country_codes)}")
-    print(f"Total experiment files processed: {total_experiments}")
-    print(f"Total unknown locations: {total_unknown}")
-    
-    print(f"\nCountry Dependencies:")
-    for i, country in enumerate(country_labels):
-        if i < len(normalized_matrix):
-            self_dep = normalized_matrix[i, i] if i < normalized_matrix.shape[1] - 1 else 0
-            unmapped_dep = normalized_matrix[i, -1]
-            other_dep = 100 - self_dep - unmapped_dep
-            print(f"{country.upper()}: Self={self_dep:.1f}%, Others={other_dep:.1f}%, Unmapped={unmapped_dep:.1f}%")
+    else:
+        # Country Dependency Analysis (original logic)
+        print("\n=== Country Dependency Analysis ===")
+        
+        # Build the dependency matrix (still using codes internally)
+        matrix, unmapped_dependencies = build_dependency_matrix(all_dependency_data, country_codes_sorted)
+        
+        # Show what countries appear in data but are not studied (go to unmapped)
+        all_target_countries = set()
+        for source_data in all_dependency_data.values():
+            all_target_countries.update(source_data.keys())
+        
+        unmapped_countries = all_target_countries - set(country_codes_sorted)
+        if unmapped_countries:
+            print(f"Countries in data but not studied (going to unmapped): {', '.join(sorted(unmapped_countries))}")
+        else:
+            print("All target countries are studied countries (no additional unmapped countries)")
+        
+        # Create title
+        if args.all_countries:
+            title = "Global Country Dependency Analysis"
+            if args.vpn:
+                title += f" (VPN: {args.vpn})"
+        else:
+            title = f"Country Dependency Analysis - {args.country}"
+            if args.vpn:
+                title += f" (VPN: {args.vpn})"
+        
+        # Generate output paths if saving
+        heatmap_path = None
+        chord_path = None
+        
+        if args.save:
+            if args.all_countries:
+                output_dir = Path("results")
+                output_dir.mkdir(parents=True, exist_ok=True)
+                vpn_suffix = f"_vpn_{args.vpn}" if args.vpn else ""
+                heatmap_path = output_dir / f"global_dependency_heatmap{vpn_suffix}.png"
+                chord_path = output_dir / f"global_dependency_chord{vpn_suffix}.svg"
+            else:
+                output_dir = Path(f"results/{args.code}/results/locality")
+                output_dir.mkdir(parents=True, exist_ok=True)
+                vpn_suffix = f"_vpn_{args.vpn}" if args.vpn else ""
+                heatmap_path = output_dir / f"dependency_heatmap{vpn_suffix}.png"
+                chord_path = output_dir / f"dependency_chord{vpn_suffix}.svg"
+        
+        # Create visualizations based on arguments
+        normalized_matrix = None
+        
+        if not args.chord_only:
+            print("\n=== Creating Dependency Heatmap ===")
+            normalized_matrix = create_dependency_heatmap(
+                matrix, 
+                unmapped_dependencies, 
+                country_labels,
+                title=title + " - Heatmap",
+                save_path=heatmap_path
+            )
+        
+        if not args.heatmap_only:
+            print("\n=== Creating Dependency Chord Diagram ===")
+            create_dependency_chord(
+                matrix, 
+                country_labels,
+                save_path=chord_path
+            )
+        
+        # Create summary plots only if flag is set
+        if args.show_summary and normalized_matrix is not None:
+            print("\n=== Creating Summary Plots ===")
+            create_summary_plots(normalized_matrix, country_labels)
+        
+        # Print comprehensive statistics
+        if normalized_matrix is not None:
+            print("\n=== Dependency Statistics ===")
+            print(f"Matrix shape: {normalized_matrix.shape}")
+            print(f"Countries analyzed: {len(country_labels)}")
+            print(f"Source countries processed: {len(country_codes)}")
+            print(f"Total experiment files processed: {total_experiments}")
+            print(f"Total unknown locations: {total_unknown}")
+            
+            print(f"\nCountry Dependencies:")
+            for i, country in enumerate(country_labels):
+                if i < len(normalized_matrix):
+                    self_dep = normalized_matrix[i, i] if i < normalized_matrix.shape[1] - 1 else 0
+                    unmapped_dep = normalized_matrix[i, -1]
+                    other_dep = 100 - self_dep - unmapped_dep
+                    print(f"{country.upper()}: Self={self_dep:.1f}%, Others={other_dep:.1f}%, Unmapped={unmapped_dep:.1f}%")
 
 
 if __name__ == "__main__":

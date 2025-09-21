@@ -91,7 +91,7 @@ ipv4_by_domain, ipv6_by_domain, ipv4_by_probe, ipv6_by_probe, fail_ipv6_route, d
     latency_ipv4_input,
     latency_ipv6_input,
     fail_ipv6_input,
-    False
+    True
 )
 fail_ipv6_route_annotation = "{} ({:.2f}% of domains)".format(len(fail_ipv6_route), (len(fail_ipv6_route) / domains_count) * 100)
 

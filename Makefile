@@ -35,6 +35,19 @@ analysis:
 	@PYTHONPATH=$(PYTHONPATH) $(PYTHON) src/analysis.py \
 		--country "$(COUNTRY)" \
 		--code "$(CODE)"
+
+analysis_global:
+	@echo "Running global dependency analysis..."
+	@PYTHONPATH=$(PYTHONPATH) $(PYTHON) src/steps/analysis/dependency_heatmap.py \
+		--all-countries \
+		--save
+
+analysis_cdn:
+	@echo "Running global CDN provider analysis..."
+	@PYTHONPATH=$(PYTHONPATH) $(PYTHON) src/steps/analysis/dependency_heatmap.py \
+		--all-countries \
+		--cdn-providers \
+		--save
  
 
 # =====================
