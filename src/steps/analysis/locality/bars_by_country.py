@@ -3,7 +3,8 @@ import argparse
 import matplotlib.pyplot as plt
 from collections import defaultdict
 from pathlib import Path
-import glob
+
+from src.steps.analysis.helpers import process_experiment_country, find_experiment_files, aggregate_small_items
 
 # ===================
 # Argument Parser
@@ -19,44 +20,14 @@ def parse_arguments():
 
 
 # ===================
-# Helper Function
-# ===================
-def process_experiment(location_data, locedge_data, country_counts):
-    unknown_count = 0
-    for domain, location in location_data.items():
-        content_location = locedge_data.get(domain, {}).get("contentLocality")
-
-        if location is None and content_location is None:
-            unknown_count += 1
-            continue
-
-        if content_location:
-            country_counts[content_location]["no_anycast"] += 1
-        elif "- anycast" in location:
-            raw_location = location.replace(" - anycast", "")
-            country_counts[raw_location]["anycast"] += 1
-        else:
-            country_counts[location]["no_anycast"] += 1
-
-    return unknown_count
-
-
-# ===================
 # Main Function
 # ===================
 def main():
     args = parse_arguments()
     base_path = Path(f"results/{args.code}/locality")
-
-    experiment_paths = []
-    for location_file in glob.glob(str(base_path / "**/location.json"), recursive=True):
-        if args.vpn and args.vpn not in location_file:
-            continue
-
-        experiment_dir = Path(location_file).parent
-        locedge_file = experiment_dir / "locedge.json"
-        if locedge_file.exists():
-            experiment_paths.append((location_file, locedge_file))
+    # Find all experiment files for this country
+    file_types = ["location.json", "locedge.json"]
+    experiment_paths = find_experiment_files(base_path, file_types, args.vpn)
 
     aggregated_counts = defaultdict(lambda: {"anycast": 0, "no_anycast": 0})
     total_unknown = 0
@@ -67,32 +38,24 @@ def main():
         with open(locedge_path) as f:
             locedge_data = json.load(f)
 
-        total_unknown += process_experiment(location_data, locedge_data, aggregated_counts)
+        # Process this experiment to get country counts
+        country_counts = defaultdict(lambda: {"anycast": 0, "no_anycast": 0})
+        unknown_count = process_experiment_country(location_data, locedge_data, country_counts, consider_anycast=True)
+        total_unknown += unknown_count
+        
+        # Add to aggregated data
+        for country, counts in country_counts.items():
+            aggregated_counts[country]["anycast"] += counts["anycast"]
+            aggregated_counts[country]["no_anycast"] += counts["no_anycast"]
 
-    # Merge small countries into 'others'
-    final_counts = defaultdict(lambda: {"anycast": 0, "no_anycast": 0})
-    others_count = {"anycast": 0, "no_anycast": 0}
-    others = 0
-
-    for country, counts in aggregated_counts.items():
-        total = counts["anycast"] + counts["no_anycast"]
-        if total < 5:
-            others_count["anycast"] += counts["anycast"]
-            others_count["no_anycast"] += counts["no_anycast"]
-            others += 1
-        else:
-            final_counts[country] = counts
+    # Use helper function for aggregation
+    final_counts, _ = aggregate_small_items(aggregated_counts, threshold=5, others_label="others")
 
     sorted_countries = sorted(
         final_counts.keys(),
         key=lambda p: final_counts[p]["anycast"] + final_counts[p]["no_anycast"],
         reverse=True
     )
-
-    if others_count["anycast"] + others_count["no_anycast"] > 0:
-        others_label = f"others ({others})"
-        final_counts[others_label] = others_count
-        sorted_countries.append(others_label)
 
     total_counts = [final_counts[c]["anycast"] + final_counts[c]["no_anycast"] for c in sorted_countries]
     unknown_pct = (total_unknown / sum(total_counts)) * 100 if sum(total_counts) > 0 else 0

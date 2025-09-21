@@ -3,7 +3,9 @@ import argparse
 import matplotlib.pyplot as plt
 from collections import defaultdict
 from pathlib import Path
-import glob
+import sys
+
+from src.steps.analysis.helpers import process_experiment_cdn, find_experiment_files
 
 # ===================
 # Argument Parser
@@ -19,51 +21,15 @@ def parse_arguments():
 
 
 # ===================
-# Helper Function
-# ===================
-def process_experiment(cdn_data, locedge_data, provider_data, provider_counts):
-    unknown_count = 0
-    for domain, cdn_string in cdn_data.items():
-        by_whois_provider = provider_data.get(domain)
-        cdn_providers = set(cdn_string.replace("'", "").split(", ")) if cdn_string else []
-        no_cdn_providers = set(locedge_data.get(domain, {}).get("provider", []) + [by_whois_provider] if by_whois_provider is not None else [])
-
-        if len(cdn_providers) == 0 and len(no_cdn_providers) == 0:
-            unknown_count += 1
-            continue
-
-        if cdn_providers:
-            for provider in map(str.lower, cdn_providers):
-                if provider == "aws (not cdn)":
-                    continue
-                provider_counts[provider]["cdn"] += 1
-        else:
-            for provider in map(str.lower, no_cdn_providers):
-                if provider == "aws (not cdn)":
-                    continue
-                provider_counts[provider]["no_cdn"] += 1
-
-    return unknown_count
-
-
-# ===================
 # Main Function
 # ===================
 def main():
     args = parse_arguments()
     base_path = Path(f"results/{args.code}/locality")
 
-    experiment_paths = []
-    for cdn_path in glob.glob(str(base_path / "**/cdn.json"), recursive=True):
-        if args.vpn and args.vpn not in cdn_path:
-            continue
-
-        experiment_dir = Path(cdn_path).parent
-        provider_path = experiment_dir / "provider.json"
-        locedge_path = experiment_dir / "locedge.json"
-
-        if provider_path.exists() and locedge_path.exists():
-            experiment_paths.append((cdn_path, locedge_path, provider_path))
+    # Find all experiment files for this country
+    file_types = ["cdn.json", "locedge.json", "provider.json"]
+    experiment_paths = find_experiment_files(base_path, file_types, args.vpn)
 
     aggregated_counts = defaultdict(lambda: {"cdn": 0, "no_cdn": 0})
     total_unknown = 0
@@ -76,8 +42,17 @@ def main():
         with open(provider_path) as f:
             provider_data = json.load(f)
 
-        total_unknown += process_experiment(cdn_data, locedge_data, provider_data, aggregated_counts)
+        # Process this experiment to get provider counts
+        provider_counts = defaultdict(lambda: {"cdn": 0, "no_cdn": 0})
+        unknown_count = process_experiment_cdn(cdn_data, locedge_data, provider_data, provider_counts)
+        total_unknown += unknown_count
+        
+        # Add to aggregated data
+        for provider, counts in provider_counts.items():
+            aggregated_counts[provider]["cdn"] += counts["cdn"]
+            aggregated_counts[provider]["no_cdn"] += counts["no_cdn"]
 
+    # Use helper function for aggregation, but keep the special Amazon logic
     final_counts = defaultdict(lambda: {"cdn": 0, "no_cdn": 0})
     others_count = {"cdn": 0, "no_cdn": 0}
     others = 0
