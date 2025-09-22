@@ -165,7 +165,7 @@ def create_dependency_heatmap(matrix, unmapped_dependencies, country_labels,
     
     return normalized_matrix
 
-def create_dependency_chord(matrix, country_labels, save_path=None):
+def create_dependency_chord(matrix, unmapped_dependencies, country_labels, save_path=None):
     """
     Create a dependency chord diagram visualization.
     
@@ -176,8 +176,14 @@ def create_dependency_chord(matrix, country_labels, save_path=None):
     """
     
     # Create a copy to avoid modifying the original matrix
-    matrix_processed = matrix.copy()
-    
+    # Concatenate the unmapped dependencies as a last column
+    matrix = np.concatenate([matrix, unmapped_dependencies[:, np.newaxis]], axis=1)
+    # Normalize each row to sum to 100%
+    row_sums = matrix.sum(axis=1, keepdims=True)
+    # Avoid division by zero
+    row_sums[row_sums == 0] = 1
+    matrix_processed = ((matrix / row_sums) * 100)[:, :-1]  # Exclude last column (unmapped) for chord diagram
+
     # Make matrix symmetric by adding small values to zero cells in transpose positions
     for n in range(matrix_processed.shape[0]):
         for m in range(matrix_processed.shape[1]):
@@ -187,8 +193,8 @@ def create_dependency_chord(matrix, country_labels, save_path=None):
     
     # Calculate column sums and apply cubic root transformation for gentle scaling
     col_sums = np.sum(matrix_processed, axis=0)
-    col_sums_cbrt = np.cbrt(col_sums + 1e-10)  # Add tiny value for numerical stability
-    
+    col_sums_cbrt = np.sqrt(col_sums + 1e-10)  # Add tiny value for numerical stability
+
     # Apply scaling
     matrix_scaled = matrix_processed * col_sums_cbrt[:, np.newaxis]
     
@@ -393,7 +399,8 @@ def main():
     if not args.heatmap_only:
         print("\n=== Creating Dependency Chord Diagram ===")
         create_dependency_chord(
-            matrix, 
+            matrix,
+            unmapped_dependencies,
             country_labels,
             save_path=chord_path
         )
