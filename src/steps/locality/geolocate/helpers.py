@@ -1,12 +1,15 @@
 import psycopg2
 import ipaddress
+from os import getenv
+from dotenv import load_dotenv
 
 # Database connection
-DB_NAME = "geo_db"
-DB_USER = "postgres"
-DB_PASS = "postgres"
-DB_HOST = "localhost"
-DB_PORT = "5432"
+load_dotenv()
+DB_NAME = getenv("POSTGRES_DB") or "geo_db"
+DB_USER = getenv("POSTGRES_USER") or "postgres"
+DB_PASS = getenv("POSTGRES_PASSWORD") or "postgres"
+DB_HOST = getenv("POSTGRES_HOST") or "localhost"
+DB_PORT = getenv("POSTGRES_PORT") or "5432"
 
 
 def ip_to_int(ip):
