@@ -8,7 +8,8 @@ from collections import defaultdict
 
 from src.steps.analysis.helpers import (
     get_all_country_codes, convert_codes_to_names, sort_countries_by_continent,
-    get_continent_mapping, process_experiment_cdn, normalize_matrix, find_experiment_files
+    get_continent_mapping, process_experiment_cdn, normalize_matrix, find_experiment_files,
+    load_classified_websites, get_class_mapping
 )
 
 # ===================
@@ -24,6 +25,7 @@ def parse_arguments():
     parser.add_argument("--save", action="store_true", help="Save the figures")
     parser.add_argument("--include-no-cdn", action="store_true", help="Include non-CDN providers in analysis (default: only CDN providers)")
     parser.add_argument("--min-threshold", type=float, default=3.0, help="Minimum percentage threshold for keeping providers separate (default: 3.0)")
+    parser.add_argument("--class", type=int, choices=[1, 2, 3, 4], help="Filter analysis by website class (1=Critical Services, 2=News, 3=General Digital Services, 4=Entertainment)")
     return parser.parse_args()
 
 # ===================
@@ -197,6 +199,7 @@ def create_cdn_provider_heatmap(matrix, country_labels, provider_labels, provide
         yticklabels=country_labels,
         annot=True,
         fmt='.1f',
+        annot_kws={'size': 12},  # Increase cell font size
         cmap='plasma',  # Different colormap for provider analysis
         vmin=0,
         vmax=100,
@@ -204,13 +207,17 @@ def create_cdn_provider_heatmap(matrix, country_labels, provider_labels, provide
         square=False,
         linewidths=0.5,
         linecolor='white',
-        mask=mask_zeros,  # This makes zero values transparent
+        #mask=mask_zeros,  # This makes zero values transparent
         ax=ax
     )
     
+    # Increase colorbar label font size
+    cbar = ax.collections[0].colorbar
+    cbar.set_label('Provider Usage Percentage (%)', fontsize=15)
+    
     # Style the plot
-    ax.tick_params(axis='x', which='major', labelsize=9, top=True, bottom=False, labeltop=True, labelbottom=False)
-    ax.tick_params(axis='y', which='major', labelsize=9)
+    ax.tick_params(axis='x', which='major', labelsize=14, top=True, bottom=False, labeltop=True, labelbottom=False)
+    ax.tick_params(axis='y', which='major', labelsize=14)
     
     # Rotate the x-axis labels for better readability
     plt.setp(ax.get_xticklabels(), rotation=45, ha='left')
@@ -228,11 +235,11 @@ def create_cdn_provider_heatmap(matrix, country_labels, provider_labels, provide
             label.set_color('red')
     
     # Set labels
-    ax.set_xlabel('CDN/Content Providers')
-    ax.set_ylabel('Countries')
+    ax.set_xlabel('CDN Providers', fontsize=15)
+    ax.set_ylabel('Countries', fontsize=15)
     
     # Add title
-    ax.set_title(title, fontsize=14, fontweight='bold', pad=20)
+    #ax.set_title(title, fontsize=16, fontweight='bold', pad=20)
     
     # Add legend for provider types
     from matplotlib.patches import Patch
@@ -247,7 +254,7 @@ def create_cdn_provider_heatmap(matrix, country_labels, provider_labels, provide
     if any(provider_types.get(p) == "aggregated" for p in provider_labels):
         legend_elements.append(Patch(facecolor='purple', label='Aggregated (Others)'))
     
-    ax.legend(handles=legend_elements, loc='upper left', bbox_to_anchor=(1.02, 1))
+    #ax.legend(handles=legend_elements, loc='upper left', bbox_to_anchor=(1.02, 1))
     
     # Adjust layout
     plt.tight_layout()
@@ -262,6 +269,102 @@ def create_cdn_provider_heatmap(matrix, country_labels, provider_labels, provide
     
     return normalized_matrix
 
+def create_average_dependency_barplot(matrix, provider_labels, provider_types, 
+                                    title="Average CDN Provider Dependency", save_path=None):
+    """
+    Create a bar plot showing average dependency percentage for each CDN provider.
+    
+    Args:
+        matrix: n x m matrix of dependencies (countries x providers) 
+        provider_labels: list of provider names
+        provider_types: dict mapping provider to type
+        title: plot title
+        save_path: path to save the figure (optional)
+    """
+    
+    # Calculate average percentage for each provider (column-wise mean)
+    avg_percentages = np.mean(matrix, axis=0)
+    
+    # Filter out "Others" or "Unknown" columns if they exist
+    filtered_data = []
+    filtered_labels = []
+    filtered_types = []
+
+    others_data = []
+    others_label = []
+    others_type = []
+    
+    for i, (label, avg_pct) in enumerate(zip(provider_labels, avg_percentages)):
+        if label.lower() == 'others':
+            others_data.append(avg_pct)
+            others_label.append(label)
+            others_type.append(provider_types.get(label, 'unknown'))
+
+        elif label.lower() not in ['unknown']:
+            filtered_data.append(avg_pct)
+            filtered_labels.append(label)
+            filtered_types.append(provider_types.get(label, 'unknown'))
+    
+    # Sort by average percentage (descending)
+    sorted_data = sorted(zip(filtered_data, filtered_labels, filtered_types), reverse=True)
+    sorted_percentages, sorted_labels, sorted_types = zip(*sorted_data)
+
+    sorted_percentages = sorted_percentages + tuple(others_data)
+    sorted_labels = sorted_labels + tuple(others_label)
+    sorted_types = sorted_types + tuple(others_type)
+
+    # Create the plot
+    plt.figure(figsize=(max(12, len(sorted_labels) * 0.8), 8))
+    
+    # Create color map based on provider types
+    colors = []
+    for ptype in sorted_types:
+        if ptype == "cdn":
+            colors.append('#1f77b4')  # blue
+        elif ptype == "no_cdn":
+            colors.append('#d62728')  # red
+        else:
+            colors.append('#ff7f0e')  # orange
+    
+    bars = plt.bar(range(len(sorted_labels)), sorted_percentages, color=colors)
+    
+    # Customize the plot
+    plt.xlabel('CDN/Content Providers', fontsize=14)
+    plt.ylabel('Average Dependency Percentage (%)', fontsize=14)
+    #plt.title(title, fontsize=16, fontweight='bold')
+    plt.ylim(0, 100)
+    
+    # Set x-axis labels
+    plt.xticks(range(len(sorted_labels)), sorted_labels, rotation=45, ha='right', fontsize=12)
+    plt.yticks(fontsize=12)
+    
+    # Add percentage labels on top of bars
+    for bar, pct in zip(bars, sorted_percentages):
+        plt.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 1, 
+                f'{pct:.1f}%', ha='center', va='bottom', fontsize=10)
+    
+    # Add legend if we have different provider types
+    unique_types = list(set(sorted_types))
+    if len(unique_types) > 1:
+        from matplotlib.patches import Patch
+        legend_elements = []
+        if 'cdn' in unique_types:
+            legend_elements.append(Patch(facecolor='#1f77b4', label='CDN Providers'))
+        if 'no_cdn' in unique_types:
+            legend_elements.append(Patch(facecolor='#d62728', label='Non-CDN Providers'))
+        #plt.legend(handles=legend_elements, loc='upper right')
+    
+    plt.tight_layout()
+    
+    # Save if path provided
+    if save_path:
+        plt.savefig(save_path, dpi=300, bbox_inches='tight')
+        print(f"Average dependency bar plot saved to: {save_path}")
+    
+    plt.show()
+    
+    return sorted_percentages, sorted_labels
+
 # ===================
 # Main Function
 # ===================
@@ -270,6 +373,33 @@ def main():
     Main function that processes CDN provider data and creates dependency heatmap
     """
     args = parse_arguments()
+    
+    # Load classified websites data if class filtering is requested
+    domain_to_class = None
+    class_filter = None
+    
+    if getattr(args, 'class', None) is not None:
+        print(f"Loading classified websites data for class filtering...")
+        try:
+            domain_to_class = load_classified_websites("classified_websites.json")
+            class_mapping = get_class_mapping()
+            # Find the class name corresponding to the numerical class
+            class_names = {v: k for k, v in class_mapping.items()}
+            class_filter = class_names.get(getattr(args, 'class'))
+            
+            if class_filter:
+                print(f"Filtering to class {getattr(args, 'class')}: {class_filter}")
+                print(f"Loaded {len(domain_to_class)} classified domains")
+            else:
+                print(f"Warning: Invalid class number {getattr(args, 'class')}")
+                return
+                
+        except FileNotFoundError:
+            print("Error: classified_websites.json not found. Please ensure the file exists in the current directory.")
+            return
+        except Exception as e:
+            print(f"Error loading classified websites: {e}")
+            return
     
     # Validate arguments
     if args.all_countries:
@@ -316,7 +446,7 @@ def main():
 
             # Process this experiment to get provider counts
             provider_counts = defaultdict(lambda: {"cdn": 0, "no_cdn": 0})
-            unknown_count = process_experiment_cdn(cdn_data, locedge_data, provider_data, provider_counts)
+            unknown_count = process_experiment_cdn(cdn_data, locedge_data, provider_data, provider_counts, class_filter, domain_to_class)
             total_unknown += unknown_count
             total_experiments += 1
             
@@ -382,19 +512,31 @@ def main():
         if args.vpn:
             title += f" (VPN: {args.vpn})"
     
+    # Add class information to title
+    if class_filter:
+        class_names = {
+            "1. Critical & Social Services": "Critical Services",
+            "4. Media & News": "News", 
+            "3. Commerce, Retail & Industry": "General Digital Services",
+            "5. Entertainment & Social Media": "Entertainment"
+        }
+        short_name = class_names.get(class_filter, class_filter)
+        title += f" - Class {getattr(args, 'class')}: {short_name}"
+    
     # Generate output path if saving
     heatmap_path = None
     if args.save:
+        vpn_suffix = f"_vpn_{args.vpn}" if args.vpn else ""
+        class_suffix = f"_class_{getattr(args, 'class')}" if class_filter else ""
+        
         if args.all_countries:
             output_dir = Path("results")
             output_dir.mkdir(parents=True, exist_ok=True)
-            vpn_suffix = f"_vpn_{args.vpn}" if args.vpn else ""
-            heatmap_path = output_dir / f"global_cdn_provider_heatmap{vpn_suffix}.png"
+            heatmap_path = output_dir / f"global_cdn_provider_heatmap{vpn_suffix}{class_suffix}.png"
         else:
             output_dir = Path(f"results/{args.code}/results/locality")
             output_dir.mkdir(parents=True, exist_ok=True)
-            vpn_suffix = f"_vpn_{args.vpn}" if args.vpn else ""
-            heatmap_path = output_dir / f"cdn_provider_heatmap{vpn_suffix}.png"
+            heatmap_path = output_dir / f"cdn_provider_heatmap{vpn_suffix}{class_suffix}.png"
     
     # Create CDN provider heatmap
     print("\n=== Creating CDN Provider Heatmap ===")
@@ -405,6 +547,36 @@ def main():
         provider_types,
         title=title,
         save_path=heatmap_path
+    )
+    
+    # Create average dependency bar plot
+    print("\n=== Creating Average Dependency Bar Plot ===")
+    bar_title = "Average CDN Provider Dependency Across Countries"
+    if args.vpn:
+        bar_title += f" (VPN: {args.vpn})"
+    if class_filter:
+        class_names = {
+            "1. Critical & Social Services": "Critical Services",
+            "4. Media & News": "News", 
+            "3. Commerce, Retail & Industry": "General Digital Services",
+            "5. Entertainment & Social Media": "Entertainment"
+        }
+        short_name = class_names.get(class_filter, class_filter)
+        bar_title += f" - Class {getattr(args, 'class')}: {short_name}"
+    
+    bar_path = None
+    if args.save:
+        if args.all_countries:
+            bar_path = output_dir / f"global_cdn_average_dependency{vpn_suffix}{class_suffix}.png"
+        else:
+            bar_path = output_dir / f"cdn_average_dependency{vpn_suffix}{class_suffix}.png"
+    
+    avg_percentages, sorted_labels = create_average_dependency_barplot(
+        normalized_matrix,
+        provider_labels,
+        provider_types,
+        title=bar_title,
+        save_path=bar_path
     )
     
     # Print comprehensive statistics

@@ -45,15 +45,22 @@ npm install
 
 ### 3. Environment Configuration
 
-Create a `.env` file in the project root with your API keys:
+Create a `.env` file in the project root with your configuration:
 
-```sh
+````sh
 # OpenAI API for website classification
 OPENAI_API_KEY=your_openai_api_key_here
-RIPE_ATLAS_API_KEY=your_key
-RIPE_ATLAS_BILL_TO_EMAIL=your_email
-# Add other environment variables as needed
-```
+
+# RIPE Atlas API for network measurements
+RIPE_ATLAS_API_KEY=your_ripe_atlas_api_key_here
+RIPE_ATLAS_BILL_TO_EMAIL=your_email@example.com
+
+# PostgreSQL Database Configuration (for geolocation features)
+POSTGRES_HOST=localhost
+POSTGRES_PORT=5432
+POSTGRES_DB=internet_dependency
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=your_password
 
 ### 4. Verify Installation
 
@@ -61,7 +68,7 @@ Run the dependency verification script to ensure everything is installed correct
 
 ```sh
 python verify_dependencies.py
-```
+````
 
 This script will check:
 
