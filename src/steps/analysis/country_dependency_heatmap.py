@@ -9,7 +9,8 @@ from collections import defaultdict
 
 from src.steps.analysis.helpers import (
     get_all_country_codes, convert_codes_to_names, sort_countries_by_continent,
-    get_continent_mapping, process_experiment_country, normalize_matrix, find_experiment_files
+    get_continent_mapping, process_experiment_country, normalize_matrix, find_experiment_files,
+    load_classified_websites, get_class_mapping
 )
 
 # ===================
@@ -25,6 +26,7 @@ def parse_arguments():
     parser.add_argument("--save", action="store_true", help="Save the figures")
     parser.add_argument("--heatmap-only", action="store_true", help="Generate only heatmap (skip chord diagram)")
     parser.add_argument("--chord-only", action="store_true", help="Generate only chord diagram (skip heatmap)")
+    parser.add_argument("--class", type=int, choices=[1, 2, 3, 4], help="Filter analysis by website class (1=Critical Services, 2=News, 3=General Digital Services, 4=Entertainment)")
     return parser.parse_args()
 
 # ===================
@@ -213,6 +215,7 @@ def create_dependency_chord(matrix, unmapped_dependencies, country_labels, save_
     
     return matrix_scaled
 
+
 def create_summary_plots(normalized_matrix, country_labels):
     """
     Create additional summary visualizations.
@@ -246,6 +249,151 @@ def create_summary_plots(normalized_matrix, country_labels):
     plt.tight_layout()
     plt.show()
 
+def create_average_dependency_barplot(matrix, unmapped_dependencies, country_labels, 
+                                    title="Average Country Dependency", save_path=None):
+    """
+    Create a bar plot showing average dependency percentage for each country.
+    
+    Args:
+        matrix: n x n matrix of dependencies between countries (absolute counts)
+        unmapped_dependencies: array of unmapped dependencies (absolute counts)
+        country_labels: list of country names
+        title: plot title
+        save_path: path to save the figure (optional)
+    """
+    
+    # Calculate total dependencies for each target country (column sums)
+    country_totals = np.sum(matrix, axis=0)  # Sum dependencies TO each country
+    unmapped_total = np.sum(unmapped_dependencies)  # Total unmapped dependencies
+    
+    # Calculate global total for percentage calculation
+    total_global_dependencies = np.sum(country_totals) + unmapped_total
+    
+    # Calculate percentages
+    country_percentages = country_totals / total_global_dependencies * 100
+    unmapped_percentage = unmapped_total / total_global_dependencies * 100
+    
+    # Combine data for plotting
+    all_labels = country_labels + ['Unmapped']
+    all_percentages = np.concatenate([country_percentages, [unmapped_percentage]])
+    all_totals = np.concatenate([country_totals, [unmapped_total]])
+    
+    # Filter out zero values
+    non_zero_mask = all_totals > 0
+    filtered_labels = [label for i, label in enumerate(all_labels) if non_zero_mask[i]]
+    filtered_percentages = all_percentages[non_zero_mask]
+    filtered_totals = all_totals[non_zero_mask]
+    
+    # Sort by percentage (descending), but keep Unmapped at the end if present
+    if 'Unmapped' in filtered_labels and unmapped_percentage > 0:
+        unmapped_idx = filtered_labels.index('Unmapped')
+        unmapped_pct = filtered_percentages[unmapped_idx]
+        unmapped_total_val = filtered_totals[unmapped_idx]
+        
+        # Remove unmapped from lists temporarily
+        temp_labels = [label for i, label in enumerate(filtered_labels) if i != unmapped_idx]
+        temp_percentages = [pct for i, pct in enumerate(filtered_percentages) if i != unmapped_idx]
+        temp_totals = [total for i, total in enumerate(filtered_totals) if i != unmapped_idx]
+        
+        # Sort the rest
+        sorted_data = sorted(zip(temp_percentages, temp_labels, temp_totals), reverse=True)
+        if sorted_data:
+            sorted_percentages, sorted_labels, sorted_totals = zip(*sorted_data)
+            # Add unmapped at the end
+            sorted_percentages = list(sorted_percentages) + [unmapped_pct]
+            sorted_labels = list(sorted_labels) + ['Unmapped']
+            sorted_totals = list(sorted_totals) + [unmapped_total_val]
+        else:
+            sorted_percentages = [unmapped_pct]
+            sorted_labels = ['Unmapped']
+            sorted_totals = [unmapped_total_val]
+    else:
+        # No unmapped data, just sort normally
+        sorted_data = sorted(zip(filtered_percentages, filtered_labels, filtered_totals), reverse=True)
+        if sorted_data:
+            sorted_percentages, sorted_labels, sorted_totals = zip(*sorted_data)
+        else:
+            sorted_percentages, sorted_labels, sorted_totals = [], [], []
+
+    sorted_percentages_grouped = []
+    sorted_labels_grouped = []
+    sorted_totals_grouped = []
+    others_percentage = 0
+    others_label = "Others"
+    others_total = 0
+    for (perc, label, total) in zip(sorted_percentages, sorted_labels, sorted_totals):
+        if perc < 3.0 and label != 'Unmapped':
+            others_percentage += perc
+            others_total += total
+            continue
+        # Group small percentages into 'Others' if needed (optional)
+        sorted_percentages_grouped.append(perc)
+        sorted_labels_grouped.append(label)
+        sorted_totals_grouped.append(total)
+    
+    if others_percentage > 0:
+        if sorted_labels[-1] == 'Unmapped':
+            # Insert 'Others' before 'Unmapped'
+            sorted_percentages_grouped.insert(-1, others_percentage)
+            sorted_labels_grouped.insert(-1, others_label)
+            sorted_totals_grouped.insert(-1, others_total)
+        else:
+            sorted_percentages_grouped.append(np.average(others_percentage))
+            sorted_labels_grouped.append(others_label)
+            sorted_totals_grouped.append(others_total)
+
+    if not sorted_labels:
+        print("No data to plot")
+        return [], []
+    
+    # Create the plot
+    plt.figure(figsize=(max(12, len(sorted_labels_grouped) * 0.8), 5))
+    
+    # Create color map - different color for unmapped
+    colors = []
+    for label in sorted_labels_grouped:
+        if label == 'Unmapped':
+            colors.append("#ca5050")  # red for unmapped
+        elif label == 'Others':
+            colors.append('#ff7f0e')  # orange for others
+        else:
+            colors.append('#1f77b4')  # blue for countries
+
+    bars = plt.bar(range(len(sorted_labels_grouped)), sorted_totals_grouped, color=colors)
+
+    # Customize the plot
+    plt.ylabel('Amount of Websites', fontsize=18)
+    plt.ylim(0, max(sorted_totals_grouped) * 1.1)
+
+    # Set x-axis labels
+    plt.xticks(range(len(sorted_labels_grouped)), sorted_labels_grouped, rotation=45, ha='right', fontsize=15)
+    plt.yticks(fontsize=15)
+    
+    # Add percentage labels on top of bars
+    for bar, pct in zip(bars, sorted_percentages_grouped):
+        plt.text(bar.get_x() + bar.get_width()/2, bar.get_height() + max(sorted_totals_grouped) * 0.01,
+                f'{pct:.1f}%', ha='center', va='bottom', fontsize=13)
+    
+    # Add legend
+    from matplotlib.patches import Patch
+    legend_elements = [
+        Patch(facecolor='#1f77b4', label='Origins'),
+        Patch(facecolor='#ff7f0e', label='Grouped Origins'),
+        Patch(facecolor='#ca5050', label='Unmapped Origins')
+    ]
+    plt.legend(handles=legend_elements, loc='upper right')
+    
+    plt.tight_layout()
+    
+    # Save if path provided
+    if save_path:
+        plt.savefig(save_path, dpi=300, bbox_inches='tight')
+        print(f"Average dependency bar plot saved to: {save_path}")
+    
+    plt.show()
+
+    return sorted_percentages_grouped, sorted_labels_grouped
+
 # ===================
 # Main Function
 # ===================
@@ -254,6 +402,33 @@ def main():
     Main function that processes locality data and creates country dependency visualizations
     """
     args = parse_arguments()
+    
+    # Load classified websites data if class filtering is requested
+    domain_to_class = None
+    class_filter = None
+    
+    if getattr(args, 'class', None) is not None:
+        print(f"Loading classified websites data for class filtering...")
+        try:
+            domain_to_class = load_classified_websites("classified_websites.json")
+            class_mapping = get_class_mapping()
+            # Find the class name corresponding to the numerical class
+            class_names = {v: k for k, v in class_mapping.items()}
+            class_filter = class_names.get(getattr(args, 'class'))
+            
+            if class_filter:
+                print(f"Filtering to class {getattr(args, 'class')}: {class_filter}")
+                print(f"Loaded {len(domain_to_class)} classified domains")
+            else:
+                print(f"Warning: Invalid class number {getattr(args, 'class')}")
+                return
+                
+        except FileNotFoundError:
+            print("Error: classified_websites.json not found. Please ensure the file exists in the current directory.")
+            return
+        except Exception as e:
+            print(f"Error loading classified websites: {e}")
+            return
     
     # Validate arguments
     if args.all_countries:
@@ -298,7 +473,7 @@ def main():
 
             # Process this experiment to get dependency counts
             dependency_counts = defaultdict(int)
-            unknown_count = process_experiment_country(location_data, locedge_data, dependency_counts)
+            unknown_count = process_experiment_country(location_data, locedge_data, dependency_counts, False, class_filter, domain_to_class)
             total_unknown += unknown_count
             total_experiments += 1
             
@@ -358,30 +533,39 @@ def main():
     # Create title
     if args.all_countries:
         title = "Global Country Dependency Analysis"
+        if class_filter:
+            title += f" - Class {getattr(args, 'class')}: {class_filter}"
         if args.vpn:
             title += f" (VPN: {args.vpn})"
     else:
         title = f"Country Dependency Analysis - {args.country}"
+        if class_filter:
+            title += f" - Class {getattr(args, 'class')}: {class_filter}"
         if args.vpn:
             title += f" (VPN: {args.vpn})"
     
     # Generate output paths if saving
     heatmap_path = None
     chord_path = None
+    barplot_path = None
     
     if args.save:
         if args.all_countries:
             output_dir = Path("results")
             output_dir.mkdir(parents=True, exist_ok=True)
+            class_suffix = f"_class_{getattr(args, 'class')}" if class_filter else ""
             vpn_suffix = f"_vpn_{args.vpn}" if args.vpn else ""
-            heatmap_path = output_dir / f"global_dependency_heatmap{vpn_suffix}.png"
-            chord_path = output_dir / f"global_dependency_chord{vpn_suffix}.svg"
+            heatmap_path = output_dir / f"global_dependency_heatmap{class_suffix}{vpn_suffix}.png"
+            chord_path = output_dir / f"global_dependency_chord{class_suffix}{vpn_suffix}.svg"
+            barplot_path = output_dir / f"global_dependency_barplot{class_suffix}{vpn_suffix}.png"
         else:
             output_dir = Path(f"results/{args.code}/results/locality")
             output_dir.mkdir(parents=True, exist_ok=True)
+            class_suffix = f"_class_{getattr(args, 'class')}" if class_filter else ""
             vpn_suffix = f"_vpn_{args.vpn}" if args.vpn else ""
-            heatmap_path = output_dir / f"dependency_heatmap{vpn_suffix}.png"
-            chord_path = output_dir / f"dependency_chord{vpn_suffix}.svg"
+            heatmap_path = output_dir / f"dependency_heatmap{class_suffix}{vpn_suffix}.png"
+            chord_path = output_dir / f"dependency_chord{class_suffix}{vpn_suffix}.svg"
+            barplot_path = output_dir / f"dependency_barplot{class_suffix}{vpn_suffix}.png"
     
     # Create visualizations based on arguments
     normalized_matrix = None
@@ -404,6 +588,17 @@ def main():
             country_labels,
             save_path=chord_path
         )
+    
+    # Create average dependency bar plot
+    print("\n=== Creating Average Dependency Bar Plot ===")
+    barplot_save_path = barplot_path if args.save else None
+    avg_percentages, sorted_labels = create_average_dependency_barplot(
+        matrix,
+        unmapped_dependencies,
+        country_labels,
+        title=title + " - Average Dependencies",
+        save_path=barplot_save_path
+    )
     
     # Create summary plots only if flag is set
     if args.show_summary and normalized_matrix is not None:

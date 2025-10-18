@@ -227,11 +227,81 @@ class Chord:
         self.plot_area = self.get_plot_area()
     
     def get_plot_area(self):
-        x = -self.radius-self.padding
+        x = (-self.radius-self.padding) * 1.2
         y = x
-        w = 2.0*(self.radius+self.padding)
+        w = 2.4*(self.radius+self.padding) 
         h = w
         return {"x":x, "y":y, "w":w, "h":h}
+    
+    def draw_legend(self, fig):
+        """Draw a legend in the top left showing continents and their colors"""
+        if not self.continent_colors:
+            return
+        
+        # Legend positioning (top left corner) - fix positioning
+        legend_x = self.plot_area["x"] + 20
+        legend_y = self.plot_area["y"] + 10  # Changed to place at top
+        
+        # Legend styling - shrink by 20%
+        rect_width = int(12 * 0.8)  # 12 → 9.6 → 10
+        rect_height = int(10 * 0.8)  # 10 → 8
+        text_offset = int(20 * 0.8)  # 20 → 16
+        line_height = int(16 * 0.8)  # 16 → 12.8 → 13
+        
+        # Get unique continents that are actually used
+        used_continents = set()
+        for label in self.labels:
+            continent = self.country_to_continent.get(label, "Unknown")
+            if continent in self.continent_colors:
+                used_continents.add(continent)
+        
+        # Legend background - shrink by 20%
+        legend_width = max(int(140 * 0.8), max(len(continent) for continent in used_continents) * int(6 * 0.8) + int(35 * 0.8)) if used_continents else int(140 * 0.8)
+        legend_height = len(used_continents) * line_height + int(25 * 0.8) if used_continents else int(40 * 0.8)
+        
+        # Semi-transparent background for legend
+        fig.append(dw.Rectangle(
+            legend_x - 5, legend_y - 5, 
+            legend_width, legend_height,
+            fill="white", fill_opacity=0.9, 
+            stroke="#cccccc", stroke_width=1
+        ))
+        
+        # Legend title - shrink font by 20%
+        fig.append(dw.Text(
+            "Continents", 
+            font_size=int(self.font_size * 0.8), 
+            x=legend_x + 5, 
+            y=legend_y + 5,  # Closer to top
+            text_anchor="start", 
+            dominant_baseline="middle",
+            font_family=self.font_family,
+            font_weight="bold"
+        ))
+        
+        # Draw legend items for used continents only
+        for i, continent in enumerate(sorted(used_continents)):
+            y_pos = legend_y + int(20 * 0.8) + i * line_height  # Shrink start position by 20%
+            
+            # Color rectangle - smaller size
+            fig.append(dw.Circle(
+                legend_x + 5 + rect_width/2, y_pos, 
+                rect_width/2,
+                fill=self.continent_colors[continent], 
+                stroke="#333", stroke_width=0.5
+            ))
+            
+            # Continent label - shrink font by 20%
+            display_label = continent if len(continent) <= 15 else continent[:12] + "..."
+            fig.append(dw.Text(
+                display_label, 
+                font_size=int((self.font_size - 2) * 0.8), 
+                x=legend_x + 5 + text_offset, 
+                y=y_pos,
+                text_anchor="start", 
+                dominant_baseline="middle",
+                font_family=self.font_family
+            ))
         
     def show(self):
         fig = dw.Drawing(self.plot_area["w"], self.plot_area["h"], origin=(self.plot_area["x"], self.plot_area["y"]))
@@ -280,7 +350,12 @@ class Chord:
                 anchor = "end"
             else:
                 anchor = "start"
-            fig.append(dw.Text(v, font_size=self.font_size, x=r, y=0, text_anchor=anchor, dominant_baseline='middle', transform=f"rotate(%f)"%(-angle), font_family=self.font_family))
+            label = v[:10] + "." if len(v) > 10 else v
+            fig.append(dw.Text(label, font_size=self.font_size, x=r, y=0, text_anchor=anchor, dominant_baseline='middle', transform=f"rotate(%f)"%(-angle), font_family=self.font_family))
+        
+        # Add legend in upper left
+        self.draw_legend(fig)
+        
         return fig
     
     def get_ideogram_ends(self):

@@ -186,26 +186,27 @@ def create_cdn_provider_heatmap(matrix, country_labels, provider_labels, provide
     normalized_matrix = normalize_matrix(matrix)
     
     # Set up the plot
-    figsize = (max(16, len(provider_labels) * 0.8), max(12, len(country_labels) * 0.6))
+    figsize = (max(14, len(provider_labels) * 0.8), min(10, len(country_labels) * 0.6))
     fig, ax = plt.subplots(1, 1, figsize=figsize)
     
     # Create a mask for zero values to make them transparent
     mask_zeros = normalized_matrix == 0
     
     # Create the heatmap
+    mapped_labels = [str.capitalize(label.lower()[0]) + label.lower()[1: 10] + ("." if len(label) > 10 else '') for label in provider_labels]
     sns.heatmap(
         normalized_matrix,
-        xticklabels=provider_labels,
+        xticklabels=mapped_labels,
         yticklabels=country_labels,
         annot=True,
         fmt='.1f',
         annot_kws={'size': 12},  # Increase cell font size
-        cmap='plasma',  # Different colormap for provider analysis
+        cmap='viridis',  # Different colormap for provider analysis
         vmin=0,
         vmax=100,
-        cbar_kws={'label': 'Provider Usage Percentage (%)'},
+        cbar_kws={'label': 'CDN Provider Concentration (%)'},
         square=False,
-        linewidths=0.5,
+        linewidths=1,
         linecolor='white',
         #mask=mask_zeros,  # This makes zero values transparent
         ax=ax
@@ -213,7 +214,7 @@ def create_cdn_provider_heatmap(matrix, country_labels, provider_labels, provide
     
     # Increase colorbar label font size
     cbar = ax.collections[0].colorbar
-    cbar.set_label('Provider Usage Percentage (%)', fontsize=15)
+    cbar.set_label('CDN Provider Concentration (%)', fontsize=15)
     
     # Style the plot
     ax.tick_params(axis='x', which='major', labelsize=14, top=True, bottom=False, labeltop=True, labelbottom=False)
@@ -275,7 +276,8 @@ def create_average_dependency_barplot(matrix, provider_labels, provider_types,
     Create a bar plot showing average dependency percentage for each CDN provider.
     
     Args:
-        matrix: n x m matrix of dependencies (countries x providers) 
+        matrix: n x m matrix of dependencies (countries x providers), with absolute counts
+        normalized_matrix: n x m matrix of dependencies (countries x providers), with percentages
         provider_labels: list of provider names
         provider_types: dict mapping provider to type
         title: plot title
@@ -283,38 +285,47 @@ def create_average_dependency_barplot(matrix, provider_labels, provider_types,
     """
     
     # Calculate average percentage for each provider (column-wise mean)
-    avg_percentages = np.mean(matrix, axis=0)
+    total_counts = np.sum(matrix, axis=0)
+    total_global_counts = np.sum(total_counts)
+
+    avg_percentages = total_counts / total_global_counts * 100
     
     # Filter out "Others" or "Unknown" columns if they exist
     filtered_data = []
     filtered_labels = []
     filtered_types = []
+    filtered_totals = []
 
     others_data = []
     others_label = []
     others_type = []
-    
-    for i, (label, avg_pct) in enumerate(zip(provider_labels, avg_percentages)):
+    others_total = []
+
+    for i, (label, avg_pct, total_count) in enumerate(zip(provider_labels, avg_percentages, total_counts)):
+        mapped_label = str.capitalize(label.lower()[0]) + label.lower()[1: 10] + ("." if len(label) > 10 else '')
         if label.lower() == 'others':
             others_data.append(avg_pct)
-            others_label.append(label)
+            others_label.append(mapped_label)
             others_type.append(provider_types.get(label, 'unknown'))
+            others_total.append(total_count)
 
         elif label.lower() not in ['unknown']:
             filtered_data.append(avg_pct)
-            filtered_labels.append(label)
+            filtered_labels.append(mapped_label)
             filtered_types.append(provider_types.get(label, 'unknown'))
+            filtered_totals.append(total_count)
     
     # Sort by average percentage (descending)
-    sorted_data = sorted(zip(filtered_data, filtered_labels, filtered_types), reverse=True)
-    sorted_percentages, sorted_labels, sorted_types = zip(*sorted_data)
+    sorted_data = sorted(zip(filtered_data, filtered_labels, filtered_types, filtered_totals), reverse=True)
+    sorted_percentages, sorted_labels, sorted_types, sorted_totals = zip(*sorted_data)
 
     sorted_percentages = sorted_percentages + tuple(others_data)
     sorted_labels = sorted_labels + tuple(others_label)
     sorted_types = sorted_types + tuple(others_type)
+    sorted_totals = sorted_totals + tuple(others_total)
 
     # Create the plot
-    plt.figure(figsize=(max(12, len(sorted_labels) * 0.8), 8))
+    plt.figure(figsize=(max(12, len(sorted_labels) * 0.8), 5))
     
     # Create color map based on provider types
     colors = []
@@ -326,33 +337,33 @@ def create_average_dependency_barplot(matrix, provider_labels, provider_types,
         else:
             colors.append('#ff7f0e')  # orange
     
-    bars = plt.bar(range(len(sorted_labels)), sorted_percentages, color=colors)
+    bars = plt.bar(range(len(sorted_labels)), sorted_totals, color=colors)
     
     # Customize the plot
-    plt.xlabel('CDN/Content Providers', fontsize=14)
-    plt.ylabel('Average Dependency Percentage (%)', fontsize=14)
+    #plt.xlabel('CDN Providers', fontsize=18)
+    plt.ylabel('Amount of Websites', fontsize=18)
     #plt.title(title, fontsize=16, fontweight='bold')
-    plt.ylim(0, 100)
-    
+    plt.ylim(0, max(sorted_totals) * 1.1)
+
     # Set x-axis labels
-    plt.xticks(range(len(sorted_labels)), sorted_labels, rotation=45, ha='right', fontsize=12)
-    plt.yticks(fontsize=12)
-    
+    plt.xticks(range(len(sorted_labels)), sorted_labels, rotation=45, ha='right', fontsize=15)
+    plt.yticks(fontsize=15)
+
     # Add percentage labels on top of bars
     for bar, pct in zip(bars, sorted_percentages):
         plt.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 1, 
-                f'{pct:.1f}%', ha='center', va='bottom', fontsize=10)
+                f'{pct:.1f}%', ha='center', va='bottom', fontsize=13)
     
     # Add legend if we have different provider types
     unique_types = list(set(sorted_types))
     if len(unique_types) > 1:
         from matplotlib.patches import Patch
-        legend_elements = []
+        legend_elements = [] if len(others_data) == 0 else [Patch(facecolor='#ff7f0e', label='Grouped CDN Providers')]
         if 'cdn' in unique_types:
             legend_elements.append(Patch(facecolor='#1f77b4', label='CDN Providers'))
         if 'no_cdn' in unique_types:
             legend_elements.append(Patch(facecolor='#d62728', label='Non-CDN Providers'))
-        #plt.legend(handles=legend_elements, loc='upper right')
+        plt.legend(handles=legend_elements, loc='upper right')
     
     plt.tight_layout()
     
@@ -572,7 +583,7 @@ def main():
             bar_path = output_dir / f"cdn_average_dependency{vpn_suffix}{class_suffix}.png"
     
     avg_percentages, sorted_labels = create_average_dependency_barplot(
-        normalized_matrix,
+        matrix,
         provider_labels,
         provider_types,
         title=bar_title,

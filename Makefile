@@ -36,17 +36,20 @@ analysis:
 		--country "$(COUNTRY)" \
 		--code "$(CODE)"
 
-analysis_global:
+analysis_global_country:
 	@echo "Running global dependency analysis..."
 	@PYTHONPATH=$(PYTHONPATH) $(PYTHON) src/steps/analysis/country_dependency_heatmap.py \
 		--all-countries \
-		--save
+		--save \
+		$(if $(CHORD_ONLY), --chord-only) \
+		$(if $(CLASS), --class="$(CLASS)")
 
-analysis_cdn:
+analysis_global_cdn:
 	@echo "Running global CDN provider analysis..."
 	@PYTHONPATH=$(PYTHONPATH) $(PYTHON) src/steps/analysis/cdn_dependency_heatmap.py \
 		--all-countries \
-		--save
+		--save \
+		$(if $(CLASS), --class="$(CLASS)")
  
 
 # =====================

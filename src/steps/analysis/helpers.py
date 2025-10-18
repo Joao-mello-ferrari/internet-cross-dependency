@@ -1,6 +1,7 @@
 import numpy as np
 from pathlib import Path
 import glob
+import json
 
 country_names = {
   "ag": "Antigua and Barbuda",
@@ -187,7 +188,43 @@ def get_all_country_codes(results_base_path):
     
     return sorted(country_codes)
 
-def process_experiment_country(location_data, locedge_data, dependency_counts, consider_anycast=False):
+def load_classified_websites(json_path):
+    """
+    Load classified websites from JSON file and create domain-to-class mapping.
+    
+    Args:
+        json_path: Path to the classified_websites.json file
+    
+    Returns:
+        dict mapping domains (without https://) to class names
+    """
+    with open(json_path, 'r') as f:
+        classified_data = json.load(f)
+    
+    # Create mapping from domain (without protocol) to class
+    domain_to_class = {}
+    for url, class_name in classified_data.items():
+        # Remove protocol and store domain
+        domain = url.replace('https://', '').replace('http://', '')
+        domain_to_class[domain] = class_name
+    
+    return domain_to_class
+
+def get_class_mapping():
+    """
+    Get mapping from class names to numerical IDs.
+    
+    Returns:
+        dict mapping class names to numbers (1-4)
+    """
+    return {
+        "Critical Services": 1,
+        "News": 2, 
+        "General Digital Services": 3,
+        "Entertainment": 4
+    }
+
+def process_experiment_country(location_data, locedge_data, dependency_counts, consider_anycast=False, class_filter=None, domain_to_class=None):
     """
     Process a single experiment to count dependencies between countries.
     
@@ -195,6 +232,8 @@ def process_experiment_country(location_data, locedge_data, dependency_counts, c
         location_data: dict mapping domains to their locations
         locedge_data: dict with additional location/edge data
         dependency_counts: nested dict to accumulate dependency counts
+        class_filter: optional class name to filter domains by
+        domain_to_class: optional dict mapping domains to their classes
     
     Returns:
         unknown_count: number of domains with unknown location
@@ -220,6 +259,12 @@ def process_experiment_country(location_data, locedge_data, dependency_counts, c
     # return unknown_count
 
     for domain, location in location_data.items():
+        # Apply class filter if provided
+        if class_filter is not None and domain_to_class is not None:
+            domain_class = domain_to_class.get(domain)
+            if domain_class != class_filter:
+                continue
+
         content_location = locedge_data.get(domain, {}).get("contentLocality")
 
         if location is None and content_location is None:
@@ -253,7 +298,7 @@ def process_experiment_country(location_data, locedge_data, dependency_counts, c
 
     return unknown_count
 
-def process_experiment_cdn(cdn_data, locedge_data, provider_data, provider_counts):
+def process_experiment_cdn(cdn_data, locedge_data, provider_data, provider_counts, class_filter=None, domain_to_class=None):
     """
     Process a single experiment to count dependencies on CDN providers.
     
@@ -262,12 +307,19 @@ def process_experiment_cdn(cdn_data, locedge_data, provider_data, provider_count
         locedge_data: dict with additional location/edge data
         provider_data: dict mapping domains to provider info from whois
         provider_counts: nested dict to accumulate provider counts
+        class_filter: optional class name to filter domains by
+        domain_to_class: optional dict mapping domains to their classes
     
     Returns:
         unknown_count: number of domains with unknown provider
     """
     unknown_count = 0
     for domain, cdn_string in cdn_data.items():
+        # Apply class filter if provided
+        if class_filter is not None and domain_to_class is not None:
+            domain_class = domain_to_class.get(domain)
+            if domain_class != class_filter:
+                continue
         by_whois_provider = provider_data.get(domain)
         cdn_providers = set(cdn_string.replace("'", "").split(", ")) if cdn_string else []
         no_cdn_providers = set(locedge_data.get(domain, {}).get("provider", []) + [by_whois_provider] if by_whois_provider is not None else [])
@@ -280,11 +332,15 @@ def process_experiment_cdn(cdn_data, locedge_data, provider_data, provider_count
             for provider in map(str.lower, cdn_providers):
                 if provider == "aws (not cdn)":
                     continue
+                if provider == "amazon aws":
+                    provider = "cloudfront"
                 provider_counts[provider]["cdn"] += 1
         else:
             for provider in map(str.lower, no_cdn_providers):
                 if provider == "aws (not cdn)":
                     continue
+                if provider == "amazon aws":
+                    provider = "cloudfront"
                 provider_counts[provider]["no_cdn"] += 1
 
     return unknown_count
