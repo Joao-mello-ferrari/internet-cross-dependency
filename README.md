@@ -2,6 +2,10 @@
 
 A comprehensive tool for analyzing internet infrastructure dependencies across countries, including latency measurements, CDN locality analysis, and website classification.
 
+<br>
+<img width="1424" height="780" alt="webapp" src="https://github.com/user-attachments/assets/2e2824f8-0e73-4539-ab86-504fa71ba7a3" />
+
+
 ---
 
 ## 📋 Prerequisites
