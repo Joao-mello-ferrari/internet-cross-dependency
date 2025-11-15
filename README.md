@@ -2,6 +2,8 @@
 
 A comprehensive tool for analyzing internet infrastructure dependencies across countries, including latency measurements, CDN locality analysis, and website classification.
 
+Check out our results from Crux List of 07/2025 at our [Drive](https://drive.google.com/drive/folders/1XCti55z7t4TFJ3iJGDPmy2GEcP1WEUQ2?usp=sharing). We also make availbale a platform to visualize those results: [internet-dependency-map.joaomellof.com](https://internet-dependency-map.joaomellof.com/) (Below there is a preview)
+
 <br>
 <img width="1424" height="780" alt="webapp" src="https://github.com/user-attachments/assets/2e2824f8-0e73-4539-ab86-504fa71ba7a3" />
 
