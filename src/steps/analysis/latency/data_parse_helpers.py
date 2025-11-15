@@ -30,8 +30,8 @@ def aggregate_ping_by_probes(domain_probes_v4=[], domain_probes_v6=[], require_b
     ipv4_err, ipv6_err = 0, 0
 
     for probe_v4, probe_v6 in zip_longest(domain_probes_v4, domain_probes_v6, fillvalue=[]):
-        valid_v4 = list(filter(lambda x: x not in (None, 0), probe_v4))
-        valid_v6 = list(filter(lambda x: x not in (None, 0), probe_v6))
+        valid_v4 = list(filter(lambda x: x not in (None, 0) and x < 450 and x > 0.5, probe_v4))
+        valid_v6 = list(filter(lambda x: x not in (None, 0) and x < 450 and x > 0.5, probe_v6))
 
         if require_both_procols_results and (not valid_v4 or not valid_v6):
             continue
@@ -63,7 +63,7 @@ def setup_paths(code):
     return base_path, latency_ipv4_input, latency_ipv6_input, fail_ipv6_input
 
 
-def get_rtts(ipv4_input, ipv6_input, fail_ipv6_input, require_both_procols_results=True):
+def get_rtts(ipv4_input, ipv6_input, fail_ipv6_input, require_both_procols_results=True, filter_mapper=None, filter_key=None):
   # --- Load and Process Latency Data ---
   with open(ipv4_input) as f_v4, open(ipv6_input) as f_v6:
     data_v4 = load(f_v4)
@@ -73,12 +73,19 @@ def get_rtts(ipv4_input, ipv6_input, fail_ipv6_input, require_both_procols_resul
     ipv4_by_domain, ipv6_by_domain = [], []
     ipv4_by_probe, ipv6_by_probe = [], []
 
+    should_really_require = require_both_procols_results and len(data_v6.keys()) > 0
     for domain in domains:
+        # We use this filter to only include domains served by a specific CDN or country
+        if filter_mapper and filter_key:
+            mapped_values = filter_mapper.get(domain, set())
+            if filter_key not in mapped_values:
+                continue
+
         res_v4_domain, res_v6_domain = aggregate_ping_by_domain(
-            data_v4.get(domain, []), data_v6.get(domain, []), require_both_procols_results
+            data_v4.get(domain, []), data_v6.get(domain, []), should_really_require
         )
         res_v4_probe, res_v6_probe, _, _ = aggregate_ping_by_probes(
-            data_v4.get(domain, []), data_v6.get(domain, []), require_both_procols_results
+            data_v4.get(domain, []), data_v6.get(domain, []), should_really_require
         )
 
         ipv4_by_domain += res_v4_domain

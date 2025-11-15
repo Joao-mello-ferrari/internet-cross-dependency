@@ -52,7 +52,65 @@ country_names = {
   "uy": "Uruguay",
   "vc": "Saint Vincent and the Grenadines",
   "ve": "Venezuela",
-  "za": "South Africa"
+  "za": "South Africa",
+  "pt": "Portugal",
+  "nl": "Netherlands", 
+  "ie": "Ireland",
+  "sg": "Singapore",
+  "my": "Malaysia",
+  "be": "Belgium",
+}
+
+country_codes = {
+    "Antigua and Barbuda": "ag",
+    "Argentina": "ar",
+    "Australia": "au",
+    "Barbados": "bb",
+    "Bolivia": "bo",
+    "Brazil": "br",
+    "Bahamas": "bs",
+    "Belize": "bz",
+    "Canada": "ca",
+    "Chile": "cl",
+    "Colombia": "co",
+    "Costa Rica": "cr",
+    "Cuba": "cu",
+    "Germany": "de",
+    "Dominica": "dm",
+    "Dominican Republic": "do",
+    "Ecuador": "ec",
+    "Egypt": "eg",
+    "Spain": "es",
+    "France": "fr",
+    "United Kingdom": "gb",
+    "Grenada": "gd",
+    "Guatemala": "gt",
+    "Guyana": "gy",
+    "Honduras": "hn",
+    "Haiti": "ht",
+    "Indonesia": "id",
+    "India": "in",
+    "Italy": "it",
+    "Jamaica": "jm",
+    "Japan": "jp",
+    "Saint Kitts and Nevis": "kn",
+    "Saint Lucia": "lc",
+    "Mexico": "mx",
+    "Nigeria": "ng",
+    "Nicaragua": "ni",
+    "New Zealand": "nz",
+    "Panama": "pa",
+    "Peru": "pe",
+    "Papua New Guinea": "pg",
+    "Paraguay": "py",
+    "Suriname": "sr",
+    "El Salvador": "sv",
+    "Trinidad and Tobago": "tt",
+    "United States": "us",
+    "Uruguay": "uy",
+    "Saint Vincent and the Grenadines": "vc",
+    "Venezuela": "ve",
+    "South Africa": "za"
 }
 
 def get_country_name(country_code):
@@ -224,7 +282,7 @@ def get_class_mapping():
         "Entertainment": 4
     }
 
-def process_experiment_country(location_data, locedge_data, dependency_counts, consider_anycast=False, class_filter=None, domain_to_class=None):
+def process_experiment_country(location_data, locedge_data, dependency_counts, consider_anycast=False, class_filter=None, domain_to_class=None, add_anycast_separately=False, cdn_data=None):
     """
     Process a single experiment to count dependencies between countries.
     
@@ -234,6 +292,7 @@ def process_experiment_country(location_data, locedge_data, dependency_counts, c
         dependency_counts: nested dict to accumulate dependency counts
         class_filter: optional class name to filter domains by
         domain_to_class: optional dict mapping domains to their classes
+        add_anycast_separately: whether to count anycast locations separately
     
     Returns:
         unknown_count: number of domains with unknown location
@@ -259,6 +318,14 @@ def process_experiment_country(location_data, locedge_data, dependency_counts, c
     # return unknown_count
 
     for domain, location in location_data.items():
+        if cdn_data is not None:
+            cdn_location = cdn_data.get(domain)
+            
+            # If we provide cdn_data, skip domains that are not served using a CDN
+            if cdn_location is None:
+                continue
+
+
         # Apply class filter if provided
         if class_filter is not None and domain_to_class is not None:
             domain_class = domain_to_class.get(domain)
@@ -288,7 +355,12 @@ def process_experiment_country(location_data, locedge_data, dependency_counts, c
         
         # Clean up location (remove anycast suffix if present)
         if "- anycast" in final_location:
-            unknown_count += 1
+            if add_anycast_separately:
+                if "anycast" not in dependency_counts:
+                    dependency_counts["anycast"] = 0
+                dependency_counts["anycast"] += 1
+            else:
+                unknown_count += 1
             continue
         
         # Count this dependency

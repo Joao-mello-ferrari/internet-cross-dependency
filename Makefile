@@ -42,6 +42,7 @@ analysis_global_country:
 		--all-countries \
 		--save \
 		$(if $(CHORD_ONLY), --chord-only) \
+		$(if $(SHOW_PLOT), --show-plot) \
 		$(if $(CLASS), --class="$(CLASS)")
 
 analysis_global_cdn:

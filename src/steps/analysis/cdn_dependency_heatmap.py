@@ -270,6 +270,169 @@ def create_cdn_provider_heatmap(matrix, country_labels, provider_labels, provide
     
     return normalized_matrix
 
+def get_stratified_cdn_data(country_codes, args, domain_to_class):
+    """
+    Process experiment data to get CDN provider counts stratified by content categories.
+    
+    Args:
+        country_codes: list of country codes to process
+        args: command line arguments
+        domain_to_class: mapping from domain to content class
+    
+    Returns:
+        provider_class_data: dict of {provider: {class_name: count}}
+    """
+    from src.steps.analysis.helpers import process_experiment_cdn
+    
+    # Get class mapping
+    class_mapping = get_class_mapping()
+    
+    # Initialize data structure: provider -> class -> count
+    provider_class_data = defaultdict(lambda: defaultdict(int))
+    
+    total_experiments = 0
+    
+    for country_code in country_codes:
+        print(f"\nProcessing country for stratification: {country_code}")
+        base_path = Path(f"results/{country_code}/locality")
+
+        # Find all experiment files for this country
+        file_types = ["locedge.json", "cdn.json", "provider.json"]
+        experiment_paths = find_experiment_files(base_path, file_types, args.vpn)
+
+        print(f"  Found {len(experiment_paths)} experiments")
+        
+        # Process each content class separately
+        for class_name, _ in class_mapping.items():
+            for locedge_path, cdn_path, provider_path in experiment_paths:
+                with open(locedge_path) as f:
+                    locedge_data = json.load(f)
+                with open(cdn_path) as f:
+                    cdn_data = json.load(f)
+                with open(provider_path) as f:
+                    provider_data = json.load(f)
+
+                # Process this experiment with class filter
+                provider_counts = defaultdict(lambda: {"cdn": 0, "no_cdn": 0})
+                unknown_count = process_experiment_cdn(
+                    cdn_data, locedge_data, provider_data, provider_counts, 
+                    class_name, domain_to_class
+                )
+                
+                # Add to stratified data (only CDN counts for now)
+                for provider, counts in provider_counts.items():
+                    provider_class_data[provider][class_name] += counts["cdn"]
+        
+        total_experiments += len(experiment_paths)
+    
+    print(f"Processed {total_experiments} total experiments for stratification")
+    return dict(provider_class_data)
+
+def create_stratified_dependency_barplot(provider_class_data, title="CDN Provider Dependencies by Content Category", save_path=None):
+    """
+    Create a stratified bar plot showing CDN provider dependencies broken down by content categories.
+    
+    Args:
+        provider_class_data: dict of {provider: {class_name: count}}
+        title: plot title
+        save_path: path to save the figure (optional)
+    """
+    # Get class mapping for consistent ordering
+    class_mapping = get_class_mapping()
+    class_names = list(class_mapping.keys())
+    
+    # Calculate totals for each provider
+    provider_totals = {}
+    for provider, class_counts in provider_class_data.items():
+        provider_totals[provider] = sum(class_counts.values())
+    
+    # Filter and sort providers by total count
+    min_threshold = sum(provider_totals.values()) * 0.03  # Minimum count to show separately
+    providers_to_show = {p: total for p, total in provider_totals.items() if total >= min_threshold}
+    providers_to_show = dict(sorted(providers_to_show.items(), key=lambda x: x[1], reverse=True))
+    
+    # Group small providers into "Others"
+    others_data = defaultdict(int)
+    for provider, class_counts in provider_class_data.items():
+        if provider not in providers_to_show:
+            for class_name, count in class_counts.items():
+                others_data[class_name] += count
+    
+    # Add "Others" if it has significant data
+    if sum(others_data.values()) > 0:
+        providers_to_show["Others"] = sum(others_data.values())
+        provider_class_data["Others"] = dict(others_data)
+    
+    if not providers_to_show:
+        print("No data to plot")
+        return [], []
+    
+    # Prepare data for grouped bar chart
+    providers = list(providers_to_show.keys())
+    n_providers = len(providers)
+    n_classes = len(class_names)
+    
+    # Set up the figure
+    fig, ax = plt.subplots(figsize=(max(12, n_providers * 1.2), 6))
+    
+    # Colors for each content category
+    class_colors = {
+        'Critical Services': '#d62728',     # Red
+        'News': '#ff7f0e',                  # Orange  
+        'General Digital Services': '#2ca02c',  # Green
+        'Entertainment': '#1f77b4'          # Blue
+    }
+    
+    # Bar width and positioning
+    bar_width = 0.8 / n_classes
+    x_positions = np.arange(n_providers)
+    
+    # Create bars for each class
+    for i, class_name in enumerate(class_names):
+        class_counts = []
+        for provider in providers:
+            count = provider_class_data.get(provider, {}).get(class_name, 0)
+            class_counts.append(count)
+        
+        # Position bars for this class
+        x_pos = x_positions + (i - n_classes/2 + 0.5) * bar_width
+        
+        bars = ax.bar(x_pos, class_counts, bar_width, 
+                     label=class_name, 
+                     color=class_colors.get(class_name, '#808080'),
+                     alpha=0.8)
+        
+        class_total = sum(class_counts)
+        
+        # Add value labels on bars
+        for bar, count in zip(bars, class_counts):
+            if count > 0 and class_total > 0:
+                percentage = (count / class_total) * 100
+                height = bar.get_height()
+                ax.text(bar.get_x() + bar.get_width()/2., height + max(class_counts) * 0.01,
+                       f'{percentage:.1f}%', ha='center', va='bottom', fontsize=8)
+    
+    # Customize the plot
+    ax.set_xlabel('CDN Providers', fontsize=14)
+    ax.set_ylabel('Number of Websites', fontsize=14)
+    #ax.set_title(title, fontsize=16, fontweight='bold')
+    ax.set_xticks(x_positions)
+    mapped_providers = [str.capitalize(provider.lower()[0]) + provider.lower()[1: 10] + ("." if len(provider) > 10 else '') for provider in providers]
+    ax.set_xticklabels(mapped_providers, rotation=45, ha='right')
+    ax.legend(title='Content Categories', loc='upper right')
+    
+    # Adjust layout
+    plt.tight_layout()
+    
+    # Save if path provided
+    if save_path:
+        plt.savefig(save_path, dpi=300, bbox_inches='tight')
+        print(f"Stratified dependency bar plot saved to: {save_path}")
+    
+    plt.show()
+    
+    return providers, class_names
+
 def create_average_dependency_barplot(matrix, provider_labels, provider_types, 
                                     title="Average CDN Provider Dependency", save_path=None):
     """
@@ -331,11 +494,11 @@ def create_average_dependency_barplot(matrix, provider_labels, provider_types,
     colors = []
     for ptype in sorted_types:
         if ptype == "cdn":
-            colors.append('#1f77b4')  # blue
+            colors.append("#690398")  # blue
         elif ptype == "no_cdn":
             colors.append('#d62728')  # red
         else:
-            colors.append('#ff7f0e')  # orange
+            colors.append("#E9E911")  # orange
     
     bars = plt.bar(range(len(sorted_labels)), sorted_totals, color=colors)
     
@@ -358,9 +521,9 @@ def create_average_dependency_barplot(matrix, provider_labels, provider_types,
     unique_types = list(set(sorted_types))
     if len(unique_types) > 1:
         from matplotlib.patches import Patch
-        legend_elements = [] if len(others_data) == 0 else [Patch(facecolor='#ff7f0e', label='Grouped CDN Providers')]
+        legend_elements = [] if len(others_data) == 0 else [Patch(facecolor='#E9E911', label='Grouped CDN Providers')]
         if 'cdn' in unique_types:
-            legend_elements.append(Patch(facecolor='#1f77b4', label='CDN Providers'))
+            legend_elements.append(Patch(facecolor='#690398', label='CDN Providers'))
         if 'no_cdn' in unique_types:
             legend_elements.append(Patch(facecolor='#d62728', label='Non-CDN Providers'))
         plt.legend(handles=legend_elements, loc='upper right')
@@ -582,13 +745,59 @@ def main():
         else:
             bar_path = output_dir / f"cdn_average_dependency{vpn_suffix}{class_suffix}.png"
     
-    avg_percentages, sorted_labels = create_average_dependency_barplot(
-        matrix,
-        provider_labels,
-        provider_types,
-        title=bar_title,
-        save_path=bar_path
-    )
+    # Choose between stratified and regular bar plot
+    if class_filter is None:
+        # No class filter - create stratified bar plot showing all content categories
+        print("Creating stratified bar plot by content categories...")
+        
+        # Load classified websites data for stratification
+        try:
+            domain_to_class = load_classified_websites("classified_websites.json")
+            print(f"Loaded {len(domain_to_class)} classified domains for stratification")
+            
+            # Get stratified data
+            provider_class_data = get_stratified_cdn_data(country_codes, args, domain_to_class)
+            
+            # Create stratified bar plot
+            stratified_title = "CDN Provider Dependencies by Content Category"
+            if args.vpn:
+                stratified_title += f" (VPN: {args.vpn})"
+            
+            providers, class_names = create_stratified_dependency_barplot(
+                provider_class_data,
+                title=stratified_title,
+                save_path=bar_path
+            )
+            
+        except FileNotFoundError:
+            print("Warning: classified_websites.json not found. Falling back to regular bar plot.")
+            # Fall back to regular bar plot
+            avg_percentages, sorted_labels = create_average_dependency_barplot(
+                matrix,
+                provider_labels,
+                provider_types,
+                title=bar_title,
+                save_path=bar_path
+            )
+        except Exception as e:
+            print(f"Error creating stratified plot: {e}. Falling back to regular bar plot.")
+            # Fall back to regular bar plot
+            avg_percentages, sorted_labels = create_average_dependency_barplot(
+                matrix,
+                provider_labels,
+                provider_types,
+                title=bar_title,
+                save_path=bar_path
+            )
+    else:
+        # Class filter applied - create regular bar plot
+        avg_percentages, sorted_labels = create_average_dependency_barplot(
+            matrix,
+            provider_labels,
+            provider_types,
+            title=bar_title,
+            save_path=bar_path
+        )
     
     # Print comprehensive statistics
     print("\n=== CDN Provider Statistics ===")

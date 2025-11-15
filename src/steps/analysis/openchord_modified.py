@@ -245,7 +245,7 @@ class Chord:
         # Legend styling - shrink by 20%
         rect_width = int(12 * 0.8)  # 12 → 9.6 → 10
         rect_height = int(10 * 0.8)  # 10 → 8
-        text_offset = int(20 * 0.8)  # 20 → 16
+        text_offset = int(22 * 0.8)  # 20 → 16
         line_height = int(16 * 0.8)  # 16 → 12.8 → 13
         
         # Get unique continents that are actually used
@@ -256,22 +256,22 @@ class Chord:
                 used_continents.add(continent)
         
         # Legend background - shrink by 20%
-        legend_width = max(int(140 * 0.8), max(len(continent) for continent in used_continents) * int(6 * 0.8) + int(35 * 0.8)) if used_continents else int(140 * 0.8)
+        legend_width = max(int(120 * 0.8), max(len(continent) for continent in used_continents) * int(6 * 0.8) + int(35 * 0.8)) if used_continents else int(140 * 0.8)
         legend_height = len(used_continents) * line_height + int(25 * 0.8) if used_continents else int(40 * 0.8)
         
         # Semi-transparent background for legend
-        fig.append(dw.Rectangle(
-            legend_x - 5, legend_y - 5, 
-            legend_width, legend_height,
-            fill="white", fill_opacity=0.9, 
-            stroke="#cccccc", stroke_width=1
-        ))
+        # fig.append(dw.Rectangle(
+            # legend_x - 20, legend_y - 10, 
+            # legend_width, legend_height,
+            # fill="white", fill_opacity=0.9, 
+            # stroke="#cccccc", stroke_width=1
+        # ))
         
         # Legend title - shrink font by 20%
         fig.append(dw.Text(
             "Continents", 
             font_size=int(self.font_size * 0.8), 
-            x=legend_x + 5, 
+            x=legend_x - 15, 
             y=legend_y + 5,  # Closer to top
             text_anchor="start", 
             dominant_baseline="middle",
@@ -285,7 +285,7 @@ class Chord:
             
             # Color rectangle - smaller size
             fig.append(dw.Circle(
-                legend_x + 5 + rect_width/2, y_pos, 
+                legend_x - 15 + rect_width/2, y_pos - 0.5, 
                 rect_width/2,
                 fill=self.continent_colors[continent], 
                 stroke="#333", stroke_width=0.5
@@ -296,8 +296,8 @@ class Chord:
             fig.append(dw.Text(
                 display_label, 
                 font_size=int((self.font_size - 2) * 0.8), 
-                x=legend_x + 5 + text_offset, 
-                y=y_pos,
+                x=legend_x - 15 + text_offset, 
+                y=y_pos + 3,
                 text_anchor="start", 
                 dominant_baseline="middle",
                 font_family=self.font_family

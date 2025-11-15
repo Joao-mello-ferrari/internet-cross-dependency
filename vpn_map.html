@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>VPN Points Map</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <style>
+        body { margin: 0; padding: 0; }
+        #map { height: 100vh; width: 100%; }
+        .info-panel {
+            position: absolute;
+            top: 200px;
+            right: 10px;
+            background: white;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            z-index: 1000;
+            max-width: 300px;
+        }
+        .legend {
+            position: absolute;
+            bottom: 400px;
+            right: 10px;
+            background: white;
+            padding: 0 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            z-index: 1000;
+            font-family: sans-serif;
+            height: 150px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin: 5px 0;
+        }
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            margin-right: 10px;
+            border-radius: 50%;
+        }
+        .leaflet-container {
+            background-color: #e6f3ff !important;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    
+    <div class="legend">
+        <h4>VPN Providers</h4>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #1f77b4;"></div>
+            <span>Nord VPN Only</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #ff7f0e;"></div>
+            <span>TunnelBear Only</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #2ca02c;"></div>
+            <span>Both Providers</span>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script>
+        // Initialize the map
+        var map = L.map('map').setView([20, 0], 2);
+        
+        // Add tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors',
+        }).addTo(map);
+        
+        // Function to create popup content
+        function createPopupContent(point) {
+            return `
+                <div style="min-width: 200px;">
+                    <h4>VPN Point</h4>
+                    <p><strong>Provider:</strong> ${point.provider}</p>
+                    <p><strong>Coordinates:</strong> ${point.lat.toFixed(6)}, ${point.lon.toFixed(6)}</p>
+                </div>
+            `;
+        }
+        
+        // VPN Points Data
+        var vpnPoints = [];
+        
+        // Nord VPN Only points
+        var nordOnlyData = [
+            [-32.016964, 115.894425], [-33.886699, 151.165780],
+            [-32.102403, -52.155824], [-23.637659, -46.590065],
+            [45.387509, -73.659882], [49.237941, -123.549607],
+            [35.636472, 139.761878], [34.594008, 135.536855],
+            [9.848889, -84.088259],
+            [52.411550, 13.394686], [50.044292, 8.681214],
+            [18.442857, -69.951983],
+            [29.976404, 31.231487],
+            [41.336663, 2.167129], [40.354959, -3.678522],
+            [48.810737, 2.358425], [48.544092, 7.755394],
+            [55.938650, -3.191828], [51.454354, -0.136446],
+            [14.486115, -90.497890],
+            [18.873955, 72.888276],
+            [19.318257, -99.110963],
+            [-9.554540, 147.194598],
+            [45.428051, 9.178093], [41.849236, 12.509823],
+            [33.856522, -118.239250], [40.591131, -74.006460],
+            [-26.322497, 28.099874]
+        ];
+        
+        // TunnelBear Only points
+        var tunnelBearOnlyData = [
+            [20.619304, -100.426033],
+            [-25.115801, 29.477688]
+        ];
+        
+        // Both providers points
+        var bothProvidersData = [
+            [-34.671712, -58.457451],
+            [4.523484, -74.057443],
+            [-6.219519, 106.808455],
+            [6.616048, 3.320441],
+            [-37.068978, 174.889662],
+        ];
+        
+        // Add Nord VPN Only points
+        nordOnlyData.forEach(function(coords, index) {
+            var point = {
+                lat: coords[0],
+                lon: coords[1],
+                provider: "Nord VPN Only",
+                id: "nord_" + index
+            };
+            
+            var marker = L.circleMarker([point.lat, point.lon], {
+                color: 'white',
+                fillColor: '#1f77b4', // Blue (Entertainment color)
+                fillOpacity: 0.8,
+                radius: 5,
+                weight: 1
+            });
+            
+            marker.bindPopup(createPopupContent(point));
+            marker.addTo(map);
+        });
+        
+        // Add TunnelBear Only points
+        tunnelBearOnlyData.forEach(function(coords, index) {
+            var point = {
+                lat: coords[0],
+                lon: coords[1],
+                provider: "TunnelBear Only",
+                id: "tunnelbear_" + index
+            };
+            
+            var marker = L.circleMarker([point.lat, point.lon], {
+                color: 'white',
+                fillColor: '#ff7f0e', // Orange (News color)
+                fillOpacity: 0.8,
+                radius: 5,
+                weight: 1
+            });
+            
+            marker.bindPopup(createPopupContent(point));
+            marker.addTo(map);
+        });
+        
+        // Add Both providers points
+        bothProvidersData.forEach(function(coords, index) {
+            var point = {
+                lat: coords[0],
+                lon: coords[1],
+                provider: "Both Providers",
+                id: "both_" + index
+            };
+            
+            var marker = L.circleMarker([point.lat, point.lon], {
+                color: 'white',
+                fillColor: '#2ca02c', // Green (General Digital Services color)
+                fillOpacity: 0.8,
+                radius: 5,
+                weight: 1
+            });
+            
+            marker.bindPopup(createPopupContent(point));
+            marker.addTo(map);
+        });
+        
+        var totalPoints = nordOnlyData.length + tunnelBearOnlyData.length + bothProvidersData.length;
+        console.log(`Added ${totalPoints} VPN points to the map`);
+        console.log(`Nord VPN Only: ${nordOnlyData.length} points`);
+        console.log(`TunnelBear Only: ${tunnelBearOnlyData.length} points`);
+        console.log(`Both Providers: ${bothProvidersData.length} points`);
+    </script>
+</body>
+</html>
