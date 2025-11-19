@@ -24,7 +24,7 @@ parser.add_argument('--country', type=str, required=True, help='Country name to 
 parser.add_argument('--code', type=str.lower, required=True, help='Country code (e.g. BR, US) for file paths')
 parser.add_argument('--query', type=str, required=True, choices=queries_map.keys(), help='Type of query: "country" or "global"')
 parser.add_argument('--semester', type=str, required=True, help='Semester to fetch websites from (e.g. 2024-2)')
-parser.add_argument('--amount', type=int, required=True, help='Number of websites to fetch')
+parser.add_argument('--amount', type=int, default=1000, help='Number of websites to fetch')
 parser.add_argument('--filter-dns', action='store_true', help='Apply DNS deduplication for base domain names')
 
 args = parser.parse_args()
