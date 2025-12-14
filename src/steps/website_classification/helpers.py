@@ -81,25 +81,25 @@ def classify_batch(batch, client: OpenAI):
 
 def narrow_classes(classified_websites: object):
     mapping = {
-        "1. Critical Public Government Services": "1. Critical & Social Services",
-        "2. Education & Study Services": "1. Critical & Social Services", 
-        "3. Health": "1. Critical & Social Services", 
-        "4. Financial Services": "2. Financial Services",
-        "5. Commerce & Retail": "3. Commerce, Retail & Industry",
-        "6. Media & News": "4. Media & News",
-        "7. Entertainment, Social Media & Lifestyle": "5. Entertainment & Social Media",
-        "8. Industry & Business Services": "3. Commerce, Retail & Industry",
-        "9. Technology & Cloud Services": "3. Commerce, Retail & Industry",
-        "10. Travel & Mobility": "6. Travel & Mobility",
-        "11. Betting": "5. Entertainment & Social Media",
-        "12. Adult Content": "5. Entertainment & Social Media",
-        "13. Other": "7. Unclassified",
-        "14. Unknown": "7. Unclassified",
+        "1. Critical Public Government Services": "1. Critical Services",
+        "2. Education & Study Services": "1. Critical Services", 
+        "3. Health": "1. Critical Services", 
+        "4. Financial Services": "1. Critical Services", 
+        "5. Commerce & Retail": "3. General Digital Services",
+        "6. Media & News": "2. News",
+        "7. Entertainment, Social Media & Lifestyle": "4. Entertainment",
+        "8. Industry & Business Services": "3. General Digital Services",
+        "9. Technology & Cloud Services": "3. General Digital Services",
+        "10. Travel & Mobility": "3. General Digital Services",
+        "11. Betting": "4. Entertainment",
+        "12. Adult Content": "4. Entertainment",
+        "13. Other": "5. Unclassified",
+        "14. Unknown": "5. Unclassified",
     }
 
     for site, category in classified_websites.items():
         if category not in mapping.keys():
-            classified_websites[site] = "7. Unclassified"
+            classified_websites[site] = "5. Unclassified"
         else:
             classified_websites[site] = mapping[category]
     return classified_websites

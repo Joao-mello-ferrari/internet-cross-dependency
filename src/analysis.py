@@ -17,6 +17,3 @@ if __name__ == "__main__":
     run_script(["make", "analysis/locality/country", f"COUNTRY=\"{args.country}\"", f"CODE=\"{args.code}\"", f"SAVE=\"TRUE\""])
     run_script(["make", "analysis/locality/cdn_provider", f"COUNTRY=\"{args.country}\"", f"CODE=\"{args.code}\"", f"SAVE=\"TRUE\"", f"ACCUMULATED=\"TRUE\""])
     run_script(["make", "analysis/locality/cdn_provider", f"COUNTRY=\"{args.country}\"", f"CODE=\"{args.code}\"", f"SAVE=\"TRUE\""])
-    
-    # Latency x locality analysis for given country
-    # TODO
