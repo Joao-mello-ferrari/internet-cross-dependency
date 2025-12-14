@@ -1,0 +1,8064 @@
+{
+  "aliss.cr": {
+    "pop": [
+      "kia",
+      "iad",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ],
+    "contentLocality": "pg"
+  },
+  "sa.uh.ac.cr/login/login.aspx": {},
+  "rrhh.ccss.sa.cr": {},
+  "gee.bccr.fi.cr": {},
+  "www.fpo.xxx": {},
+  "www.infesa.com/index_.php": {},
+  "www.visa.co.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.gamesgx.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "vianney.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.grupoins.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.lafise.com": {},
+  "www.clarin.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "elpais.com/us/": {},
+  "www.recapbeauty.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "pivigames.blog": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.fantasyrooms.com": {},
+  "www.controlpas.go.cr": {},
+  "www.verdugotienda.com": {},
+  "cinepolis.co.cr": {},
+  "cartago.wanuncios.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.muyzorras.com": {},
+  "ww3.animeonline.ninja": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "cr.siman.com": {
+    "pop": [
+      "gig"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "rio de janeiro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "60-139391510-139391592 NNNN CT(7 4 0) RT(1757269028234 264) q(0 0 0 2) r(0 0) U24"
+    ],
+    "contentLocality": "br"
+  },
+  "www.amway.co.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "leonisa.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.kumanga.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.dgsc.go.cr": {},
+  "www.heraldo.es": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.xpaja.net": {},
+  "blacksunstore.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "portaltica.hacienda.go.cr": {},
+  "es.search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.hola.com/us/": {},
+  "game8.co": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "m.shein.com/us/?cdn_rsite=ak&ref=m&rep=dir&ret=mus": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "rule34.us": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.deepl.com/en/translator": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.musoccr.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.transportesjacoruta655.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "workspace.google.com/intl/en-US/products/drive/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "uisil.net": {},
+  "waplog.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.cajadeande.fi.cr": {},
+  "www.tycsports.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ea.com": {},
+  "www.youtube.com/?app=desktop": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.bancobcr.com": {},
+  "www.samsung.com": {},
+  "www.ucr.ac.cr": {},
+  "motoboutiquecb.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "xiaomistore.co.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "bncrmovil.bnonline.fi.cr": {},
+  "www.cinecalidad.ec": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "es.hentaicams.xxx": {},
+  "servicioselectorales.tse.go.cr": {},
+  "faq.whatsapp.com": {},
+  "login.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "costarica.yaxa.co": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "translate.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.apple.com": {},
+  "outlook.live.com/mail/": {
+    "pop": [
+      "mdw"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "chicago"
+    ],
+    "contentLocality": "us"
+  },
+  "www.istockphoto.com/bot-wall?returnUrl=/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.crediservercr.net": {},
+  "tecdigital.tec.ac.cr/register/?return_url=/dotlrn/index": {},
+  "artfight.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "coa4kcontent.imweb.me": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "casas.trovit.co.cr": {},
+  "entornovirtual.ucatolica.ac.cr": {},
+  "sofifa.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.lateja.cr": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "newbalance.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "lichess.org": {},
+  "marchamo.ins-cr.com/marchamo/Inicio.aspx": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "sexosintabues30.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "automercado.cr": {},
+  "icon.co.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "tiendasplx.com": {
+    "pop": [
+      "iad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.temu.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.tiktok.com/explore": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "TCP_MISS from a23-49-253-220.deploy.akamaitechnologies.com (AkamaiGHost/22.2.3-dd2e9ddb9a7176afbd825015b8856261) (-)"
+    ]
+  },
+  "www.latinamericancupid.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "cgrweb.cgr.go.cr/apex/": {},
+  "www.waze.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.facturanaby.com/Formularios/Login.aspx": {},
+  "www.jpsenlinea.go.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bigbadtoystore.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "watchly.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.wilas.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.google.com/photos/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.ixxx.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.xnxx.com": {},
+  "www.20minutos.es": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "sicai.pcpuris.com": {},
+  "test-english.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "BYPASS"
+    ],
+    "contentLocality": "us"
+  },
+  "pornoperso.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.futbin.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "comics18.org": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.teletica.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.redd.tube": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.machotube.tv": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.infobae.com/america/": {},
+  "rule34video.com": {},
+  "uvirtual.ac.cr/login/index.php": {},
+  "www.gt-complementa.com": {},
+  "auth.uber.com/v2/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.zona-militar.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "apps.gentecoyol.com": {},
+  "business.google.com/es-all/business-profile/?ppsrc=GPDA2": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.encuentra24.com/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.wordreference.com": {},
+  "www.kolbi.cr/wps/portal/kolbi_dev/personas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zizQMtHA093A183P3NLQ0cLb2MQwN8TI0MzM30wwkpiAJKG-AAjgZA_VFgJXATLEK9TIEmODsbOBuHGnr6m0EV4DGjIDfCINNRUREAVHyVKQ!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/": {},
+  "www.eleconomista.es": {},
+  "es.redtube.com": {},
+  "manhwaweb.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.xnalgas.com": {},
+  "futbolcentroamerica.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.negocioleonisa.com/wps/portal": {},
+  "www.paramountplus.com/cr/": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.farmavalue.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "bestbrands.cr": {},
+  "www.linkedin.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "account.microsoft.com": {},
+  "www.imdb.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "badoo.com": {},
+  "telegram.org/": {},
+  "www.jpsloteria.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.artelec.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "kahoot.it": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "support.microsoft.com/en-us": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.erome.com": {},
+  "www.patreon.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "app.surveoo.com/en/login?ss/=": {},
+  "appsmais.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.yelu.com.ni": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.facebook.com": {},
+  "www.ubuy.cr/es/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "starticket.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "campus.ulatina.ac.cr": {},
+  "discord.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "workspace.google.com/intl/en-US/gmail/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "ventadebienes.bancobcr.com": {},
+  "www.mtss.go.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.lpsg.com": {},
+  "oriconsultas.com/Error": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.tiemposelroblecr.com": {},
+  "www.malkacr.com": {},
+  "us.shein.com": {},
+  "www.uned.ac.cr": {},
+  "www.conape.go.cr": {},
+  "www.elempleo.com": {},
+  "es.savefrom.net": {},
+  "nicatiempos.com": {},
+  "www.venusmakeupcr.com": {},
+  "bestlotterydt.com": {},
+  "www.ccss.sa.cr": {},
+  "www.b2bmall388.com/index/login/index.html": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "vandal.elespanol.com": {},
+  "www.sinac.go.cr": {},
+  "www.cam4.com/browserupgrade": {},
+  "www.researchgate.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "openai.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "distintas.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "cloud.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.libertyrecargas.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "spooncr.com/": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.maxipali.co.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ovsicori.una.ac.cr": {},
+  "sisu.xboxlive.com": {},
+  "cloudcampuspro.com/home/index.html?p=2": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.xvideos.es": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.eliteguias.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "shopping.copaair.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "55-44188522-44188559 NNNN CT(104 107 0) RT(1757269043938 253) q(0 0 2 0) r(3 3) U12"
+    ],
+    "contentLocality": "us"
+  },
+  "www.claro.cr/personas/": {},
+  "www.pornpics.com": {},
+  "site.q10.com/login?ReturnUrl=/": {},
+  "lectorikigai.foodib.net": {},
+  "miauscan.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "issuu.com": {
+    "pop": [
+      "kjy",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ubereats.com": {},
+  "www.bibliaon.com": {},
+  "empleos.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "veopornogratis.xxx": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "manhwa-online.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "vix.com/es-es": {
+    "pop": [
+      "kjy",
+      "iad",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "google",
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "ameliarueda.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.personas.bancobcr.com": {},
+  "delfino.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.zeword.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "hdporncomics.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "mv.mediacionvirtual.ucr.ac.cr/login/index.php": {},
+  "sam.ufidelitas.ac.cr": {},
+  "www.hobbyconsolas.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.yummiessuperman.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "bato.to": {},
+  "jkanime.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "dle.rae.es": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "novex.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.baccredomatic.com": {},
+  "x.ijavhd.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "apps.grupoice.com": {},
+  "kick.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "noodlemagazine.com/new-video": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.hulihealth.com/es": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.nike.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.tiendatoys.com": {},
+  "www.seguridadpublica.go.cr": {},
+  "okdiario.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "cr.jooble.org": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.elconfidencial.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "5-7475129-7463448 pNNy RT(1757268958521 15) q(0 0 0 -1) r(14 14) U24",
+      "HIT"
+    ]
+  },
+  "nhentai.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "myanimelist.net": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "NotCacheable from child"
+    ]
+  },
+  "www.flashscore.es": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "auth.platorelay.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.truecaller.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "appscr.foundeverlatam.com": {},
+  "support.coinmastergame.com/hc/en-us": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.menshealth.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "www.walmart.co.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "esim.holafly.com": {},
+  "www.porn300.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "costa-rica.wanuncios.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "rsn.ucr.ac.cr": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.mlb.com": {
+    "pop": [
+      "kjy",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.pornogratisdiario.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.nytimes.com": {
+    "pop": [
+      "lga",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "new york",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.minisocr.com": {},
+  "www.lifemiles.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.dafont.com/es/": {},
+  "www.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "teatroporno.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://www.youtube.com/signin?action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Des-419%26next%3Dhttps%253A%252F%252Fstudio.youtube.com%252F%26feature%3Dredirect_login&hl=es-419&ifkv=AfYwgwXXeHgmgI6GkgKaJ9I95383U33xF1_eac2WOvN_tA1L4gklm0sKDkfPypLMLwal7J_UNmqlcA&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S34351162:1757269038936675": {
+    "provider": [
+      "google"
+    ]
+  },
+  "espacioapk.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "guiahorarios.ucr.ac.cr": {},
+  "cr.lineupshop.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "github.com": {},
+  "studentssb.una.ac.cr": {},
+  "play.google.com/store/games?device=windows": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.ebay.com/n/error": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.bbc.com": {
+    "pop": [
+      "kat",
+      "pdk"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaitaia",
+      "atlanta"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "efactura.app/login": {},
+  "survey3.medallia.com": {},
+  "www.accuweather.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "sao-gestor.com": {
+    "cacheStatus": [
+      "MISS from sao-gestor.com"
+    ]
+  },
+  "www.yamahacostarica.com": {
+    "pop": [
+      "kjy",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "genius.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.fragrantica.es": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "costarica.misprofesores.com": {},
+  "www.mercadolibre.com/": {
+    "pop": [
+      "iah"
+    ],
+    "provider": [
+      "alibaba",
+      "cloudfront"
+    ],
+    "location": [
+      "houston"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.riu.com/en": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "gelbooru.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.coopelescaalmacen.com": {
+    "pop": [
+      "kbf",
+      "bfi",
+      "kjy",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ],
+    "contentLocality": "id"
+  },
+  "cnnespanol.cnn.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "forodecostarica.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "nexuspj.poder-judicial.go.cr": {},
+  "es.xhamster.desi": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "pagostore.garena.com": {},
+  "numerosfuertes.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "sedimec-med.dictamenmedico.com/login/auth": {},
+  "www.libreriainternacional.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "kjy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.sensacine.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.scotiabankcr.com": {},
+  "idp-services.tbxnet.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "librefutboltv.su": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "everardoherrera.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "cr.epaenlinea.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "kjy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "espndeportes.espn.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.depositojimenezcr.com": {},
+  "toonx.net/comics-porno/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "campus.upi.ac.cr/lms/": {},
+  "ngl.link": {
+    "pop": [
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "sso.cfia.or.cr": {},
+  "ssstik.io": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "dgthenlinea.mep.go.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "samborocostarica.com": {},
+  "www.adidas.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "ane.cr": {},
+  "www.tiendamia.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.gruposwats.com": {},
+  "parquediversiones.com": {
+    "pop": [
+      "klo",
+      "chi",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kalibo",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS, MISS",
+      "MISS"
+    ],
+    "contentLocality": "ph"
+  },
+  "www.deviantart.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "faceandbody.siap.miami": {},
+  "www.epicgames.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "campus.uam.ac.cr": {},
+  "www.tiendasfusion.com": {},
+  "policies.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.micolegio.cr": {},
+  "www.liveworksheets.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "ventadebienes.bncr.fi.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "happymod-bk5.softonic.com/android": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "activasuerte.com": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/&followup=https://sites.google.com/&ifkv=AfYwgwWE7c4JluLdma3M--_tdEy5Xf9_WeQrLl1VALxatPtRiEh74aFY8rwIlyeM2bGHmEGYIm8o&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-2145836457:1757269060055828": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.furaffinity.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "tiemposnicas.com": {},
+  "www.tiendabansbach.com": {},
+  "www.cisaweb.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "movil.todorelatos.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "scholar.google.com": {},
+  "sise.grupovcr.com": {},
+  "empleos.grupoice.com": {},
+  "web.whatsapp.com": {},
+  "www.jac.cr": {},
+  "fundingmetrics.my.salesforce.com": {},
+  "www.kfccostarica.cr": {},
+  "heredia.wanuncios.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "carbonestore.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "workspace.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.purdyusados.com": {},
+  "audiobooksreview.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "becassolicitudes.ucr.ac.cr": {},
+  "onlyfans.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.swissjustcostarica.net": {},
+  "www.samsung.com/us/shop/": {},
+  "www.tnaflix.com": {},
+  "www.quora.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.incofer.go.cr": {},
+  "store.playstation.com/en-us/pages/latest": {},
+  "es.chaturbate.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "usanmarcos.instructure.com/login/canvas": {},
+  "xorgasmo.com": {},
+  "es.namemc.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.cnfl.go.cr": {},
+  "ori.ucr.ac.cr": {},
+  "www.gollo.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "amp.xvideos.com": {},
+  "www.minecraft.net/en-us": {},
+  "atv.hacienda.go.cr": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.muyinteresante.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "practicatest.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "crosshero.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "es.flightaware.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "steamcommunity.com": {},
+  "www.sicop.go.cr": {},
+  "www.manhwaweb.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "apc.cfia.or.cr": {},
+  "tiendahp.co.cr": {
+    "pop": [
+      "klo",
+      "chi",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kalibo",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ],
+    "contentLocality": "ph"
+  },
+  "www.videosdemadurasx.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "fapello.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "gamebanana.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.grupoyuandong.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.uber.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "us"
+  },
+  "bienvenido.davivienda.cr/wps/portal/personasCR/nuevo/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijS0CTfy8nIx8g90sjQ0cfQ2CnR0t_Q0N3Mz1wwkpiAJKG-AAjgZA_VGElBTkRhikOyoqAgAsfpkO/dz/d5/L2dBISEvZ0FBIS9nQSEh/": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "32-25910314-25910317 NNNY CT(164 332 0) RT(1757269145176 252) q(0 0 0 -1) r(3 3) U6"
+    ]
+  },
+  "www.ashemaletube.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.expedia.com": {},
+  "dashboardtimesdt.com/DashboardTimes/": {},
+  "ar.pinterest.com": {
+    "provider": [
+      "fastly"
+    ]
+  },
+  "sifat.inder.go.cr": {},
+  "uvirtual.ucimed.com": {},
+  "es.nudogram.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "tipscr.com": {},
+  "radios.co.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "es.happymod.cloud": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bridgestone.co.cr": {},
+  "solnaciente.com": {},
+  "www.chunkbase.com": {
+    "pop": [
+      "cr1"
+    ],
+    "provider": [
+      "bunny"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.cifraclub.com": {},
+  "cinepornogratis.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "es.pornhub.com": {},
+  "servicios.educacionvial.go.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.diariouno.com.ar": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.magistv-pc.app/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "pjenlineacr.poder-judicial.go.cr": {},
+  "www.jovencitas.gratis": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.conectate.com.do": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "letterboxd.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.yelu.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.facturaelectronica.cr": {},
+  "www.3djuegos.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "itsmanual.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.dekra.cr/es/inicio/": {},
+  "www.primevideo.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.walmart.com": {},
+  "micasino.com": {},
+  "supersalon.com": {},
+  "www.serviporno.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "web.wootit.com/": {
+    "pop": [
+      "kjy",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "pj.poder-judicial.go.cr": {},
+  "delta-executor.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "admin.tiroganador.com": {
+    "pop": [
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "jp"
+  },
+  "workspace.google.com/intl/en-US/products/calendar/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "imgsrc.ru": {},
+  "www.remove.bg": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "xbato.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "es.3hentai.net": {},
+  "tubidy.limited/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.esquire.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "www.grupoice.com/wps/portal/ICE/Inicio/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zizQMtHA093A183M09nA0cfUPMHA3NXY18zU31wwkpiAJKG-AAjgZA_VFgJbhM8DKFKsBjRkFuhEGmo6IiAEMK8sg!/dz/d5/L2dBISEvZ0FBIS9nQSEh/": {},
+  "apt.cfia.or.cr": {},
+  "tiguanacaste.com": {},
+  "www.espn.co.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "loteriascostarica.com": {},
+  "www.grupostelegram.net": {},
+  "amp.telediario.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "h5.playtook.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.larocheposay-centroamerica.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.radioscostarica.org": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "ticaconsultas.hacienda.go.cr/Tica/monitortica.aspx": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "account.samsung.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.tse.go.cr": {},
+  "espanol.yahoo.com": {},
+  "votos.teletica.com": {},
+  "www.aboxplan.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.tokyvideo.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "open.spotify.com": {
+    "pop": [
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "jp"
+  },
+  "fdownloader.net/en": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "rule34.xxx": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "support.google.com": {},
+  "visormanga.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "quickbooks.intuit.com": {},
+  "www.jps.go.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "w3nv.cuevana.pro": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.rnpdigital.com": {},
+  "melapelocondibujos.com": {},
+  "www.xleche.com": {},
+  "www.ellagar.com": {},
+  "extremetechcr.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "edus.ccss.sa.cr": {},
+  "www.xvlivecams.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "restaurantes.subway.com": {},
+  "www.fill.cr/login": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "lectormangaa.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "entornoestudiantil.uned.ac.cr": {},
+  "motorepuestoscalleblancos.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "vuce20.procomer.go.cr": {},
+  "m.uber.com/go/": {},
+  "www.ina.ac.cr/SitePages/Inicio.aspx": {},
+  "romsfun.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ucrenlinea.com": {},
+  "quenumerojuega.com": {},
+  "alajuela.wanuncios.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "manhwas.net": {},
+  "ematricula.ucr.ac.cr": {},
+  "sigedi.ucr.ac.cr": {},
+  "www.xbox.com/en-US/": {},
+  "www.suzuki.cr": {},
+  "www.pagina12.com.ar": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "hit cached",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.etsy.com": {
+    "pop": [
+      "kat",
+      "pdk"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaitaia",
+      "atlanta"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.bing.com": {},
+  "eclipseperfumes.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "ferreteriabrenes.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.cronista.com": {},
+  "www.record.com.mx": {
+    "pop": [
+      "klo",
+      "chi",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kalibo",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT, MISS, MISS"
+    ],
+    "contentLocality": "ph"
+  },
+  "www.twitch.tv": {},
+  "login.yahoo.com/?.src=ym&pspid=159600001&activity=mail-direct&.lang=en-US&.intl=us&.done=https://mail.yahoo.com/d": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "app.hubspot.com/home-beta": {
+    "pop": [
+      "mia",
+      "iad"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "miami",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "es.niadd.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "banca.grupopromerica.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "17-94672199-94672213 NNNN CT(153 158 0) RT(1757269100804 254) q(0 0 4 0) r(5 5) U6"
+    ]
+  },
+  "www.opinautos.com": {},
+  "www.simpleescort.cr/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.crazygames.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ilovepdf.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "pjenlinea.poder-judicial.go.cr": {},
+  "versus.com/en": {},
+  "www.tiendamonge.com": {
+    "pop": [
+      "kig",
+      "chi",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "koingnaas",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.letras.com": {},
+  "actualidad.rt.com": {},
+  "reycomix.com/porno-xxx/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "bitly.com/": {},
+  "www.leercapitulo.co": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "myreadingmanga.info": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "en.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp1112 miss, cp1112 hit/55508",
+      "hit-front"
+    ]
+  },
+  "www.freegames.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "sancarlosdigital.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "hitomi.la": {},
+  "www.diez.hn": {},
+  "mundohonda.cr": {},
+  "cr.linkedin.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.codeascloud.com": {},
+  "accounts.spotify.com/es/v2/login": {},
+  "store.steampowered.com": {},
+  "www.elle.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "www.repretel.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "x.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "partsouq.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "lectorikigai.tutorialesminecraft.com": {},
+  "dgth.mep.go.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "capital-top.org": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "celesteenlinea.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "wn5v.cuevana.biz/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "tchomecr.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "bcrchat.bancobcr.com": {},
+  "www.sucursalelectronica.com": {},
+  "en.m.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp1112 miss, cp1112 hit/11129",
+      "hit-front"
+    ]
+  },
+  "lectorikigai.skcar.xyz": {},
+  "www.stevenzamoracr.co": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.crunchyroll.com": {
+    "pop": [
+      "iad",
+      "mia"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "washington",
+      "miami"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "medismart.net": {},
+  "san-jose.wanuncios.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "web.imas.go.cr": {},
+  "www.larepublica.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "wol.jw.org": {},
+  "www.intelec.co.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "abastecidos.dospinos.com/Abastecidos/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "linktr.ee": {
+    "pop": [
+      "pdx",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "cloudflare",
+      "fastly"
+    ],
+    "location": [
+      "portland",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT",
+      "HIT, HIT, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "ads.google.com": {},
+  "passwords.google.com/intro": {
+    "provider": [
+      "google"
+    ]
+  },
+  "es.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "aternos.org/:en/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.4chan.org/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "olympusbiblioteca.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "hac.cr": {},
+  "fetlife.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "account.live.com/error.aspx?e=404": {
+    "provider": [
+      "azure"
+    ]
+  },
+  "enloteria.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "libertycr.com": {
+    "pop": [
+      "iad",
+      "mia"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "washington",
+      "miami"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.youporn.com": {},
+  "www.viator.com": {
+    "pop": [
+      "kat",
+      "pdk"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaitaia",
+      "atlanta"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.paypal.com/cr/home": {
+    "pop": [
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS, MISS"
+    ],
+    "contentLocality": "jp"
+  },
+  "hellowesew.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.mediafire.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.studocu.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.tiendasekono.com": {
+    "pop": [
+      "kjy",
+      "iad",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "danbooru.donmai.us": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "shop.coinmaster.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "correo.msp.go.cr": {},
+  "ulicori.acamsys.com/student/login;jacamsysid=2C154A55EAB0500F9F11298885D43DB0": {},
+  "erp.factun.com/Acceso/Login?ReturnUrl=/": {},
+  "cr.mobileacademy.com": {},
+  "chochox.com/porno/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.hibridosyelectricos.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "fast.com": {
+    "provider": [
+      "AWS (not CDN)"
+    ]
+  },
+  "www.freepik.es": {},
+  "cr.computrabajo.com": {},
+  "www.sportline.cr": {
+    "pop": [
+      "kia",
+      "iad",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS"
+    ],
+    "contentLocality": "pg"
+  },
+  "porcupinepress.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "bcrcita.bancobcr.com": {},
+  "bravos.cr": {},
+  "ebird.org/home": {},
+  "www.lanacion.com.ar": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.crhoy.com": {},
+  "www.laprensani.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.xnxx.es": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "intelitour.auth.us-east-2.amazoncognito.com/login?client_id=4sj8st15hlo58s9b80138j2qbb&response_type=code&scope=openid+email&redirect_uri=https://qwcr.ptw.intelitour.net/user/auth.php&state=0530c1997529620440d2af3d905a306a": {},
+  "www.getyourguide.es": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.masxmenos.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.romsgames.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.elfinancierocr.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "mise.ccss.sa.cr": {},
+  "www.locanto.co.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "neokyo.com/en": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.sibuerpsixaola.com": {},
+  "admin.tilopay.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "facture.cr": {},
+  "www.novacinemas.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "fr.xvideos.com": {},
+  "cr.empirescort.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "us"
+  },
+  "es.youporn.com": {},
+  "es.pinterest.com": {
+    "provider": [
+      "fastly"
+    ]
+  },
+  "online.conape.go.cr": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "18-18005976-18005993 NNNN CT(154 312 0) RT(1757269086902 250) q(0 0 4 1) r(6 6) U6"
+    ]
+  },
+  "m.facebook.com": {},
+  "adsmanager.facebook.com": {},
+  "admindual.com": {},
+  "gnc.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.pacifiko.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.hentai.name/home.html": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "ufidelitas.ac.cr": {},
+  "www.cerdas.com": {},
+  "myactivity.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "elmundo.cr": {},
+  "www.rojadirectaenvivo.pl": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.utn.ac.cr": {},
+  "accounts.nintendo.com": {},
+  "dual-global.com": {},
+  "shop.simon.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "janitorai.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "tec-appsext.itcr.ac.cr": {},
+  "ayuda.baccredomatic.com": {},
+  "www.readypizzacr.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://accounts.google.com/&followup=https://accounts.google.com/&ifkv=AfYwgwVONm0wgmymretowGZ-7OegUd5QpEvpAPEgxk6uXKpiPZCsRcL3SkjxvoBTHUFYqfErWOxQVA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S708664409:1757269074466416": {
+    "provider": [
+      "google"
+    ]
+  },
+  "es.stripchat.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.pinterest.com": {
+    "provider": [
+      "fastly"
+    ]
+  },
+  "www.iberia.com": {},
+  "music.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "bncr.bnonline.fi.cr": {},
+  "directorio.medismart.net": {},
+  "faphouse.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "crmotos.com": {},
+  "kuikpei.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "siri.rnp.go.cr": {},
+  "pixabay.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.balotas.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "page.didiglobal.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.mangago.me": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.una.ac.cr": {},
+  "es.wikipedia.org/wiki/Wikipedia:Portada": {
+    "cacheStatus": [
+      "HIT",
+      "cp1112 miss, cp1112 hit/3951",
+      "hit-front"
+    ]
+  },
+  "loteriasdehonduras.com": {},
+  "booking.dekra.com": {},
+  "weather.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.vehiventa.com": {},
+  "es.fapello.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.theguardian.com/international": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "visorikigai.veterinariasenperu.one": {},
+  "digital.bancobcr.com": {},
+  "loteriasdominicanas.com": {},
+  "portaldgec.mep.go.cr": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.csv.go.cr": {},
+  "amp.xnxx.com": {},
+  "www.sport.es/es/": {},
+  "help.uber.com": {},
+  "admin.nidux.net/es/login": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.nexusmods.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.imas.go.cr": {},
+  "zoofilia.info": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.tracopacr.com": {},
+  "www.imn.ac.cr": {},
+  "sistema.nebbiasolutions.com": {},
+  "site3.q10.com/login?ReturnUrl=/": {},
+  "www.pokemon.com": {
+    "pop": [
+      "gig"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "rio de janeiro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "5-8119597-8119720 NNNN CT(0 2 0) RT(1757269084419 289) q(0 0 0 0) r(0 0) U24"
+    ],
+    "contentLocality": "br"
+  },
+  "ais.usvisa-info.com": {},
+  "gordazodt.com": {},
+  "www.fotogramas.es": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ]
+  },
+  "correos.go.cr": {},
+  "pvip.se": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "sexkomix2.com/home/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "chaturbate.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "medlineplus.gov": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.alibaba.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.shopperscr.com": {},
+  "www.tiendamexpress.com": {},
+  "www.netflix.com": {},
+  "www.amazon.com": {
+    "pop": [
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "miyazaki",
+      "miami"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.bestialitysextaboo.net": {},
+  "www.cinemarkca.com/index": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.somosbelcorp.com": {},
+  "www.subwaycostarica.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.instagram.com": {},
+  "www.telediario.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "agd.una.ac.cr/share/page/": {},
+  "create.roblox.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "thothd.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "tmohentai.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bet365.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "eis.una.ac.cr": {},
+  "www.eticket.cr": {},
+  "doradobet.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "beastiality.tv": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "bancobcr.com": {},
+  "aulavirtual.coned.ac.cr": {},
+  "account.wps.com/?cb=https://docs.wps.com/": {},
+  "moovitapp.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "thisvid.com": {},
+  "www6.sucursalelectronica.com": {},
+  "erothots.co": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "avatar.utn.ac.cr/avatar_utn/log/menu.jsp": {},
+  "www.wikidex.net/wiki/WikiDex": {
+    "cacheStatus": [
+      "HIT",
+      "front2 hit/13"
+    ]
+  },
+  "lms30.santillanacompartir.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.google.co.cr": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.univision.com": {
+    "pop": [
+      "iad",
+      "kcg",
+      "kjy"
+    ],
+    "provider": [
+      "cloudfront",
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "chignik"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.marca.com/": {
+    "pop": [
+      "ams",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "amsterdam",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.boyfriendtv.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "auth.bncr.fi.cr": {},
+  "e621.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "ecc.ac.cr/ecc/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.avianca.com": {},
+  "www.tuazar.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "pornone.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "cookpad.com/jp": {
+    "pop": [
+      "kcg",
+      "iad",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "virtual-apse.cr/afiliado/publico/index.xhtml": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "bnservicios.bncr.fi.cr": {},
+  "www.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.nacion.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.pricesmart.com/es-CR": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "tique-internacional.com": {},
+  "aissfa.ccss.sa.cr": {},
+  "apkpure.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&ifkv=AfYwgwUwa3BmY1iF5CMIuF3cbiwIu-sgOXTqHFi_jIawK3Jl7QnkrJY0OQW3ppBlZ2VZUbhTwKYe&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-888264650:1757269098090657": {
+    "provider": [
+      "google"
+    ]
+  },
+  "fun4trivias.com": {},
+  "vercomicsporno.com/comics-porno": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "EXPIRED",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.abc.es": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ]
+  },
+  "www.zoom.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "crhoy.com": {},
+  "aeropost.com/SJO/es": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "catalogo.tucalzado.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bccr.fi.cr": {},
+  "elcomercio.pe": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "auth.hbomax.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.copaair.com/es-cr/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "58-62094465-62094475 NNNN CT(108 113 0) RT(1757269104351 254) q(0 0 2 -1) r(3 5) U12"
+    ],
+    "contentLocality": "us"
+  },
+  "wordwall.net": {},
+  "telegram.org": {},
+  "www.speedtest.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.mibus.cr": {},
+  "www.registronacional.go.cr": {},
+  "ciudadmangacr.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "f95zone.to": {},
+  "sea.mep.go.cr": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "TCP_MISS"
+    ]
+  },
+  "www.theblowers.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.poringa.net/": {},
+  "imhentai.xxx": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "hentaila.com/hub": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.jw.org": {},
+  "www.dailymotion.com": {},
+  "www.udemy.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "cr.mipagoclaro.com": {
+    "pop": [
+      "iah"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "houston"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "apps.mep.go.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "hentaiera.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.vogue.mx": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "threedaos.zdrz.xyz": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "outlook.office.com/mail/": {
+    "pop": [
+      "eat"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "wenatchee"
+    ],
+    "contentLocality": "us"
+  },
+  "www.xvideos.com": {},
+  "www.ane.cr": {},
+  "red-educa.com/WebSite/rededuca-inicio.html": {},
+  "enlinea.davivienda.cr/ebanking/seguridad/login.htm": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "60-139404769-139343045 pNNy RT(1757269103546 247) q(0 0 0 -1) r(1 2) U24"
+    ]
+  },
+  "novelbin.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.superporn.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.crautos.com": {},
+  "observador.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.lasmorfianapoletana.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "neo.neotecnologias.com": {},
+  "es.scribd.com": {
+    "pop": [
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "chatgpt.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "tiendaspls.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.barcelo.com/en-us/": {},
+  "www.mongepay.com": {},
+  "es.erome.com": {},
+  "futbol-11.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "purina.co.cr/purina": {
+    "pop": [
+      "kig",
+      "chi",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "koingnaas",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT, MISS, MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "www.69shuba.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "mv1.mediacionvirtual.ucr.ac.cr/login/index.php": {},
+  "www.starlink.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "poki.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "extremeorders.com/login": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "moodle.uh.ac.cr": {},
+  "www.losandes.com.ar": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.officedepot.co.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.friv.com": {},
+  "decathlon.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.marca.com": {
+    "pop": [
+      "ams",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "amsterdam",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "es.quora.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "m.webnovel.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "scratch.mit.edu": {
+    "pop": [
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "app.hulipractice.com/es": {
+    "pop": [
+      "iah"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "houston"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.cuevana.is": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "essenzaperfumes.cr": {},
+  "tramitevirtual.hacienda.go.cr": {
+    "provider": [
+      "azure",
+      "akamai"
+    ]
+  },
+  "hibeautycr.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.hentaiheroes.com": {},
+  "www.xnxx-livecams.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "claroventas.cr": {},
+  "es.luxuretv.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "archive.org": {},
+  "as.com/us/": {},
+  "gentecrystal.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.centraldirecto.fi.cr": {},
+  "www.discogs.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.microsoft.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.pornolargo.com": {},
+  "www.reddit.com": {},
+  "mrfoe.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.tripadvisor.es": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.unimart.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.xataka.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "inmanga.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bcrcorresponsal.bancobcr.com": {},
+  "www.capris.cr": {
+    "pop": [
+      "klo",
+      "chi",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kalibo",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "ph"
+  },
+  "www.fischelenlinea.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "zonatmo.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ministeriodesalud.go.cr": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.rome2rio.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "boleteriamorada.com": {},
+  "www.aseccssenlinea.com": {},
+  "www.metal-archives.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.nintendo.com/region-selector/": {
+    "pop": [
+      "tyo",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "fastly"
+    ],
+    "location": [
+      "tokyo",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT, HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "empleabilidad.mep.go.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "s4.venturaerp.com": {},
+  "virtual.cunlimon.ac.cr": {},
+  "sistema.grupoargus.co.cr": {},
+  "www.dropbox.com": {},
+  "sso.aeropost.com/logint?srv=https://intranet.aeropost.com:443/login.aspx&culture=en": {},
+  "www1.sucursalelectronica.com": {},
+  "www.eporner.com": {},
+  "pgrweb.go.cr": {},
+  "www.booking.com/index.es.html?label=gen173nr-10CAEoggI46AdIM1gEaDOIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AuuY98UGwAIB0gIkOGJhMWU4NTAtYWRjOC00NmQ0LTk5NTEtZDhkNTUwMjcwZWZj2AIB4AIB&sid=3220cb09151efceefddbc571cfb7e215&keep_landing=1&sb_price_type=total&": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "paquetes.miclaro.cr/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "rateyourmusic.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "serviciosenlinea.sinac.go.cr": {},
+  "mx.pinterest.com": {
+    "provider": [
+      "fastly"
+    ]
+  },
+  "www.encuentra24.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.lavanguardia.com": {},
+  "www.curseforge.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "criollasx.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "es.novelcool.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.igrupos.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ebay.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.tripadvisor.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "eternalmangas.org/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "hentaila.tv": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "nuevaya.com.ni": {},
+  "telecablecr.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bebemundo.co.cr": {},
+  "www.transfermarkt.es": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "m.autowini.com/en": {},
+  "rcdn-web.com/index.html": {
+    "provider": [
+      "AWS (not CDN)"
+    ]
+  },
+  "www.bncr.fi.cr": {},
+  "www.chess.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.emulatorgames.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.clinicabiblica.com/es/": {},
+  "toyhou.se": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.playstation.com/en-us/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.cucvirtual.ac.cr": {},
+  "www.fotoscaserasx.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "es.eporner.com": {},
+  "www.mokolicores.com": {},
+  "doblaje.fandom.com/es/wiki/Doblaje_Wiki:Portada": {
+    "pop": [
+      "kjy",
+      "iad",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "cr.skokka.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "es.xhamster.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "m.imdb.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.tec.ac.cr": {},
+  "www.techzilla.cr": {},
+  "y2mate.nu/R2lu/": {},
+  "forogore.net": {},
+  "www3.animeflv.net": {},
+  "www.canva.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "peopleenespanol.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "cinemasanpedro.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "crautos.com": {},
+  "app.powerbi.com": {},
+  "www.pornhub.com": {},
+  "www.airbnb.co.cr": {},
+  "www.changan.cr": {},
+  "dge1.mydrawingstar.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bancopopular.fi.cr": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "TCP_MISS"
+    ]
+  },
+  "www.elespanol.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.buses506.com": {},
+  "canalvirtual.bancopopular.fi.cr": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "PRIVATE_NOSTORE"
+    ]
+  },
+  "repuestosgigante.com": {},
+  "www.imprentanacional.go.cr": {},
+  "www.farmacialabomba.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.oficinavirtual.opcccss.fi.cr": {},
+  "sucursal.correos.go.cr/login": {},
+  "vec.idiomacr.com": {},
+  "simpcity.cr": {},
+  "www.disneyplus.com": {},
+  "www.nationalgeographic.com.es": {},
+  "yoviajocr.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "tioanime.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "cruzdelasuerte.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "motherless.com": {},
+  "aprende.uned.ac.cr": {},
+  "cdn.gd85.com": {},
+  "tiendauniversal.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.consulta.tse.go.cr": {},
+  "www.mundodeportivo.com": {},
+  "tiendahonor.cr": {},
+  "www.es.kayak.com": {
+    "pop": [
+      "kat",
+      "pdk"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaitaia",
+      "atlanta"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.fecoa.org/Main.aspx": {},
+  "www.promerica.fi.cr": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "18-110405049-110405175 NNNN CT(173 362 0) RT(1757269124096 252) q(0 0 6 0) r(8 10) U6"
+    ]
+  },
+  "cr-acces.get-your-media.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bible.com": {
+    "pop": [
+      "klo",
+      "chi",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kalibo",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "ph"
+  },
+  "www.inainscripcioncursos.ac.cr": {},
+  "duckduckgo.com": {},
+  "www.mep.go.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.puritanas.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "us"
+  },
+  "otubex.com": {},
+  "business.facebook.com": {},
+  "archiveofourown.org": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.amazon.es": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.elmueble.com": {},
+  "www.motosfreedom.com": {},
+  "www.biblegateway.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "externos.dashboardtimesdt.com": {},
+  "www.msn.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ],
+    "contentLocality": "us"
+  },
+  "www.toroporno.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "es.xhamsterlive.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.letour.fr/en/": {
+    "pop": [
+      "lfp",
+      "par",
+      "kat",
+      "pdk"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "lakefield",
+      "paris",
+      "kaitaia",
+      "atlanta"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "semanariouniversidad.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "caterpillarcr.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.extralum.com": {},
+  "www.vlr.gg": {},
+  "kemono.cr/": {},
+  "www.grupomutual.fi.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "craigslist99.com": {},
+  "pt.erome.com": {},
+  "www.inavirtual.ed.cr": {},
+  "bcrcomercial.bancobcr.com": {},
+  "www.filmaffinity.com/cr/main.html": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "motosformula.com": {},
+  "mega.nz": {},
+  "visorikigai.skteq.xyz": {},
+  "forms.office.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ],
+    "contentLocality": "us"
+  },
+  "catalogo.elexitocr.com": {},
+  "www.construplaza.com": {},
+  "www.hacienda.go.cr": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "site2.q10.com/login?ReturnUrl=/": {},
+  "www.banhvi.fi.cr": {},
+  "m.fanfiction.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "trabajosdiarios.co.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.volaris.com": {
+    "pop": [
+      "mia",
+      "kmi"
+    ],
+    "provider": [
+      "cloudfront",
+      "AWS (not CDN)",
+      "fastly"
+    ],
+    "location": [
+      "miami",
+      "miyazaki"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront, MISS, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "laguacaenlinea.cr": {},
+  "search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "m440.in": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "megaropa.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "rescatewildlife.org": {},
+  "tiroganador.com": {
+    "pop": [
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "jp"
+  },
+  "cr.tiendasishop.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "ccmcinemas.com": {},
+  "mat6tube.com/recent": {},
+  "sac.credix.com": {},
+  "es.xgroovy.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "facturacion.co.cr/site/inicio/": {},
+  "m.twitch.tv": {},
+  "www.numberposcr.com": {},
+  "es.m.wikipedia.org/wiki/Wikipedia:Portada": {
+    "cacheStatus": [
+      "HIT",
+      "cp1112 miss, cp1112 hit/2216",
+      "hit-front"
+    ]
+  },
+  "allxporno.com": {},
+  "lp-cr.openmobile.mobi": {},
+  "edu.google.com/intl/en-US/workspace-for-education/products/classroom/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "books.google.co.cr": {},
+  "transportessangabriel.com": {},
+  "almaceneselrey.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "almacenrojovivo.com": {},
+  "motortec.co.cr": {},
+  "nya2.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.twpornstars.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "app.facturadorvirtual.com/sesion/mostrar-inicio?ref=": {},
+  "www.google.com/account/about/?hl=en-US": {
+    "provider": [
+      "google"
+    ]
+  },
+  "wise.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "brain2exercise.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "lectorikigai.eltanews.com": {},
+  "obqj2.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "us02.procore.com/auth/procore": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "es.twpornstars.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "boxcorreos.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "grupov.integra.cr/login": {},
+  "tulandia.net": {},
+  "www.whatsapp.com": {},
+  "cr.indeed.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.diarioextra.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.wattpad.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "learn.microsoft.com/en-us/": {
+    "provider": [
+      "azure",
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Hit from child"
+    ]
+  },
+  "ricoysuave.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "open.spotify.com/": {
+    "pop": [
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "jp"
+  },
+  "character.ai": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "sucreenlinea.com": {},
+  "ucemcampus.ucem.ac.cr": {},
+  "www.moviltimes.com": {},
+  "apps.coopesa.com": {},
+  "educa.uned.ac.cr": {},
+  "e-hentai.org": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "insenlinea.grupoins.com": {},
+  "dgec.mep.go.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "secure.computrabajo.com/connect/authorize?client_id=redarbor.computrabajo.ac.web.client&response_type=code&scope=openid%20redarbor.computrabajo.ac.web.access%20portal_8%20app_32&code_challenge=Lha1t3Ly006W1PVzRnEF9d2vRQbmZOG4bLUgTh0le_M&code_challenge_method=S256&state=OpenIdConnect.AuthenticationProperties%3DLKTtYKOtNX1C1PvXIEm5odNWqfrz-VVpJNSn0plNyZJaPq9M0AB70DLy8lsrmpFWhHkIc7IUXLcq1CYiCb9YCO_mqLD7sbw4jUOiwvw9uc6au2sCa72m_FXUHFsWU-25pc0NENvrpLcpnqZL9YXlojc1sFRpURzwRwAGlPbNuJCFeimYP1aPK5MrIMQjVS_4HMjVWPEK6p-HTaxnAZlRJ2ftJfY&response_mode=form_post&nonce=638928659233172966.ZWNmNDE3ODgtZWFjNS00NWUwLWEwODctNDkzNWNkNWJhYTU2YjQ3NjNlYTMtNjhmNC00MzM5LWFlYTQtYzA2MTFhYzVkNDM5&redirect_uri=https://candidato.cr.computrabajo.com&prompt=login&x-client-SKU=ID_NET472&x-client-ver=8.0.1.0": {},
+  "la.spankbang.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "gemini.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "m.animeflv.net": {},
+  "es.pictoa.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "optoride.com": {},
+  "veohentai.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.mayca.com": {
+    "pop": [
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.payless.cr": {},
+  "auth.gosocket.net/core/connect/authorize?client_id=Gosocket.PaloAlto.Production&redirect_uri=https://www2.gosocket.net/&response_mode=form_post&response_type=code+id_token&scope=openid+email+write+profile&state=OpenIdConnect.AuthenticationProperties%3DUAf34Ul8kQBAwPzix95q14JGgLO0npBRg31eLOCa68shILVPj6DVSB2v31APo_5XWd0umZxrGEMvJAfVtPRO8GDggf84JSEDrPU9WR-fvnRWeef-PfRJ_uI5mhxTsZu6VXSEoY6Oo25t-L02Wrb4NHyTQbnJ4RUUmGvI1zxAlb-_HvKSeQVmegkgEXWy8ODP7ruqCJFNHmVK9io-xwCAV1-dDmweGHWxIZtx9SQ4yr9wDlLp&nonce=638928659334710213.ZTRmMmQyMTItNzdkZC00NWRkLWI1OTItYjUzYWFkNzAwOTdiYWZhMmE3MWItOGYzZS00MDZlLTkxZTItMmNjOTE3NGJhNjk0": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "ar.xhamster.com": {},
+  "link.me": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "mv2.mediacionvirtual.ucr.ac.cr/login/index.php": {},
+  "www.rree.go.cr": {},
+  "pgrweb.go.cr/": {},
+  "www.roblox.com": {},
+  "es.stardewvalleywiki.com/Stardew_Valley_Wiki": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "hit cached",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "sxyprn.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.imagefap.com": {},
+  "f3pes.mzgen.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "workspace.google.com/products/meet/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "ikigaitoon.prriegeurfhefieof.xyz": {},
+  "www.toyotacr.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "correo.ucr.ac.cr": {},
+  "www.steren.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.vaticannews.va": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "TCP_MISS"
+    ]
+  },
+  "www.mayoclinic.org": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.last.fm": {
+    "pop": [
+      "kat",
+      "pdk"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaitaia",
+      "atlanta"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "nz"
+  },
+  "one.google.com/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "servicios.migracion.go.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.youjizz.com": {},
+  "www.colonoconstruccion.com": {},
+  "www.unmejorempleo.co.cr": {},
+  "app.facturaprofesional.com": {},
+  "clashofclans-layouts.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "scotiaenlinea.scotiabank.fi.cr": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.buzzfeed.com/mx": {
+    "pop": [
+      "kia",
+      "iad",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "lacuerda.net": {},
+  "www.shutterstock.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "credid.net/ingresar?a=1&returnUrl=/": {},
+  "www.aya.go.cr": {},
+  "app.bsides.app": {},
+  "www.threads.com": {},
+  "migracion.go.cr": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.amazon.com.mx": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "app.aluracursos.com/loginForm?urlAfterLogin=%5BaHR0cHM6Ly9hcHAuYWx1cmFjdXJzb3MuY29tLw%5D": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "edition.cnn.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "ncrnoticias.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "us"
+  },
+  "www.gaymaletube.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.thesimsresource.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "outlook.office365.com/mail/": {
+    "pop": [
+      "sat"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "san antonio"
+    ],
+    "contentLocality": "us"
+  },
+  "s4.swnova.net": {},
+  "www.catalogoestilos.com": {},
+  "bebeautycostarica.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.lecturas.com": {},
+  "store.supercell.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "loyalty.coinmaster.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.fanmtl.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.efacturacr.com/sign_in": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "battwo.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  }
+}

@@ -1,0 +1,9003 @@
+{
+  "www.publix.com": {
+    "provider": [
+      "azure"
+    ]
+  },
+  "secure.therapservices.net": {},
+  "www.natomanga.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.kayak.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.myheritage.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "50-39828966-39829029 NNNY CT(2 4 0) RT(1757370163110 294) q(0 0 0 7) r(0 1) U6"
+    ],
+    "contentLocality": "us"
+  },
+  "sso.ailife.com/ImpactPortal/SecureAuth.aspx?client_id=a97eeaf1c52946e4a438a67fb95061f0&redirect_uri=https://impact.ailife.com/signin&response_type=code%20id_token&scope=openid%20profile%20offline_access&response_mode=form_post&nonce=638929669797392863.YmVlMjQ1NTMtMTRhNC00YjgwLWIyMjktYWVmNGY0YmM5YWUxMzU1OGEyYmMtZmEwMS00MWU0LWIzMGEtM2FmNTk5Y2E3OTc0&state=4d31b02c-16ae-4c27-8efe-190f6cc7758e&x-client-SKU=ID_NET8_0&x-client-ver=7.1.2.0": {},
+  "stake.us": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "login.aol.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.hilton.com": {},
+  "vinsolutions.app.coxautoinc.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.polybuzz.ai": {},
+  "workspace.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.bloomingdales.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "erothots.co": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.hollywoodreporter.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "kick.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.priceline.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "f1.apps.elf.edmentum.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.heavy-r.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "archiveofourown.org": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.timeanddate.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "lotto.pch.com": {},
+  "www.metrobyt-mobile.com": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Miss from child, Hit from parent"
+    ]
+  },
+  "www.xvideos.es": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.petfinder.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.mapquest.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.jcpenney.com": {},
+  "janitorai.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.twitch.tv": {},
+  "www.thegamer.com": {},
+  "www.deviantart.com": {
+    "pop": [
+      "mci"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "kansas city"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.nordstromrack.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.courts.mo.gov": {},
+  "portal.my.vccs.edu/idp/AuthnEngine": {},
+  "www.loopnet.com": {},
+  "www.xbox.com/en-US/": {},
+  "simpcity.cr": {},
+  "www.cardkingdom.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.cnn.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.galottery.com/en-us/home.html": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "app.pestpac.com": {},
+  "www.paramountplus.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.rent.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "oldschool.runescape.wiki": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "easyhomescreen.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.seattletimes.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "workspace.google.com/products/voice/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "parade.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.nfl.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "kia",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "kaiapit",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.lioden.com": {},
+  "www.zazzle.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "x.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.movieboxpro.app": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.belk.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.simplyrecipes.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.serebii.net": {},
+  "fr.xvideos.com": {},
+  "www.nitrotype.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "forum.questionablequesting.com": {},
+  "web.archive.org": {},
+  "www.ziprecruiter.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "us"
+  },
+  "espndeportes.espn.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "onboardicafe.com": {},
+  "www.autozone.com": {},
+  "www.silverdaddies.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ulta.com": {},
+  "studentaid.gov": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.expedia.com": {},
+  "www.harborfreight.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.torrid.com/on/demandware.store/Sites-torrid-Site/default/DDUser-Challenge?redirect=/on/demandware.store/Sites-torrid-Site": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "mydramalist.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.fragrancenet.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "disneyworld.disney.go.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.aznude.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.thestreet.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "citiretailservices.citibankonline.com": {},
+  "www.fanfiction.net": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "a1.denticon.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.apple.com/app-store/": {},
+  "www.churchofjesuschrist.org/?lang=eng": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "geediting.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.chewy.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.adidas.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.horoscope.com/us/index.aspx": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ihg.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.xnxx-arabic.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "hcm.paycor.com": {},
+  "www.healthsherpa.com/agents/features": {},
+  "www.cheezburger.com/": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "workspace.google.com/products/meet/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.scribd.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "id"
+  },
+  "rateyourmusic.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.eleadcrm.com/evo2/fresh/login.asp": {},
+  "www.flightaware.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "mail.aol.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "bustime.mta.info": {},
+  "www.aarp.org/games/": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "play.google.com/store/games?device=windows": {
+    "provider": [
+      "google"
+    ]
+  },
+  "hdporncomics.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.dndbeyond.com/error?aspxerrorpath=/": {
+    "pop": [
+      "kjy",
+      "iad",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.thepioneerwoman.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "accounts.spotify.com": {},
+  "www.baidu.com": {},
+  "www.tomshardware.com": {
+    "pop": [
+      "lon",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER"
+    ],
+    "contentLocality": "id"
+  },
+  "home.cricketwireless.com/en/home": {
+    "pop": [
+      "kia",
+      "iad",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "modo.us": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.zoom.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.familysearch.org/en/united-states/": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "3-91707222-91700737 SNNy RT(1757370167041 1128) q(0 0 0 -1) r(0 0) U24"
+    ],
+    "contentLocality": "us"
+  },
+  "word.tips": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.adobe.com": {},
+  "www.enterprise.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.costcotravel.com": {},
+  "pro.housecallpro.com/app": {},
+  "luticlip.com": {},
+  "www.ultimate-guitar.com/explore": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.hentai.name/home.html": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "gamerant.com": {},
+  "radar.weather.gov": {},
+  "dnd5e.wikidot.com": {},
+  "tracking.narvar.com": {},
+  "www.spectrum.net": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.kroger.com": {},
+  "xgroovy.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.sweetwater.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.doordash.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.sephora.com": {},
+  "www.apartments.com": {},
+  "onlylocalclub.com": {},
+  "www.reuters.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "imgur.com": {
+    "pop": [
+      "kwh",
+      "lax"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "khwahan",
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "af"
+  },
+  "one.google.com/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.zulacasino.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.carmax.com": {},
+  "www.tradingview.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.pinterest.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "secure.login.gov": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.drudgereport.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.proxibid.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "15-63686547-63686581 NNNN CT(61 121 0) RT(1757370178966 242) q(0 0 2 -1) r(8 8) U6"
+    ]
+  },
+  "www.ups.com": {},
+  "www.tomsguide.com": {
+    "pop": [
+      "lon",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER"
+    ],
+    "contentLocality": "id"
+  },
+  "mangatoto.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "pagesix.com": {
+    "cacheStatus": [
+      "STALE"
+    ]
+  },
+  "robinhood.com/us/en/": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "digital.fidelity.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "launchpad.classlink.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.yelp.com": {
+    "pop": [
+      "kmi",
+      "mia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "miyazaki",
+      "miami"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.upworthy.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.perfectgirls.xxx": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "xbato.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.youtube.com/?app=desktop": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.legacy.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "cn.pornhub.com": {},
+  "www.missyusa.com/mainpage/content/index.asp": {},
+  "www.mangago.me": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.theguardian.com/us": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.bloomberg.com": {},
+  "ww20.0123movie.net": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.amazon.in": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.stubhub.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "es.m.wikipedia.org/wiki/Wikipedia:Portada": {
+    "cacheStatus": [
+      "HIT",
+      "cp4040 miss, cp4040 hit/423",
+      "hit-front"
+    ]
+  },
+  "www.quora.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "itch.io": {
+    "cacheStatus": [
+      "BYPASS"
+    ]
+  },
+  "www.swinglifestyle.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "poshmark.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "login.webpt.com/u/login/identifier?state=hKFo2SBPX1ZiX01NLXpuNlhXQXNJNVllUVNHNk5QRkJDT0ExdaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGtGTXpic2VxazNyVmhLVWVfcUVidzJVZERRSlhGTEhBo2NpZNkgNVByUXJWZ3gxYmI0ZDNpM3p5ckVCYTk4Y1k0UUJwbnU": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "wordunscrambler.me": {},
+  "www.youporn.com": {},
+  "www.marlboro.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "contentLocality": "id"
+  },
+  "www.toplocalsingles.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.lookmovie2.to": {},
+  "www.cbssports.com": {},
+  "informeddelivery.usps.com/portal/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.patreon.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.opentable.com": {},
+  "home.paynearme.com/": {},
+  "auth.servicefusion.com/auth/login": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ashleyfurniture.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "sexbebin.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.the-sun.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "member.uhc.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "discord.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "allporncomic.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.royalroad.com/home": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ebay.com/n/error": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.amctheatres.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.teacherspayteachers.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.lotterypost.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "web.opticalpos.com": {},
+  "login.qqcatalyst.com/Error.aspx?aspxerrorpath=/oauth/authorize": {},
+  "www.aol.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "es.erome.com": {},
+  "www.dell.com": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Error from child"
+    ]
+  },
+  "getadblock.com/en/": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "business.google.com/us/business-profile/?ppsrc=GPDA2": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.evite.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.manualslib.com": {},
+  "www.independent.co.uk/us": {
+    "pop": [
+      "lga",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "new york",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "mobile.missyusa.com": {},
+  "thisvid.com": {},
+  "duckduckgo.com": {},
+  "en.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp4040 miss, cp4040 hit/7406",
+      "hit-front"
+    ]
+  },
+  "www.xvideos.com/": {},
+  "www.cox.com/residential/home.html": {
+    "pop": [
+      "kbu",
+      "bur",
+      "lax"
+    ],
+    "provider": [
+      "fastly",
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank",
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "0-23277566-23277597 SNNN RT(1757370171697 1354) q(0 0 0 0) r(1 1) U24"
+    ],
+    "contentLocality": "id"
+  },
+  "www.gunbroker.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.discover.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.goodrx.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "login.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.facebook.com/": {},
+  "squareup.com/us/en": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "people.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.barnesandnoble.com": {},
+  "www.dominos.com": {},
+  "comfrt.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.curseforge.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.midwayusa.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.tigerdroppings.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "PRIVATE_NOSTORE"
+    ]
+  },
+  "www.hoka.com": {
+    "pop": [
+      "lax",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "cloudflare",
+      "fastly"
+    ],
+    "location": [
+      "los angeles",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "floridalottery.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.mlb.com": {
+    "pop": [
+      "kig",
+      "chi",
+      "khh",
+      "hhr"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "koingnaas",
+      "kaohsiung city",
+      "hawthorne"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.ksl.com": {},
+  "www.zappos.com/kratos/c/zappos-homepage": {},
+  "www2.hm.com": {},
+  "rule34.xxx": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.illinoislottery.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.papajohns.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "phoenix.craigslist.org": {},
+  "www.xfinity.com": {},
+  "www.partsgeek.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "us"
+  },
+  "www.evike.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "baseball.fantasysports.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "shop.advanceautoparts.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "thetvapp.to": {},
+  "www.cnbc.com": {},
+  "www.mangakakalot.gg": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "hiring.amazon.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.qvc.com": {},
+  "www.rei.com": {},
+  "www.thekitchn.com": {
+    "pop": [
+      "lga",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "google",
+      "fastly"
+    ],
+    "location": [
+      "new york",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "ads.google.com": {},
+  "www.verywellhealth.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.famousbirthdays.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "create.roblox.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "weebcentral.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.newsweek.com": {
+    "cacheStatus": [
+      "HIT",
+      "hit"
+    ]
+  },
+  "www.ravelry.com/account/login": {},
+  "my.acculynx.com/signin?ReturnUrl=/": {
+    "pop": [
+      "kdf",
+      "dfw",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "dallas-fort worth",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.temu.com": {},
+  "www.sportskeeda.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.mocospace.com": {},
+  "kingbokep.tv/": {
+    "pop": [
+      "la1"
+    ],
+    "provider": [
+      "bunny"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT"
+    ]
+  },
+  "www.microcenter.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "patch.com": {
+    "pop": [
+      "kig",
+      "chi",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "koingnaas",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "palmettostatearmory.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "app.procore.com/auth/procore": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.grainger.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.va.gov": {},
+  "www.nj.com": {},
+  "www.dickssportinggoods.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly",
+      "akamai"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "contentLocality": "id"
+  },
+  "www.thespruce.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.linkedin.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "singles4locals.com": {},
+  "www.cnet.com": {},
+  "pokemondb.net": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.healthstream.com": {},
+  "www.pornhub.com": {},
+  "www.movoto.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.publix.org/": {},
+  "psiphon.news": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "nhentai.net": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.talbots.com/on/demandware.store/Sites-talbotsus-Site/default/PX-Show?url=aHR0cHM6Ly93d3cudGFsYm90cy5jb20vb24vZGVtYW5kd2FyZS5zdG9yZS9TaXRlcy10YWxib3RzdXMtU2l0ZQ%3D%3D&frame=1757370190524": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bestbuy.com": {},
+  "cash.app": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.roblox.com": {},
+  "news.yahoo.co.jp": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.usaa.com": {},
+  "danbooru.donmai.us": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "contentLocality": "us"
+  },
+  "www.petsmart.com": {},
+  "www.therealreal.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.carfax.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.mlbtraderumors.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "surveys.gobranded.com": {},
+  "e-hentai.org": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "pro.gamerelax365.bid": {},
+  "collider.com": {},
+  "silverdaddies.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ssa.gov": {},
+  "f2.apps.elf.edmentum.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "outlook.live.com/mail/": {
+    "pop": [
+      "mdw"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "chicago"
+    ],
+    "contentLocality": "us"
+  },
+  "bsky.app": {},
+  "sports.yahoo.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "onlinebanking.regions.com": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "13-45556101-0 PNNN RT(1757370191968 245) q(0 -1 -1 -1) r(0 -1) B12(14,0,0) U24"
+    ]
+  },
+  "www.politico.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "ssp.delta.com/content/dam/delta-www/sorry-server/delta_sorry.html": {},
+  "www.crocs.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.wattpad.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "store.steampowered.com": {},
+  "www.united.com": {},
+  "www.t-mobile.com": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Hit from child"
+    ]
+  },
+  "www.wifelovers.com": {},
+  "access.paylocity.com": {},
+  "www.infobae.com/america/": {},
+  "stripchat.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.governmentjobs.com": {},
+  "247sports.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "id"
+  },
+  "www.newsmax.com": {},
+  "www.auctionninja.com": {},
+  "www.costco.com": {},
+  "game8.co": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.petco.com/shop/en/petcostore": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "id.xhamster.com": {},
+  "faphouse.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "healthy.kaiserpermanente.org/front-door": {},
+  "hentairead.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "myactivity.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.guitarworld.com": {
+    "pop": [
+      "lon",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER"
+    ],
+    "contentLocality": "id"
+  },
+  "www.myfitnesspal.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "myflixerz.to": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.xnxx.es": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "sfbay.craigslist.org": {},
+  "www.dmv.ca.gov": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.tiktok.com/explore": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "TCP_MISS from a23-48-163-102.deploy.akamaitechnologies.com (AkamaiGHost/22.2.3-dd2e9ddb9a7176afbd825015b8856261) (-)"
+    ]
+  },
+  "www.webstaurantstore.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.upwork.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.yelp.com/": {
+    "pop": [
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.caranddriver.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.lanacion.com.ar": {},
+  "www.google.com/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.nba.com": {},
+  "solitaired.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.npr.org": {},
+  "www.camsoda.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "secure.indeed.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.verizon.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.vistaprint.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www1.flightrising.com": {},
+  "losangeles.craigslist.org": {},
+  "boardgamegeek.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "m.facebook.com": {},
+  "verified.capitalone.com/auth/": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ashleystewart.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.booking.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "order.online": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "9animetv.to": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "accounts.nintendo.com": {},
+  "es.pornhub.com": {},
+  "www.carvana.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.smithsonianmag.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bankofamerica.com": {},
+  "www.paypal.com/us/home": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS, MISS, MISS, MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.samsung.com": {},
+  "system.gotsport.com": {},
+  "myanimelist.net": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "NotCacheable from child"
+    ]
+  },
+  "www.carparts.com": {},
+  "www.cinemark.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "photo.walgreens.com/store/home": {},
+  "www.dailymotion.com": {},
+  "www.cvs.com": {},
+  "workspace.google.com/intl/en-US/products/drive/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "learn.microsoft.com/en-us/": {
+    "provider": [
+      "azure",
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Hit from child"
+    ]
+  },
+  "www.chess.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "scryfall.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.samsclub.com/are-you-human?url=Lw==&uuid=651ba605-8d02-11f0-947a-91e912edb9bc&vid=&g=b": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.affirm.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.dignitymemorial.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.glassdoor.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.imagefap.com/": {},
+  "gemini.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "pro.safeshieldai.bid": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.thesimsresource.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.buzzfeed.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.lipstickalley.com": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "newark"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "BYPASS"
+    ],
+    "contentLocality": "us"
+  },
+  "tv-sporten.com": {
+    "pop": [
+      "ny1"
+    ],
+    "provider": [
+      "bunny"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.etsy.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.victoriassecret.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "rule34.us": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "kinnser.net/login.cfm": {},
+  "www.lanebryant.com/verify?url=aHR0cHM6Ly93d3cubGFuZWJyeWFudC5jb20vb24vZGVtYW5kd2FyZS5zdG9yZS9TaXRlcy1MYW5lQnJ5YW50LVNpdGU%3D&frame=1757370190266": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "my.roku.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.clubready.club/": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.att.com": {},
+  "mangapark.net": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.dotloop.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.lowes.com": {},
+  "www.fedex.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.lego.com/en-us": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.greatwolf.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "flingpals.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.vlr.gg": {},
+  "www.menards.com": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "59-61195301-0 PNNN RT(1757370192253 237) q(0 -1 -1 -1) r(0 -1) B12(14,0,0) U6"
+    ]
+  },
+  "www.drugs.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.maurices.com": {},
+  "escortbabylon.net/cities_list": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "apnews.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.toyota.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "biblehub.com": {},
+  "fling2night.com": {},
+  "www.thedailybeast.com": {},
+  "www.chumbacasino.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.latimes.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.vogue.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "exhentai.org": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "login.chumbacasino.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.michaels.com": {},
+  "www.carnival.com": {},
+  "www.acehardware.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.weather.gov": {},
+  "workplaceservices.fidelity.com": {},
+  "www.tesla.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.ixl.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "gelbooru.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.fanatics.com": {},
+  "www.alaskaair.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "azure",
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE, MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "open.spotify.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "hdtodayz.to": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "m.online.adp.com": {},
+  "www.imdb.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.applebees.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "mpo.pch.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "americansongwriter.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.thegatewaypundit.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "STALE",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.disneystore.com": {
+    "pop": [
+      "dfw"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "dallas-fort worth"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.audible.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.uhaul.com": {},
+  "nypost.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.medicare.gov": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "my.clevelandclinic.org": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.pa.gov": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly",
+      "azure"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "CONFIG_NOCACHE"
+    ],
+    "contentLocality": "id"
+  },
+  "www.goodreads.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "slickdeals.net": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "fapello.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.crunchyroll.com": {
+    "pop": [
+      "sfo",
+      "lax"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "san francisco",
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.nbcnews.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.cbr.com": {},
+  "adultsearch.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "kemono.cr/": {},
+  "growagarden.fandom.com/wiki/Grow_a_Garden_Wiki": {
+    "pop": [
+      "sjc",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "san jose",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.allrecipes.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bjs.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "shop.coinmaster.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.calculator.net": {},
+  "www.gettyimages.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.roomies.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.therapynotes.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.creditonebank.com": {},
+  "track.doordash.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.spokeo.com": {},
+  "secure.ssa.gov": {},
+  "www.verizon.com/?tab=personal": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "us2.concursolutions.com": {},
+  "guard.io": {
+    "pop": [
+      "iad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.baiyastores.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "bringatrailer.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.icloud.com": {},
+  "www.fiverr.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.gayporntube.com": {},
+  "genius.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "support.google.com": {},
+  "invoicecloud.net/": {
+    "pop": [
+      "kig",
+      "chi",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "koingnaas",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT, MISS, MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "www.redbubble.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "mangadex.org": {},
+  "sniffies.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "login.xfinity.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.baseball-reference.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.facebook.com": {},
+  "www.reddit.com": {},
+  "www.wsj.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "amp.xvideos.com": {},
+  "www.texaslottery.com/export/sites/lottery/index.html": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.mlb.com/milb": {
+    "pop": [
+      "klo",
+      "chi",
+      "khh",
+      "hhr"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kalibo",
+      "kaohsiung city",
+      "hawthorne"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS"
+    ],
+    "contentLocality": "ph"
+  },
+  "www.cricketwireless.com": {},
+  "www.gamestop.com": {
+    "pop": [
+      "stl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "st louis"
+    ],
+    "contentLocality": "us"
+  },
+  "www.hulu.com/welcome": {},
+  "www.jigsawplanet.com": {},
+  "ring.com": {},
+  "letterboxd.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "wol.jw.org": {},
+  "www.thriftbooks.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "forums.spacebattles.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.boostmobile.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.4chan.org/": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.autotrader.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.newspapers.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "escortalligator.com.listcrawler.eu": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.nhc.noaa.gov": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.thedodo.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "yolo.com.listcrawler.eu": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.goodhousekeeping.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ]
+  },
+  "www.tnaflix.com": {},
+  "www.travelandleisure.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "history.paypal.com/us/home": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.hobbylobby.com": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "11-30189061-0 NNNN RT(1757370202793 231) q(0 -1 -1 2) r(0 -1) B12(14,0,0) U24"
+    ]
+  },
+  "playhop.com": {},
+  "www.loft.com/on/demandware.store/Sites-Loft-Site/default/PX-Show?url=aHR0cHM6Ly93d3cubG9mdC5jb20vb24vZGVtYW5kd2FyZS5zdG9yZS9TaXRlcy1Mb2Z0LVNpdGU%3D&frame=1757370203794": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "hianime.to": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.rockauto.com": {},
+  "aryion.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.tcgplayer.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.axios.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "pokefarm.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.walmart.com": {},
+  "search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "battwo.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "eldenring.wiki.fextralife.com/Elden+Ring+Wiki": {
+    "pop": [
+      "la1"
+    ],
+    "provider": [
+      "bunny"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.clever.com/": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.famousfootwear.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.hotels.com": {},
+  "www.on3.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "video.search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.redfin.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.yahoo.com": {},
+  "rumble.com": {},
+  "tvtropes.org": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.michaelkors.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.britannica.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.tripadvisor.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.uline.com": {},
+  "fa.m.wikipedia.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C": {
+    "cacheStatus": [
+      "HIT",
+      "cp4040 miss, cp4040 hit/5",
+      "hit-front"
+    ]
+  },
+  "imhentai.xxx": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "timesofindia.indiatimes.com/us": {},
+  "www.pnc.com": {},
+  "www.aparat.com": {},
+  "www.smartinmate.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "workspace.google.com/intl/en-US/gmail/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "auth.uber.com/v2/": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.thelocaldate.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.whitepages.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.si.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "calendly.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.motor1.com": {
+    "cacheStatus": [
+      "HIT",
+      "HIT!"
+    ]
+  },
+  "www.wco.tv": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.furaffinity.net": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.edjoin.org": {},
+  "www.hottopic.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ford.com": {},
+  "account.samsung.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "gizmodo.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.aarp.org": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.usps.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "en.m.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp4040 miss, cp4040 hit/3141",
+      "hit-front"
+    ]
+  },
+  "www.pricecharting.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "yts.mx": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "callescort.org": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.pixiv.net": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.pcgamer.com": {
+    "pop": [
+      "lon",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS-CLUSTER"
+    ],
+    "contentLocality": "id"
+  },
+  "athleteoftheyear.org": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.accuweather.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "scholar.google.com": {},
+  "www.fpo.xxx": {},
+  "www.polygon.com": {},
+  "www.bigbadtoystore.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.justanswer.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "nclottery.com": {},
+  "us02.procore.com/auth/procore": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "v.daum.net": {},
+  "www.hindustantimes.com/world-news/us-news": {},
+  "login.dealertrack.app.coxautoinc.com/public/login.fcc?TYPE=33554432&REALMOID=06-07eaea38-1dc3-45d5-994e-6c58b5ebda80&GUID=&SMAUTHREASON=0&METHOD=HEAD&SMAGENTNAME=$SM$ueKpvC3yNnGXcYpAjaQ2/8wFVmnGwmZT4jKZQAEOKom2x7MLmUt1TnunafU0id7A&TARGET=$SM$http://ww2.dealertrack.app.coxautoinc.com/": {},
+  "www.newgrounds.com": {},
+  "id.merchantos.com/login?client_id=21c05b92d10a65b9f97c5af7cfc1e5d9&redirect_uri=https://cloud.merchantos.com/admin/auth/oidc/callback&response_type=code&scope=openid&state=4FTgSJahV3PErQ8vdNNk0BwL89VBdTdDTSfV5MJi&product=retail&login_domain=merchantos.com&exp=1757373839205": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.pch.com": {},
+  "chaturbate.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.pornpics.com": {},
+  "www.straighttalk.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "16-35733638-35733702 NNNY CT(68 140 0) RT(1757370210778 335) q(0 0 0 -1) r(1 1) U6"
+    ]
+  },
+  "www.dollargeneral.com": {
+    "pop": [
+      "kdf",
+      "dfw"
+    ],
+    "provider": [
+      "fastly",
+      "akamai"
+    ],
+    "location": [
+      "dallas-fort worth"
+    ],
+    "cacheStatus": [
+      "NotCacheable from child"
+    ],
+    "contentLocality": "us"
+  },
+  "www.youjizz.com": {},
+  "www.recreation.gov": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.saksfifthavenue.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ashemaletube.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ancestry.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bankofamerica.com/?TYPE=33554433&REALMOID=06-000aea23-f082-1f06-b383-082c0a2840b5&GUID=&SMAUTHREASON=0&METHOD=HEAD&SMAGENTNAME=-SM-Aozvcgyma8RplVH%2B8S6WlYV1Rj/uK51Fl1d3cfn%2B1bprEdWbD4PxjMzaY%2BYiJydB&TARGET=-SM-https://secure.bankofamerica.com/": {},
+  "www.macys.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "fetlife.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "hanime1.me": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "pcpartpicker.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.shesfreaky.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.basspro.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.conectate.com.do": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "passwords.google.com/intro": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.espncricinfo.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.aa.com": {},
+  "lichess.org": {},
+  "www.swagbucks.com": {},
+  "pm.eyefinity.com/Login?ReturnUrl=/": {},
+  "www.starfall.com/h/": {},
+  "www.coolmathgames.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.superporn.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.potterybarn.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "steamcommunity.com": {},
+  "booru.allthefallen.moe": {},
+  "newyork.craigslist.org": {},
+  "mangabuddy.com/official": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.foxnews.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly",
+      "akamai"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "contentLocality": "pg"
+  },
+  "order.toasttab.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.mayoclinic.org": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.google.com/account/about/?hl=en-US": {
+    "provider": [
+      "google"
+    ]
+  },
+  "crowncoinscasino.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.pussyspace.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "quizlet.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.albumoftheyear.org": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.msnbc.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "telegram.org/": {},
+  "www.nexusmods.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.lpsg.com": {},
+  "www.threads.com": {},
+  "www.apple.com": {},
+  "www.healthline.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "unionrayo.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.sportsmans.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.dairyqueen.com/en-us/": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "TCP_REMOTE_HIT"
+    ]
+  },
+  "www.viator.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.walmart.com/": {},
+  "www.fastpeoplesearch.com": {
+    "pop": [
+      "iad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "washington"
+    ],
+    "contentLocality": "us"
+  },
+  "www.merriam-webster.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.kohls.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "contentLocality": "id"
+  },
+  "www.usatoday.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ]
+  },
+  "www.id.me": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.pizzahut.com": {},
+  "www.sfgate.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "id"
+  },
+  "www.tractorsupply.com": {},
+  "mobile.squirt.org": {},
+  "transx.com.listcrawler.eu": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.69shuba.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.cbsnews.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.rottentomatoes.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "xhamster.desi": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "myaccount.uscis.gov": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.indeed.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "login.kroger.com": {},
+  "deadline.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "currently.att.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.bilibili.com": {},
+  "www.southwest.com/inflight-entertainment-portal/": {},
+  "www.progressive.com": {},
+  "www.truepeoplesearch.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "contentLocality": "us"
+  },
+  "www.autoevolution.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "contentLocality": "us"
+  },
+  "www.classmates.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "login.brightree.net/connect/authorize?client_id=Dme.Web.Client&redirect_uri=https://brightree.net/signin-oidc&response_mode=form_post&response_type=code%20id_token&scope=Dme.User%20openid%20profile%20DocumentManagementAPI%20Brightree.Survey.Api&state=OpenIdConnect.AuthenticationProperties%3Dsy9x3xfidrESe85X-KrQElvaYwfCpSpV-eS2IJd29LdgvIt6B_1RpBanIOC_08nDNmVMDxcRZ1t91kLZTVKB83J6H8RBhdNYrWKCh7uL7lv4JA7WyiaTgxHN26Jm1tky01MC0yCb9f8tavZQkwYdCm0w6tRvoHBMtlj_E8ZN7DyyZseo-XPSLrjt8O0i9ihhThFFl2gWy9LpfB49mA7KOH2kMxCXy6AIJr_at3IZfWI&nonce=638929670429118818.MWI4OThiYjctMWY4Ny00MDU5LWE1N2EtZjk4OWFhNGY5Y2YzZmUzOTliM2YtNjVmYi00ODQxLTgyY2ItOTQwNjExODAwOWJh&prompt=login&x-client-SKU=ID_NET461&x-client-ver=5.7.0.0": {},
+  "portland.craigslist.org": {},
+  "www.lotteryusa.com": {},
+  "skipthegames.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "contentLocality": "us"
+  },
+  "www.wellsfargo.com": {},
+  "scratch.mit.edu": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "id"
+  },
+  "maps.apple.com": {
+    "cacheStatus": [
+      "TCP_MISS from a23-39-209-167.deploy.akamaitechnologies.com (AkamaiGHost/22.2.3-dd2e9ddb9a7176afbd825015b8856261) (-)"
+    ]
+  },
+  "www.homedepot.com": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://uc.appengine.google.com/_ah/conflogin?state%3D~AJKiYcHyF1MsiO4p_bdDADmbkm2Yzak8N7AYsY3hgHs_0_LGmp9FTE2FvPbiBx8tpN3ujssFxm1LyCjPyOCsA3-FFeHz7rMIB3AiMF_tMrUORCBfnYIuRTSuRYxXQwK_MlKorMQauyyZzd6RT8cy0COD9arHGRZe7YK_yU_gVxSkvJJGDUJqQPFlYi4PeMp-cEJ3z20myQ7c&ifkv=AfYwgwVO2RhrTqsbHjnbLmiCz6ZFGgX_IBElGHhV_i80DaR_c9cZLCtl8I1UoXVCK2zfsGZjjLp4&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1547179874:1757370222180511": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.trulia.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.sciencealert.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "us"
+  },
+  "admin.shopify.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "en.luxuretv.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "twistedsifter.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.tmz.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "support.microsoft.com/en-us": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "xnxx.health": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.snapchat.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "nextdoor.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.airbnb.com": {},
+  "inkbunny.net": {},
+  "spankbang.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "m.wcostream.tv": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.eonline.com": {},
+  "aternos.org/:en/": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "login.paylocity.com": {},
+  "www.eporner.com": {},
+  "www.mcdonalds.com/us/en-us.html": {
+    "pop": [
+      "sjc"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "san jose"
+    ],
+    "contentLocality": "us"
+  },
+  "www.literotica.com": {},
+  "www.monopolygo.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.rvtrader.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.xvideos.com": {},
+  "www.apartmenthomeliving.com": {},
+  "www.zola.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.espn.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "mto.to": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "screenrant.com": {},
+  "www.ultimate-guitar.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.yourtango.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bing.com": {},
+  "www.landsend.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.breitbart.com": {
+    "cacheStatus": [
+      "107087608 107087575",
+      "HIT"
+    ]
+  },
+  "hentaifox.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.paycom.com/": {},
+  "music.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.foodnetwork.com": {},
+  "www.guitarcenter.com": {},
+  "www.equibase.com": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "9-52633199-0 NNNY RT(1757370235180 260) q(0 -1 -1 -1) r(0 -1) B12(14,0,0) U6"
+    ]
+  },
+  "prizegrab.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "m.cricbuzz.com": {},
+  "www.bedbathandbeyond.com": {},
+  "imgsrc.ru": {},
+  "openai.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "novelbin.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "onlinebanking.mtb.com": {},
+  "www.xnxx.com": {},
+  "www.sfchronicle.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "id"
+  },
+  "funnyjunk.com": {},
+  "reg.usps.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.ixxx.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.fandango.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.gamesradar.com": {
+    "pop": [
+      "lon",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER"
+    ],
+    "contentLocality": "id"
+  },
+  "login.yahoo.com/?.src=ym&pspid=159600001&activity=mail-direct&.lang=en-US&.intl=us&.done=https://mail.yahoo.com/d": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.microsoft.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "m.fanfiction.net": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "hentaihaven.xxx": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.neopets.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.webmd.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.zerohedge.com": {},
+  "www.techradar.com": {
+    "pop": [
+      "lon",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS-CLUSTER"
+    ],
+    "contentLocality": "id"
+  },
+  "www.wowhead.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.instyle.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "missav.ws": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "myreadingmanga.info": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "old.reddit.com": {},
+  "www.fidelity.com": {},
+  "portal.onehome.com/en-US/": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "13-126151482-126151497 SNNN RT(1757370253369 779) q(0 0 0 0) r(1 1) U6"
+    ]
+  },
+  "myhentaigallery.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.jw.org": {},
+  "www.islands.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.nike.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.ncl.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "my.uscis.gov": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "quickbooks.intuit.com": {},
+  "www.aliexpress.us": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.amtrak.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.bathandbodyworks.com": {
+    "pop": [
+      "iad",
+      "kjy",
+      "kcg",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront",
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "chignik",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "HIT",
+      "Hit from cloudfront, MISS, HIT, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.zennioptical.com": {},
+  "client.schwab.com": {},
+  "archive.org": {},
+  "www.wcoflix.tv": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "toyhou.se": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.adam4adam.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "accounts.craigslist.org/login": {},
+  "motherless.com": {},
+  "images.search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "gamefaqs.gamespot.com": {},
+  "www.pornhat.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "chromewebstore.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.covers.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.academy.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "employers.indeed.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.capitalone.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "cardgames.io": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "onlineaccess.ncsecu.org/o/login.aspx": {},
+  "www.setlist.fm": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "finance.yahoo.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.skechers.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.chase.com": {},
+  "megapersonals.eu": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "app.ezlynx.com/auth/account/login": {},
+  "operations.daxko.com/Login?ReturnUrl=/": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "movieweb.com": {},
+  "www.rawstory.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.sporcle.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "seattle.craigslist.org": {},
+  "www.resetera.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "si2.schwabinstitutional.com/SI2/SecAdmin/Logon.aspx?to=/SI2/Home/Default.aspx": {},
+  "www.crazygames.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "provision.vauto.app.coxautoinc.com/Va/api/vauto/oauth2Callback/V1/landingPage?returnUrl=/Va": {},
+  "www.talkie-ai.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "clients.mindbodyonline.com/Error?aspxerrorpath=/Launch": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.varzesh3.com": {
+    "cacheStatus": [
+      "EXPIRED"
+    ]
+  },
+  "artfight.net": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.kbb.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "github.com": {},
+  "www.crosswordsolver.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "pubmed.ncbi.nlm.nih.gov": {},
+  "outlook.office365.com/mail/": {
+    "pop": [
+      "dsm"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "des moines"
+    ],
+    "contentLocality": "us"
+  },
+  "www.fragrantica.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "m.imdb.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "worldstarhiphop.com/videos/": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "wise.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.boredpanda.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.sustainability-times.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.shopify.com/": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.sportingnews.com/us": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "cms.officeally.com": {
+    "pop": [
+      "iad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/&followup=https://sites.google.com/&ifkv=AfYwgwUKEfgBO3nnj3hM1IEoIiifrqpd48jCuH6cpEjbtxIvvkzliMGoW5uF926sYzaHCLEaNqPnaQ&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S455980829:1757370236779049": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.totalwine.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.regmovies.com": {
+    "pop": [
+      "ord"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "chicago"
+    ],
+    "contentLocality": "us"
+  },
+  "www.usmagazine.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.newegg.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "admin.google.com": {},
+  "www.imagefap.com": {},
+  "oldnavy.gap.com/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.eatingwell.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.livescience.com": {
+    "pop": [
+      "lon",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER"
+    ],
+    "contentLocality": "id"
+  },
+  "www.marketwatch.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.tacobell.com": {},
+  "fortune.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "sellercentral.amazon.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.cambro.tv": {},
+  "www.hltv.org": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.synchrony.com": {},
+  "www.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.strava.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "abcnews.go.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "search-load.com": {},
+  "www.officedepot.com": {},
+  "www.ticketmaster.com": {
+    "pop": [
+      "kjy",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bostonglobe.com": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://www.youtube.com/signin?action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fstudio.youtube.com%252F%26feature%3Dredirect_login&hl=en&ifkv=AfYwgwW-sLBNYnYqETvlXES1zOZPFnMxT373cWIaFbpoQl7bx-EoWS9ICFFIJKr2wYrHHa5m2flMVQ&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S2081876637:1757370238625103": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.napaonline.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "bato.si": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.webtoons.com/en/": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.washingtonpost.com": {},
+  "noodlemagazine.com/new-video": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.gamingbible.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "edu.google.com/intl/en-US/workspace-for-education/products/classroom/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.paris2018.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "toddleroftheyear.org": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.thingiverse.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "tryst.link": {},
+  "www.abercrombie.com/shop/us": {
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ]
+  },
+  "www.frontlineeducation.com/solutions/recruiting-hiring/applicant-tracking/?utm_source=applitrack&utm_medium=referral&utm_campaign=applitrack-redirect": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "2-11863865-11863873 NNNN CT(1 4 0) RT(1757370270933 241) q(0 0 0 9) r(1 1) U24"
+    ],
+    "contentLocality": "us"
+  },
+  "www.irs.gov": {},
+  "amp.xnxx.com": {},
+  "store.usps.com": {},
+  "translate.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "character.ai": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "multporn.net": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.vevor.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "mobile.southwest.com": {},
+  "ww1.goojara.to": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.retailmenot.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.kantimehealth.net": {},
+  "myidentity.platform.athenahealth.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "outlook.office.com/mail/": {
+    "pop": [
+      "cys"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "cheyenne"
+    ],
+    "contentLocality": "us"
+  },
+  "www.discover.com/credit-cards/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.bricklink.com/v2/main.page": {},
+  "f95zone.to": {},
+  "us.etrade.com/home": {},
+  "pm.nextech.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.employeenavigator.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "3-36243893-36243917 NNNY CT(57 56 0) RT(1757370244937 221) q(0 0 0 10) r(0 0) U6"
+    ]
+  },
+  "rule34.paheal.net": {},
+  "www.findagrave.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.worldatlas.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.twpornstars.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.chick-fil-a.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.torquenews.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.tvinsider.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "us"
+  },
+  "m.tjmaxx.tjx.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.tumblr.com": {},
+  "chatgpt.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.dailymail.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "asuracomic.net": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.llbean.com": {},
+  "cards.barclaycardus.com": {},
+  "adultfriendfinder.com": {},
+  "pornone.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.sanmar.com": {},
+  "www.southwest.com": {},
+  "oldnavy.gap.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.nordstrom.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "slate.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "travel.state.gov/content/travel.html": {},
+  "onlinebanking.huntington.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "purdueglobal.brightspace.com/d2l/loginh/": {
+    "pop": [
+      "iad"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.amazon.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "myhentaicomics.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.wunderground.com": {},
+  "sxyprn.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.routeone.net": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bbc.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "id"
+  },
+  "business.facebook.com": {},
+  "www.the-independent.com": {
+    "pop": [
+      "egl",
+      "lhr",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "et"
+  },
+  "www.chathourmobile.com": {},
+  "www.ikea.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare",
+      "azure"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.thecooldown.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "aypapi.com.listcrawler.eu": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "news.google.com/home?hl=en-US&gl=US&ceid=US:en": {
+    "provider": [
+      "google"
+    ]
+  },
+  "thehalara.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.firstenergycorp.com/fehome.html": {},
+  "www.instagram.com": {},
+  "www.xpaja.net": {},
+  "poki.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.pulsz.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "accounts.intuit.com/app/sign-in?route_case=legacyRedirect": {},
+  "hitomi.la": {},
+  "login.xtime.com": {},
+  "www.eyemed.com/en-us": {},
+  "www.redgifs.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "txn2.healthfusionclaims.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "e621.net": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "web.whatsapp.com": {},
+  "www.forbes.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "id"
+  },
+  "www.creditkarma.com/Error_Credit_Karma.htm?referenceerror=18.8977d917.1757370250.1a2e818f": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.rxinform.org/": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "shop.app": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "auth.hulu.com": {
+    "pop": [
+      "khh",
+      "hhr"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaohsiung city",
+      "hawthorne"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "tw"
+  },
+  "www.nbcsports.com": {
+    "pop": [
+      "atl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "atlanta"
+    ],
+    "contentLocality": "us"
+  },
+  "cooking.nytimes.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "id"
+  },
+  "stardewvalleywiki.com/Stardew_Valley_Wiki": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "hit cached",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://accounts.google.com/&followup=https://accounts.google.com/&ifkv=AfYwgwXCdHcQUbgSehciAx95XQb5ujd8Y-xy3gWj1nTMsJaYEa7293PteqoC7zSI1Gnm9YfO7XxFDA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S2080925869:1757370250416862": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.foxbusiness.com": {
+    "pop": [
+      "kda",
+      "dfw",
+      "kdf"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kolda",
+      "dallas-fort worth"
+    ],
+    "contentLocality": "sn"
+  },
+  "tools.usps.com/go/TrackConfirmAction_input": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.groupon.com": {},
+  "gamebanana.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.alibaba.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.msn.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ],
+    "contentLocality": "us"
+  },
+  "www.summitracing.com": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "11-147053635-0 PNNN RT(1757370253583 755) q(0 -1 -1 -1) r(0 -1) B12(14,0,0) U6"
+    ]
+  },
+  "www.nytimes.com": {
+    "pop": [
+      "lga",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "new york",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.usajobs.gov": {
+    "provider": [
+      "azure"
+    ]
+  },
+  "www.gofundme.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.hollisterco.com/shop/us": {
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ]
+  },
+  "www.americanexpress.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.getjobber.com/": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.homes.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "en.boardgamearena.com/": {},
+  "www.wolvden.com": {},
+  "bato.to": {},
+  "onlyfans.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.biblegateway.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.realtor.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.sofi.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "twentytwowords.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.redtube.com": {},
+  "www.discogs.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.theatlantic.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "kwh",
+      "lax"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "khwahan",
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.ebay.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "linktr.ee": {
+    "pop": [
+      "pdx",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "cloudflare",
+      "fastly"
+    ],
+    "location": [
+      "portland",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT",
+      "HIT, HIT, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.instacart.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.mensjournal.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.disneyplus.com": {},
+  "www.netflix.com": {},
+  "www.revolve.com": {},
+  "messages.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.huffpost.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.boyfriendtv.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "shahvani.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "variety.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.hsn.com": {},
+  "support.apple.com": {},
+  "www.oreillyauto.com": {},
+  "www.redlobster.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "athlonsports.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "vegoutmag.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.southernliving.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "freecash.com/en": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "weblogin.asu.edu/cas/login?service=https://canvas.asu.edu/login/cas": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "comicbook.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bbb.org": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "doublelist.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.parentsquare.com": {},
+  "www.taktube.net": {},
+  "www.wayfair.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "app.hubspot.com/home-beta": {
+    "pop": [
+      "lax",
+      "dfw"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "los angeles",
+      "dallas-fort worth"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "olui2.fs.ml.com/login/signin.aspx": {},
+  "www.fool.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.rentacenter.com": {},
+  "www.consumerreports.org": {
+    "pop": [
+      "phx"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "phoenix"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.citi.com": {},
+  "rule34video.com": {},
+  "www.walgreens.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.dropbox.com": {},
+  "www.zillow.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.vrbo.com": {},
+  "thehill.com": {
+    "pop": [
+      "kew",
+      "ewr"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "keewaywin",
+      "newark"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "weather.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "the.streameast.app": {},
+  "www.canva.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.nastykinkpigs.com": {},
+  "www.rolimons.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "m.shein.com/us/?cdn_rsite=cf&ref=m&rep=dir&ret=mus": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.cars.com": {},
+  "www.xnxx.com/": {},
+  "online.citi.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.delish.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ]
+  },
+  "pmc.ncbi.nlm.nih.gov": {},
+  "www.torn.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "aniwatchtv.to": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.google.com/photos/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.nps.gov/index.htm": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.target.com": {},
+  "www.erome.com": {},
+  "loyalty.coinmaster.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.epicgames.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "us.shein.com": {},
+  "iporntv.net": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.cargurus.com": {
+    "pop": [
+      "kwh",
+      "lax"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "khwahan",
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "af"
+  },
+  "identityauth.kaiserpermanente.org": {},
+  "digitalapps.navyfederal.org": {},
+  "honeytoon.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "m.adam4adam.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.fashionnova.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "www.uscis.gov": {},
+  "smf.accounts.redtailtechnology.com/?Product=tailwag&ReturnURL=https://crm.redtailtechnology.com/login": {},
+  "www.businessinsider.com": {
+    "pop": [
+      "kjy",
+      "iad",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "workspace.google.com/intl/en-US/products/calendar/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.royalcaribbean.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "contentLocality": "id"
+  },
+  "www.marriott.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.ign.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "kte",
+      "nyc"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "kerteh"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&ifkv=AfYwgwVtgfvpNGEyScySJEzml9Vk-pt5_Q3ksIgb1D8PMh12RoKGMQJab3XIReYxZnP-T-lfrqIv&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1107082828:1757370274151611": {
+    "provider": [
+      "google"
+    ]
+  }
+}

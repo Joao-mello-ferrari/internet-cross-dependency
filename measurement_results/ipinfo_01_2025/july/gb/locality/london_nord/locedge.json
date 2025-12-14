@@ -1,0 +1,9464 @@
+{
+  "www.easyliveauction.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "learn2.open.ac.uk": {},
+  "archive.org": {},
+  "mobile.ghanaweb.com": {},
+  "nhentai.net/regulatory_blocked": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.getyourguide.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "cardgames.io": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.waitrose.com": {},
+  "myanimelist.net": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "NotCacheable from child"
+    ]
+  },
+  "login.aol.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.liverpoolecho.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "itv7.itv.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.xnxx.com/": {},
+  "tuclothing.sainsburys.co.uk": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Miss from child, Miss from parent"
+    ]
+  },
+  "www.famousbirthdays.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "onlyfans.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.gov.uk/browse/visas-immigration": {
+    "pop": [
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.charityjob.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.theworks.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.reed.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "business.facebook.com": {},
+  "footballleagueworld.co.uk": {},
+  "hmv.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.curseforge.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.mandmdirect.com": {},
+  "www.nhs.uk": {},
+  "thefappeningblog.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.nike.com/gb/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "inpost.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.healthline.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "boardgamegeek.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "darkero.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "1337x.to": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "toyhou.se": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.twitch.tv": {},
+  "edition.cnn.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.wowhead.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "archiveofourown.org": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "xhamster.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.botb.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.dartsatlas.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.jdwilliams.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.revcomps.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "search-sprint.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.virginmedia.com": {
+    "provider": [
+      "google"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.horoscope.com/us/index.aspx": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "workspace.google.com/intl/en-US/products/drive/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "outlook.office.com/mail/": {
+    "pop": [
+      "cwl"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "cardiff"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.tesco.com": {},
+  "www.theforum365.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.haven.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "validate.perfdrive.com/af62efb1b5e86b9ae6a6bcd585b60919/?ssa=c0444c2e-3ec7-498e-86d4-12684558624b&ssb=98355295215&ssc=https://www.nationaltrust.org.uk/&ssi=305f78c0-cqcf-4668-aa21-61ab1bedcec5&ssk=botmanager_support@radware.com&ssm=17011426172796354100547814636564&ssn=8d55479d68c6fe7af5be27dfc84b5af83a8d212309ad-b47f-4e9e-ac1cf0&sso=0f203715-904fa4ed658a2ba89c99a90331f55c2dc92dd9ea319536a6&ssp=56408685301757320038175731895573178&ssq=23146533665505799232036655327076249086950&ssr=MTAzLjIxNC40Ni4xNDc=&sst=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.124+Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJyZCI6Im5hdGlvbmFsdHJ1c3Qub3JnLnVrIiwidXpteCI6IjdmOTAwMGJjMjk4YjJhLWZjM2UtNGMyYi1hYjdjLTdmZTE2YzRmOTZmMTEtMTc1NzMzNjY1NjI3NzAtOGQzYjcyNDI3YzlhYTQ2NjEwIiwiX191em1mIjoiN2Y5MDAwMjEyMzA5YWQtYjQ3Zi00ZTllLWE3MTUtOTA0ZmE0ZWQ2NThhMS0xNzU3MzM2NjU2Mjc3MC0wMDA2ZWFjNmZkYjkzMzEyZmRkMTAifQ==": {},
+  "www.ocado.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "f95zone.to": {},
+  "rule34.xxx": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "online.bankofscotland.co.uk/personal/logon/login.jsp": {},
+  "www.book-theory-test.service.gov.uk": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "3-27307100-0 NNNN RT(1757336682904 242) q(0 -1 -1 4) r(1 -1) B15(14,0,0) U6"
+    ]
+  },
+  "www.thetrainline.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "true",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "bpexch.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.vinted.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.quizclothing.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.marksandspencer.com": {
+    "provider": [
+      "azure",
+      "akamai"
+    ]
+  },
+  "www.theopen.com": {},
+  "www.walkhighlands.co.uk": {},
+  "login.brightpearlapp.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "parade.com": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.mumsnet.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "uk.tommy.com": {},
+  "www.eveningnews24.co.uk": {},
+  "www.lottery.co.uk": {},
+  "www.iceland.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.teamtalk.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.eurostar.com/uk-en": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "support.eonnext-kraken.energy": {},
+  "fapello.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.ladbrokes.com/en/sports": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.phase-eight.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "uk.match.com": {},
+  "squaredle.app": {},
+  "tvtropes.org": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.prettylittlething.com": {},
+  "identitysso.paddypower.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.xnxx.com": {},
+  "www.danword.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "collider.com": {},
+  "deliveroo.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.dropbox.com": {},
+  "www.fiverr.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "play.google.com/store/games?device=windows": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.ravelry.com/account/login": {},
+  "www.just-eat.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "ee.co.uk": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "15-24412384-24412416 NNNN CT(19 17 0) RT(1757336636894 295) q(0 0 1 0) r(2 2) U6"
+    ]
+  },
+  "www.bluelightcard.co.uk/en": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.primark.com": {},
+  "www.thewordfinder.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.tnaflix.com": {},
+  "www.audible.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.vodafone.co.uk": {
+    "pop": [
+      "dub"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "dublin"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront, HIT from ip-172-28-20-76.eu-west-1.compute.internal",
+      "HIT"
+    ],
+    "contentLocality": "ie"
+  },
+  "www.prodirectsport.com": {},
+  "www.rightmove.co.uk": {},
+  "gateway.comparethemarket.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "quotes.carwow.co.uk/users/sign_in": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.thetimes.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.edp24.co.uk": {},
+  "www.tiktok.com/explore": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "TCP_MISS from a23-72-227-148.deploy.akamaitechnologies.com (AkamaiGHost/22.2.3-dd2e9ddb9a7176afbd825015b8856261) (-)"
+    ]
+  },
+  "www.lloydsbank.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "github.com": {},
+  "rule34video.com": {},
+  "www.realtimetrains.co.uk": {},
+  "tfgm.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.epiccare.ie": {},
+  "www.hulldailymail.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.wowcher.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.spacenk.com/uk/home": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "myactivity.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "sofifa.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.foxybingo.com/en/bingo": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.manchestereveningnews.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.southwalesargus.co.uk": {},
+  "www.footasylum.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.thesun.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "onlinebanking.nationwide.co.uk": {},
+  "www.furaffinity.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.rac.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.shein.co.uk": {},
+  "www.accuweather.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "en.luxuretv.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.birminghammail.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.freemans.com": {},
+  "www.ixxx.com/age-verification": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "consent.google.com/m?continue=https://translate.google.com/&gl=GB&m=0&pc=t&cm=2&hl=en-US&src=1": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.bbc.com": {
+    "pop": [
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.jw.org": {},
+  "www.newbalance.co.uk": {},
+  "www.paddypower.com/bet": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.adidas.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.theaa.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.waterstones.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.desitales2.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.biblegateway.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.heraldscotland.com": {},
+  "www.onbuy.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "growagarden.fandom.com/wiki/Grow_a_Garden_Wiki": {
+    "pop": [
+      "kcg",
+      "iad",
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "launcher.skyvegas.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "sudoku.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.shopify.com/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.glassesdirect.co.uk": {},
+  "find-and-update.company-information.service.gov.uk": {},
+  "forum.pieandbovril.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.linkedin.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.liverpoolfc.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.ebay.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "bank.nhsp.uk": {},
+  "fulltime.thefa.com/home/index.html": {},
+  "petition.parliament.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "shahvani.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.lookmovie2.to": {},
+  "www.hl.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.pharmacy2u.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.totaljobs.com": {},
+  "au.unleashedsoftware.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.specsavers.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "de.pornhub.org": {},
+  "sellercentral.amazon.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.newsandstar.co.uk": {},
+  "www.parkers.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "hwb.gov.wales": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.woolwarehouse.co.uk": {},
+  "www.wattpad.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.fragrantica.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.walesonline.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.moneysupermarket.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.tripadvisor.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "tvn24.pl": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "uk.finance.yahoo.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.givemesport.com": {},
+  "ukdefencejournal.org.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.footballinsider247.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.kamababa.desi": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "bank.barclays.co.uk/olb/authlogin/loginAppContainer.do": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "flingcircle.com": {},
+  "web.whatsapp.com": {},
+  "www2.hm.com": {},
+  "www.formula1.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.jackpotjoy.com": {},
+  "www.dailymail.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.lpsg.com": {},
+  "www.toolstation.com": {},
+  "www.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.slotstemple.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "uk.advfn.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.thomann.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.attheraces.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.thescottishsun.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.hindustantimes.com": {},
+  "wiadomosci.onet.pl": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.tumblr.com": {},
+  "www.peacocks.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.zalando.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.unitedinfocus.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.youtube.com/?app=desktop": {
+    "provider": [
+      "google"
+    ]
+  },
+  "hotspot.infinityfleet.net": {},
+  "www.boylesports.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.sky.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.dominos.co.uk": {},
+  "www.coolmathgames.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.futbin.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "launcher.paddypower.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.freecycle.org": {},
+  "www.lse.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.topcashback.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "xnxx.health": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.dogstrust.org.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.findapprenticeship.service.gov.uk": {},
+  "www.newsnow.co.uk/h/": {},
+  "uk.mail.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "en.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp3068 miss, cp3068 hit/46149",
+      "hit-front"
+    ]
+  },
+  "www.edinburghnews.scotsman.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.nsandi.com": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "7-40568770-40568136 PNNN RT(1757336660699 251) q(0 0 0 -1) r(0 0) U6"
+    ]
+  },
+  "www.timeout.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "e621.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.crewclothing.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "Miss",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "promos.paddypower.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.coingecko.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.espncricinfo.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.i-bidder.com/en-gb": {},
+  "www.chess.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.patreon.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "online.lloydsbank.co.uk/personal/logon/login.jsp": {},
+  "uk.trustpilot.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.gov.uk": {
+    "pop": [
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.quidco.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.cardmarket.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.standard.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.riverisland.com": {
+    "provider": [
+      "f"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ]
+  },
+  "www.houseoffraser.co.uk": {},
+  "www.arnoldclark.com": {},
+  "www.pornpics.com": {},
+  "www.devonlive.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "ads.google.com": {},
+  "www.ecosia.org": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.flightradar24.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "street.co.uk": {
+    "pop": [
+      "dub"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "dublin"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ie"
+  },
+  "www.nationwide.co.uk": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "TCP_MISS"
+    ]
+  },
+  "www.halifax-online.co.uk/personal/logon/login.jsp": {},
+  "www.football365.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "auth.uber.com/v2/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.qvcuk.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.oddschecker.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "uk.simpleescort.com/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.cinch.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "freeip.me": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.justgiving.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.150mob.com/fu/ff/": {},
+  "www.studio.co.uk": {},
+  "discord.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "imhentai.xxx": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.halifax.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.next.co.uk": {},
+  "www.sageone.com/?clear": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.cineworld.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "faphouse.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "nextdoor.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.swiftqueue.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.gamingbible.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "gb"
+  },
+  "m.imdb.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "outlook.office365.com/mail/": {
+    "pop": [
+      "cwl"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "cardiff"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.bournemouthecho.co.uk": {},
+  "www.theargus.co.uk": {},
+  "www.paramountplus.com/gb/": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.the-saleroom.com/en-gb": {},
+  "loyalty.coinmaster.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.xbox.com/en-GB/": {},
+  "vegoutmag.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.onlinehomeshop.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "skyvegas.com/promotions": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "forum.huddleboard.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "oauth.virginmediao2.co.uk": {},
+  "www.boden.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "eaa-idp.dpdgroup.co.uk/route?BubbleRequest=VsBRtKjBj9dMAs27sMg3dJal6IsMfk3inXeebt9UHimMUN9p1X6DDUAlxuJDsFz7gNFwvyP0sDzCw8kq4CqUYcCJvj6chgPsybUqMWkT6jhm%2B%2BpPeGBgcRYWaCCcJIQ3WuSPqyqu9BxCBU3vOwFwFSsi3A/FHBRSs6HN5mX0yXflsZUjOxB0BMhSG2BiSnZTetWU7mw01NYIGwnqG7dCQAEI8mo41WPuOsoW6YCptYW2I0Di9GYixW66UL0IEInFUzWY8AYV9/VPE5IJ/GxdjwlGpCkgcpqA/8fd9XVRKULWWlYtBVO41TXw%2B6fIHFJISEjKFsaNZLQ0ETYz/cNeRRfJmkizDSYo2bYwLO%2BkmGrpskoJRAEMCUSIFhHWYxTuo7UELDa/hE66fFREAxVeiw%2BmSJvi7UFwL3uPYT7r0lYo0DAQgzZPlXWRrZboyB9k": {},
+  "www.freeview.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.ukpunting.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.tatler.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "artfight.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.youjizz.com": {},
+  "xhamster.desi": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.pitchup.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.monopolygo.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "poki.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "tapestryjournal.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "tfl.gov.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "learn.microsoft.com/en-us/": {
+    "provider": [
+      "azure",
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Hit from child"
+    ]
+  },
+  "www.lidl.co.uk": {
+    "provider": [
+      "1"
+    ]
+  },
+  "fr.pornhub.com": {},
+  "www.loveholidays.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "ukflirtzone.com": {},
+  "pubmed.ncbi.nlm.nih.gov": {},
+  "workspace.google.com/intl/en-US/products/calendar/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.ipswichstar.co.uk": {},
+  "www.motability.co.uk": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "14-69278467-69278504 NNNN CT(4 7 0) RT(1757336671363 269) q(0 0 0 -1) r(3 3) U24"
+    ]
+  },
+  "fa.m.wikipedia.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C": {
+    "cacheStatus": [
+      "HIT",
+      "cp3068 miss, cp3068 hit/53",
+      "hit-front"
+    ]
+  },
+  "secure.tesco.com": {},
+  "www.monsoon.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.bowlsresultstwo.co.uk": {},
+  "hentaifox.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status": {
+    "pop": [
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.eonnext.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.jobsatamazon.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.thestar.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "uk.flightaware.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.aznude.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "surveys.gobranded.com": {},
+  "stackoverflow.com/questions": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "rateyourmusic.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.glassdoor.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.vivastreet.co.uk/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "imgur.com": {
+    "pop": [
+      "egl",
+      "lhr"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, HIT"
+    ],
+    "contentLocality": "et"
+  },
+  "forums.bluemoon-mcfc.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "vegas.williamhill.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.dailystar.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.metoffice.gov.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.hltv.org": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.premierinn.com/gb/en/home.html": {},
+  "www.eroprofile.com": {},
+  "online-banking.business.hsbc.co.uk": {},
+  "www.mountainwarehouse.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.britannica.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.uswitch.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.motors.co.uk": {},
+  "www.samsung.com": {},
+  "www.swindonadvertiser.co.uk": {},
+  "www.roman.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "news.sky.com": {},
+  "sportowefakty.wp.pl": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.lancs.live": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.redcafe.net": {},
+  "forums.moneysavingexpert.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.facebook.com": {},
+  "www.ancestry.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.bt.com": {
+    "pop": [
+      "iad"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "11-6365292-6365298 NNNN CT(66 68 0) RT(1757336717322 255) q(0 0 1 -1) r(2 2) U6"
+    ],
+    "contentLocality": "us"
+  },
+  "www.myvue.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "thisvid.com": {},
+  "www.irishtimes.com": {},
+  "www.lovehoney.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "m.hqporner.com": {},
+  "www.sportbible.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "gb"
+  },
+  "accounts.nintendo.com": {},
+  "www.autoexpress.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "accurx.nhs.uk": {},
+  "mangabuddy.com/official": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.yorkpress.co.uk": {},
+  "www.goodhousekeeping.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ]
+  },
+  "www.hellomagazine.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.twtd.co.uk": {},
+  "www.etsy.com": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "client.tombola.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.howdens.com": {},
+  "www.ticketmaster.co.uk": {
+    "pop": [
+      "eto",
+      "fra"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "frankfurt am main"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, MISS, MISS, MISS"
+    ],
+    "contentLocality": "de"
+  },
+  "www.ebay.com/n/error": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "screenrant.com": {},
+  "www.robertdyas.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.amazon.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.bbcgoodfood.com": {
+    "pop": [
+      "dub",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "dublin"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "ie"
+  },
+  "om.mintsoft.co.uk/UserAccount/LogOn": {},
+  "user-auth.apply-to-visit-or-stay-in-the-uk.homeoffice.gov.uk": {},
+  "www.imdb.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "bato.to": {},
+  "www.asos.com": {},
+  "www.nationalexpress.com/en": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "12-7467088-7467109 NNNN CT(9 23 0) RT(1757336676833 254) q(0 0 1 -1) r(1 4) U6"
+    ]
+  },
+  "www.procyclingstats.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.nationalrail.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.johnpyeauctions.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "solitaired.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.bbc.co.uk": {},
+  "www.joebrowns.co.uk": {
+    "pop": [
+      "egl",
+      "lcy",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ],
+    "contentLocality": "et"
+  },
+  "jellycat.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "letterboxd.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "xnxx.com.se": {},
+  "shop.mango.com/gb/en": {},
+  "www.ancestry.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.gov.uk/government/organisations/hm-revenue-customs": {
+    "pop": [
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.shropshirestar.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/&followup=https://sites.google.com/&ifkv=AdBytiMb9hIUHnloJfQv1LjKYoxhYChLEhZ6W1J0eY9-5fOxLERfhMKSTBVtfoGaS38DyVsrL1IxNw&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-469248350:1757336653791105": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.tes.com/en-gb/for-schools/class-charts": {
+    "pop": [
+      "egl",
+      "lhr",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, MISS"
+    ],
+    "contentLocality": "et"
+  },
+  "www.ea.com": {},
+  "www.agilityplaza.com/index": {},
+  "www.natwest.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "TCP_REMOTE_HIT"
+    ]
+  },
+  "www.setlist.fm": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.ashemaletube.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.trueachievements.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "login.yahoo.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.mail.com/": {},
+  "www.hl.co.uk/": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.illicitencounters.com": {},
+  "www.warnerhotels.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.parkrun.org.uk": {},
+  "www.pcgamer.com": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER"
+    ]
+  },
+  "www.dailyrecord.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.asossamplesale.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "app.ihasco.co.uk": {},
+  "fastflirting.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.asda.com/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.autoconvert.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.sussexexpress.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.crosswordsolver.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.poundland.co.uk": {
+    "pop": [
+      "egl",
+      "lhr",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "et"
+  },
+  "app-eu1.hubspot.com/home-beta": {
+    "pop": [
+      "fra"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "frankfurt am main"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "de"
+  },
+  "www.thecourier.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "bsky.app": {},
+  "www.carandclassic.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.temu.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.tombola.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.gumtree.com": {},
+  "www.wp.pl": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://www.youtube.com/signin?action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fstudio.youtube.com%252F%26feature%3Dredirect_login&hl=en-GB&ifkv=AdBytiPllhb9Ggk4PvSdB5RyOe6GAC45iwIQN9GuFm2PZw97hTLOABRXKmUUQzUErW_hYma_dNxw&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1328941696:1757336657217589": {
+    "provider": [
+      "google"
+    ]
+  },
+  "games.postcodelottery.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.paypal.com/uk/home": {
+    "pop": [
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS, MISS, MISS, MISS, MISS, MISS"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.flannels.com": {},
+  "www.galabingo.com/en/games": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.chroniclelive.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.centerparcs.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "portal.caredocs.cloud/Account/Login": {},
+  "www.tamildhool.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.timestables.co.uk": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.onthebeach.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "MISS"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.wickes.co.uk": {},
+  "who-called.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.mayoclinic.org": {
+    "provider": [
+      "google"
+    ]
+  },
+  "groceries.morrisons.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.t3.com": {
+    "pop": [
+      "lon",
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER",
+      "13-5579917-5579958 NNNN CT(20 15 0) RT(1757336657633 339) q(0 0 0 -1) r(0 0) U24"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.resetera.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "character.ai": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "mail.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.airbnb.co.uk": {},
+  "www.merriam-webster.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.dayoutwiththekids.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.civilservicejobs.service.gov.uk/csr/index.cgi": {},
+  "www.express.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "purpleport.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.examinerlive.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.gardeningexpress.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.varzesh3.com": {
+    "cacheStatus": [
+      "EXPIRED"
+    ]
+  },
+  "mintvelvet.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.nairaland.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "fantasy.premierleague.com": {
+    "pop": [
+      "egl",
+      "lhr",
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london",
+      "sege"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "et"
+  },
+  "www.nowtv.com": {},
+  "www.coral.co.uk/en/sports": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.debenhams.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "purchaser.procurewizard.com/sign-in/?destination=/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.scotsman.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.flirtfinder.mobi": {},
+  "www.britishnewspaperarchive.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "funeral-notices.co.uk": {},
+  "www.researchgate.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.amazon.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.usedcarsni.com": {},
+  "www.betfair.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "freecash.com/en": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "uk.hotels.com": {},
+  "www.sainsburys.co.uk": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Error from child"
+    ]
+  },
+  "www.locanto.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.gettyimages.co.uk/bot-wall?returnUrl=/&language=en-gb": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.motorpoint.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "discountdragon.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "xbato.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "en.boardgamearena.com/": {},
+  "www.imagefap.com": {},
+  "en.m.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp3068 miss, cp3068 hit/3291",
+      "hit-front"
+    ]
+  },
+  "www.railforums.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.reuters.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.crosswordsolver.org": {},
+  "m.adultwork.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "shop.app": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.redbubble.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "e-hentai.org": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "psiphon.news": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.autocar.co.uk": {
+    "pop": [
+      "lhr",
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "london",
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.decathlon.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "care.personcentredsoftware.com": {},
+  "tbrfootball.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.reddit.com": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&ifkv=AdBytiNOBVKPdR07IqEDhPitXRvq9hflFdGjc20xkBfMe0A3eGH8P41bksdqppv5rrA5Ljpalvq_kQ&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1292152588:1757336664778206": {
+    "provider": [
+      "google"
+    ]
+  },
+  "aternos.org/:en/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "uk.indeed.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.blooket.com": {
+    "pop": [
+      "edd",
+      "fra",
+      "lhr"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "frankfurt am main",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.diy.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.metoffice.gov.uk/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.ilovepdf.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "thatprizeguy.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "missav.ws": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "store.steampowered.com": {},
+  "www.pocruises.com": {},
+  "www.pussyspace.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.allthingsworn.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.telegraph.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.hobbycraft.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.tes.com/en-gb": {
+    "pop": [
+      "egl",
+      "lhr",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, MISS"
+    ],
+    "contentLocality": "et"
+  },
+  "www.barclays.co.uk": {},
+  "sports.williamhill.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.mcdonalds.com/gb/en-gb.html": {
+    "pop": [
+      "edd",
+      "fra"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "frankfurt am main"
+    ],
+    "contentLocality": "au"
+  },
+  "www.myheritage.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "18-107955775-107941243 PNNy RT(1757336677862 252) q(0 0 0 -1) r(2 2) U6"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.asda.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.vivastreet.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.lightningmaps.org": {},
+  "www.jobs.nhs.uk/candidate": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.discogs.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.tescomobile.com": {
+    "pop": [
+      "egl",
+      "lhr",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "et"
+  },
+  "consent.google.com/m?continue=https://news.google.com/&gl=GB&m=0&pc=n&cm=2&hl=en-US&src=1": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.lbc.co.uk": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "talksport.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.nme.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.boots.com": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "azure",
+      "fastly",
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "CONFIG_NOCACHE, HIT",
+      "13-4572892-4572905 NNNY CT(5 3 0) RT(1757336682693 245) q(0 0 0 -1) r(0 0) U6"
+    ]
+  },
+  "www.forbes.com": {
+    "pop": [
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.pornhat.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.dndbeyond.com": {
+    "pop": [
+      "kjy",
+      "iad",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "janitorai.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "my.patientsknowbest.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "intellitest.me": {},
+  "www.iglucruise.com": {},
+  "www.lastminute.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.skiddle.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.google.com/account/about/?hl=en-US": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.gamesradar.com": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER"
+    ]
+  },
+  "fetlife.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "omaze.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.s24su.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.universal-credit.service.gov.uk/start": {},
+  "gelbooru.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "lifeintheuktestweb.co.uk": {},
+  "aniwatchtv.to": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.wayfair.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.holidaycottages.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.boredpanda.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.kfc.co.uk": {},
+  "cloudmis.bromcom.com": {},
+  "apps.trac.jobs": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "launcher.betfair.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.aol.co.uk": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.argos.co.uk": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Miss from child, Miss from parent"
+    ]
+  },
+  "www.channel4.com": {},
+  "www.manualslib.com": {},
+  "www.neopets.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "mrq.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.cambro.tv": {},
+  "www.tkmaxx.com": {},
+  "www.aparat.com": {},
+  "www.santander.co.uk": {},
+  "motherless.com": {},
+  "www.gear4music.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.sykescottages.co.uk": {},
+  "www.apple.com": {},
+  "espws.necsws.com": {},
+  "hianime.to": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.nestpensions.org.uk/schemeweb/nest.html": {},
+  "skybet.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.facebook.com/": {},
+  "www.skysports.com": {},
+  "pmc.ncbi.nlm.nih.gov": {},
+  "www.taktube.net": {},
+  "www.amazon.in": {
+    "cacheStatus": [
+      "NotCacheable from child"
+    ]
+  },
+  "www.bullionbypost.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.yoursclothing.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "skyvegas.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "steamcommunity.com": {},
+  "www.netflix.com": {},
+  "www.screwfix.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.eurocarparts.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "casino.bet365.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.vertumotors.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.virgingames.com": {},
+  "m.spareroom.co.uk": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.better.org.uk": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "observer.co.uk": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.tjc.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "secondmatchfinder.com": {},
+  "forums.spacebattles.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.xnxx-arabic.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "account.bbc.com/auth?realm=/&clientId=Account&isCasso=false&action=sign-in&redirectUri=https://session.bbc.co.uk/session/callback?realm%3D/&service=IdSignInService&nonce=1tZQVLVr-aLgw2K2fgwCjixWwYknrAYznGF8": {},
+  "track.dpd.co.uk": {
+    "pop": [
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.lioden.com": {},
+  "www.rspca.org.uk": {},
+  "ok.xxx": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.fuq.com/age-verification": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.sexvid.xxx": {},
+  "faroutmagazine.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "support.google.com": {},
+  "www.rottentomatoes.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "xxxbp.tv": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.jet2holidays.com": {},
+  "www.sportsdirect.com": {},
+  "onlyshagplace.com": {},
+  "timesofindia.indiatimes.com": {},
+  "www.parkdeanresorts.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.rome2rio.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "x.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.foxybingo.com/en/promo/offers": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "scholar.google.com": {},
+  "www.travelodge.co.uk": {},
+  "edu.google.com/intl/en-US/workspace-for-education/products/classroom/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "help.x.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.eporner.com": {},
+  "www.postoffice.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.theguardian.com/uk": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "geediting.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.ups.com": {},
+  "hdporncomics.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "weather.com/en-GB/weather/today/l/UKXX0085:1:UK?Goto=Redirected": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.boyfriendtv.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.buzzfeed.com/uk": {
+    "pop": [
+      "kcg",
+      "iad",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.google.com/photos/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://accounts.google.com/&followup=https://accounts.google.com/&ifkv=AdBytiNYvehYwx1zG4pfVYFSc0zMC8ySvmZgW8Ue9d9xoxFKjFkvk2yqfR2g7wT7qJvbiEQWUiaA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-970883602:1757336678204156": {
+    "provider": [
+      "google"
+    ]
+  },
+  "uk.linkedin.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.cosmopolitan.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "www.ign.com/uk": {
+    "pop": [
+      "kia",
+      "iad",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.lego.com/en-gb": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.smythstoys.com": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "18-65433118-0 NNNN RT(1757336677395 239) q(0 -1 -1 -1) r(0 -1) B10(14,0,0) U6"
+    ]
+  },
+  "www.oxfordmail.co.uk": {},
+  "octopus.energy": {},
+  "one.google.com/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "m.fabswingers.com": {},
+  "uk.trip.com": {},
+  "www.britishairways.com/travel/home/public/en_gb/": {},
+  "www.viagogo.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "portal.nhs.net": {},
+  "www.instagram.com": {},
+  "www.techradar.com/uk": {
+    "pop": [
+      "lon",
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.torn.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.gloucestershirelive.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.timeanddate.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "onlinemarking.exam2score.com/Account/SessionExpired": {},
+  "www.currys.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "noodlemagazine.com/new-video": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.thenorthernecho.co.uk": {},
+  "identitysso.paddypower.com/view/login?product=my-account&redirectMethod=GET&url=https://myaccount.paddypower.com/summary/accountsummary": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.propertypal.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "m.facebook.com": {},
+  "www.kentlive.news": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.sporcle.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.uefa.com": {},
+  "xhaccess.com": {},
+  "www.plymouthherald.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.worcesternews.co.uk": {},
+  "battwo.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.canva.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.crash.net": {
+    "pop": [
+      "uk1"
+    ],
+    "provider": [
+      "bunny"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.galaspins.com/en/games": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.gbnews.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.netweather.tv": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.comparethemarket.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "pickmypostcode.com": {},
+  "onlinebusiness.lloydsbank.co.uk/business/logon/login.jsp": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.wilko.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.zoopla.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.easyjet.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.tvlicensing.co.uk": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "12-37558422-37553862 PNNy RT(1757336695799 249) q(0 0 0 -1) r(4 4) U6"
+    ]
+  },
+  "www.disneyplus.com": {},
+  "www.expressandstar.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.ebay.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.echo-news.co.uk": {},
+  "9animetv.to": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "web.loop.allocate-cloud.co.uk/loop": {},
+  "www.bestproductsreviews.co.uk": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "10-17219087-17160633 pNNy RT(1757336684707 251) q(0 0 0 -1) r(1 1) U6"
+    ]
+  },
+  "www.michaelkors.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.rugbypass.com": {},
+  "www.newsweek.com": {
+    "cacheStatus": [
+      "HIT",
+      "hit"
+    ]
+  },
+  "fr.xvideos.com": {},
+  "www.rte.ie": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.which.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "chatgpt.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.goal.com/en-gb": {},
+  "www.heathrow.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront",
+      "azure"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "TCP_HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.nottinghampost.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.mirror.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "oldschool.runescape.wiki": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.odeon.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.roblox.com": {},
+  "motoring.dvla.gov.uk": {},
+  "www.jet2.com": {},
+  "motleedsnews.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "funnyjunk.com": {},
+  "www.theboltonnews.co.uk": {},
+  "www.letour.fr/en/": {
+    "pop": [
+      "lfp",
+      "par",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "lakefield",
+      "paris"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ozon.ru/?__rr=1": {},
+  "www.newlook.com": {},
+  "www.britishgas.co.uk": {
+    "pop": [
+      "cdg"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "paris"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.blinds-2go.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.bristolpost.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "m.cricbuzz.com": {},
+  "www.healthjobsuk.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "login.asda.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "news.stv.tv": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.reiss.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.gooutdoors.co.uk": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.msn.com": {
+    "pop": [
+      "lts"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ],
+    "contentLocality": "us"
+  },
+  "www.moonpig.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.schuh.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.skyscanner.net/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=656851ec-8cb4-11f0-86bb-28707005bfc3&vid=": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.yorkshirepost.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.victorianplumbing.co.uk": {},
+  "m.jdsports.co.uk": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "www.skechers.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.thisismoney.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "40plusshag.com": {},
+  "www.onlinebanking.natwest.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.mangago.me": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.lookfantastic.com": {
+    "pop": [
+      "lhr",
+      "egl",
+      "lcy",
+      "lon"
+    ],
+    "provider": [
+      "cloudflare",
+      "fastly"
+    ],
+    "location": [
+      "london",
+      "negele borana"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.virginatlantic.com": {
+    "pop": [
+      "fra"
+    ],
+    "provider": [
+      "cloudfront",
+      "akamai"
+    ],
+    "location": [
+      "frankfurt am main"
+    ],
+    "contentLocality": "de"
+  },
+  "www.vogue.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "login.onefile.co.uk/?srv=sof1&returnonefileurl=https://live.onefile.co.uk/": {},
+  "www.bmstores.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.fool.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.ruck.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "uk.search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.shoezone.com": {},
+  "www.virginbet.com": {},
+  "www.xxbrits.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "telegram.org/": {},
+  "www.herefordtimes.com": {},
+  "www.therange.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.spectator.co.uk": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "conduit.psiphon.ca": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "luticlip.com": {},
+  "www.redtube.com": {},
+  "www.three.co.uk": {},
+  "bustimes.org": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.cv-library.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.aldi.co.uk": {},
+  "www.glasgowtimes.co.uk": {},
+  "www.womanandhome.com": {
+    "pop": [
+      "lon",
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-STALE-CLUSTER"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.freeads.co.uk": {},
+  "simpcity.cr": {},
+  "rt.pornhub.com": {},
+  "uk.pcpartpicker.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "eflanalysis.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "app.hubspot.com/home-beta": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.charlestyrwhitt.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.tradingview.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.4chan.org/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.funeraltimes.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.crocs.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "account.patientaccess.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "novelbin.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "admin.shopify.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.laredoute.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.crazygames.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "email.bt.com/mail/": {},
+  "www.strava.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.cam4.com/browserupgrade": {},
+  "uk.news.yahoo.com": {},
+  "www.expedia.co.uk": {},
+  "apps.cpoms.net": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "workspace.google.com/products/meet/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.bonmarche.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "mat6tube.com/recent": {},
+  "www.flickr.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.royalmail.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.swiftreg.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.dfs.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "forms.office.com": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.costco.co.uk": {},
+  "www.giffgaff.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "10-2903303-2903321 NNNN CT(11 11 0) RT(1757336737208 811) q(0 0 0 -1) r(2 2) U12"
+    ]
+  },
+  "www.nexusmods.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.pets4homes.co.uk": {
+    "pop": [
+      "dub",
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "dublin",
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "ie"
+  },
+  "www.warhammer.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.uniqlo.com/uk/en/": {},
+  "www.petsathome.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "azure",
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.netmums.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.hollandandbarrett.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.myepaywindow.com": {},
+  "www.kayak.co.uk": {
+    "pop": [
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.booking.com/index.en-gb.html?label=gen173nr-10CAEoggI46AdIM1gEaFCIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Avao-8UGwAIB0gIkZDBiMGNlODktOTZmMy00MDIxLTkwZGQtNDYxOTJjNzdjZjg32AIB4AIB&sid=14d3e2c7cbb31e0ab41851517ea7be74&keep_landing=1&sb_price_type=total&": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "openai.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.cashconverters.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.espn.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.citizensadvice.org.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.microsoft.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.freedating.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.flashscore.co.uk": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.adultwork.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.spareroom.co.uk": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.xvideos.com/": {},
+  "login.aol.com/?done=https://api.login.aol.com/oauth2/request_auth?client_id%3Ddj0yJmk9VlN3cDhpNm1Id0szJmQ9WVdrOVdtRm1aMVU1Tm1zbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD1mYQ--%26redirect_uri%3Dhttps%253A%252F%252Foidc.mail.aol.com%252Fcallback%26response_type%3Dcode%26scope%3Dmail-r%2520ycal-w%2520openid%2520openid2%2520mail-w%2520mail-x%2520sdps-r%2520msgr-w%26src%3Dmail%26language%3Den-US%26pspid%3D972825001%26activity%3Dmail-direct%26state%3DeyJhbGciOiJSUzI1NiIsImtpZCI6IjZmZjk0Y2RhZDExZTdjM2FjMDhkYzllYzNjNDQ4NDRiODdlMzY0ZjcifQ.eyJyZWRpcmVjdFVyaSI6Imh0dHBzOi8vbWFpbC5hb2wuY29tL2QifQ.JMX40ZssLtCMlaqAOZYFU6Tz6rggXd8IYA-lVO2jkmWcFPGEJ3tTkOj7qGkKjtTLXofPUFFQ6Uzih1pYCkh_fgS1zD8X5Ge3c0oSKTchP4AdNmsEetEyDMoUijvOWJVVbDe0byUHYQzCmE7F-o2187M5fpzxgGEV6U-7Xm4ywaA%26nonce%3DZctCdveTNWTtpNlehpwFriaKjmYFzgNY&src=mail&crumb=u70vslL/ef0PbQ2IR08q3w&redirect_uri=https://oidc.mail.aol.com/callback&lang=en-US&pspid=972825001&activity=mail-direct&client_id=dj0yJmk9VlN3cDhpNm1Id0szJmQ9WVdrOVdtRm1aMVU1Tm1zbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD1mYQ--&language=en-US": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.eadt.co.uk": {},
+  "login.breathehr.com/login?redirect_app=hr": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "ge.xhamster.desi": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "uk.webuy.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "m.attheraces.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.albumoftheyear.org": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.wimbledon.com/index.html": {},
+  "workspace.google.com/intl/en-US/gmail/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.youporn.com": {},
+  "asuracomic.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.royalroad.com/home": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "m.fanfiction.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.mailplus.co.uk": {
+    "pop": [
+      "dub"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "dublin"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ie"
+  },
+  "www.fabswingers.com": {},
+  "www.xvideos-ar.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.onthemarket.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.direct.aviva.co.uk/MyAccount/login": {},
+  "www.onet.pl": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.postcodelottery.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.homesandgardens.com": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER"
+    ]
+  },
+  "pl.pornhub.com": {},
+  "www.worldofbooks.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "housesforsaletorent.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.nytimes.com": {
+    "pop": [
+      "lga",
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "new york",
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "forums.digitalspy.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "ao.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.followfollow.com": {},
+  "outlook.live.com/mail/": {
+    "pop": [
+      "cwl"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "cardiff"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.cornwalllive.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.independent.co.uk": {
+    "pop": [
+      "egl",
+      "lhr",
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london",
+      "sege"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "et"
+  },
+  "www.hotukdeals.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.sportinglife.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "wise.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.ubereats.com": {},
+  "tattle.life": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "consent.yahoo.com": {},
+  "www.fabguys.com": {},
+  "www.live-footballontv.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.pistonheads.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "my.esr.nhs.uk/localresponse/?TAM_OP=W3login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&METHOD=HEAD&URL=https://my.esr.nhs.uk/dashboard/c/portal/logout&HOSTNAME=my.esr.nhs.uk&FAILREASON=&PROTOCOL=https": {},
+  "www.literotica.com": {},
+  "www.businessinsider.com": {
+    "pop": [
+      "kjy",
+      "iad",
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "inews.co.uk": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.appliancesdirect.co.uk": {
+    "pop": [
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.timeform.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.xvideos.com": {},
+  "www.google.co.uk": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.natomanga.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "xhamsterlive.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "competitions.lta.org.uk/cookiewall/": {},
+  "history.paypal.com/uk/home": {
+    "pop": [
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS, MISS"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.superdrug.com": {},
+  "xhopen.com": {},
+  "www.stagecoachbus.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "people.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "pokemondb.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.racingtv.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.carwow.co.uk": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.hollisterco.com/shop/uk": {
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ]
+  },
+  "monzo.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.trivago.co.uk": {},
+  "www.digitalspy.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "www.portsmouth.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.racingpost.com": {
+    "pop": [
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.sportsbikeshop.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.partslink24.com/partslink24/index.jsp": {},
+  "www.carphonewarehouse.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.thetelegraphandargus.co.uk": {},
+  "www.dailypost.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.clarks.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.brandalley.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.fatface.com": {},
+  "www.fut.gg": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.owlstalk.co.uk/forums/": {},
+  "www.erome.com": {},
+  "www.ikea.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare",
+      "azure"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "c.newsnow.co.uk": {},
+  "www.johnlewis.com": {},
+  "www.stokesentinel.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.one4all.com": {},
+  "www.dailyecho.co.uk": {},
+  "www.tui.co.uk": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.twinkl.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "11-10797349-10794223 PNNy RT(1757336706066 249) q(0 0 0 -1) r(1 1) U6"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.parcelforce.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.f1oversteer.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.bricklink.com/v2/main.page": {},
+  "www.enterprise.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.ft.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.imagefap.com/": {},
+  "www.groupon.co.uk": {},
+  "www.americanexpress.com/en-gb/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.yodel.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "retail.santander.co.uk/olb/app/logon/access/": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "14-7242803-7242846 ENNN RT(1757336706831 805) q(0 0 0 -1) r(0 0) U6"
+    ]
+  },
+  "www.radiotimes.com": {
+    "pop": [
+      "dub",
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "dublin",
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "ie"
+  },
+  "www.warringtonguardian.co.uk": {},
+  "www.anglingdirect.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "ficbook.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "childmaintenanceservice.direct.gov.uk/onlinerevive/public/landing-screen": {},
+  "lichess.org": {},
+  "getadblock.com/en/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "uk.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "duckduckgo.com": {},
+  "ww1.goojara.to": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.thisisanfield.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "genius.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "my.clevelandclinic.org": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "consent.google.com/m?continue=https://gemini.google.com/&gl=GB&m=0&pc=bard&cm=2&hl=en-US&src=1": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.bing.com": {},
+  "www.lancashiretelegraph.co.uk": {},
+  "www.tripadvisor.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "validate.perfdrive.com/82c4c2c0198385e24fdf1e36f000f0ec/?ssa=6f576edf-336b-412b-920d-1a95c48a76b7&ssb=54079252933&ssc=https://my.freeads.co.uk/login?r%3Dhttps://my.freeads.co.uk/&ssi=6ca4db62-a14b-d486-ffe9-d27f3adf6da9&ssk=support@shieldsquare.com&ssm=13271517636733585103747873166144&ssn=d01399ada3a5ddce29102fffd63f483618a36d00e8d9-45c0-485b-b4ee63&sso=49692321-4544d9b6fc9a44ca04c4b3dc010cf6365ba576e7cb24f387&ssp=55886547461757343323175735226391144&ssq=03172843671026084321436710920136855122388&ssr=MTAzLjIxNC40Ni4xNDc=&sst=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.124+Safari/537.36&ssv=&ssw=": {},
+  "www.backmarket.co.uk/en-gb": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.idealhome.co.uk": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER"
+    ]
+  },
+  "danbooru.donmai.us": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "game8.co": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.readytogo.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.whathifi.com": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER"
+    ]
+  },
+  "imgsrc.ru": {},
+  "www.dunelm.com": {
+    "cacheStatus": [
+      "MISS",
+      "MISS, MISS"
+    ]
+  },
+  "www.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.kentonline.co.uk": {},
+  "metro.co.uk": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.hoseasons.co.uk": {},
+  "www.dorsetecho.co.uk": {},
+  "word.tips": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "spankbang.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "m.shein.co.uk": {},
+  "clubspark.lta.org.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "m.belfasttelegraph.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.192.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "support.microsoft.com/en-us": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.o2.co.uk": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "student.readingplus.com": {},
+  "www.fanfiction.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.damart.co.uk": {
+    "pop": [
+      "dub",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "dublin"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "ie"
+  },
+  "www.matalan.co.uk": {
+    "pop": [
+      "lon",
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.snapchat.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "gamefaqs.gamespot.com": {},
+  "stripchat.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.loaded.com/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.hsbc.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.very.co.uk": {},
+  "www.thomascook.com": {},
+  "exhentai.org/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.pornhub.com": {},
+  "www.arsenal.com": {},
+  "uk.pinterest.com": {
+    "provider": [
+      "fastly"
+    ]
+  },
+  "www.betfred.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "direct.asda.com/george/clothing/10,default,sc.html": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.bet365.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.gayporntube.com": {},
+  "www.office.co.uk": {},
+  "www.twickets.live/en/uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.selfridges.com/GB/en/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.wordplays.com": {},
+  "www.vouchercodes.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "old.reddit.com": {},
+  "uk.ixl.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.goodreads.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.homeswapper.co.uk": {},
+  "m.fabguys.com": {},
+  "www.ryanair.com/gb/en": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "oatcakefanzine.proboards.com": {
+    "pop": [
+      "klo",
+      "chi",
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kalibo",
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "ph"
+  },
+  "www.itv.com": {},
+  "www.unifrog.org": {},
+  "www.halfords.com": {
+    "pop": [
+      "man"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "manchester"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.superporn.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.belfastlive.co.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "uk.khaadi.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.national-lottery.co.uk": {},
+  "www.rhs.org.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "uk.pandora.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "accounts.sky.com": {},
+  "www.yorkshireeveningpost.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "scratch.mit.edu": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.moneysavingexpert.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.littlewoods.com": {},
+  "open.spotify.com": {
+    "pop": [
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.evri.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.deviantart.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.cottontraders.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "play.blooket.com/play": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.ultimate-guitar.com/explore": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.perfectgirls.xxx": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.vlr.gg": {},
+  "www.access.service.gov.uk": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.autotrader.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.seasaltcornwall.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "mobile.squirt.org": {},
+  "www.dailymotion.com": {},
+  "www.nobodyschild.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.quora.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "freeporno.xxx": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "STALE",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "chaturbate.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "sexalarab.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.eurogamer.net": {
+    "pop": [
+      "dub",
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "dublin",
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "ie"
+  },
+  "www.superdry.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.footballfancast.com": {},
+  "allegro.pl": {},
+  "www.myprotein.com": {
+    "pop": [
+      "lhr",
+      "egl",
+      "lcy",
+      "egm"
+    ],
+    "provider": [
+      "cloudflare",
+      "fastly"
+    ],
+    "location": [
+      "london",
+      "negele borana",
+      "sege"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.gov.uk/get-tax-free-childcare": {
+    "pop": [
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "sb"
+  },
+  "gamerant.com": {},
+  "www.planetf1.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.atgtickets.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.dell.com": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Error from child"
+    ]
+  },
+  "www.cargurus.co.uk": {
+    "pop": [
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.openrent.co.uk": {}
+}

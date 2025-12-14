@@ -1,0 +1,8526 @@
+{
+  "www.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "tiwar.net": {},
+  "www.nderegistrationportal.ng": {},
+  "www.key.top": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.amazon.com/ap/signin?openid.return_to=https://kdpreports.amazon.com/&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=amzn_kdp_reports_us&openid.mode=checkid_setup&marketPlaceId=ATVPDKIKX0DER&language=en_US&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "linktr.ee": {
+    "pop": [
+      "pdx",
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare",
+      "fastly"
+    ],
+    "location": [
+      "portland",
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT",
+      "HIT, HIT, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.victorspredict.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "pornbado.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "jfin.quarkfinance.net": {},
+  "www.temu.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "ng.oriflame.com": {},
+  "pahe.win": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "tooxclusive.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "www1.9jarocks.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.naijavault.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "downloadwella.com": {},
+  "scores24.live": {},
+  "www.snapchat.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "portal.fudutsinma.edu.ng": {},
+  "22bet.ng": {},
+  "www.nairaland.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.mybets.today": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "station.cloud-sync.biz": {},
+  "candidate.scholastica.ng": {},
+  "app2.fextok.com": {},
+  "n1.7keq.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.livescores.com": {
+    "cacheStatus": [
+      "STALE"
+    ]
+  },
+  "audiolex.top": {},
+  "fzmovies.live": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT from Backend",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "app.worldrepublic.org/en/earn": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "ibank.firstbanknigeria.com/corp/AuthenticationController?__START_TRAN_FLAG__=Y&FORMSGROUP_ID__=AuthenticationFG&__EVENT_ID__=LOAD&FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=01&LANGUAGE_ID=001": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "14-38049379-38049468 SNNN RT(1758480088608 1313) q(0 0 0 0) r(1 1) U6"
+    ]
+  },
+  "m.ginjabet.com": {},
+  "scholar.google.com": {},
+  "freebitco.in/signup/?op=s": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.workwavejob.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "whappshare.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "theprideoflondon.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "africa.businessinsider.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.freepik.com": {},
+  "www.pulsesports.ng": {},
+  "claude.ai": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.fanmtl.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.pornhub.com": {},
+  "portal.bsum.edu.ng": {},
+  "umstad.online": {},
+  "www.shazam.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "lfp",
+      "par"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "lakefield",
+      "paris"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.google.com/account/about/?hl=en-US": {
+    "provider": [
+      "google"
+    ]
+  },
+  "eportal.paau.edu.ng": {},
+  "archiveofourown.org": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "engage2.mtn.ng": {},
+  "phgop1.com": {},
+  "open.spotify.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "plutomovies.com": {},
+  "search.go-search.net": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "miva.edu.ng/": {},
+  "guardian.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "en.m.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp6009 miss, cp6009 hit/1576",
+      "hit-front"
+    ]
+  },
+  "www.cubig.club": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "taskwill.vip": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "utmedetails.uniport.edu.ng": {},
+  "justnaija.com/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "ng-airtel-web.upp.st": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "an1.com": {},
+  "cashshare.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "teacher.glats.online": {},
+  "www.labubupop.co": {},
+  "www.tunesloaded.com.ng": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "videorush-app.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "login.remita.net": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.xvideos.com": {},
+  "www.ilotbet.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "s5.sir.sportradar.com": {},
+  "www.net9ja.com.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "msms.ibedc.com/map/": {},
+  "alison.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "h5.7qq5.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "ngojobsite.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "taxpromax.firs.gov.ng": {},
+  "ichatcenter.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "allporncomic.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "gofundxtech.com": {},
+  "net9jaseries.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "ak.amskiploomr.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.rentacyberfriend.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.chess.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "kwik.si": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "portal.byupathway.edu/cmcportal/": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "my.fulafia.edu.ng": {},
+  "www.football.london": {
+    "pop": [
+      "bru"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "brussels"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "be"
+  },
+  "x.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "adsilia.com": {},
+  "lms.kwasu.edu.ng": {},
+  "www.bing.com": {},
+  "ibank.fcmb.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "18-55714662-55714754 NNNN CT(166 340 0) RT(1758480090678 402) q(0 0 5 -1) r(7 7) U6"
+    ]
+  },
+  "faq.whatsapp.com": {},
+  "minebittoken.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "politicsnigeria.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "maintenance.bet9ja.com": {},
+  "elearn.nou.edu.ng": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "abudlc.vigilearnlms.com": {},
+  "web.gsubz.com": {},
+  "www.soccervista.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "codedruns.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "konet9ja.moroja.com": {},
+  "apply.lautech.edu.ng/en/logon": {},
+  "films.waploaded.com/169/hollywood-movies-war-films": {},
+  "timebucks.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.mediafire.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "weather.com/en-NG/weather/today/l/NIXX0022:1:NI?Goto=Redirected": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.betway.com.ng": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.gov.uk": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "www.tiktok.com/explore": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "TCP_MISS from a92-123-180-140.deploy.akamaitechnologies.com (AkamaiGHost/22.2.4.1-a037218b67efe8ad9050157600b4a630) (-)"
+    ]
+  },
+  "tuiker.vip": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.labobupop.com": {},
+  "www.arsenal.com": {},
+  "efsanetr.com/en_US/news/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "group.jumia.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "phoenix-browser.com": {},
+  "aaue.waeup.org": {},
+  "www.glassdoor.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.clubkonnect.com": {},
+  "footystats.org": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "mail.theloi.io.vn": {},
+  "oceanofpdf.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.imdb.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "sg-h5task.xenderbox.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "chatgpt.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "contentLocality": "za"
+  },
+  "nkiri.org": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "tecno.servicewebly.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "web.bet9ja.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "portal.kwasu.edu.ng": {},
+  "whoer.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "gc7.dfbnigeria.org.ng/login/?next=/": {},
+  "recruitment.cdcfib.gov.ng": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.paypal.com/ng/home": {
+    "pop": [
+      "lfp",
+      "par"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "lakefield",
+      "paris"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS, MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "grabpoints.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "putme.oouagoiwoye.edu.ng": {},
+  "fast.com": {
+    "provider": [
+      "AWS (not CDN)"
+    ]
+  },
+  "waploaded.co": {},
+  "adsvera.ng": {},
+  "applications.unilag.edu.ng": {},
+  "www.empressleak.biz": {},
+  "cm65.com": {},
+  "thenetnaija.com.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "selfservice.mtn.ng": {},
+  "infinix.servicewebly.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "pmc.ncbi.nlm.nih.gov": {},
+  "9animetv.to": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "nimc.gov.ng": {},
+  "account.bet9ja.com": {},
+  "myschool.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.healthline.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "surebet247.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "eportal.futminna.edu.ng": {},
+  "edu.google.com/intl/en-US/workspace-for-education/products/classroom/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "tools.usps.com/go/TrackConfirmAction_input": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.fakenamegenerator.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.gotvafrica.com/en-ng": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "vendorcenter.jumia.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.freesupertips.com": {
+    "pop": [
+      "egl",
+      "lhr",
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london",
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "et"
+  },
+  "www.oneric.xyz": {},
+  "www.predictz.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "5sim.net": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "contentLocality": "za"
+  },
+  "portal.esut.edu.ng/?AspxAutoDetectCookieSupport=1": {},
+  "m.1688.com": {
+    "provider": [
+      "alibaba"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS TCP_MISS dirn:-2:-2"
+    ]
+  },
+  "www.coursera.org": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "admission.veritas.edu.ng": {},
+  "bato.to": {},
+  "owodaily.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "book-airpeace.crane.aero": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "campus.iconicuniversity.edu.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "n1.5jb7.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "holahupa.com": {},
+  "myportal.fudutsinma.edu.ng": {},
+  "login.yahoo.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "manhwaclan.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.footballsuper.tips": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.w3schools.com": {},
+  "1000usdt.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "asuracomic.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.merriam-webster.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "my.clevelandclinic.org": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "external-auth.jumia.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "kimoitv.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "tubidy.cool/za971": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.digitalnbte.nbte.gov.ng/Login": {},
+  "app.lohli.com/login": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.soccer24.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.betano.ng": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.theguardian.com/international": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.afrointroductions.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "portal.unicross.edu.ng": {},
+  "chaturbate.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "nrlm.xyz": {},
+  "hub.deriv.com/tradershub/": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.xvideos.com/": {},
+  "getintopc.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "m.pocketoption.com/en": {},
+  "zistop.com": {},
+  "nigeriapropertycentre.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "outlook.office.com/mail/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.naijanews.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "gb"
+  },
+  "m.sosovalue.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "stdportal.oouagoiwoye.edu.ng": {},
+  "www.swagbucks.com": {},
+  "screenrant.com": {},
+  "aoa.powerxy.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.scorestrike.com": {},
+  "tfpdl.se": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "bsnsports.com.ng": {},
+  "wise.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "vdl.np-downloader.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "earnsmart.org": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.bettingclosed.com": {},
+  "www.forebet.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "za"
+  },
+  "www.netflix.com": {},
+  "bscscan.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "rtp.fb999.games": {},
+  "passport.immigration.gov.ng": {},
+  "reload.mtn.ng": {},
+  "liked.world/welcome": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "web.groomingcentreops.com/login.php": {},
+  "portal.yabatech.edu.ng": {},
+  "www.fortunesoccer.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "primusplus.accessbankplc.com": {},
+  "www.soccertvhd.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.topupandgetreward.com": {},
+  "www.footballinsider247.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.sidraclubs.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "viefaucet.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "ngxgroup.com": {
+    "pop": [
+      "13"
+    ],
+    "provider": [
+      "sucuri"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "fob.smartolt.com/auth/login": {},
+  "www.premierleague.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "naijauncut.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "xssokk.vip": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "m.flashscore.com.au": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "sms24.me": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "waploaded.com": {},
+  "www.sidrachain.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.squads.game": {},
+  "home.sec.gov.ng/": {},
+  "v2.mab.console.teamapt.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "gladtidingsdata.com": {},
+  "www.manutd.com": {},
+  "admissions.oauife.edu.ng": {},
+  "www.noblemerrycompany.com": {},
+  "mangabuddy.com/official": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "shows.waploaded.com/183/tv-series-fz-tvseries-mobile-movies": {},
+  "www.goodhousekeeping.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ]
+  },
+  "www.football365.com": {
+    "pop": [
+      "bru"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "brussels"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "be"
+  },
+  "soccernet.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "mks98.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.roblox.com": {},
+  "the-owlet.com": {},
+  "www.mangago.me": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "sh4re.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "cbt.uniuyo.edu.ng": {},
+  "insightsdeck.com": {},
+  "gistsmate.com": {},
+  "manhuaplus.org/404": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "newsterlingpro.sterling.ng": {},
+  "www.lxtgame.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "eaglepredict.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "app.deriv.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "cvr.inecnigeria.org": {},
+  "hausa.legit.ng": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "saharareporters.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "snaptik.app/en2": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.bettingtips.today": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.flashscore.mobi": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "bbnaijadaily.com": {},
+  "icorporate.tajbank.com/ErrorPages/Default?code=405": {},
+  "www.mirror.co.uk": {
+    "pop": [
+      "bru"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "brussels"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "be"
+  },
+  "tubidy.limited": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.987ng.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.livescore.red": {},
+  "www.sportytrader.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "lasu.edu.ng/home/": {},
+  "novelfire.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.ceenaija.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "waec-result-online-checker.hqivirals.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://accounts.google.com/&followup=https://accounts.google.com/&ifkv=AfYwgwW93vRWwOez9OhAK2iz2_UB3uqZz51CAkK7llYswkaWgySAaWGTLbPgvEK_zO_OC88in9tO1A&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S270044837:1758480097324882": {
+    "provider": [
+      "google"
+    ]
+  },
+  "goldenchancelotto.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "h5-mp.easemoni.com/login": {},
+  "play.mdundo.com/?utm_source=mdundo&utm_medium=geo&utm_campaign=geo_redirect": {},
+  "music.apple.com/us/new": {
+    "cacheStatus": [
+      "TCP_REFRESH_MISS from a93-186-134-95.deploy.akamaitechnologies.com (AkamaiGHost/22.2.4.1-77e9cb6b68636461a89296f1c5d52718) (S)"
+    ]
+  },
+  "unidel.waeup.org": {},
+  "fzmovies.ng/": {},
+  "socialearning.org": {},
+  "m.flashscore.co.uk": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.buycard.ng": {},
+  "www.volcanoh5game.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "portal.kwarastatepolytechnic.edu.ng": {},
+  "cmris.npf.gov.ng": {},
+  "mybuk2.buk.edu.ng": {},
+  "zoomapi.bet9ja.com": {},
+  "shop.bet9ja.com/Sport/Default.aspx": {},
+  "ednc55.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "xnxx.com.se": {},
+  "account.premierleague.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "Error from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "selfservicemodification.nimc.gov.ng": {
+    "pop": [
+      "bru"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "brussels"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "be"
+  },
+  "winpesa.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "trustcore.pro": {},
+  "sports.bet9ja.com": {},
+  "fantasy.premierleague.com": {
+    "pop": [
+      "egl",
+      "lhr",
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london",
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "et"
+  },
+  "m.flashscore.com.ng": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "icrp.cac.gov.ng": {},
+  "testnet.chainphon.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "outlook.live.com/mail/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "fastflirting.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.canva.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "workspace.google.com/intl/en-US/products/calendar/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.nigeriastartupact.ng": {},
+  "smeplug.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "hentai20.io": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "onemillionpredictions.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "update.cdcfib.gov.ng": {},
+  "hianime.to": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.vitibet.com": {},
+  "www.fawanews.sc": {},
+  "jobs.gaijinpot.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.biblegateway.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.soccervital.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "y.cards": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "1ato.com": {},
+  "syntech.network": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.etherealweb.site": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "wa2.club": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "animepahe.ru": {},
+  "www.mayoclinic.org": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.seriezloaded.com.ng": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "vastellia.pro": {},
+  "comick.io": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "za"
+  },
+  "cdn-swift.palmplaystore.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "noveldrama.org": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.metroopinion.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.hotnigerianjobs.com": {},
+  "www.nytimes.com": {
+    "pop": [
+      "lfp",
+      "par"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "lakefield",
+      "paris"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS, MISS, MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "bcgamebet.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "yandex.com": {},
+  "embassycafe.com.ng": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.mangakakalot.gg": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "ablefast.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "chelseanews.com": {},
+  "www.wakanow.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "18-47651595-47651621 NNNY CT(178 363 0) RT(1758480098959 390) q(0 1 1 -1) r(1 2) U6"
+    ]
+  },
+  "www.mobiletvshows.site": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT from Backend",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.pulse.ng": {},
+  "grok.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.zoomscores.ng": {},
+  "liteapks.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "slipsprinting.jamb.gov.ng": {},
+  "betgr8.com/ng/": {},
+  "tissf.boi.ng": {},
+  "www.msport.com/ng/web": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "xsin-hub.com": {},
+  "www.tradingview.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.9jarocks.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "n1.7ppa.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "m.forebet.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "gb"
+  },
+  "9jatrust.net/login.php": {},
+  "www.uefa.com": {},
+  "meetdownload.com": {},
+  "www.xxx.com": {},
+  "shop.mtn.ng": {
+    "pop": [
+      "kcg",
+      "iad",
+      "lfp",
+      "par"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "lakefield",
+      "paris"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "portal.funai.edu.ng/?AspxAutoDetectCookieSupport=1": {},
+  "www.quora.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "ssstik.io": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "m.gsmarena.com": {},
+  "www.microsoft.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "tiktokio.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "verifyplatform.com.ng": {},
+  "nofeu.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "results.neco.gov.ng": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.nouonline.nou.edu.ng": {},
+  "withinhours.com": {},
+  "charts.deriv.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.ooppgame.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "checkout.palmpay.com": {},
+  "cdn.710k.com": {},
+  "www.boomplay.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.iaai.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "13-14349726-14349739 NNNN CT(227 468 0) RT(1758480100349 383) q(0 0 7 -1) r(9 9) U24"
+    ]
+  },
+  "mtn.4gdata-plan.xyz": {},
+  "tubidy.limited/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.accuweather.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "tmailor.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "slot.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "afr.livesports088.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT || 3600s || afr.livesports088.com/",
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "axiom.trade": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "badoo.com/": {},
+  "n1.02xu.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "minepi.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.adibet.com": {},
+  "github.com": {},
+  "unwrappeddata.org": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "duckduckgo.com": {},
+  "www.figma.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "ecampus.fuoye.edu.ng": {},
+  "www.myjobmag.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "fzmovie.co.za": {},
+  "login.jw.org/connect/authorize?response_type=id_token&scope=openid%20profile&client_id=apps.jw.org&state=zKceiuWquFwnwkf7MTHWamY3d2c&redirect_uri=https://apps.jw.org/oidc/redirect&nonce=29rrdSSnK-n4IlqNQdhbooxHH3mQ71QWgiAON1BphoE&response_mode=form_post&ui_locales=en": {
+    "pop": [
+      "bru"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "brussels"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "be"
+  },
+  "novelfull.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.ysense.com": {
+    "pop": [
+      "bru"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "brussels"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "be"
+  },
+  "forms.office.com": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "blog.furucinovel.com": {},
+  "moniedesk-v2.moniepoint.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "workspace.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.socialearning.org": {},
+  "www.espn.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "usdt222.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.toongod.org": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "aggregator.opayweb.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "mobilenig.com": {
+    "pop": [
+      "13"
+    ],
+    "provider": [
+      "sucuri"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ]
+  },
+  "obqj2.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "app.gsubz.com": {},
+  "stake.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "medium.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.excellenth5game.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.betensured.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "xhamster.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "tvseries.in": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT from Backend",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.twpornstars.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "apkpure.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "nacknaija.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "portal.ebsu.edu.ng/?AspxAutoDetectCookieSupport=1": {},
+  "portal.coren.gov.ng": {},
+  "www.pinterest.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "wol.jw.org": {},
+  "smeplug.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "kworb.net": {},
+  "termview.apmterminals.com/TERMView/Login.aspx?ReturnUrl=/TERMView/default.aspx/": {},
+  "learnwithdsn.com": {},
+  "titit.vip": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.solutiontipster.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "m.soundcloud.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "registration.nafdac.gov.ng": {},
+  "tbrfootball.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.naijaprey.tv": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "naijablow.com": {},
+  "www.legit.ng": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.babypips.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "za"
+  },
+  "xbato.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "mkt.opayweb.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.linkedin.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ],
+    "contentLocality": "ng"
+  },
+  "labs.google": {
+    "provider": [
+      "google"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "trendybeatz.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "gemini.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "app.sanlamallianz.com.ng/pages/Sanlam-Nigeria/index.html": {},
+  "www.yeidep.org": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "swapfone.org": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "live8.nowgoal828.com": {},
+  "www.travelmath.com": {},
+  "support.nou.edu.ng": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.vanguardngr.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "gb"
+  },
+  "borwap.net": {},
+  "www.efsanetr.com/en_US/news/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.scoresinlive.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "nderegistrationportal.ng": {},
+  "genius.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "ng"
+  },
+  "signup.billions.network": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "mydramalist.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "everify.neco.gov.ng": {},
+  "hdmp4mania2.com": {},
+  "spankbang.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "etherealweb.site": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "one.google.com/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.instagram.com": {},
+  "stadium-mobile.bet9ja.com": {},
+  "free.facebook.com": {},
+  "mengpin.vip": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "addplus.org": {},
+  "ug.fulokoja.edu.ng/new/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "zorbeak.site": {},
+  "9jarocks.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "atm5.club": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "reallysimplesocial.com": {},
+  "logigames.bet9ja.com": {},
+  "m.naijapals.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.52shuku.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "ibankpro.providusbank.com/IBS/": {},
+  "awafim.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "ogsera.ogunstate.gov.ng": {},
+  "id.kycport.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "dailypost.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "ng-app.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.mozzartbet.ng/en": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "1",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "sfa.mplify.ng": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.thesun.co.uk": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "ngl.link": {
+    "pop": [
+      "egl",
+      "lcy",
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare",
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "HIT"
+    ],
+    "contentLocality": "et"
+  },
+  "www.auctionexport.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.zenithbank.com": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "14-51176653-0 NNNN RT(1758480104220 431) q(0 -1 -1 0) r(0 -1) B15(14,0,0) U6"
+    ]
+  },
+  "web.facebook.com": {},
+  "www.livesports088.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT || 3600s || www.livesports088.com/",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.footballtransfers.com/en": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "REVALIDATED"
+    ],
+    "contentLocality": "ng"
+  },
+  "listio.vip": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.webmd.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "eportal.oauife.edu.ng": {},
+  "nya2.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.52u.today": {},
+  "sparrow-network.com": {},
+  "ibank.zenithbank.com": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "16-42770449-0 NNNN RT(1758480103655 387) q(0 -1 -1 5) r(0 -1) B15(14,0,0) U6"
+    ]
+  },
+  "vegoutmag.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.livescore.com/en/": {
+    "cacheStatus": [
+      "MISS",
+      "HIT"
+    ]
+  },
+  "ydpat.fmyd.gov.ng": {},
+  "www.goodreads.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "myoperatorservice.com/login": {},
+  "o2tv.co": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.myportal.fud.edu.ng": {},
+  "www.xvlivecams.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.samsung.com": {},
+  "app.prokip.co/login": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "megaxh.com": {},
+  "portal.kogistatepolytechnic.edu.ng/Login/homed": {},
+  "prizel.ink": {},
+  "smile.com.ng": {},
+  "naijaxx.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "live20.nowgoal25.com/": {},
+  "umis.babcock.edu.ng": {},
+  "www.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "telegram.org/": {},
+  "www.trustpilot.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "flatimes.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "fdown.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "app.kingopinion.com/en/login?ss/=": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&ifkv=AfYwgwWXYuBSg5u-XV7Np3ntdtdNhUdcqkTay72RA5Nbqba8r5JewoX88eP9GufbvvHs3F4iYijk4w&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1726422180:1758480105853695": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.statarea.com": {},
+  "flyairpeace.com": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "11-37629978-0 0NNN RT(1758480104760 434) q(0 -1 -1 -1) r(0 -1) B15(4,200,0) U6"
+    ]
+  },
+  "learning.moniepoint.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "mis.udusok.edu.ng": {},
+  "babaijebu.ng": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.givemesport.com": {},
+  "www.eporner.com": {},
+  "socialbanking3.ubagroup.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "2-30958029-30958057 NNNN CT(162 195 0) RT(1758480104721 430) q(0 0 3 -1) r(5 5) U6"
+    ]
+  },
+  "cdn.lcwss.com": {},
+  "cdn.ak2yy.com": {},
+  "www.pussyboy.net": {},
+  "www.istockphoto.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "divineflaver.com.ng": {},
+  "audiomack.com": {
+    "pop": [
+      "bru"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "brussels"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "be"
+  },
+  "www.ak.bet": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "admin.shopify.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "buypower.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.threads.com": {},
+  "googll.store": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "jiji.ng": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "aistudio.google.com/welcome": {
+    "provider": [
+      "google"
+    ]
+  },
+  "adsmanager.facebook.com": {},
+  "highlifeng.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "en1.savefrom.net/14KS/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "abudlc-edu.ng": {},
+  "punchng.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "mail.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "atm.moniepoint.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "snapinsta.to/en": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "elevenlabs.io": {
+    "cacheStatus": [
+      "HIT",
+      "hit"
+    ]
+  },
+  "n1.b7yf.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.konga.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.stelladimokokorkus.com": {},
+  "faphouse.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.emulatorgames.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "portal.qiportal.net/VirtualOffice4/onlineestore/online_login_vo.aspx": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.dafont.com": {},
+  "1adr.com": {},
+  "authentication.dstv.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "etherscan.io": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "vsmobile.bet9ja.com": {},
+  "www.africa365.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.sportsmole.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "offeerr.com": {},
+  "dssp.frsc.gov.ng": {},
+  "app.surveoo.com/en/login?ss/=": {},
+  "wildshare.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "surveylama.com/en": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "dailytrust.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "znnns.vip": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "nsppd.mixlr.com": {
+    "pop": [
+      "bru"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "brussels"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "be"
+  },
+  "www.scholarshipregion.com": {},
+  "www.whatsapp.com": {},
+  "www.waecdirect.org": {},
+  "www.jobsregion.com": {},
+  "barcauniversal.com": {},
+  "atm.monnify.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "o2tvseries4u.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "account.samsung.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "amp.xnxx.com": {},
+  "easywin.ng": {},
+  "thenetnaija.ng": {},
+  "help.bet9ja.com": {},
+  "freecash.com/en": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.my9jarocks.info": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.trisonet.com": {},
+  "www.wamaina.com": {},
+  "forms.zohopublic.com": {},
+  "leaktube.net": {},
+  "www.livescorebet.com/ng/": {},
+  "www.naijatape.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "edition.cnn.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.aznude.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.ilovepdf.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.medicalnewstoday.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.derainservices.com": {},
+  "dexscreener.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "contentLocality": "za"
+  },
+  "www.airtel.com.ng": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "1-18456456-18456474 NNNY CT(120 122 0) RT(1758480106864 433) q(0 0 0 -1) r(2 2) U6"
+    ]
+  },
+  "gdpd.xyz": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "agents.premierlottong.com": {},
+  "lapolardi.egis.com.ng": {},
+  "truststa.com": {},
+  "promptearn.com": {},
+  "qoojee.vip": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.businesslist.com.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "support.google.com": {},
+  "www.fiverr.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "portal.unilorin.edu.ng": {},
+  "www.thecable.ng": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "STALE"
+    ],
+    "contentLocality": "za"
+  },
+  "instrumentals.com.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "binaswap.org": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "onlineappsaapade.gaposa.edu.ng/OnlineApp/Default": {},
+  "eto.ttp.com.ng/login": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "stripchat.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.umstad.online": {},
+  "chromewebstore.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "studentportal.unilag.edu.ng": {},
+  "propertypro.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.newsnow.com/us/": {},
+  "www.scribd.com/": {
+    "pop": [
+      "lfp",
+      "par"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "lakefield",
+      "paris"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "mmmmm.cyou": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "firefaucet.win": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "portal.rccg.org": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "checkout.korapay.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.husmodata.com": {},
+  "www.redwap.sex": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "member.metroopinion.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "unilag.edu.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "stellaplus.xyz": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.marsleisure.com/result.php": {},
+  "www.sportybet.com/ng/": {
+    "pop": [
+      "bru"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "brussels"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "be"
+  },
+  "simpletasks234.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "verifiedopinions.com": {},
+  "atlanteancrown.com": {},
+  "www.69shuba.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.808ball2.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT || 3600s || www.808ball2.com/",
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "open.spotify.com/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "orbchain-42046.firebaseapp.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "fxx5.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.allfreenovel.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "careers.fulafia.edu.ng": {},
+  "www.tvet.education.gov.ng": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.bbc.co.uk": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "www.booking.com/index.en-gb.html?label=gen173nr-10CAEoggI46AdIM1gEaKcBiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALsjcHGBsACAdICJDliNDEyMjJmLWY3NjgtNGJlNi05ZDhhLTA0ZmM2MTM3MjgyONgCAeACAQ&sid=7708077085fecf45cec83db175f275a6&keep_landing=1&sb_price_type=total&": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "lichess.org": {},
+  "www.gtbank.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "HIT from gtbank-plc-production-6cd97ffbc5-dnggn:8080",
+      "HIT",
+      "17-39172851-39172890 NNNN CT(191 155 0) RT(1758480108157 386) q(0 0 3 4) r(5 5) U6"
+    ]
+  },
+  "c.newsnow.com": {},
+  "www.ngmovies.com.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "STALE",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "accounts.spotify.com/en/v2/login": {},
+  "amt3.com": {},
+  "ng.indeed.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "portal.nysc.org.ng": {},
+  "kingsconference.app": {},
+  "xhamsterlive.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.apple.com/app-store/": {},
+  "faforlifebusiness.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "africa.espn.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "m.betking.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "solscan.io": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.betking.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "fr.xvideos.com": {},
+  "www.reddit.com/?rdt=33262": {},
+  "pay.trustable1.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.my9jarocks.wf": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "ibank.accessbankplc.com": {},
+  "loadedfiles.org": {},
+  "www.gladtidingsdata.com": {},
+  "promotions.bet9ja.com": {},
+  "mymultistreams.com": {},
+  "www.youtube.com/?app=desktop": {
+    "provider": [
+      "google"
+    ]
+  },
+  "22job.me": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "services.lidc.lasu.edu.ng": {},
+  "www.timeanddate.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "portal.cscs.ng": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "1-5172376-0 NNNN RT(1758480109135 437) q(0 0 -1 -1) r(3 -1) b6 U6"
+    ]
+  },
+  "www.etsy.com": {
+    "pop": [
+      "lfp",
+      "par"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "lakefield",
+      "paris"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "app.byteblockchain.org": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "moviebox.ph": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "wha7.org": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.888scoreonline.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.redtube.com": {},
+  "www.sportsgambler.com": {
+    "pop": [
+      "egm",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "sb"
+  },
+  "zealy.io": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.kycport.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "web.whatsapp.com": {},
+  "tvshows4mobile.org": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "afr.808ball2.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT || 3600s || afr.808ball2.com/",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "port07.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.nigeriadriverslicence.org": {},
+  "amp.xvideos.com": {},
+  "recruitment.fedcivilservice.gov.ng/vacancies": {},
+  "yeidep.org": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "battwo.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.ep-nga.com": {},
+  "www.researchgate.net": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "contentLocality": "za"
+  },
+  "ec5.empoweredconsumerism.com/index.html": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "jobs.smartyacad.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "m.facebook.com": {},
+  "paripesa.ng/en": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "wcl-frontoffice-ui.moniepoint.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "betwizad.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "cdn.xfami.com": {},
+  "ug.nsuk.edu.ng": {},
+  "www.dstv.com/en-ng/": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "portal.unijos.edu.ng": {},
+  "admission.funaab.edu.ng": {},
+  "footballpredictions.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "MISS"
+    ],
+    "contentLocality": "ng"
+  },
+  "tipsterarea.com": {},
+  "app.nairatrader.com": {},
+  "en.luxuretv.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "contentLocality": "za"
+  },
+  "footballpredictions.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.coingecko.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "discord.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.dailymail.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "arewagate.com": {},
+  "www.natomanga.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.si.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "bb2r.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.independent.co.uk": {
+    "pop": [
+      "egl",
+      "lhr",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS"
+    ],
+    "contentLocality": "et"
+  },
+  "supersport.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "TCP_MISS"
+    ]
+  },
+  "bako.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.alibaba.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "casino.bet9ja.com/casino/": {},
+  "www.livescore.mobi": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.firstbanknigeria.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.jamb.gov.ng/": {},
+  "unich.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "quillbot.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.flashscore.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.goal.com/en-ng": {},
+  "www.channelstv.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "za"
+  },
+  "business.google.com/en-all/business-profile/?ppsrc=GPDA2": {
+    "provider": [
+      "google"
+    ]
+  },
+  "snowmtl.ru": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.youporn.com": {},
+  "www.jw.org": {},
+  "www.futbol24.com": {},
+  "icorporate.zenithbank.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "3-10092774-10092736 pNNN RT(1758480110951 441) q(0 0 0 -1) r(1 1) U6"
+    ]
+  },
+  "www.ebay.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.pornpics.com": {},
+  "apply.unizik.edu.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "app.fundednext.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.thisdaylive.com": {},
+  "experteditor.com.au": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "yeshub.ng": {},
+  "www.premiumtimesng.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "en.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp6009 miss, cp6009 hit/11551",
+      "hit-front"
+    ]
+  },
+  "finanza.maketmoni.com": {},
+  "m.flashscore.co.za": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "translate.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "open.apexnews-af.com": {},
+  "swapfone-1e791.firebaseapp.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "portal.uniabuja.edu.ng": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://www.youtube.com/signin?action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fstudio.youtube.com%252F%26feature%3Dredirect_login&hl=en-GB&ifkv=AfYwgwUOW96YcaOl6W-o7YublCVD-mbq40WXiCzqnSi9TNUhRO9PdR5oRl15Tta4uIUvor4HZh_xtA&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S572976965:1758480112843507": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.grammarly.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "cdn.i993.com": {},
+  "ng.oraimo.com": {},
+  "waeup.uniben.edu": {},
+  "www.schoolngr.com": {},
+  "ibank.gtbank.com": {},
+  "book-ibomair.crane.aero": {},
+  "openai.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.postermywall.com": {},
+  "cdn.oo-t.com": {},
+  "express.opaycheckout.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "bodogwu.customs.gov.ng": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "contentLocality": "za"
+  },
+  "www.chevening.org": {},
+  "ibank.ubagroup.com/obng/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG&__START_TRAN_FLAG__=Y&FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=NG": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "14-60762241-60762295 NNNN CT(126 115 0) RT(1758480113346 447) q(0 0 3 -1) r(4 4) U6"
+    ]
+  },
+  "soundwela.site": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "bitly.com/": {},
+  "www.bbc.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "providerportallite.leadwayhealth.com": {},
+  "www.mypaga.com": {},
+  "www.windrawwin.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "miningcombo.com": {},
+  "www.humanatic.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "avers.aaua.edu.ng/auth/login": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "google",
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "1win.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "notifpush.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "x3os.com": {},
+  "pay.bet9ja.com": {},
+  "myschoolgist.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "primatips.com": {},
+  "possap.gov.ng": {},
+  "www.thechelseachronicle.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "sproutgigs.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "registration.waecdirect.org": {},
+  "noblemerrycompany.com": {},
+  "cdn.gamifyspace.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "classnotes.ng": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "naijared.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "nuviamusic.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.facebook.com": {},
+  "www.upwork.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "admin.reliancehmo.com": {},
+  "yts.mx": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "demonicscans.org": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "archive.org": {},
+  "focuspredict.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "portal.abu.edu.ng": {},
+  "www.xclusiveloaded.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "naijafap.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "e-task.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "welib.org": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.flashscore.com.ng": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.sportbible.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "erp.nou.edu.ng": {},
+  "www.chelseafc.com/en": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "TCP_MISS"
+    ]
+  },
+  "nelf.gov.ng": {},
+  "www.zikoko.com": {},
+  "premio7.com": {},
+  "trisonet.com": {},
+  "getdp.co": {},
+  "letshare.me": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.xnxx.com": {},
+  "nafrecruitment.airforce.mil.ng": {},
+  "dramakey.com": {},
+  "www.val9ja.com.ng": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "n1.6md4.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "eksuportal.eksu.edu.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.jamb.gov.ng": {},
+  "portal.nmcn.gov.ng": {},
+  "www.livescore.in": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "onlineac.zenithbank.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "3-10092820-10092837 NNNN CT(153 314 0) RT(1758480113442 435) q(0 0 5 -1) r(7 7) U6"
+    ]
+  },
+  "employment.akwaibomstate.gov.ng": {},
+  "www.apornvideo.com": {},
+  "workspace.google.com/products/meet/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "manhuaus.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "x.loandisk.com": {},
+  "empregologo.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.amazon.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.intelregion.com": {},
+  "vsgshhshs.blogspot.com": {},
+  "passwords.google.com/intro": {
+    "provider": [
+      "google"
+    ]
+  },
+  "validifysms.com": {},
+  "www.manchestereveningnews.co.uk": {
+    "pop": [
+      "bru"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "brussels"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "be"
+  },
+  "www.skysports.com": {},
+  "vaimucuvikuwu.net": {},
+  "fapello.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "account.wps.com/?cb=https://docs.wps.com/": {},
+  "directverify.com.ng": {},
+  "www.ngse2025.com": {},
+  "bwinners.gm": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "dldownload.com.ng": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "dollartub.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "orbchain.org": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "timesofindia.indiatimes.com": {},
+  "xhamster.desi": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.remove.bg": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "m.aiscore.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.hindustantimes.com": {},
+  "www.sofascore.com": {},
+  "eyekup.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "crushnovels.net/introduce": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "m.nowgoal.com": {},
+  "ngn.sunvip2.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "m.imdb.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "biblehub.com": {},
+  "www.bilibili.tv": {
+    "provider": [
+      "alibaba"
+    ],
+    "cacheStatus": [
+      "MISS TCP_MISS dirn:-2:-2"
+    ]
+  },
+  "freewebnovel.com/home": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "smartpulse.buzz": {},
+  "businessday.ng": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "za"
+  },
+  "metro.co.uk": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "n1.3uh7.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.cubigclub.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.amazon.co.uk": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.jmbilegame.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "app.floodify.io/auth/signin": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.lindaikejisblog.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "tonfarming-dex.xyz": {},
+  "efacility.jamb.gov.ng": {},
+  "kdp.amazon.com": {},
+  "m.flashscore.info": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.unitedinfocus.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "leakdad.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "ristechy.com": {},
+  "www.zillow.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "agenthub.com.ng/sign-in": {},
+  "policies.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "studentportal.delsu.edu.ng": {},
+  "www.betpawa.ng": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.erome.com": {},
+  "www.wattpad.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.cac.gov.ng": {},
+  "x-tramedata.com/land": {},
+  "network3.tcc-coin.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "mp3gaa.xyz": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "help.x.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "temp-number.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "za"
+  },
+  "talksport.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "qxbroker.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "contentLocality": "za"
+  },
+  "telegram.org": {},
+  "www.jobberman.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.cookie.fun": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "sme.lapo-nigeria.org": {},
+  "maxair.com.ng": {},
+  "owngoalnigeria.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "madurird.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "myportal.uam.edu.ng": {},
+  "9jaflaver.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "n1.9uot.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.konami.com/en/": {},
+  "portal.abuad.edu.ng": {},
+  "sssinstagram.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "1xbet.ng/en": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "nairametrics.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "nwu.edu.ng": {},
+  "www.mgeko.cc": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.livescore.cz": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.six9ja.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "fv-frontoffice-ui.moniepoint.com": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.udemy.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "myactivity.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.besoccer.com": {
+    "pop": [
+      "lfp",
+      "par",
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "lakefield",
+      "paris",
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "energypay.myeedc.com": {},
+  "nhentai.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "yzwtz.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "admissions.ui.edu.ng": {},
+  "fztvseries.live": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT from Backend",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "fij.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/&followup=https://sites.google.com/&ifkv=AfYwgwX2SKp96frjjPhx_mgHHiyRvE9cWz8KVen-JDQu_oOZo8V5ZMOUBpWGSuFqPVDlUuO5SAHmGQ&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1893063062:1758480118564626": {
+    "provider": [
+      "google"
+    ]
+  },
+  "earnmax.top": {},
+  "rumble.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "chainphon-14f1e.firebaseapp.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "print.ebanx.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "play.google.com/store/games?device=windows": {
+    "provider": [
+      "google"
+    ]
+  },
+  "xtremdata.com/land": {},
+  "domikids.tv": {},
+  "aniwatchtv.to": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "xenovadigitalservices.com": {},
+  "workspace.google.com/intl/en-US/gmail/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "cdn.aucey.com": {},
+  "packagetracker-services.jumia.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ng"
+  },
+  "treasureloop.xyz": {},
+  "darknaija.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.sciencedirect.com/unsupported_browser": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.bet365.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "efootball-point.konami.net": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.shutterstock.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.internationalcupid.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "byupw.instructure.com": {},
+  "provider.reliancehmo.com": {},
+  "www.arsenalinsider.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.forbes.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "indianexpress.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.gov.uk/browse/visas-immigration": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "fmoviesunblocked.net": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "xnxx.health": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.forexfactory.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.mtn.ng": {},
+  "nickt.vip": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "portal.nelf.gov.ng": {},
+  "www.dockaysworld.com.ng": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "fb.888scoreonline.net": {},
+  "etrendgigs.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.google.com/photos/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.scribd.com": {
+    "pop": [
+      "lfp",
+      "par"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "lakefield",
+      "paris"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "letshare.ng": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "dlilearn.unilag.edu.ng": {},
+  "wowne.ws": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT from Backend",
+      "BYPASS"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.dailymotion.com": {},
+  "www.ppsspp.org": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "animeheaven.me": {},
+  "ysu.edu.ng/ysu/": {},
+  "bato.si": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "betgenuine.com": {},
+  "selar.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "business.facebook.com": {},
+  "my.konami.net": {},
+  "nkiri.com": {},
+  "lifefit.leadway.com/lflive": {},
+  "sensualpepper.com": {},
+  "cdn.3ckz.com": {},
+  "pixabay.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "contentLocality": "ng"
+  },
+  "livescores.biz": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "datta.ng": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.betexplorer.com": {
+    "cacheStatus": [
+      "MISS",
+      "uncached"
+    ]
+  },
+  "unicalexams.edu.ng": {},
+  "www.football.com/ng/": {
+    "pop": [
+      "bru"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "brussels"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "be"
+  },
+  "www.standard.co.uk": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "www.bangbet.com": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "workspace.google.com/intl/en-US/products/drive/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "p2yn.com": {},
+  "wetafiles.com": {},
+  "bc.game": {
+    "pop": [
+      "los"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "lagos"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ng"
+  },
+  "apply.scholarship.undergraduate.nagasgroup.basicinfo.com.ng": {},
+  "betwinner.ng/en": {},
+  "artappex.com": {},
+  "bravont.site": {},
+  "novelbin.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "atm-v2.monnify.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  }
+}

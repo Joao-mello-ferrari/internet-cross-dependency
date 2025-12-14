@@ -1,0 +1,9311 @@
+{
+  "accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/&followup=https://sites.google.com/&ifkv=AdBytiOTJw2JbaU-d4Bbua3gMHt_lbqh4JFn4t_HFSnGVSRMjyKJz5FTUdhpviXGaFVx29GTrOoK&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1545798542:1757202122262176": {
+    "provider": [
+      "google"
+    ]
+  },
+  "collider.com": {},
+  "www.theroar.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "account.microsoft.com": {},
+  "www.macpac.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "chromewebstore.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "mypte.pearsonpte.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "premier.ticketek.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.agoda.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.hltv.org": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "employmenthero.yourpayroll.com.au": {},
+  "online.repcotrade.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.4chan.org/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.mydeal.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.dailytelegraph.com.au/remote/check_cookie.html?url=https://www.dailytelegraph.com.au/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.alibaba.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "identity.ibs.bankwest.com.au": {},
+  "letterboxd.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "m.shein.com/au/?cdn_rsite=ak&ref=m&rep=dir&ret=mau": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "news.yahoo.co.jp": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "store.steampowered.com": {},
+  "auth.identity.gov.au": {},
+  "solss.uow.edu.au": {},
+  "my.assessapp.com/users/sign_in": {},
+  "www.scribd.com": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.themercury.com.au/remote/check_cookie.html?url=https://www.themercury.com.au/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "mypolice.qld.gov.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "online.fireflyeducation.com.au": {},
+  "app.shippit.com/login": {},
+  "www.nabtrade.com.au": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "contentLocality": "ca"
+  },
+  "jp.translink.com.au": {},
+  "royalreels17.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.amazon.co.jp": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.bing.com": {},
+  "www.flightcentre.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "auspost.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "au.images.search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.fanfooty.com.au": {},
+  "www.police.sa.gov.au": {
+    "cacheStatus": [
+      "HIT from squizedge.net",
+      "HIT"
+    ]
+  },
+  "www.rmit.edu.au": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.lululemon.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.universalstore.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ign.com": {},
+  "www.webtoons.com/en/": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.theaustralian.com.au/remote/check_cookie.html?url=https://www.theaustralian.com.au/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "in.xero.com": {},
+  "www.supercheapauto.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "banking.westpac.com.au": {},
+  "www.crash.net": {
+    "pop": [
+      "syd1"
+    ],
+    "provider": [
+      "bunny"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.abs.gov.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.petrescue.com.au": {},
+  "www.webjet.com.au/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "miff.com.au": {},
+  "www.mitre10.com.au": {
+    "pop": [
+      "syd",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.unsw.edu.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www2.medicareaustralia.gov.au": {},
+  "www.myrta.com": {},
+  "au.puma.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.rebelsport.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "flinders.okta.com/app/flinders_canvas_1/exkq0l17xxLAsSN4k1t7/sso/saml?SAMLRequest=fVLLTgIxFN37FZPuZ9qOINAACUqMJKgE0IUbUmbuaEOnHXtbxb%2B3DD4Xuj09j57TDlHWuhGT4J/MEp4DoE/2tTYo2oMRCc4IK1GhMLIGFL4Qq8n1XOQZE42z3hZWkx%2BS/xUSEZxX1pBkNh2RTa/PGQy2LO1xVqUdYGfpoJA8LWW3z7anVd7t9klyDw6jZkSiRRQiBpgZ9NL4CLG8m7JBys7W%2Bano5IKzB5JMYw9lpG9VT943KCittDJltMrszsussDWVTfOFbgppXiRuOIX97plp3tvv5xNc3XR23PcooqWHfiSZfHa4sAZDDW4F7kUVcLecf2cdzbKvSChDJgPV9lGZD5/Fx3rnkaLM4//DbY8kFFfr9SJd3K7WZDw8%2BIh2Djc%2BBP%2Bde2DmQ/pTMDy%2B/E2Mmk0XVqviLbm0rpb%2B75vwjLeIKtOqpYpgsIFCVQrKuIzW9vXCgfQwIt4FIHR8DP39w8Yn7w%3D%3D": {},
+  "wind.willyweather.com.au": {},
+  "zh.m.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5": {
+    "cacheStatus": [
+      "HIT",
+      "cp5020 miss, cp5020 hit/36",
+      "hit-front"
+    ]
+  },
+  "login.mathletics.com": {},
+  "smartjobs.qld.gov.au": {},
+  "login.uts.edu.au/app/uts_canvas_1/exko8pbm0LUzqTGwS3l6/sso/saml?SAMLRequest=fZJfT8IwFMXf/RRL37euG3%2BkARKUqCSoBKYPvpCyXbCxa2dvK%2BindwyMmKiPvT3n/u49bR9FqSo%2B8u5Zz%2BHVA7pgVyqNvLkYEG81NwIlci1KQO5yvhjdTnkSxbyyxpncKHJi%2Bd8hEME6aTQJJuMBWbZ7K9Ze590wzZNO2II4D1frtBd2OwBxmnYZWzMSPILF2jMgdYvaiOhhotEJ7epSnLTDuBfGnSxJeSvhjD2RYFzvIbVwjevZuQo5pcpspI68wwgKHwlPRVXR%2BrjMhX4TuGQUdi/mvFqV8fTh4zW73i5S1aGIhu43I8Hoa/pLo9GXYBdg32QOD/PpN%2BXQ7BTTcI8tZsfILqQupN78n9bqIEJ%2Bk2WzcHa/yMiwv%2B/DmwzscM/8FbkXJX16qu0fXvqupkzGM6Nk/h5cGVsK9/cQLGJNRRbhupFyKIVUo6KwgFgHopTZXloQDgbEWQ%2BEDg/Un19qePYJ": {},
+  "www.harveynorman.com.au": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "13-7227024-0 NNNN RT(1757202118843 352) q(0 -1 -1 -1) r(0 -1) B10(14,0,0) U6"
+    ]
+  },
+  "www.goodreads.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.sbs.com.au": {},
+  "novelbin.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "fastflirting.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "poki.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.bonds.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.buzzfeed.com/au": {
+    "pop": [
+      "kjy",
+      "iad",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ndis.gov.au/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.calculator.net": {},
+  "itch.io": {
+    "cacheStatus": [
+      "BYPASS"
+    ]
+  },
+  "www.myid.gov.au": {},
+  "www.eventcinemas.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.jw.org": {},
+  "www.etsy.com": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "abr.business.gov.au": {},
+  "www.telstra.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.caravancampingsales.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "catalunyadiari.com": {
+    "pop": [
+      "ktk",
+      "dfw",
+      "ysb",
+      "wsi",
+      "syd"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "kunua",
+      "dallas-fort worth",
+      "sudbury",
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "pg"
+  },
+  "us02.procore.com": {},
+  "www.ebay.com/n/error": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.boyfriendtv.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "webmail.iprimus.com.au": {},
+  "growagarden.fandom.com/wiki/Grow_a_Garden_Wiki": {
+    "pop": [
+      "sjc",
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "san jose",
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "thewest.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.xnxx.com": {},
+  "learn.microsoft.com/en-us/": {
+    "provider": [
+      "azure",
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Hit from child"
+    ]
+  },
+  "99bikes.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "tfnswais-transportcloud.msappproxy.net": {},
+  "www.rewardia.com.au": {},
+  "webmail.optusnet.com.au": {},
+  "canvas.lms.unimelb.edu.au": {},
+  "sso.sydney.edu.au/app/sydneyuni_canvas_1/exke3d1qvZ3CE2FQQ3l6/sso/saml?SAMLRequest=fZLLTsMwFET3fEXkfd6hEKutVFoQlXiUtrBgUxnnBiwSO/japf17nAREQQLJq2vPHM/YQ2R11dCJNS9yCW8W0Hi7upJIu40RsVpSxVAglawGpIbT1eT6iiZBRButjOKqIgeS/xUMEbQRShJvPhuRDctPU7eYX5Zp5mdRzvy85AO/5NlJwZ8GaZxnxHsAjU4zIs7CCREtzCUaJo0bRcmxH%2BV%2BNFgnKc0SGkePxJu5HEIy06lejGmQhiGiCnBfSNgHUNiA2ZA1TdhPrBQbzuSW4SYOYfcKaRG/bR/T6XlycXeXVoNWHbYBiTf5CjFVEm0NegV6KzjcL6%2B%2BYb3ZL16lnoX8dFl8lncmZCHk8/%2B9PfWHkF6u1wt/cbtak/Gw9aFdG3rcYtuIPU64drTlxmoIuKo7YjIMDwXD/uFvHGo%2BW6hK8L13oXTNzN83iYO4m4jCL7uj1EpsgItSQOF6qSr1PtXADIyI4wMJxz305wcbH30A": {},
+  "portal.afterpay.com/au/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "pubmed.ncbi.nlm.nih.gov": {},
+  "www.canberratimes.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "buyee.jp": {},
+  "www.nine.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "translink.com.au": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "7news.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.apple.com": {},
+  "www.bricklink.com/v2/main.page": {},
+  "danbooru.donmai.us": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "id.adelaide.edu.au/app/adelaide_myuni_1/exkdd9pnlqpf8Mjfl3l6/sso/saml?SAMLRequest=fZJbTyshFIXf/RUT3hmm9OJI2iY9NsYmXhpbz4MvDYU9ypGBkQ1e/r3TqY2eGH1d7LU%2B9oIxyto2Ypbig7uBpwQYs9faOhTdwYSk4ISXaFA4WQOKqMRqdnkheF6IJvjolbfki%2BV3h0SEEI13JFvMJ2SzheGwkmpEOS/7dFBqRWXJK3rcimUxGPS2W0WyvxCw9UxIG9EaERMsHEbpYisVfEiLE1qM1rwvBlzw8o5k83YP42TsXA8xNigYMzqXGqw0GnLQKZeJyaZhB21TvyVnNj0Gr49anzTOPjVVefmvsn07Yoie7fYj2eyww6l3mGoIKwjPRsHtzcUnq8v6hrP%2B3riPmOVHeX%2BM08bd/97bdj%2BE4ny9XtLl9WpNpuNdjujaCNMd94ClSrpnid/ou3k%2BZl9t4/3zX7XAxXzprVFv2ZkPtYw/36eX9zrFaFp1oyI5bECZyoBu67HWv5wGkBEmJIYEhE330P%2B/2fToHQ%3D%3D": {},
+  "www.wikitree.com": {},
+  "ww2.liteneasy.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "telegram.org/": {},
+  "www.hotdoc.com.au": {},
+  "online.fines.vic.gov.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.itipfooty.com.au": {},
+  "fetlife.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "en.boardgamearena.com/": {},
+  "www.reece.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.sciencealert.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "ads.google.com": {},
+  "www.racing.com": {},
+  "myid.telstra.com": {},
+  "www.gettyimages.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "myapps.rmit.edu.au/nidp/saml2/sso?SAMLRequest=fVJbT8IwFH73Vyx934XBNmi2JQgxkqAuMH3wxXRbB022dva0Kv/eUjTiA7yefrfznaZA%2Bm7Ac632fEPfNQXlfPUdB2wfMqQlx4IAA8xJTwGrGm/nD2scegEepFCiFh06o1xnEAAqFRMcOatlht7aKA7i8TRx4yQauZOgGrtV3RI3jJp4Nk2qOGkmyHmhEgwnQ0bCEAE0XXFQhCszCsLIDWZuEJfhGE9CHCavyFmaPRgnyrL2Sg2Afb8/kGEAT/ZMebTRHtE%2BZ83gH2OHPoBAzvw330Jw0D2VWyo/WE2fN%2Bs/HSvATACpa6Ul9WrR%2B53YMW6lkFP89HLLeMP47nol1QkE%2BL4sC7d42pYoT4862C4q86PtJVcbPfXP4enpoo/GaLUsRMfqg3MnZE/U5Rwjb2QnrHFbC8Waw0Br1jLamFa6TnwuJCWKZsj4U%2BTnJ9P/Pye/%2BQY%3D": {},
+  "lichess.org": {},
+  "finance.yahoo.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "app.ddbook.com.au/Access/Login": {},
+  "petrolspy.com.au": {},
+  "www.adairs.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.healthline.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.servicesaustralia.gov.au": {},
+  "www.groupon.com.au": {},
+  "www.suzannegrae.com.au": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.trivago.com.au": {},
+  "www.primevideo.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.austlii.edu.au": {},
+  "au.search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "open.spotify.com": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "honey.nine.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.formula1.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.chemistwarehouse.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.forbes.com": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.citybeach.com/au/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "www.paypal.com/au/home": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS, MISS, MISS, MISS, MISS, MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.nab.com.au/": {},
+  "www.adultmatchmaker.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "celebrity.nine.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.allhomes.com.au": {},
+  "www.babybunting.com.au": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://www.youtube.com/signin?action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fstudio.youtube.com%252F%26feature%3Dredirect_login&hl=en-GB&ifkv=AdBytiNoM2ZhMFliNfGMgywan-SJcJ-QMAziE5mJoG2ivUCpfV5ymbtpHGgjXQ3iWII8s8ZZ-ZwbLA&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S115134:1757202127712872": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.ravelry.com/account/login": {},
+  "www.autoevolution.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ebay.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "lilabeauty.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.twitch.tv": {},
+  "reiwa.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "login.microsoftonline.com/CQU365.onmicrosoft.com/oauth2/authorize?response_type=code&client_id=10d4b8c7-6205-4e1d-b381-c9098180cddf&scope=openid%20profile%20email&nonce=N68bcc6e4e691c&response_mode=form_post&state=XOQRfKfaQ6cu8H8&redirect_uri=https://moodle.cqu.edu.au/auth/oidc/&resource=https://graph.microsoft.com&domain_hint=cqu.edu.au": {
+    "provider": [
+      "azure"
+    ]
+  },
+  "speedcafe.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "talent.seek.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "monashuni.okta.com/app/monashuni_learningmanagementsystemsmoodle_1/exk2tj3winDJbq2jn3l7/sso/saml?SAMLRequest=jVLbbtswDP0VQ%2B%2B2HOfiRkgCZA2GZei2oMn2sJeAtuhGrS6uKK/t31e1V7QFumJvBMnDc3jIBYHRrVh34WQv8bZDCsm90ZZEX1iyzlvhgBQJCwZJhFrs198uRJHlovUuuNpp9gryMQKI0AflLEu2myU7FnKOZ3VTyXJelaWcNnkjm/Esr0tomrNJA1jJybSqCmDJL/QUkUsWB0U4UYdbSwFsiKm8mKb5PM1nh2IsJoXIZ79ZsonbKAuhR51CaElwbpwFOnVWZe4mQFY7w6FtX9JHjeCtslcGLFyhQRvogQIaMs5JjccRx/ubIlyP75TdfK1ui2s71iUncvzJAJasn5c8d5Y6g36P/o%2Bq8eflxYuMZ5ZsIM5QdhziFfoZBad2CFKoKWtP7Xv9LNn9PcAnZWWsfex9NTSR%2BHI47NLdj/2BrRZPJKL30q/%2BX5rBABKie1HZgr%2BesRj%2B6Xtk3252Tqv6IfnsvIHwb3GjbNRnlEybvlV0llqsVaNQRju1dnfnHiHgkgXfIeOrgfTt364eAQ%3D%3D&RelayState=https://learning.monash.edu/&SigAlg=http://www.w3.org/2001/04/xmldsig-more%23rsa-sha256&Signature=jYlaubmEAaZNqtmv8ZtxTtmkY7CBjeGIQMeFjWBeEuyrNsEV%2Bd2T5uJNFwwmkHXscPWj54Mu1%2BV5pd9H%2Bm/SdfG86G32Neu/%2BeYd0NTTgehFth6h8fLzEiT1JhVPrG5I8VXixiZu/FHrHdNCPHQXL12cRyj3jc1BHInkCfKmfkc4A6lYzolwGWlTIZhwIrrf2JrYhjc9h9%2Bbe2l2S/hcWmInYofcMa3SWzs6oNdiYFOQTwQwL%2B9B0FWgxbiReIYx/U5chdP94LJOuTW%2B/G4%2BPbFfAlmCJfQSnLFiC/tTtJbSKY5WIocSKd%2B8pmei91ycIv3pEiUByhwzPUeKlIaXrw%3D%3D": {},
+  "www.manualslib.com": {},
+  "www.umart.com.au": {},
+  "www.pushys.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.linkt.com.au": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "9-31398330-31396920 PNNy RT(1757202146976 350) q(0 0 0 -1) r(0 0) U24"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.wa.gov.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.bcf.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.yelp.com/": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "app-ap1.hubspot.com/home-beta": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.temu.com": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.vodafone.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "exhentai.org": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "asuracomic.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "freecash.com/en": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "portal.revolutionise.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "login.geotester.com": {},
+  "www.spotlightstores.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "spankbang.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "sydneystudent.sydney.edu.au/sitsvision/wrd/siw_lgn": {},
+  "www.danword.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.nzherald.co.nz": {},
+  "xbato.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.rent.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "careers.woolworthsgroup.com.au/en_GB/apply": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.hungryjacks.com.au/home": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.skyscanner.com.au/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=187dd524-8b7b-11f0-a4a0-d3ae9c863b4a&vid=": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "vegoutmag.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ebay.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.priceline.com.au": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "3-39572303-0 0NNN RT(1757202157025 349) q(0 -1 -1 -1) r(0 -1) B15(4,200,0) U6"
+    ]
+  },
+  "word.tips": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "app.hubspot.com/home-beta": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.inspectrealestate.com.au": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "PRIVATE_NOSTORE"
+    ]
+  },
+  "mygameday.app/": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "0-83560219-83560242 NNNN CT(0 7 0) RT(1757202133386 479) q(0 0 0 -1) r(0 0) U6"
+    ],
+    "contentLocality": "us"
+  },
+  "www.coolmathgames.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "my.gov.au/en/myaccount/dashboard": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.healthdirect.gov.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "STALE",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.fantasticfurniture.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ikea.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare",
+      "azure"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.washingtonpost.com": {},
+  "immi.homeaffairs.gov.au": {},
+  "www.zerotackle.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.manheim.com.au": {},
+  "www.realestate.com.au": {},
+  "www.flashscore.com.au": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.thesun.co.uk": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "racingaustralia.horse": {},
+  "region.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "mobile.squirt.org": {},
+  "www.lego.com/en-au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "fs.swin.edu.au/adfs/ls/?SAMLRequest=jZJBTwIxEIXv/opN77tddheQBkgQYiRBJYAevJjSnYUm3RY7rei/t7toxIPG63S%2BmffedIi8Vgc28W6vV/DiAV30ViuNrH0YEW81MxwlMs1rQOYEW09uFyxLUnawxhlhFDlD/iY4IlgnjSbRfDYiz12RlWkOPO5WvSIu0rIf8%2B1lJ%2B72RVqmvXywLUoSPYLFwIxIGBFARA9zjY5rF0pp1o3TQZz2NlnOiox18icSzYIPqblrqb1zB2SUVpjgUeoESp9wT3lZIVVISTT5UjU1Gn0Ndg32VQp4WC2%2B6QbdBm9gtJIaEhkUWC%2Bct5AIU1NldlLTJgISLT%2BDuZK6lHr3dybbUxOym81mGS/v1xsyHjZzWOvUjhsF/xDQINmQnpPD03Xvws75bGmUFO/RtbE1d79L6iSdtiLLuGpbmdd4ACErCeEWE6XMcWqBOxiRsB8IHZ%2BW/vxF44sP&SigAlg=http://www.w3.org/2001/04/xmldsig-more%23rsa-sha256&Signature=SdPVeAY%2BzhXrIwzjxt/AAb9ezpD4mexcLu4gFi7DZrutUjT7xCfbCW/pnCudOltys3pSEZG/GoUQs6LL43uVJLwb4wp29pUN9GdBeddXmuQwJaLizGSNoZ2BeCsd9kPaqu%2B%2BhOF8TxxhDvTTJqG8pEUiYq10LuW62uOljyutCley4IRDvYiNAoHcfyycIFRMx8E3aDVG/4p9sw9MJ82q7xUekOmYmYU1S0Ef%2Bh989dm3oRg7%2BgOEaTBrut3o9dhbLz7VG8hPUeea/5mCFaMSNbzURPeNz5zyDWZIgyrR%2BL/n5jJXSebuz4DxL57lLoFr5DF28RfeV2S90U4c%2B6rVIw%3D%3D": {},
+  "www.jd-sports.com.au": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.pillowtalk.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "myreadingmanga.info": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.scorptec.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "7plus.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "my.gov.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.parra.catholic.edu.au/about/key-initiatives/canvas": {},
+  "secure.etax.com.au/Login?ReturnUrl=/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "people.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.jetpunk.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "xhamster.desi": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "au.iherb.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "sydneytools.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "dotti.jgl.com.au": {},
+  "www.bikesales.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ancestry.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "au.shein.com": {},
+  "www.afl.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront",
+      "akamai"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "whitefoxboutique.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "fasttrack.grv.org.au": {},
+  "missav.ws": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.centrecom.com.au": {},
+  "www.ing.com.au": {},
+  "www.stan.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "edgeportal.det.nsw.edu.au:6082": {},
+  "www.news.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.facebook.com/": {},
+  "www.meandu.com/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.mangago.me": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "idp.canberra.edu.au/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fVPbjtMwEH3nKyK/J06y6W6x2kqlFaLSwpamgMQLcpzJ7kiOHXxhy99jp%2B1SCbavM3MuczyeWd7LgS29e1I7%2BOnBuuTQS2XZ2JgTbxTT3KJlivdgmROsXn68Z2WWs8Fop4WW5AJyHcGtBeNQK5Js1nPyoxKCw011l%2BYTMU2r7m6aNkV3m3Z50zRlW4nJtCDJVzA2YOYkUASgtR42yjquXCjl5STN36b57b68YVXJquI7SdZhD1Tcjagn5wbLKMV2yARXDRjDM2h9xn2s0bBGhxJodFnSHbRoQDha1w8kWZ4Nr7SyvgdTg/mFAr7s7v8SeyGBG/UPudSPqGhMhSTbU1bvULWoHq/H1ByHLPuw32/T7UO9J4tZ5GHj8mYRlaOwwhdNDIkYL5w3kAndj7LljF6iZsfH/hT0Nuutlih%2BJ%2B%2B16bl73U6RFWMF27QbR9m3YE4/27XuOarPnkvsENpIGuKSUj%2BvDHAHcxLsAKFn1dN1QTveWojTwcElK90P3KCN7wQHLtx50cuplQx3s4NucfW0BBNxLpS9sgOI0dYpgP%2ByHXuvOHvpXn6NxZs/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.upwork.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.coingecko.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.speedtest.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.afr.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.bobjane.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.brisbanetimes.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.kia.com/au/main.html": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "character.ai": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.budgetdirect.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "forums.spacebattles.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "10.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "dangerfield.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "online.schoolbytes.education/sso?return_to=https%253A%252F%252Fonline.schoolbytes.education%252F": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.adobe.com": {},
+  "shop.symbion.com.au/login/?returnUrl=/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.famousbirthdays.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.sydneyoperahouse.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.monash.edu": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "automotivesuperstore.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.tripadvisor.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.westpac.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.bigw.com.au": {},
+  "www.ladbrokes.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ib.boq.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "business.facebook.com": {},
+  "www.adelaidenow.com.au/remote/check_cookie.html?url=https://www.adelaidenow.com.au/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "moviebox.ng": {},
+  "weebcentral.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.bendigobank.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "au.ixl.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.mtgmate.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "hianime.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "translate.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.qantas.com/au/en.html": {},
+  "m.cricbuzz.com": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://accounts.google.com/&followup=https://accounts.google.com/&ifkv=AfYwgwU5HSF_mw005QCS-f_DvTCzEwZprl1nisLjq25qqWZXQ-vBH9z5YeJXhYtouHVTWXK_QWYD_w&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1262212635:1757202136983951": {
+    "provider": [
+      "google"
+    ]
+  },
+  "care.personcentredsoftware.com.au": {},
+  "getadblock.com/en/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.glassons.com": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.youporn.com": {},
+  "workspace.google.com/intl/en-US/products/calendar/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "artfight.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "auth.pexa.com.au/u/login?state=hKFo2SB5VlZTWTZJeHBrVThtLWIyMS1NbGp0MUlQYnd0OTlJTaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIE9CWU5leTRrR2JqRDZVRUc2STlxX2ViVzZ4dWxfeFloo2NpZNkgZG1UcnFkU3pTM2w2SjN2ZjkyVXBsVUpWbDh4WHE3Zng": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.9now.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.heraldsun.com.au/remote/check_cookie.html?url=https://www.heraldsun.com.au/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "duckduckgo.com": {},
+  "www.linkedin.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.airbnb.com.au": {},
+  "www.lornajane.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "steamcommunity.com": {},
+  "www.revolutionise.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "startrack.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.specsavers.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.gamesradar.com": {
+    "pop": [
+      "lon",
+      "sjc"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "san jose"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS-CLUSTER"
+    ],
+    "contentLocality": "us"
+  },
+  "au.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.accuweather.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "secrethostess.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.harness.org.au": {},
+  "www.mathsonline.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.codesports.com.au/remote/check_cookie.html?url=https://www.codesports.com.au/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "wise.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.vevor.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "admin.google.com": {},
+  "portal.usi.gov.au": {},
+  "www.beaconlighting.com.au": {
+    "pop": [
+      "syd",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "takingshape.com/AU/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "my.unsw.edu.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "e-hentai.org": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "login.echo360.net.au/login?appId=c08c41ee-50e3-45e8-a6e6-e9579b28f620&afterLoginUrl=/home": {},
+  "bato.to": {},
+  "faphouse.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.independent.co.uk": {
+    "pop": [
+      "egl",
+      "lhr",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "et"
+  },
+  "www.pcgamer.com": {
+    "pop": [
+      "lon",
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS-CLUSTER"
+    ],
+    "contentLocality": "au"
+  },
+  "www.timeanddate.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "corp.airg.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "auzone2.nookal.com": {},
+  "www.gayporntube.com": {},
+  "www.ato.gov.au": {},
+  "thehalara.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "sxyprn.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.xnxx-arabic.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "cn.pornhub.com": {},
+  "rc.ds.network": {},
+  "m.dcinside.com": {},
+  "www.futbin.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "matchlocalozzies.com": {},
+  "www.tec.tas.gov.au": {},
+  "www.espn.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "sports.yahoo.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "screenrant.com": {},
+  "edu.google.com/intl/en-US/workspace-for-education/products/classroom/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.anz.com.au/personal/": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "12-125847803-125847092 PNNy RT(1757202231842 16902) q(0 0 0 0) r(0 0) U6"
+    ]
+  },
+  "www.yellowpages.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "auth.rezdy.com/oauth2/authorize?action=login&state=76d0fd4bfea226b8d841e97f46c172b4&redirect_uri=https://app.rezdy.com/auth/oauthCallback&scope=&response_type=code&approval_prompt=auto&client_id=4jivia3ebm9mbpcj22i2n29pdi": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "media.telstra.com.au": {},
+  "secure.dc2.pageuppeople.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "9-63175086-63175104 NNNN CT(1 2 0) RT(1757202144569 348) q(0 0 0 -1) r(0 0) U6"
+    ]
+  },
+  "edition.cnn.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.jbhifi.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.chess.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "login.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.simplyrecipes.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "my.racv.com.au": {},
+  "www.kathmandu.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "myrestaurant.mcdonalds.com.au": {},
+  "mypcorp.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.trybooking.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "liquipedia.net": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "amp.9news.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "gelbooru.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "member.secure.australianretirementtrust.com.au": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "2-57419562-0 NNNN RT(1757202186499 352) q(0 -1 -1 0) r(0 -1) B10(14,0,0) U6"
+    ]
+  },
+  "www.dell.com": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Error from child"
+    ]
+  },
+  "play.google.com/store/games?device=windows": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.netflix.com": {},
+  "www1.my.commbiz.commbank.com.au/Business/login": {},
+  "janitorai.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.jaycar.com.au": {},
+  "www.instagram.com": {},
+  "www.webjet.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "au.trustpilot.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "adsmanager.facebook.com": {},
+  "f95zone.to": {},
+  "hdporncomics.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "booking.jetstar.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "myanimelist.net": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "NotCacheable from child"
+    ]
+  },
+  "www.pickles.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.reddit.com": {},
+  "www.asic.gov.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.messenger.com": {},
+  "www.snapchat.com": {},
+  "www.toyota.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ancestry.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "sflix.mov": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "portal.schoolbytes.education/auth/login?return_to=https%253A%252F%252Fportal.schoolbytes.education%252F&error=unauthenticated": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.dicksmith.com.au": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.tomsguide.com": {
+    "pop": [
+      "lon",
+      "sjc"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "san jose"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER"
+    ],
+    "contentLocality": "us"
+  },
+  "racingnews365.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.rottentomatoes.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "cleartowork.energe3.com.au": {},
+  "www.footlocker.com.au": {
+    "pop": [
+      "eto",
+      "fra",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "frankfurt am main",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "de"
+  },
+  "x.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.bilibili.tv": {},
+  "www.lg.com/au/": {},
+  "www.officeworks.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "harmonyweb.au/UserAccount/Login?ReturnUrl=/": {},
+  "mangatoto.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "ibanking.stgeorge.com.au/ibank/loginPage.action": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.beaumont-tiles.com.au": {
+    "pop": [
+      "syd",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.citychic.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "portfolio.sharesight.com/users/sign_in": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.allrecipes.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.emirates.com/au/english/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "au.lifestyle.yahoo.com": {},
+  "www.tumblr.com": {},
+  "luxuryescapes.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.asics.com": {},
+  "www.strava.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.eenadu.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.jigsawplanet.com": {},
+  "scholar.google.com": {},
+  "www.kookai.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.airtasker.com/au/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.fresha.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.vicroads.vic.gov.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.swarovski.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.fanfiction.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.abcbullion.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "eldenring.wiki.fextralife.com/Elden+Ring+Wiki": {
+    "pop": [
+      "syd1"
+    ],
+    "provider": [
+      "bunny"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.racv.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.itvsn.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "earlysettler.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "imhentai.xxx": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.coinspot.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "web.whatsapp.com": {},
+  "www.booking.com/index.en-gb.html?label=gen173nr-10CAEoggI46AdIM1gEaA-IAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AuuN88UGwAIB0gIkM2Q4ZTAxMzMtOWM5Mi00MWJjLWEwOWYtYTNlZjFlNjJlNjM22AIB4AIB&sid=43132727b1d01a2620905d3f959c6865&keep_landing=1&sb_price_type=total&": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "sudoku.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.dogzonline.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "boardgamegeek.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.gumtree.com.au": {},
+  "www.redbubble.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "my.bestmed.com.au/Account/Login": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "musescore.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "music.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "my.tanda.co/login": {},
+  "www.uniqlo.com/au/en/": {},
+  "moodle.federation.edu.au/local/login/index.php": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.sussan.com.au": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.google.com.au": {
+    "provider": [
+      "google"
+    ]
+  },
+  "workspace.google.com/products/meet/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.peteralexander.com.au": {},
+  "www.vlr.gg": {},
+  "www.newcastleherald.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "jable.tv": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "accounts.spotify.com": {},
+  "idp.qut.edu.au/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fVJdT8IwFH33Vyx93zo2IKNhJAgxkqASNn3wxXTbBZpsLfTeov57N9CIieGxt%2BfrnnaMsqn3Yupop9dwcIDkfTS1RnG6SJmzWhiJCoWWDaCgUmTTh6WIglDsrSFTmppdUK4zJCJYUkYzbzFP2ZsMw1Evkonfi4uR3y8GlZ9AkfhJPylG0B8OehUw7wUstpyUtRItEdHBQiNJTe0ojAZ%2BOPLDYR7Foh%2BLKH5l3rzdQ2lJJ9aOaI%2BCc1Xtg4OjACoXSNcdebvBRtXAu4ARX0OlLJTEs%2ByJedOfrDOj0TVgM7BHVcLzevmrWUp9lHgpW5ut0ryrgnmr74Jula6U3l7vpjiDUNzn%2BcpfPWU5m4w7HXHa2E46z38tO1A05pfY8fldH1uXxXxlalV%2BenfGNpKuh%2BgmqvI3J6ggKzUq0NS2UdfmfWZBEqSMrAPGJ2fLv79ncvMF&SigAlg=http://www.w3.org/2001/04/xmldsig-more%23rsa-sha256&Signature=3RNdPuRA2MHIzd0GMUGCkhum63AugKpm0rk0MvMKwoStdZxWHScIf8IOKgw7MzwgED4nmuvfyNdOneSKUAg4aa%2B1wGSlIcPdsLCpwGRWqyAPv60FHve0fZwgqSlotfsvZuEMI1eaCPdQNFIAU5flF13WPUR34HfF1YuaN/3mi8OHSVTPvxfa2/Tidiks4I5XjX4RtpaiLCCk78sOv/JXCTUm24PArsjJSKrMcUCtHY1FnBuL7iUbQ%2BfmWZHB2liEQVEHfZFb68HimySVFiiOKVf5dTrxBZ00KB3YOGZtATVD3qVDMqarGuce33ORJ8memztiBWPxkt4/3McNsxxNHg%3D%3D": {},
+  "www.target.com.au": {},
+  "justjeans.jgl.com.au": {},
+  "scryfall.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.macrobusiness.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.bunnings.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "imgsrc.ru": {},
+  "www.carnival.com.au": {},
+  "thisvid.com": {},
+  "www.imagefap.com": {},
+  "www.harrisscarfe.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.property.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.paramountplus.com/au/": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.pizzahut.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.nike.com/au/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.workforceaustralia.gov.au": {},
+  "www.eagleagent.com.au/users/sign_in": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.foxtel.com.au/index.html": {},
+  "www.golfbox.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.flightradar24.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.cbr.com": {},
+  "www.canva.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.quora.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "chatgpt.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "onlyfans.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "onlineservices.ato.gov.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "readingcinemas.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.eldersweather.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.seedheritage.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "digitalonline.peopleschoicecu.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "rule34.xxx": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "theoodie.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "transportnsw.info": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "cardgames.io": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.stuff.co.nz": {
+    "pop": [
+      "akl",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "auckland",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "bsky.app": {},
+  "intersport.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.express.co.uk": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "stripchat.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "au.news.yahoo.com": {},
+  "www.thelott.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.acc.edu.au/canvas/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.petbarn.com.au": {
+    "pop": [
+      "syd",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "game8.co": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "mangapark.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "redhotpie.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.verywellhealth.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "secure.selfwealth.com.au/Account/Login?ReturnUrl=/": {},
+  "chaturbate.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.yourtango.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "scholar.google.com.au": {},
+  "www.escortsandbabes.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.pccasegear.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.macquarie.com.au": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "contentLocality": "ca"
+  },
+  "www1.flightrising.com": {},
+  "www.skynews.com.au/remote/check_cookie.html?url=https://www.skynews.com.au/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.stgeorge.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.westfield.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.forevernew.com.au": {
+    "pop": [
+      "syd",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "hanime1.me": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.amazon.in": {
+    "cacheStatus": [
+      "NotCacheable from child"
+    ]
+  },
+  "www.filipinocupid.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.pof.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "tp1.com.au": {},
+  "supre.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.tripadeal.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "sniffies.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.thesimsresource.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.facebook.com": {},
+  "www.ilovepdf.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.crosswordsolver.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "calculate.fairwork.gov.au": {},
+  "www.carexpert.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.biblegateway.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.tradingview.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.prouds.com.au": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "app.pricefinder.com.au": {},
+  "app.cartoncloud.com": {},
+  "app.practicemanager.xero.com": {},
+  "www.viator.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "www.bbc.co.uk": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.health.gov.au": {},
+  "www.sportsgirl.com.au": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.adelaidemetro.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "HIT",
+      "HIT from ip-10-161-111-17.ap-southeast-2.compute.internal"
+    ],
+    "contentLocality": "au"
+  },
+  "www.vistaprint.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.audible.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.bbcgoodfood.com": {
+    "pop": [
+      "dub",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "dublin",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "ie"
+  },
+  "workspace.google.com/intl/en-US/products/drive/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "bydautomotive.com.au": {},
+  "pmc.ncbi.nlm.nih.gov": {},
+  "www.mathplayground.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.locanto.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "asp.tramada.com.au": {},
+  "www.google.com/photos/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "account.bupa.com.au": {
+    "provider": [
+      "azure",
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE",
+      "5-5936124-5933315 PNNN RT(1757202193972 349) q(0 0 0 0) r(0 0) U24"
+    ]
+  },
+  "about.proquest.com/en/products-services/ebooks-main": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "geediting.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.newbalance.com.au": {},
+  "www.coles.com.au": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "5-14493674-14488885 PNNN RT(1757202171437 351) q(0 0 0 -1) r(1 1) U6"
+    ]
+  },
+  "www.thingiverse.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www2.medicareaustralia.gov.au:5447": {},
+  "www.businessinsider.com": {
+    "pop": [
+      "kjy",
+      "iad",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "mq.okta.com/app/macquarieuniversity_eacademic_1/exk7lqbvohPPFTD4J2p7/sso/saml?SAMLRequest=nZJBbxoxEIX/iuX7Yna7CcUCJMo2KhVptmGTSr0gYw9gxWsvHpuEf99lQ1R6aA65jt68b%2BbNjFDUJmv4NIadvYd9BAxkigg%2BaGdnzmKswS/BH7SEh/vFmO5CaJAzVu8TULEXUmlcVD3palalBWxENIHN9NQen3fggf2CNbv9mXwtHtiyZb1ZUlK0KG3FiXPp2nNPQXR2omlYLeQ%2BCq8hWn0AjzocVyCkUFBruUoZvDwNzH59cLuyvKmK/HvWDBiiY6e9KLlxXkK325huhEGgZF6M6SpdZ7lKJSRK5irJBxkkYph%2BTgSIYX6d5bmCfivFUiC23L/NiBHmFoOwYUyzfnaV9IdJ/7rKPvE841fpb0pK7w5agf8h6raxArmzzrjt8c4CWbits%2BQcZycNTjrzRVul7XZMo7fcCdTIbduNPEi%2BnN4ueNbr8/WrCPm3qiqT8m5ZUfJ4iuSUXyug5KU2FvnrRd/3as5gOhl1ct4t5i8d3jcQby9CJx9/iBG7hJ9HafgpuHlROqPlkUyNcc8zDyK0YQYfoTtqLcL/50t7aVfRKtl0Uh4tNiD1RoOihE3O3H%2B/fvIHVFAtUE9TVCIgVmVyc2lvbj0iMi4wIiB4bWxuczpzYW1sMnA9InVybjpvYXNpczpuYW1lczp0YzpTQU1MOjIuMDpwcm90b2NvbCI%2BPHNhbWwyOklzc3VlciB4bWxuczpzYW1sMj0idXJuOm9hc2lzOm5hbWVzOnRjOlNBTUw6Mi4wOmFzc2VydGlvbiI%2BaHR0cHM6Ly9tcS1lZHUudDFjbG91ZC5jb20vVDFEZWZhdWx0L0NpQW55d2hlcmUvV2ViL01RLUVEVTwvc2FtbDI6SXNzdWVyPjxzYW1sMnA6TmFtZUlEUG9saWN5IEFsbG93Q3JlYXRlPSJ0cnVlIiBGb3JtYXQ9InVybjpvYXNpczpuYW1lczp0YzpTQU1MOjEuMTpuYW1laWQtZm9ybWF0OnVuc3BlY2lmaWVkIiAvPjwvc2FtbDJwOkF1dGhuUmVxdWVzdD4%3D&RelayState=eyJQb3J0YWwiOiIkUzFfU1RBRkYifQ%3D%3D&SigAlg=http://www.w3.org/2001/04/xmldsig-more%23rsa-sha256&Signature=lBeLH5XXTV8F7lHj8vueXRibF9ek1FPzeau8oHJaFpUAHH%2BK%2BRip3/RE6ialC2uyVwc3Rsp5r5xUpeEHdnAB389UOE/vs1XkM0GR9K7VyoqYcP1rlvg10H32UUJ2dI9R/xoyuR63%2BMXGyOvbf9ERTuubzDoKhCstBr14OlgpNJvNCBY214Rv9pezb6gwQxaVCd6JIgd4P3yhtqsAbK%2B2Ndawv2vOQjwL1Hv8VrDVTlNKlnI5L5BPOoy2fQc0d3r9jkXFOkuvJsj9TGppK3LK29bKEAjLmdRNzI5KXhKrNsA5Wkpgh%2BE7P8PcVALJIJBPnYu0WHOAWtMtDimMQAa2pQ%3D%3D": {},
+  "my.clevelandclinic.org": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.echidnaonline.com.au/echidna/": {},
+  "prodadmin.myxplor.com": {},
+  "www.timeout.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.crunchyroll.com": {
+    "pop": [
+      "iah",
+      "syd"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "houston",
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "my.bupa.com.au/login?ReturnUrl=/": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "7-61667238-61667287 SNNy RT(1757202184435 816) q(0 1 1 -1) r(1 1) U6"
+    ]
+  },
+  "www.torn.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.racenet.com.au/remote/check_cookie.html?url=https://www.racenet.com.au/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.sporcle.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.nationalparks.nsw.gov.au": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "mcdonalds.com.au": {},
+  "m.jd-sports.com.au": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "nypost.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.52shuku.net/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "portmans.jgl.com.au": {},
+  "www.sen.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.flightaware.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "auth.uber.com/v2/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "au"
+  },
+  "www.telegraph.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.zerohanger.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www2.hm.com/en_au/index.html": {},
+  "mangabuddy.com/official": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.watoday.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "pokemondb.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "au.indeed.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.menulog.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "royalreels17.com/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "sevenrooms.com/": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.marketindex.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.vic.gov.au": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.realbabes.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "biaustralia.com.au": {},
+  "www.fragrantica.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "au.physitrack.com/login": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.betta.com.au": {
+    "pop": [
+      "syd",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "app.myob.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.aljazeera.com": {},
+  "seniorsdiscountclub.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.lovehoney.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.curseforge.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.polytec.com.au": {},
+  "www.productreview.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.bedbathntable.com.au": {
+    "pop": [
+      "syd",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ticketmaster.com.au": {
+    "pop": [
+      "ybb",
+      "bne"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kugaaruk",
+      "brisbane"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS, MISS, MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.letour.fr/en/": {
+    "pop": [
+      "lfp",
+      "par",
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "lakefield",
+      "paris",
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.eporner.com": {},
+  "www.cashconverters.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.thegoodguys.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.youtube.com/?app=desktop": {
+    "provider": [
+      "google"
+    ]
+  },
+  "parade.com": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.4wdsupacentre.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.bilibili.com": {},
+  "www.footytips.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "web.workshopmate.com.au": {},
+  "solitaired.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "en.luxuretv.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.halaxy.com": {},
+  "www.theiconic.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ubereats.com": {},
+  "hitomi.la": {},
+  "iview.abc.net.au": {},
+  "schoolbox.bmg.vic.edu.au/login/": {},
+  "www.nab.com.au": {},
+  "www.bbc.com": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "au.pcpartpicker.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "en.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp5020 miss, cp5020 hit/2739",
+      "hit-front"
+    ]
+  },
+  "experteditor.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "ezyparts.burson.com.au/burson/ezyparts/en/AUD/login": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "14-63811035-63811081 NNNY CT(3 12 0) RT(1757202246355 349) q(0 0 0 -1) r(0 0) U6"
+    ]
+  },
+  "mylearn.une.edu.au": {},
+  "www.lskd.co": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.v8sleuth.com.au": {},
+  "www.velocityfrequentflyer.com": {},
+  "www.woolworths.com.au/": {},
+  "d4web.dental4web.com": {},
+  "stardewvalleywiki.com/Stardew_Valley_Wiki": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "hit cached",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "thepokies114.net/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.zoom.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "github.com": {},
+  "www.centrelink.gov.au": {},
+  "discord.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "villagecinemas.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "secure.employmenthero.com/users/sign_in": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.kenogo.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.asos.com": {},
+  "www.fiverr.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.reuters.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ancestry.co.uk": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "hianime.to": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "pokefarm.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.sciencedirect.com/unsupported_browser": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "au"
+  },
+  "www.techradar.com/au": {
+    "pop": [
+      "lon",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS-CLUSTER"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.lenovo.com/au/en/": {},
+  "www.sportsbet.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "monashuni.okta.com/app/UserHome?iss=https://monashuni.okta.com&session_hint=AUTHENTICATED": {},
+  "rateyourmusic.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.pornpics.com": {},
+  "www.domain.com.au": {},
+  "au.unleashedsoftware.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.expedia.com.au": {},
+  "torquecafe.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.dailymail.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.recipetineats.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.asx.com.au": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS",
+      "5-5935131-5935157 NNNY CT(0 1 0) RT(1757202183986 351) q(0 0 0 -1) r(0 0) U6"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.lloydsonline.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "hotcopper.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.patreon.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "proda.humanservices.gov.au/prodalogin/pages/public/login.jsf?TAM_OP=login&ERROR_CODE=0x00000000&URL=http://proda.humanservices.gov.au/&OLDSESSION=": {},
+  "practicemanager.xero.com": {},
+  "connect.tafeqld.edu.au/d2l/login": {},
+  "www.cin7.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "kayosports.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "m.fmkorea.com": {},
+  "oldschool.runescape.wiki": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ebgames.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ixxx.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.wattpad.com": {
+    "pop": [
+      "mel"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "melbourne"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "au.pinterest.com": {
+    "provider": [
+      "fastly"
+    ]
+  },
+  "www.clinictocloud.com/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.xero.com/au/": {
+    "provider": [
+      "AWS (not CDN)",
+      "akamai"
+    ]
+  },
+  "www.nexusmods.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.theage.com.au": {
+    "pop": [
+      "syd",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.templeandwebster.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.doordash.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "au.yeti.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.52shuku.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.taste.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.gamingbible.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.playrugbyleague.com": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.fairwork.gov.au": {},
+  "www.service.transport.qld.gov.au": {},
+  "www.adidas.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.literotica.com": {},
+  "quizlet.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.anacondastores.com/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "healthengine.com.au": {},
+  "www.myheritage.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "14-143150013-143150051 NNNY CT(1 3 0) RT(1757202193220 352) q(0 0 0 -1) r(0 3) U6"
+    ],
+    "contentLocality": "au"
+  },
+  "sellercentral.amazon.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.thesaurus.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.hoyts.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "internetbanking.suncorpbank.com.au/usermgmt/public/suncorpbank/login?bmctx=4CC35ADD448ED2F8B9B6CD46AA44C9739D9CBEF05211A29E268664675E380485&contextType=external&username=string&OverrideRetryLimit=3&contextValue=/oam&challenge_url=https://internetbanking.suncorpbank.com.au/usermgmt/public/suncorpbank/login&password=secure_string&request_id=2435005149159082129&authn_try_count=0&locale=en&resource_url=https%253A%252F%252Finternetbanking.suncorpbank.com.au%252F": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "0-10576629-10576521 SNNN RT(1757202212577 1133) q(0 0 0 -1) r(0 0) U6"
+    ]
+  },
+  "www.nrl.com": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "humanitix.com/au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "forum.questionablequesting.com": {},
+  "www.manoramaonline.com": {},
+  "stackoverflow.com/questions": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "bigrigs.com.au": {},
+  "www.mxstore.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "25581600 21402973",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.redtube.com": {},
+  "scarletblue.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.nitrotype.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "flatmates.com.au": {
+    "pop": [
+      "hkg"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "hong kong"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "hk"
+  },
+  "vucollaborate.vu.edu.au/d2l/loginh/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "login.my.gov.au/mga/sps/oauth/oauth20/authorize?user_flow=enhance_login&client_id=7TPYCClhSnXhffUEQdM6&response_type=code&scope=openid+link-optimistic+profile+mca_poro_bypass&redirect_uri=https://myrecord.ehealth.gov.au:443/oam/server/auth_cred_submit&state=k8n2k37hbhpnu4pmopralp5uej&request_id=-6917114902559650892&CREDENTIAL_CONTEXT_DATA=USER_ACTION_COMMAND,USER_ACTION_COMMAND,null,hidden%3B": {},
+  "www.furaffinity.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.jetstar.com": {},
+  "www.paris2018.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.seek.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.shopify.com/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "missav.ai": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "nortonsafe.search.ask.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "www.next.com.au/en": {},
+  "www.princesspolly.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.perthnow.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.bom.gov.au": {},
+  "education.nsw.gov.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "go.lodgeit.net.au": {},
+  "scratch.mit.edu": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.abc.net.au": {},
+  "www.crosswordsolver.org": {},
+  "bookings12.rmscloud.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.kogan.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "www.americanexpress.com/en-au/": {},
+  "www.repco.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.studocu.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "forms.office.com": {
+    "pop": [
+      "mel"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "melbourne"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ],
+    "contentLocality": "au"
+  },
+  "mathspace.co/au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "v.daum.net": {},
+  "forums.whirlpool.net.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "glamadelaide.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "gormanshop.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.carsales.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ski.com.au": {},
+  "twistedsifter.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.bigfooty.com": {},
+  "www.studyladder.com.au": {},
+  "www.flicks.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.apsjobs.gov.au/s/": {},
+  "thenightly.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.kmart.com.au": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "6-72094152-72092841 PNNN RT(1757202194657 347) q(0 0 0 -1) r(3 3) U6"
+    ]
+  },
+  "esoe.qut.edu.au/auth/realms/qut/protocol/openid-connect/auth?ui_locales=en&scope=openid+email+profile&response_type=code&redirect_uri=https://qutvirtual4.qut.edu.au/c/portal/login/openidconnect&state=d6_6QNHYizcBnGRgb0hUmomU0anyKhzYf9eni8K1Pwk&code_challenge_method=S256&nonce=rMOgMyF1uHlDsKE-lkFc3dePpy99f4Xrck3bW9rVRIw&client_id=qut-portal&code_challenge=jfI_mv-lhQfJ4MWnRnsRbgmi_bOR_tKsmlHxpriM0Es": {},
+  "www.foxnews.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly",
+      "akamai"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "sudbury"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.planetf1.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "funnyjunk.com": {},
+  "www.energyaustralia.com.au": {},
+  "m.imdb.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "admin.shopify.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "learn.tafesa.edu.au": {},
+  "outlook.office365.com/mail/": {},
+  "www.eatingwell.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.getyourguide.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.wnacg.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "email.telstra.com": {},
+  "www.virginaustralia.com/au/en/": {},
+  "all.accor.com/a/en.html": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "13-57114717-57114832 NNNN CT(3 3 0) RT(1757185028443 2473) q(0 0 0 1) r(0 5) U24"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.royalroad.com/home": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.lpsg.com": {},
+  "xhamster.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.fool.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.wordplays.com": {},
+  "www.imdb.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ultimate-guitar.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "accounts.qantas.com/auth/member/signin": {},
+  "www.deckshop.pro": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.service.nsw.gov.au/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.theguardian.com/au": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "bookings.rentalcarmanager.com/account/login.aspx": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.microsoft.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.transport.wa.gov.au/public/server-error-500.asp?SupportID=7304326009506412488&Error=0&Requested_URI=/": {},
+  "www.popcultcha.com.au/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.69shuba.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "app.storypark.com": {},
+  "workspace.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.sunshinecoastnews.com.au": {},
+  "arca.live": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "recharge.telstra.com.au": {},
+  "www.punters.com.au/remote/check_cookie.html?url=https://www.punters.com.au/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.msn.com": {
+    "pop": [
+      "mel"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "melbourne"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ],
+    "contentLocality": "au"
+  },
+  "order.dominos.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.tamildhool.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.originenergy.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www2.my.commbiz.commbank.com.au/Business/login": {},
+  "www.twinkl.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "14-12296905-12296931 NNNN CT(3 10 0) RT(1757202199588 420) q(0 0 0 -1) r(0 3) U6"
+    ],
+    "contentLocality": "au"
+  },
+  "www.lioden.com": {},
+  "dissh.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "my.aldimobile.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "peppermayo.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.appliancesonline.com.au": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.sustainability-times.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "learn.getatomi.com/login": {
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ]
+  },
+  "www.amazon.com": {
+    "cacheStatus": [
+      "NotCacheable from child"
+    ]
+  },
+  "openai.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "tixel.com/au/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "mangafire.to": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "view.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.bestandless.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.comcourts.gov.au/pip/saml/authn_request?SigAlg=http://www.w3.org/2000/09/xmldsig%23rsa-sha1&SAMLRequest=eJyFkE9Pg0AQxe/9FGTv0OWfwKa0QY2xSTUNpR68mO0yrZvALu4sxI8v2poYD%2BVd5jBv3uT3FqvPtnEGMCi1yonvUeKAErqW6pSTffXgpmS1dC5aIG%2BbjhW9fVclfPSA1hnvFbKfRU56o5jmKJEp3gIyK9iueNqwwKOsM9pqoRvizJwrWt/n5BglSRYc01SACMMk5SJKxxGnWQY%2BPYSj4izg/kTUyy9W8I11/StiD2uFlis7%2BmkQuzRz6U0VhCyKGI1eJwK2F7pbqc7d/avC%2B1vF4WxC9lhVW7eEWhoQdvrDIGswz2NcTjqOE/4CEYwd%2Be%2B0wr4FswMzSAH7cpOTOaKeN/ok1RsXSObL2RcbBYTx&Signature=FyWRfDB9P4SFYl%2BjnaHdQf/B6tEJ3kD%2B/%2BN2maFN5GuAqyMsGWbkKnF2TUfY%0A9frLgLRQVkktC3GeFLBLmjPNuQ%3D%3D%0A&ByName=pas": {},
+  "www.discogs.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.pornhub.com": {},
+  "czbooks.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "gemini.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.amartfurniture.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.sydney.edu.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "app.shiftcare.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "rule34video.com": {},
+  "au.jora.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.mechanicdesk.com.au": {},
+  "www.cricket.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.racingaustralia.horse": {},
+  "www.dndbeyond.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.crazygames.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.xvideos.com": {},
+  "www.xda-developers.com": {},
+  "transport.vic.gov.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.aol.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.nytimes.com": {
+    "pop": [
+      "lga",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "new york",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.dominos.com.au": {},
+  "www.ecosia.org": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "tournaments.tennis.com.au": {},
+  "www.totaladblock.com": {},
+  "www.merriam-webster.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.weatherzone.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "open.spotify.com/": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&ifkv=AfYwgwXLy7GXTHwLhsvfrlWr0tL6cwp17F2sYRH3Nvat-NQc_pLk5QvE6CuT2PSdkn7fG4cpuFKG4Q&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-787716272:1757202207964801": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.tradezone.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "play.blooket.com/play": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.dailymotion.com": {},
+  "battwo.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.smh.com.au": {
+    "pop": [
+      "syd",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.newsweek.com": {
+    "cacheStatus": [
+      "HIT",
+      "hit"
+    ]
+  },
+  "support.google.com": {},
+  "autax.xero.com": {},
+  "support.apple.com": {},
+  "outlook.live.com/mail/": {
+    "pop": [
+      "mel"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "melbourne"
+    ],
+    "contentLocality": "au"
+  },
+  "pulsetasmania.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "REVALIDATED"
+    ],
+    "contentLocality": "au"
+  },
+  "www.reverseaustralia.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "app.gettimely.com/Account/Login?ReturnUrl=/calendar": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.meshki.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.edge.asic.gov.au": {},
+  "www.researchgate.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "eztvx.to": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.espncricinfo.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "app.visualcare.com.au/login.php?c_2fa": {},
+  "m.facebook.com": {},
+  "www.davidjones.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "12-67380106-67362377 PNNy RT(1757202247658 357) q(0 0 0 -1) r(1 1) U6"
+    ]
+  },
+  "www.qld.gov.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "m.fanfiction.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.stratco.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "weather.com/en-AU/weather/today/l/ASXX0023:1:AS?Goto=Redirected": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "au.finance.yahoo.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "moneysmart.gov.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "tides.willyweather.com.au": {},
+  "account.ezyreg.sa.gov.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.tab.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.horoscope.com/us/index.aspx": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "simpcity.cr": {},
+  "www.britannica.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.thetimes.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.choice.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.commbank.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.nsw.gov.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.seabreeze.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "medi-map.com.au": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "theconversation.com/au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.tabtouch.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.depop.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "login.yahoo.com/?.src=ym&pspid=159600001&activity=mail-direct&.lang=en-US&.intl=us&.done=https://mail.yahoo.com/d": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "archive.org": {},
+  "en.m.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp5020 miss, cp5020 hit/1969",
+      "hit-front"
+    ]
+  },
+  "imgur.com": {
+    "pop": [
+      "kwh",
+      "lax"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "khwahan",
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "af"
+  },
+  "www.apeuni.com": {},
+  "www.boatsonline.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.broadsheet.com.au": {},
+  "www.woolworths.com.au": {},
+  "www.youjizz.com": {},
+  "www.ozbargain.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "vastosoft.com": {},
+  "www.skysports.com": {},
+  "www.wowhead.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "flingcastle.com": {},
+  "www.amazon.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.cnbc.com/world/": {},
+  "www.totaltools.com.au": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "amp.nine.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.yourtv.com.au/guide/": {
+    "pop": [
+      "syd",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "EXPIRED",
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "genius.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "timesofindia.indiatimes.com": {},
+  "mydramalist.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.tiktok.com/explore": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "TCP_MISS from a23-214-88-36.deploy.akamaitechnologies.com (AkamaiGHost/22.2.3-dd2e9ddb9a7176afbd825015b8856261) (-)"
+    ]
+  },
+  "gas.mcd.com": {},
+  "experience.flybuys.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "vnexpress.net": {},
+  "www.ultimate-guitar.com/explore": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.disneyplus.com": {},
+  "www.lotterywest.wa.gov.au": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.mayoclinic.org": {
+    "provider": [
+      "google"
+    ]
+  },
+  "archiveofourown.org": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.servicem8.com/login-page": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "online.macquarie.com.au/personal/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.myteamge.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "support.microsoft.com/en-us": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.playhq.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "gateway.zscalerone.net": {},
+  "www.typing.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.willyweather.com.au": {},
+  "aussiebang.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.optus.com.au": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly",
+      "akamai"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "contentLocality": "ca"
+  },
+  "shop.app": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.xbox.com/en-AU/": {},
+  "www.roblox.com": {},
+  "racing.racingnsw.com.au": {},
+  "www.mecca.com/en-au/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "au.pandora.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "fapello.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.wolvden.com": {},
+  "trainingdesk.com.au": {},
+  "www.sephora.com.au": {},
+  "www.fmkorea.com": {},
+  "www.oursteps.com.au/bbs/portal.php": {},
+  "www.pricecharting.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.swellnet.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.transport.wa.gov.au": {},
+  "tvtropes.org": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "au"
+  },
+  "www.myer.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "kahoot.it": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "fortnitetracker.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "myactivity.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "e621.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "noodlemagazine.com/new-video": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "outlook.office.com/mail/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "vimeo.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "syd"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.cheapflights.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "www.danmurphys.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "accounts.nintendo.com": {},
+  "www.9news.com.au": {
+    "pop": [
+      "syd",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "EXPIRED",
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "login.vaultre.com.au": {},
+  "www.fuq.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.yesstyle.com/en/home.html": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.costco.com.au": {},
+  "www.findagrave.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.grays.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "news.google.com/home?hl=en-AU&gl=AU&ceid=AU:en": {
+    "provider": [
+      "google"
+    ]
+  },
+  "gamerant.com": {},
+  "www.realcommercial.com.au": {},
+  "nhentai.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.glassdoor.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.f1oversteer.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.samsung.com": {},
+  "mb.greater.com.au/MobileBanking/": {},
+  "www.deviantart.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "www.strandbags.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.sa.gov.au": {
+    "cacheStatus": [
+      "HIT from squizedge.net",
+      "HIT"
+    ]
+  },
+  "www.aldi.com.au": {},
+  "www.lookmovie2.to": {},
+  "www.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "gamefaqs.gamespot.com": {},
+  "history.paypal.com/au/home": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS, MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.culturekings.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "auzone1.nookal.com": {},
+  "www.neopets.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "ilearn.mq.edu.au/login/index.php": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "au.linkedin.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.epicgames.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "tags.news.com.au/prod/newskey/generator.html?origin=https://www.foxsports.com.au/&17572022231883734239": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "trove.nla.gov.au": {},
+  "au.tommy.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "yts.mx": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.tpg.com.au": {},
+  "au.trip.com": {},
+  "internet.cclfunhub.com": {},
+  "old.reddit.com": {},
+  "1337x.to": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "monashuni.okta.com/app/monashuni_mcplmoodle_1/exk15qqsk2nJD3ozo3l7/sso/saml?SAMLRequest=lVLLbtswEPwVgXc9LcUyYRtwYxR1kbZC7ObQi0GJ65gwX%2BZSaZqvLy01SHpIgNyI4c7uzOzOkSlp6ar3R30L5x7QR49KaqTDx4L0TlPDUCDVTAFS39Ht6tsNLZKMWme86YwkryjvMxgiOC%2BMJtFmvSD7ik/KvCoLxrOct7O6nrbtNCs5zNqcZ%2B1hVpfdtC5qdiDRHTgMzAUJjQIdsYeNRs%2B0D1BWVHE2i7OrXTGh5YRWV79ItA5uhGZ%2BYB29t0jTVBnN8NhrkZiTZ0lnVMqsfYH3qrNSGcMl7PMUHk95dT7jqdBf1xPzZCZymiKa9OL1oqIJlsQDLIh3PZBo9Wzw2mjsFbgtuAfRwc/bmxcJUmEyzgvhSbiHBHifsD5lYQ1D5yJFOz5i1mFij/ZNEomaf2v4JDQX%2Bv79DbRjEdIvu10TNz%2B2O7KcXybRIVG3/KBIBZ5xFoIMGufp60bz8bS%2BBwmbdWOk6P5En41TzL%2BtME/yARE8PgyltNdooRMHATykK6X5fe2A%2BefA0%2BU49P8TXv4F&RelayState=https://lms.monashcollege.edu.au/&SigAlg=http://www.w3.org/2001/04/xmldsig-more%23rsa-sha256&Signature=eaXr3Ohn2vJ1mUW/htGkAniIZ7rFbpPmpsB5bqFd5esZQ38FaGVeZwkkNPt%2BwgCOyBV7itYCqVyXlJVugyhJb2LvbWmsjFe7NTxtdXGF5AyxvFdoQ2Oq3WNMBRzMXTTjZLPUnipHpyW/WD2hnM0kp0//NIcWRPTegJIRBuV3N3SRp8TaDOJ3yoCxNDXBm2VxuHMPnGK0Dstls1g0%2BmJVaZRdpvloJYU0o2sqeYPLxe8TAQjM6CdY3OZE20Dq9yFlLU1AUHX0fwDIDt1uIAxg%2BLekyYk%2B3I1Hfu0gNMJTZOBwTmtFJBdyliZJwGq8C6uPfhD69b/dxMerPuto5JUCVA%3D%3D": {},
+  "www.drive.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.mangakakalot.gg": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.agl.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.albumoftheyear.org": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "agelessozzies.com": {},
+  "www.booktopia.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "my.zandahealth.com/Account/Login?ReturnUrl=/": {},
+  "www.ndtv.com": {},
+  "www.kfc.com.au": {},
+  "www.brasnthings.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.carsguide.com.au": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.bet365.com.au": {
+    "pop": [
+      "bne"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "brisbane"
+    ],
+    "contentLocality": "au"
+  },
+  "toyhou.se": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.cmcmarketsstockbroking.com.au": {},
+  "www.hindustantimes.com": {},
+  "ib.boq.mobi": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "9anime.org.lv": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "cottonon.com/AU/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.rome2rio.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "one.google.com/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "oceanofpdf.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.natomanga.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.service.nsw.gov.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.supercoach.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "motherless.com": {},
+  "www.couriermail.com.au/remote/check_cookie.html?url=https://www.couriermail.com.au/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.thenewdaily.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.tnaflix.com": {},
+  "search.bilibili.com": {},
+  "billyj.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.dropbox.com": {},
+  "www.erome.com": {},
+  "workspace.google.com/intl/en-US/gmail/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.singaporeair.com/en_UK/au/home": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.google.com/account/about/?hl=en-US": {
+    "provider": [
+      "google"
+    ]
+  }
+}

@@ -1,0 +1,8572 @@
+{
+  "www.pixiv.net": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "workspace.google.com/intl/en-US/products/drive/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "shop.coinmaster.com": {
+    "pop": [
+      "dfw",
+      "qro"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "dallas-fort worth",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "forms.office.com": {
+    "pop": [
+      "dfw"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "dallas"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ],
+    "contentLocality": "us"
+  },
+  "www.nytimes.com": {
+    "pop": [
+      "lga",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "new york",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.univision.com": {
+    "pop": [
+      "iad",
+      "kcg",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "cloudfront",
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "chignik",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront, HIT, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.doctoralia.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "mx.andrea.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "motherless.com": {},
+  "danbooru.donmai.us": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "en.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp2031 miss, cp2029 hit/10712",
+      "hit-front"
+    ]
+  },
+  "dsia.uv.mx": {},
+  "www.fpo.xxx": {},
+  "www.serviciosenlinea.pjf.gob.mx/juicioenlinea": {},
+  "virtualhorizon.buap.mx": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "56-58308526-58308550 NNNY CT(67 67 0) RT(1757014574169 196) q(0 0 0 -1) r(2 2) U6"
+    ]
+  },
+  "es.chaturbate.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.terra.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "discord.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.scribd.com/": {
+    "pop": [
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "zm"
+  },
+  "mejoresopciones.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "satid.sat.gob.mx": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "TCP_REMOTE_HIT"
+    ]
+  },
+  "www.nike.com/mx/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.radio-en-vivo.mx": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.liveworksheets.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "imevis.edomex.gob.mx": {},
+  "www.sephora.com.mx": {},
+  "www.sodimac.com.mx": {},
+  "honeytoon.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://takeout.google.com/&followup=https://takeout.google.com/&ifkv=AdBytiMo6xmD8STsD9NoriikP6EKad-HpC0LeYkZk-V42clheTVT1K0kWCSE-GyO-nOVZvMD0ZpFaQ&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1372342191:1757014575691503": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.google.com.mx": {
+    "provider": [
+      "google"
+    ]
+  },
+  "liteapks.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "archiveofourown.org": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "github.com": {},
+  "wwd.mp3juice.blog": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.mundodeportivo.com": {},
+  "www.honor.com/mx/?host=honor.com": {},
+  "sipare.imss.gob.mx/sipare_webapp/index.jsp": {},
+  "www.nexusmods.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.tokyvideo.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.bbva.mx": {},
+  "www.underarmour.com.mx/es-mx/": {
+    "pop": [
+      "qro",
+      "mmq"
+    ],
+    "provider": [
+      "cloudflare",
+      "fastly"
+    ],
+    "location": [
+      "querã©taro",
+      "mbala"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "MISS, MISS"
+    ],
+    "contentLocality": "mx"
+  },
+  "m.imdb.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.meteored.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.hilton.com": {},
+  "www.blogdepelis.cc": {
+    "pop": [
+      "zrh"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "zurich"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ch"
+  },
+  "iems.cdmx.gob.mx/": {},
+  "www.mangago.me": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "www.kimovil.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.playdoit.mx": {},
+  "www.toroporno.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "fs.itesm.mx/adfs/ls/?SAMLRequest=fZJNTwIxEIbv/opN7/vBisg2QIIQIwnqBtCDF1PaWWjSD%2By0iv/esmjEg1ynfeaZd9oBMq12dBz81izgLQD6ZK%2BVQdoeDElwhlqGEqlhGpB6Tpfj%2Bzkts4LunPWWW0VOkPMEQwTnpTUkmU2H5FWIsiyuhUhFn0Pa7fW7KeOsmxa9puxX1bpaN5wkz%2BAwMkMSW0QQMcDMoGfGx1JRXqVFlRbdVaeilz3a6b2QZBpzSMN8S2293yHN8wYz6QF1pvc5Ew3mCnOSjH9GmliDQYNbgnuXHJ4W81%2BUB4cWMw9cSwVG2kMPZTfS5IfQJKm/V3EjjZBmc34L6%2BMlpHerVZ3Wj8sVGQ0OfWibzY0O2mg90cmY1wXug4OMW91ay0F%2BCg2OT/kQdbNpbZXkn8mtdZr5/6fpZJ22IkXatFdpMLgDLhsJIu5GKfsxccA8DEn0A8lHR%2BnfLzO6%2BAI%3D&SigAlg=http://www.w3.org/2000/09/xmldsig%23rsa-sha1&Signature=3E0mufp7hoT4iGiVE61EvLcpUxl7BeLhO9fXN8LB3bP4rAQUzuYlpf6/gkjeG/MnB%2B%2BuC12tUOxDaYe5FYVvmQJvDxOjUpwdwnMEhjURhdYaWCoksqrm1lX6HEoKMzZRSocTgFfE0pmAg8IuhCvigh7y3qOgtY9qWxvQm8uwU0zkSQrU8GSkIKeHZsRO4pA38JDJkHXiLw47miMkcZL3aVAKPUet83Qq36ditBxGG6bNoBHROpPhdfQeCjukebvBzeutabttYa6XBCVg0MpoaWfYK9TA%2Bw36LgxPf8mxu0/fuTHwdoqjjw1br0Vsr5QkynfypDJQapMDkvDQQcLxtg%3D%3D": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "57-74599775-74599784 NNNY CT(28 62 0) RT(1757014577010 185) q(0 0 0 -1) r(0 0) U6"
+    ]
+  },
+  "www.elsiglodetorreon.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.mercadolibre.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "alibaba",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.transfermarkt.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "lectormanga.io": {},
+  "ngl.link": {
+    "pop": [
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "zm"
+  },
+  "www.ebay.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.mercadofertas.com": {},
+  "www.sensacine.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.xbox.com/es-MX/": {},
+  "www.temu.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.inegi.org.mx": {},
+  "www.gob.mx": {},
+  "mega.nz": {},
+  "www.xvideos.com": {},
+  "www.newgrounds.com": {},
+  "auth.uber.com/v2/": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.dropbox.com": {},
+  "es.m.wikipedia.org/wiki/Wikipedia:Portada": {
+    "cacheStatus": [
+      "HIT",
+      "cp2031 hit, cp2029 hit/2859",
+      "hit-front"
+    ]
+  },
+  "lms30.uno-internacional.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.jovenesconstruyendoelfuturo.stps.gob.mx": {},
+  "imgsrc.ru": {},
+  "www.ixxx.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "ptscdecprov.clouda.sat.gob.mx": {},
+  "es.wikipedia.org/wiki/Wikipedia:Portada": {
+    "cacheStatus": [
+      "HIT",
+      "cp2031 hit, cp2029 hit/4373",
+      "hit-front"
+    ]
+  },
+  "www.cuevana.is": {
+    "pop": [
+      "zrh"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "zurich"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ch"
+  },
+  "la.spankbang.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.reddit.com/?rdt=32982": {},
+  "vanguardia.com.mx": {},
+  "www.movistar.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.pornolargo.com": {},
+  "otubex.com": {},
+  "www.deviantart.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.sumabeneficios.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare",
+      "CF"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "es.namemc.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.cetesdirecto.com": {},
+  "kueski.com/": {
+    "pop": [
+      "iad",
+      "qro"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "washington",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.gaymaletube.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "uvm.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "es-us.noticias.yahoo.com": {},
+  "casas.trovit.com.mx": {},
+  "login.mat.sat.gob.mx": {},
+  "www.speedtest.net": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "portal.bbva.mx": {},
+  "www.eleconomista.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "archive.org": {},
+  "lectorikigai.damilok.xyz": {},
+  "www.musixmatch.com": {
+    "pop": [
+      "kjy",
+      "iad",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "es.xhamsterlive.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "support.google.com": {},
+  "one.google.com/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "signup.live.com/error.aspx?e=404": {
+    "provider": [
+      "azure"
+    ]
+  },
+  "ssstik.io": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "pluto.tv": {},
+  "app.qualitypost.com.mx/app_login.php": {},
+  "tienda.movistar.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "ww3.animeonline.ninja": {
+    "pop": [
+      "dfw"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "dallas-fort worth"
+    ],
+    "contentLocality": "us"
+  },
+  "aprendidelavida.com": {},
+  "mitotalplay.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "hitomi.la": {},
+  "www.romsgames.net": {
+    "pop": [
+      "fra"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "frankfurt am main"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "de"
+  },
+  "lagged.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "ak.stikroltiltoowi.net": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.eluniversal.com.mx": {},
+  "workspace.google.com/intl/en-US/products/calendar/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "coa4kcontent.imweb.me": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.xnxx.com/": {},
+  "www3.animeflv.net": {},
+  "es.spankbang.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "crocs.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.google.com/account/about/?hl=en-US": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.mayoclinic.org": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.researchgate.net": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.inmuebles24.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "amp.milenio.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "play.mercadolibre.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "alibaba",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "help.netflix.com/en": {},
+  "web.facebook.com": {},
+  "www.somosbelcorp.com": {},
+  "flvto.com.mx/es117/": {
+    "pop": [
+      "fra"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "frankfurt am main"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "de"
+  },
+  "platacard.mx/es": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.informador.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "llave.cdmx.gob.mx/oauthV2.xhtml?client_id=201910171350301234&redirect_url=https://llave.cdmx.gob.mx/index.xhtml&state=McjFxr7aayAO_AQ_VC5syo83t6Ra3Z96vco93QYjnqDHr1CFIhApbNbhVJOacc1J": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "61-201598331-201597801 SNNN RT(1757014575551 493) q(0 0 0 2) r(1 1) U6"
+    ]
+  },
+  "www.gruposwats.com": {},
+  "www.zoom.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.marca.com/": {
+    "pop": [
+      "ams",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "amsterdam",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "help.uber.com": {},
+  "store.epicgames.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "cs.estafeta.com": {},
+  "es.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "feedbackally.walmart.com": {
+    "pop": [
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly",
+      "FA"
+    ],
+    "location": [
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "zm"
+  },
+  "interceramic.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "english-dashboard.pearson.com/login": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.lavanguardia.com": {},
+  "www.mlb.com": {
+    "pop": [
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "databaseconsulting.mx": {},
+  "www.whatsapp.com": {},
+  "www.yamaha-motor.com.mx": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "50-19473760-19473780 NNNN CT(63 130 0) RT(1757014575650 203) q(0 0 2 6) r(5 5) U6"
+    ]
+  },
+  "www.wordreference.com": {},
+  "support.coinmastergame.com/hc/en-us": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "wise.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "weather.com/es-MX/tiempo/hoy/l/MXDF0132:1:MX?Goto=Redirected": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.steren.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.pasionaguila.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.grupostelegram.net": {},
+  "ad.ymcdn.org": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.hbomax.com/": {},
+  "eternalmangas.org/": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.insurgentesuin.mx": {},
+  "play.google.com/store/games?device=windows": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.diez.hn": {},
+  "verificacfdi.facturaelectronica.sat.gob.mx": {},
+  "www.decathlon.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "es3.ytmp3.mobi/0naY/": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT from Backend",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.glamour.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.mastertheenglish.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.polybuzz.ai": {},
+  "www.mediotiempo.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "moovitapp.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "sistema.ecofactura.mx/ingresar/": {},
+  "www.youtube.com/?app=desktop": {
+    "provider": [
+      "google"
+    ]
+  },
+  "alumno.conalep.edu.mx": {},
+  "search.go-search.net": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "hentaila.tv": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "manhwabl.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "steamcommunity.com": {},
+  "web.whatsapp.com": {},
+  "xhamster.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.tumblr.com": {},
+  "dsiapes.uv.mx": {},
+  "veohentai.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.gpfans.com/es/": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "missav.ws": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "workspace.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.manhwaweb.com": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "newark"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "vandal.elespanol.com": {},
+  "diario.mx": {},
+  "www.totalplay.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.tudn.com/mx": {
+    "pop": [
+      "iad",
+      "kcg",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "cloudfront",
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "chignik",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "Miss from cloudfront, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "pay.telcel.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.boyfriendtv.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.garnier.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.smartfit.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "es.pictoa.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.recetasnestle.com.mx": {
+    "pop": [
+      "kig",
+      "chi",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "koingnaas",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT, MISS, MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "es.erome.com": {},
+  "en.m.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp2031 hit, cp2029 hit/3638",
+      "hit-front"
+    ]
+  },
+  "m.fanfiction.net": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.theblowers.com": {},
+  "www.ambito.com/mexico": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "zonatmo.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "vercomicsporno.com/comics-porno": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "unrc.secihti.mx": {},
+  "www.freepik.es": {},
+  "www.milenio.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "u.mitec.com.mx": {},
+  "comics18.org": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.cyamoda.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.metrobus.cdmx.gob.mx": {},
+  "www.vogue.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "cookpad.com/jp": {
+    "pop": [
+      "kjy",
+      "iad",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "micuenta.infonavit.org.mx": {},
+  "www.hobbyconsolas.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "validate.perfdrive.com/b6a08f6062c60cd2bc9fa327e2e3247e/?ssa=1f58deea-f32d-4122-a4f8-4e31d64ac4f8&ssb=46700276364&ssc=https://mitelmex.telmex.com/&ssi=9b4a54b9-bkzz-4aa0-880f-2ebefad1e649&ssk=support@shieldsquare.com&ssm=42545609869284055102193141043876&ssn=f307c2a03331c8936e9952f3a3fad247b77d0ef9e700-b662-4990-887d20&sso=fb5c9592-17360832fdb87d38947521d26b30d2bfa680611ebcaff2b0&ssp=61981626551757088204175706210400918&ssq=21881771457657552038914576634881239067056&ssr=MTI4LjE0LjEwMi4xNTE=&sst=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.124+Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDAwZWY5ZTcwMC1iNjYyLTQ5OTAtODU5Mi0xNzM2MDgzMmZkYjgxLTE3NTcwMTQ1NzcwNTUwLTAwMGYwOWNiYzgxYThlYjRkNjIxMCIsInJkIjoidGVsbWV4LmNvbSIsInV6bXgiOiI3ZjkwMDAyMjlhZWFiZi1jMmJhLTRmYmQtYjNiOC05MmJmNWYxNTQxODkxLTE3NTcwMTQ1NzcwNTUwLWE5Y2E4OTliNGU5NjFjNzExMCJ9": {},
+  "www.fonacot.gob.mx/Paginas/default.aspx": {},
+  "www.clima.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "servicios.caliente.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "wol.jw.org": {},
+  "www.nacionfutbol.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "itsmanual.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.sinembargo.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "apis.tdaypay.com": {},
+  "www.mercadolibre.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "alibaba",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "best.aliexpress.com/?commercial_type=bestPage&hc_1214_tag=ByAffPage&aff_fcid=10e20c02c7874db783ef1137b3a4973e-1757014578653-06201-_pz9sEiR&aff_fsk=_pz9sEiR&aff_platform=portals-promotion&sk=_pz9sEiR&aff_trace_key=10e20c02c7874db783ef1137b3a4973e-1757014578653-06201-_pz9sEiR&terminal_id=59e590c0b7d94dcb9f6d2d47cecae9b5": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "es.xhamster.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "mx.mileroticos.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "pornone.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.cyberpuerta.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "educads.dgces.salud.gob.mx": {},
+  "mx.images.search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "poki.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "vamoscruzazul.bolavip.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "refaccionesitalika.com.mx": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "62-130419925-130419966 NNNN CT(36 38 0) RT(1757014576758 220) q(0 0 1 -1) r(1 1) U6"
+    ]
+  },
+  "i4ch-capitalhumano.cdmx.gob.mx": {},
+  "facturacion.walmartmexico.com.mx": {},
+  "outlook.office365.com/mail/": {},
+  "veopornogratis.xxx": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue&dsh=S-1660903078:1757014579705284&client_id=773539637596-8j1usm812jehhj7hrfrec5npkih1egt0.apps.googleusercontent.com&code_challenge=m7bV3FSjcz3JZSKRPAVWKIZUTzzjyaLyCmMoJZjLFVc&code_challenge_method=S256&o2v=2&redirect_uri=https://iap.googleapis.com/v1/oauth/clientIds/773539637596-8j1usm812jehhj7hrfrec5npkih1egt0.apps.googleusercontent.com:handleRedirect&response_type=code&scope=openid+email&service=lso&state=AQ7pM-QE8sYb0vj7J97Z8JLzjccDEul0nXclzTgtuZH-SyrdQLETnbO5hwXNB5s2DfeCOQWcZAM45gTHJnqNSbflzz1Nb3M6bwUpzQXj65lK2hfTXahiBMfKdjbg5R1eeSR1IpJwb0QdbfgOeTrP3nrYNEGbtE1FAthYOPWWHjswTUYf_KdgvWf5D_bFO7RdQw966goMmw8fkY2DMsXJU9CD3sQgL1p4kCRbKwwvKE9LDTOCybUdnINDLl4wtlK_uXupOXoS4vXj1l4JzxgjhoAw-0DoUVmxgSbA_U_jKrfRkgw_hrcj0BS-r3FdL0R4kCv923eUlNJntZPSiE5BIbkOXoOFbOCnKokDPbJzx5RyEzNLdQ7b7mcpwAUljBIOIXjpEWotVpADCykIO2Cm4MhdisOJgYyNTye0CD0wEIbHEI9wWt7uwLL3UcCaaapin7USR7rnmTyLoqVkTNDNBAhYWVNbKaqXZbV1bUszjwiGuc_5P2SRKIQ2yvg1gyMCtMx7B0wUfZu5zBqEVBTcMMbgPR5XrusY2DNtwmzaNq0dMzMmj5M1U5YqI2VNjoLKyFcl3TGHhhebXnlcut78RRGnIuniEcpasOiiGM2yM3Jj-FJD6YiYUdUqX7O5b7jJvS0DJzFcStO6RbcxZyUpSWTPb8Zm3jmqqTgfzNA9xElSUclXq9eVmWKgmokRRWE2HLPx2btLgGgBCZ72_pKCniN6T7NUwOIEEj_hxXzY9CX3OyJ6puOvlakR48rm58wIOI3dY1KT6Xh_9KGupHi4prlPMOq3lovwBMabTPmmnJnlgNuxrqBfT2NObq8C6pGvEJ0H-aJqJyuXSKQ1iLDJEtjxkl0aNNp087WcLkxlwTrwMUJU1q_2UbI_YLmjqG3CLsF4VF_TVcfusw69Ao99xbR65MmhbHshEr8DLVk7SwKaif4dk9yPy6OlAVT3IcKsLn4s9fwmpU_V1UMYXepb7Q-PbwHmcLDhvAtg1roz6vaCtJuj1y0YkdUVpUK8JVsMmzkLSeAcpczSIe9SZ47zp5rnjvbRqdweX5VUoanjK7fAqp6QHv-98GR9RoGfoQ10FwQNdCdmzG1UsJpc9ESsf2IrxsP0_IQwn9zSGeN1iOIQ_9dmTA&flowName=GeneralOAuthFlow&continue=https://accounts.google.com/signin/oauth/consent?authuser%3Dunknown%26part%3DAJi8hAN88iKHhYUrMXsO-0qcYnkQlwbdpmJEoVklbp4Db5CPlkjhAfxCZAtS0-gGtwQphqIAsE0UjgnKnKBWgzPMmwrr8xGC3yB5eU6h4UYpZsUvAOMCGEezezW1s38sfH42D8VUvDyNfkFcF0kuGFoVlBGn0kc_H-x2fDv-wzHDl3ILoGovlFIw4Q79XafrF6IsT3WAjidXGUWPX6mVAdoR1TfL497yNV-XnwP0Z9CheE0osjWdNniOEg_SWeW7BGZSl6f4Putirwu3E53eo9BSCWejXekr3T3y9XmVxd3bI6u17nvTZrwXu-yXQIFZ6RYlKWYoIDsbtGxNHQ9Nb5uvKStJk7EORu08jY7hKyv7TJdrCB9-4DRzSn-eXVzK1LPQNnNcXMyuj1cACCwVZCgBaeaq1K_K2aksx2l9JQIxWPuBWhjvSRuXQC7mB-depbbwW-hFOPxW2DhHM8W5cQ_EZKzJVHT-Jg%26flowName%3DGeneralOAuthFlow%26as%3DS-1660903078%253A1757014579705284%26client_id%3D773539637596-8j1usm812jehhj7hrfrec5npkih1egt0.apps.googleusercontent.com%23&app_domain=https://iap.googleapis.com&rart=ANgoxcfrvz1rkZp9dmOF9rVGFrZCIWCiAhntYKRn2xJf3TCOq1cEEsWyQ3TEx3rvIMVz9UrFY80-1k6745vYGm8l2mX0BaYj18EKV5v2Sxm3Cl7jaMr5nv8": {
+    "provider": [
+      "google"
+    ]
+  },
+  "kahoot.it": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "librefutboltv.su": {
+    "pop": [
+      "cdg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "paris"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "pruebat.org": {},
+  "www.sensacine.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.americanexpress.com/es-mx/": {},
+  "www.cambridgeone.org": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "login.siat.sat.gob.mx": {},
+  "www.alcalorpolitico.com/edicion/inicio.html": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "mibait.com": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "NotCacheable from child"
+    ]
+  },
+  "mx.indeed.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "subastasventura.com": {},
+  "purina.com.mx/purina": {
+    "pop": [
+      "klo",
+      "chi",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kalibo",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT, MISS, MISS"
+    ],
+    "contentLocality": "ph"
+  },
+  "www.brazino777.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.dgae-siae.unam.mx": {},
+  "mx.mundosexanuncio.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.coppel.com": {},
+  "lms30.santillanacompartir.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "guias.ceneval.edu.mx": {},
+  "melapelocondibujos.com": {},
+  "ddtech.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "outlook.live.com/mail/": {},
+  "lectorjpg.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.bestday.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.kavak.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.chedraui.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "wordwall.net": {},
+  "news.google.com/home?hl=en-US&gl=US&ceid=US:en": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.dae.ugto.mx": {},
+  "rule34video.com": {},
+  "www.adquiramexico.com.mx": {},
+  "www.manhwas.net": {},
+  "es.uline.mx": {},
+  "www.buscalibre.com.mx": {},
+  "cinepornogratis.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "app.cfe.mx/Aplicaciones/Otros/Buscador/": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "5-4773438-4773439 SNNy RT(1757014577483 663) q(0 0 0 -1) r(1 1) U6"
+    ]
+  },
+  "www.estafeta.com": {},
+  "oamsedsaiph.net": {},
+  "www.superboletos.com": {},
+  "es.twpornstars.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "eventossistema.com.mx": {},
+  "www.reforma.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "gelbooru.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "aliat.brightspace.com/shared/login/index.html": {},
+  "fapello.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.imss.gob.mx": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "58-138644603-0 0NNN RT(1757014577603 195) q(0 -1 -1 0) r(0 -1) B12(8,888100,0) U24"
+    ]
+  },
+  "www.promodescuentos.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.shein.com.mx": {},
+  "bato.to": {},
+  "www.hp.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "educacion.imssbienestar.gob.mx": {},
+  "coomer.su": {},
+  "www.kumanga.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "contentLocality": "es"
+  },
+  "www54.sat.gob.mx": {},
+  "www.hola.com/mexico/": {},
+  "www.samsung.com": {},
+  "data.finanzas.cdmx.gob.mx/formato_lc/conceptos": {},
+  "www.lg.com/mx/": {},
+  "pagostore.garena.com": {},
+  "myreadingmanga.info": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.sdpnoticias.com": {},
+  "www.linkedin.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.remove.bg": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "account.wps.com/?cb=https://docs.wps.com/": {},
+  "www.avafin.mx/": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.diariocambio.com.mx": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.skyscanner.com.mx/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=6d86476d-89c6-11f0-8b1f-d52a7780d2f3&vid=": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.vivanuncios.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "computospj2025.ine.mx": {},
+  "lectorikigai.vteam.online": {},
+  "www.elmueble.com": {},
+  "www.tycsports.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.betxico.mx": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "store.supercell.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.rojadirectaenvivo.pl": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "jovenesconstruyendoelfuturo.stps.gob.mx": {},
+  "erothots.co": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "faq.whatsapp.com": {},
+  "www.yesstyle.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.paypal.com/mx/home": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "myaccount.mercadolibre.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "alibaba",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "padnet.telcel.com/": {},
+  "www.xnalgas.com": {},
+  "manhwa-latino.com": {
+    "pop": [
+      "dfw"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "dallas-fort worth"
+    ],
+    "contentLocality": "us"
+  },
+  "fdownloader.net/en": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.mercadopago.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.ipn.mx": {
+    "cacheStatus": [
+      "HIT",
+      "HIT from modxcache.internal.cloudapp.net"
+    ]
+  },
+  "www.xnxx.es": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.hyundai.com.mx": {
+    "pop": [
+      "mx1"
+    ],
+    "provider": [
+      "bunny"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.deepl.com/en/translator": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.discogs.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www2.repuve.gob.mx:8443": {},
+  "accounts.nintendo.com": {},
+  "heraldodemexico.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.instyle.es": {},
+  "store.steampowered.com": {},
+  "validate.perfdrive.com/bc3e580032187c1c91b789fee70abdc1/?ssa=6bfb372d-a844-415a-a841-6beb24177162&ssb=80332208615&ssc=https://loginsso.telmex.com/nidp&ssi=5dc06c4a-bkzv-4c25-93d5-177ce6448634&ssk=support@shieldsquare.com&ssm=97702030533517846132987108194423&ssn=00fc50650c9b848ac9144ac078f59cade86ca468ab75-030f-4773-a74b52&sso=41eeeccd-0a5665efcef31af10fffafc4b3303eb9a90105a40226ef9c&ssp=77067480311757073320175701810156299&ssq=26913821457922332655414578835933354884051&ssr=MTI4LjE0LjEwMi4xNTE=&sst=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.124+Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBhNDY4YWI3NS0wMzBmLTQ3NzMtYWNjZC0wYTU2NjVlZmNlZjMxLTE3NTcwMTQ1Nzg2NjI3NjMtMDAwZDJmNzQxMTdkOTMxZjA3MzEzIiwicmQiOiJ0ZWxtZXguY29tIiwidXpteCI6IjdmOTAwMDIyOWFlYWJmLWMyYmEtNGZiZC1iM2I4LTkyYmY1ZjE1NDE4OTEtMTc1NzAxNDU3NzA1NTIzNzAtZTEyZmY3YjY5ZDE4M2RmYzE2In0=": {},
+  "scholar.google.es": {},
+  "www.dafont.com/es/": {},
+  "business.facebook.com": {},
+  "www.banamex.com": {},
+  "sxyprn.com": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "newark"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.letras.com": {},
+  "www.vivaaerobus.com/index.html": {},
+  "tubidy.limited/": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.cronista.com/mexico/": {},
+  "app-inter.ife.org.mx": {},
+  "music.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "mx.jooble.org": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "app.contalink.com/login": {},
+  "portal.shop": {},
+  "amp.xvideos.com": {},
+  "bajio.dico.com.mx": {},
+  "eminus.uv.mx": {},
+  "modeloparaganar.com.mx": {},
+  "www.clarin.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.puritanas.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "nl"
+  },
+  "chaturbate.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.erome.com": {},
+  "page.didiglobal.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "imhentai.xxx": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.petco.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "libros.conaliteg.gob.mx": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "waldos.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.scielo.org.mx/scielo.php": {},
+  "bancanet.banamex.com": {},
+  "es-la.facebook.com": {},
+  "www.suburbia.com.mx/tienda/home": {},
+  "www.chopo.com.mx": {
+    "pop": [
+      "kcg",
+      "iad",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT",
+      "41-8394482-8394485 NNNY CT(0 2 0) RT(1757014578750 185) q(0 0 0 -1) r(0 0) U6"
+    ],
+    "contentLocality": "us"
+  },
+  "letterboxd.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.shopify.com/": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "sso.edenred.com.mx": {},
+  "policies.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.cifraclub.com": {},
+  "citas.sat.gob.mx": {
+    "pop": [
+      "dfw"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "dallas-fort worth"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "exhentai.org/": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "auth.doters.com": {},
+  "ougeechimp.net": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.excelsior.com.mx": {
+    "pop": [
+      "kcg",
+      "iad",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.machotube.tv": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "descargar.happymod.com": {},
+  "juanfutbol.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.trivago.com.mx": {},
+  "hdporncomics.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "contentLocality": "us"
+  },
+  "x.ijavhd.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.friv.com": {},
+  "sellercentral.amazon.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.crazygames.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "m.uber.com/go/": {},
+  "www.justwatch.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.xataka.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.mercadolibre.com.mx/": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "alibaba",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.correosdemexico.gob.mx": {},
+  "ctonline.mx": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.playstation.com/es-mx/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.videosdemadurasx.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "hentaila.online": {
+    "pop": [
+      "cdg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "paris"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.kueski.com": {
+    "pop": [
+      "iad",
+      "qro"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "washington",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.proceso.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.aforeweb.com.mx": {},
+  "www.veniracristo.org": {},
+  "www.farmaciasanpablo.com.mx": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "secure.computrabajo.com": {},
+  "mx.linkedin.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.eticket.mx": {},
+  "www.mazda.mx": {},
+  "www.betano.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.gotrendier.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "siia.uasnet.mx": {},
+  "badoo.com": {},
+  "elmanana.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.lasestrellas.tv": {
+    "pop": [
+      "iad",
+      "kia",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "cloudfront",
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "kaiapit",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "Miss from cloudfront, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "anualpf.clouda.sat.gob.mx": {},
+  "www.biblegateway.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "rintin.mx": {},
+  "espacioapk.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "tmohentai.com": {
+    "pop": [
+      "cdg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "paris"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "store.playstation.com/en-us/pages/latest": {},
+  "www.curseforge.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "atencionaclientes.totalplay.com.mx": {},
+  "lectorhentai.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.crunchyroll.com": {
+    "pop": [
+      "dfw",
+      "qro"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "dallas-fort worth",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.elconfidencial.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "51-290496006-288905792 pNNy RT(1757014540178 31) q(0 0 0 17) r(14 14) U24",
+      "HIT"
+    ]
+  },
+  "www.sams.com.mx/blocked?url=Lw==&uuid=6e6f5de5-89c6-11f0-9ab8-2582db935c4c&vid=&g=b": {},
+  "app.bind.com.mx/Login/Login?ReturnUrl=/": {},
+  "www.primeraplus.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.last.fm": {
+    "pop": [
+      "sjc"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "san jose"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "m440.in": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "newark"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "portalcfdi.facturaelectronica.sat.gob.mx": {},
+  "www.eltiempo.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.banorte.com": {},
+  "www.ilovepdf.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "mydhl.express.dhl/index/en.html": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "my.roku.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "empresa.mx.computrabajo.com": {},
+  "www.snaptube.com": {},
+  "www.innvictus.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "umabrevehistoria.com": {
+    "pop": [
+      "fra"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "frankfurt am main"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "de"
+  },
+  "comicsflix.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.gamesgx.net": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "campusvirtual.mexico.unir.net": {},
+  "www.losandes.com.ar": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.poringa.net/": {},
+  "obqj2.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "mx.computrabajo.com": {},
+  "ais.usvisa-info.com": {},
+  "www.mercadolibre.com.mx/c/autos-motos-y-otros": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "alibaba",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.walmart.com.mx/blocked?url=Lw==&uuid=6e86d4d8-89c6-11f0-8c2c-81feb498b9ce&vid=&g=b": {
+    "provider": [
+      "azure"
+    ]
+  },
+  "cnnespanol.cnn.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "kdf",
+      "dfw"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "dallas-fort worth"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "consumer.huawei.com/mx/": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from child"
+    ]
+  },
+  "movil.todorelatos.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.rcastellanos.cdmx.gob.mx": {},
+  "relatos-eroticos-club-x.com": {},
+  "es.niadd.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "culturando.online": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.epicgames.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.homedepot.com.mx": {},
+  "www.pelisplushd.ms": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "transactconfig2.telmex.com": {},
+  "nbem.banorte.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "eight.exadventuregameshub.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "open.spotify.com": {
+    "pop": [
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "zm"
+  },
+  "thothd.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.microsoft.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "olympusbiblioteca.com": {
+    "pop": [
+      "zrh"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "zurich"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ch"
+  },
+  "www.cfe.gob.mx/Pages/default.aspx": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "59-104002756-103997073 SNNy RT(1757014580032 463) q(0 0 0 0) r(1 1) U6"
+    ]
+  },
+  "miauscan.com": {
+    "pop": [
+      "cdg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "paris"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "getallmylinks.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.disneyplus.com": {},
+  "www.filmaffinity.com/mx/main.html": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.facebook.com": {},
+  "www.merca20.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.nhc.noaa.gov": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.radioformula.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.oxxo.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "mipuerto.liverpool.com.mx": {
+    "pop": [
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "zm"
+  },
+  "www.rome2rio.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.truperenlinea.com": {},
+  "www.dazn.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "wv55n.cuevana.biz/": {
+    "pop": [
+      "cdg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "paris"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.despegar.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.flashscore.com.mx": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "lectorikigai.vrinari.org": {},
+  "www.dgej.cjf.gob.mx": {},
+  "www.patreon.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "pt.erome.com": {},
+  "www.sears.com.mx": {},
+  "www.costco.com.mx": {},
+  "ar.pinterest.com": {
+    "provider": [
+      "fastly"
+    ]
+  },
+  "www.liverpool.com.mx/tienda/home": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "rule34.xxx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "calendarioescolar.sep.gob.mx": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "61-201599722-201599782 NNNY CT(35 45 0) RT(1757014580583 190) q(0 0 0 -1) r(0 1) U6"
+    ]
+  },
+  "tioanime.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "espndeportes.espn.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "scratch.mit.edu": {
+    "pop": [
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "zm"
+  },
+  "aspirantes.chapingo.mx": {},
+  "www.nintendo.com/es-mx/": {
+    "pop": [
+      "kbf",
+      "bfi",
+      "kwh",
+      "lax"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle",
+      "khwahan",
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT, HIT"
+    ],
+    "contentLocality": "id"
+  },
+  "passwords.google.com/intro": {
+    "provider": [
+      "google"
+    ]
+  },
+  "nudogram.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "siu.scalahed.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "romsfun.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bing.com": {},
+  "www.foxsports.com.mx": {},
+  "www.dhl.com": {},
+  "lacuerda.net": {},
+  "www.porn300.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.uber.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.emulatorgames.net": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "es.flightaware.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "mx"
+  },
+  "nu.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.xleche.com": {},
+  "accessready.pro": {},
+  "es.eporner.com": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/&followup=https://sites.google.com/&ifkv=AdBytiN1JrnDz7tHHnkB87wzU4yUw9ebdkbolMpWuqMdO6h2U4kALdqXxiyfcObor3Q1OXuGYINZcg&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-500524471:1757014581692541": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.hentaiheroes.com": {},
+  "app.hubspot.com/home-beta": {
+    "pop": [
+      "qro",
+      "hio"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro",
+      "portland"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "validate.perfdrive.com/?ssa=369890c1-4371-4501-897a-c2dd0e133bb8&ssb=58020243716&ssc=https://portalcitas.fonacot.gob.mx/&ssi=b66add1c-cys6-4f21-a811-9a06ffb41025&ssk=botmanager_support@radware.com&ssm=08070205490689427105425038978037&ssn=dd221d7fd41f3dcd094a9fa40eafb283271e0fe2c3f3-b26c-43b4-9f9cc4&sso=d8b8ae89-555dd02e3956b9338befcfb8917bcd8845db8bea85ffeaa5&ssp=06153258961757069078175707072273317&ssq=72481931458091049223514580077172144677163&ssr=MTI4LjE0LjEwMi4xNTE=&sst=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.124+Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwMzAwODFjMGMtMGY4MC00OGYyLWI5MDUtYmVlYjRkMTEyNDRjMS0xNzU3MDE0NTgxMTYyMC1kNTlmZWE2MmM3NGMzY2VkMTAiLCJfX3V6bWYiOiI3ZjkwMDAwZmUyYzNmMy1iMjZjLTQzYjQtOWU4OS01NTVkZDAyZTM5NTYxLTE3NTcwMTQ1ODExNjIwLTAwMDQzZjRmM2M1ZDA4YWE2ZDUxMCIsInJkIjoiZm9uYWNvdC5nb2IubXgifQ==": {},
+  "www.fahorro.com": {
+    "pop": [
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT",
+      "59-142543891-142527059 pNNN RT(1757014580990 210) q(0 1 1 13) r(1 1) U24"
+    ],
+    "contentLocality": "pg"
+  },
+  "forogore.net": {},
+  "www.niceonline.com": {},
+  "www.cinecalidad.rs": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "newark"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.supermicro.com/en/": {},
+  "www.icloud.com": {},
+  "tiendapanini.com.mx": {
+    "pop": [
+      "sbg",
+      "gru",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sabang-we island",
+      "sã£o paulo",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ],
+    "contentLocality": "id"
+  },
+  "apuestas.codere.mx": {},
+  "es.3hentai.net": {},
+  "www.priceshoes.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "translate.google.com.mx": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.pornogratisdiario.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.toyota.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.adobe.com": {},
+  "www.lecturas.com": {},
+  "telegram.org/": {},
+  "manhattan-app.didiglobal.com": {},
+  "www.imagefap.com": {},
+  "www.smartfit.com.br/": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "openai.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.roblox.com": {},
+  "www.bbc.com": {
+    "pop": [
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "zm"
+  },
+  "www.minecraft.net/en-us": {},
+  "nextrify.org": {},
+  "www.opinautos.com": {},
+  "www.fotogramas.es": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "delta-executor.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.elnacional.cat": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "novelists.storm-chan.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "wwwmat.sat.gob.mx": {},
+  "account.microsoft.com": {},
+  "artfight.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.syscom.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.twpornstars.com": {
+    "pop": [
+      "cdg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "paris"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "chochox.com/porno/": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.occ.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.taf.com.mx": {
+    "pop": [
+      "phx",
+      "qro"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "phoenix",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "myactivity.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "cinepolis.com/": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.ubereats.com": {},
+  "www.buholegal.com": {
+    "pop": [
+      "cdg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "paris"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.banxico.org.mx": {},
+  "www.fedex.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "es.xgroovy.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.20minutos.es": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.tripadvisor.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "app.kueski.com": {},
+  "maps.apple.com": {
+    "cacheStatus": [
+      "TCP_MISS from a23-200-37-190.deploy.akamaitechnologies.com (AkamaiGHost/22.2.3-dd2e9ddb9a7176afbd825015b8856261) (-)"
+    ]
+  },
+  "betmexico.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.futlibre.net": {
+    "pop": [
+      "fra"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "frankfurt am main"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "de"
+  },
+  "www.ford.mx": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.amazon.com": {
+    "cacheStatus": [
+      "NotCacheable from child"
+    ]
+  },
+  "e-hentai.org": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.telcel.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "workspace.google.com/intl/en-US/gmail/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "medlineplus.gov": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "tracking.natura.com.mx": {},
+  "www.infobae.com/mexico/": {},
+  "pvip.se": {
+    "pop": [
+      "fra"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "frankfurt am main"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "de"
+  },
+  "www.am.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.locanto.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.uaeh.edu.mx": {},
+  "es.savefrom.net/265YO/": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "movistar.com.mx": {},
+  "music.amazon.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "mx.search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "super.walmart.com.mx": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "corp.airg.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "zoofilia.us": {
+    "pop": [
+      "dfw"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "dallas-fort worth"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "concepto.de": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "ricoysuave.com": {
+    "pop": [
+      "zrh"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "zurich"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ch"
+  },
+  "www.farmaciasguadalajara.com": {},
+  "ww3.lectulandia.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.dominos.com.mx": {},
+  "multi.xnxx.com": {},
+  "mexico.as.com/": {},
+  "create.roblox.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "ine.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.burodecredito.com.mx": {},
+  "www.flexi.com.mx": {},
+  "sexkomix2.com/home/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "es.quora.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "pstcdypisr.clouda.sat.gob.mx": {},
+  "siniestros.bbva.mx": {},
+  "www.amazon.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.elnorte.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.jornada.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.jovencitas.gratis": {
+    "pop": [
+      "cdg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "paris"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.xnxx-livecams.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "padresdefamilia.seph.gob.mx": {},
+  "www.aeromexico.com": {},
+  "www.ticketmaster.com.mx": {
+    "pop": [
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS, MISS, MISS"
+    ],
+    "contentLocality": "zm"
+  },
+  "www.expedia.mx": {},
+  "www.iaai.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "61-172912146-172912193 NNNN CT(51 95 0) RT(1757014582629 187) q(0 1 2 1) r(2 3) U24"
+    ]
+  },
+  "www.sciencedirect.com/unsupported_browser": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "mx"
+  },
+  "thisvid.com": {},
+  "amp.mediotiempo.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "controlescolar.uaemex.mx": {},
+  "www.pricetravel.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "prezi.com": {},
+  "julio.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "luxq8.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.autocosmos.com.mx": {},
+  "www.bancoppel.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.airbnb.mx": {},
+  "tucredito.bancoppel.com": {},
+  "outlook.office.com/mail/": {},
+  "www.farmaciasdesimilares.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.fanmtl.com": {
+    "pop": [
+      "zrh"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "zurich"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ch"
+  },
+  "pubmed.ncbi.nlm.nih.gov": {},
+  "www.bodegaaurrera.com.mx/blocked?url=L2luaWNpbw==&uuid=70936ecc-89c6-11f0-a5b5-b78a4ff32a4d&vid=&g=b": {},
+  "niceonline.com": {},
+  "hentaila.com/hub": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.threads.com": {},
+  "www.dof.gob.mx": {},
+  "www.clara.es": {},
+  "www.pirlotv.pl/home.php": {
+    "pop": [
+      "cdg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "paris"
+    ],
+    "contentLocality": "fr"
+  },
+  "lasillarota.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "serviciosdigitales.imss.gob.mx": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "59-189098401-0 0NNN RT(1757014583029 186) q(0 -1 -1 -1) r(0 -1) B12(8,888100,0) U24"
+    ]
+  },
+  "comicspornow.com": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "newark"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "siiaa-alumnos.cbachilleres.edu.mx/intranet/": {
+    "provider": [
+      "Served-By-Zenedge"
+    ],
+    "cacheStatus": [
+      "NOTCACHED"
+    ]
+  },
+  "www.bazsolicitudunica.com.mx": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "60-180179564-180179599 NNNY CT(88 91 0) RT(1757014583094 185) q(0 0 0 -1) r(0 2) U6"
+    ]
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://www.youtube.com/signin?action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Des-419%26next%3Dhttps%253A%252F%252Fstudio.youtube.com%252F%26feature%3Dredirect_login&hl=es-419&ifkv=AdBytiO8IL8lsxXi4zNR-nA2PbjJX6HahG-qyAqZ8k0gxJpT_uXkKxcUpz8TZHOzSh-HOAPfTXl6Xg&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S671650775:1757014583695033": {
+    "provider": [
+      "google"
+    ]
+  },
+  "e621.net": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "booru.allthefallen.moe": {},
+  "cfdiau.sat.gob.mx": {},
+  "books.google.com.mx": {},
+  "www.enviaflores.com": {},
+  "kemono.cr/": {},
+  "www.resultadostris.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "chromewebstore.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "es.nudogram.com": {
+    "pop": [
+      "zrh"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "zurich"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ch"
+  },
+  "www.elimparcial.com": {},
+  "xeu.mx": {},
+  "account.live.com/error.aspx?e=404": {
+    "provider": [
+      "azure"
+    ]
+  },
+  "sie.chihuahua.gob.mx": {},
+  "lichess.org": {},
+  "m.shein.com.mx": {},
+  "www.futbin.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "portalsat.plataforma.sat.gob.mx": {},
+  "www.bet365.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "onlyfans.com": {
+    "pop": [
+      "iah"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "houston"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "siscone.com": {},
+  "arbolabc.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "genius.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "en.thehentai.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "scholar.google.com": {},
+  "shasa.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.tiempo.com.mx": {},
+  "www.eporner.com": {},
+  "cinepolis.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "auth.hbomax.com/": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "programasimevis.edomex.gob.mx": {},
+  "www.mediafire.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "rule34.us": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "deimos.dgi.uanl.mx": {},
+  "loteriasdemexico.com": {},
+  "threedaos.drublood.com": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "newark"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.byd.com/mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "telegram.org": {},
+  "sports.caliente.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "beastiality.tv": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "laopinion.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "es.pinterest.com": {
+    "provider": [
+      "fastly"
+    ]
+  },
+  "shop.mikmak.ai": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "workspace.google.com/products/meet/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.levelup.com": {
+    "pop": [
+      "fra",
+      "mad"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "frankfurt am main",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "de"
+  },
+  "www.yucatan.com.mx": {},
+  "telmex.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.motorola.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.fragrantica.es": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "es.novelcool.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.lamudi.com.mx": {},
+  "dentis365.com": {},
+  "www.xataka.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "mx.pinterest.com": {
+    "provider": [
+      "fastly"
+    ]
+  },
+  "www.delsol.com.mx": {},
+  "pas.ods.com.mx:8844": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "59-104003612-104003677 NNNN CT(60 60 0) RT(1757014584045 208) q(0 0 2 4) r(2 2) U6"
+    ]
+  },
+  "travelmilesplus.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.wattpad.com": {
+    "pop": [
+      "dfw"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "dallas-fort worth"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "cinemex.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "3reyes.casino": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "visorikigai.gameil.online": {},
+  "elcomercio.pe": {},
+  "ullo.com.br/home-br/": {
+    "pop": [
+      "zrh"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "zurich"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ch"
+  },
+  "www.elpalaciodehierro.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "propiedades.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.medicamentosplm.com": {},
+  "buscador.becasbenitojuarez.gob.mx": {},
+  "bitly.com/": {},
+  "www.primevideo.com": {
+    "pop": [
+      "atl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "atlanta"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "e-learning.icel.edu.mx": {},
+  "facturama.mx": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "notube.im/es/youtube-app-228": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.sat.gob.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "mx.simpleescort.com/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.uanl.mx": {},
+  "www.xvideos.es": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.paramountplus.com/mx/": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "auth.platorelay.com": {
+    "pop": [
+      "dfw"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "dallas-fort worth"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "pornoperso.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.furaffinity.net": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "business.google.com/es-all/business-profile/?ppsrc=GPDA2": {
+    "provider": [
+      "google"
+    ]
+  },
+  "andro4all.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "mat6tube.com/recent": {},
+  "www.serviporno.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "pixabay.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.myherbalife.com": {},
+  "www.xvlivecams.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.dailymotion.com": {},
+  "tiktokio.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.fortnite.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.4chan.org/": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "vermangasporno.com/hentai/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ecoportal.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "secure.computrabajo.com/connect/authorize?client_id=redarbor.computrabajo.ac.web.client&response_type=code&scope=openid%20redarbor.computrabajo.ac.web.access%20portal_2%20app_32&code_challenge=BGBY8N5jaAwBkNfjdWyLeFTX0axVDXbDWHpgyQwC9EU&code_challenge_method=S256&state=OpenIdConnect.AuthenticationProperties%3DrxO7f1VPL8pBGQhN-WRZkP5IWihpiDrS0YJBZ7KuOJBT67qVlk94l6qc4560Z4b7cwCkt-0_7GcKRG1soxhSMIwktlM2H-mcOgkkZ8WcZbR_bmAepseYlxdUc8C06D1ip6o_CtYLW9TREnxBO8IDt0nYCiOBbXekabnD_kqeQU-6rhqjkruZ8c09GUy_OezBtUvC7RTfZwuGJCs7RLYlRIi6L60&response_mode=form_post&nonce=638926113857598259.YTM2YzczZTYtYWFkOC00OTlhLWE0YTQtMjc0MDA4NWJjNTk4NDM4ODI5YzktZTA2MS00MDg1LTgxNTUtZjJmNzcwYzUyNTc5&redirect_uri=https://candidato.mx.computrabajo.com&prompt=login&x-client-SKU=ID_NET472&x-client-ver=8.0.1.0": {},
+  "bet.caliente.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "learn.eltngl.com": {},
+  "www.nmas.com.mx": {},
+  "www.autozone.com.mx": {},
+  "nhentai.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.sanborns.com.mx": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "redeem.fcm.ea.com": {},
+  "www.redd.tube": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.italika.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "42-12704268-12704286 NNNY CT(1 2 0) RT(1757014584984 187) q(0 0 0 0) r(0 0) U6"
+    ],
+    "contentLocality": "mx"
+  },
+  "faphouse.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "webserver1.siiaa.siu.buap.mx": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "55-45060667-0 0NNN RT(1757014584999 0) q(0 -1 -1 1) r(0 -1) B15(4,200,0) U6"
+    ]
+  },
+  "aternos.org/:en/": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.ikea.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare",
+      "azure"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.ebay.com/n/error": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.buzzfeed.com/mx": {
+    "pop": [
+      "kia",
+      "iad",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.pornhub.com": {},
+  "comprasaldo.telcel.com": {},
+  "www.tiktok.com/explore": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "TCP_MISS from a23-64-121-39.deploy.akamaitechnologies.com (AkamaiGHost/22.2.3-dd2e9ddb9a7176afbd825015b8856261) (-)"
+    ]
+  },
+  "account.samsung.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.debate.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "etn.com.mx": {
+    "pop": [
+      "19",
+      "mad"
+    ],
+    "provider": [
+      "sucuri",
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.muyzorras.com": {},
+  "w3nv.cuevana.pro": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.nissan.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.google.com/photos/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "recargamigoweb.telcel.com/distributor/login": {},
+  "gemini.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "es.slideshare.net": {
+    "pop": [
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "zm"
+  },
+  "www.chevrolet.com.mx": {
+    "pop": [
+      "kdf",
+      "dfw"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "dallas-fort worth"
+    ],
+    "contentLocality": "us"
+  },
+  "programasparaelbienestar.gob.mx": {},
+  "janitorai.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.jtexpress.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.truper.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.netflix.com": {},
+  "empresas.bbvanet.com.mx": {},
+  "www.superporn.com": {
+    "pop": [
+      "cdg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "paris"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "character.ai": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "places.mercadolibre.com.mx/operations": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "alibaba",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "hentaiera.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "m.facebook.com": {},
+  "www.heb.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "mx.puma.com": {
+    "pop": [
+      "qro",
+      "dfw"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro",
+      "dallas-fort worth"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "oem.com.mx/elsoldemexico/": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.aznude.com": {
+    "pop": [
+      "iah"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "houston"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.youporn.com": {},
+  "www.llave.gob.mx/oauthV2.xhtml?client_id=202410181255009876&redirect_url=https://www.llave.gob.mx/index.xhtml&state=chRTpaC4fd42QT71EHIq88AXmo6QQgfMta_w_wy7qD97lJK9kx4MSsqeyidUSlqz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "59-139153951-139152744 sNNy RT(1757014585805 457) q(0 0 0 -1) r(1 1) U6"
+    ]
+  },
+  "web.citamedicaissste.mx": {},
+  "sso.santanderopenacademy.com/auth/realms/Becas/protocol/openid-connect/auth?client_id=open-academy-lms-client&redirect_uri=https://lms.santanderopenacademy.com/login/oauth2/callback&response_type=code&scope=openid+profile+email&state=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhYWNfaWQiOjEwMDAwMDAwMDAwMDA0LCJub25jZSI6IjQ1OTVlNzQ5ZmQ1Y2MyMDRmOGM0ZjlmMTQwNThjNzFjMmQyOWE2ODVhYTBkN2Y1ZSIsImhvc3QiOiJsbXMuc2FudGFuZGVyb3BlbmFjYWRlbXkuY29tIiwiZXhwIjoxNzU3MDE1MTg4fQ.Y98MxL2NOLQ_lnWJRUk5t2xDctyXEOzWjBTV3GhovKM": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "61-172913785-172913840 NNNN CT(144 142 0) RT(1757014589079 190) q(0 0 3 -1) r(4 4) U24"
+    ]
+  },
+  "support.apple.com": {},
+  "casino.bet365.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "rule34.paheal.net": {},
+  "www.ado.com.mx": {},
+  "www.comex.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.jw.org": {},
+  "www.lezhin.es": {},
+  "www.laboutique.vip": {
+    "pop": [
+      "cdg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "paris"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "urc.cdmx.gob.mx": {},
+  "gaatx.itsx.edu.mx/auth/login": {},
+  "translate.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.instagram.com": {},
+  "fast.com": {
+    "provider": [
+      "AWS (not CDN)"
+    ]
+  },
+  "www.paquetexpress.com.mx": {},
+  "www.salud-digna.org": {},
+  "www.ods.com.mx/extranet2/index.php": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "50-14728632-14727976 pNNy RT(1757014586735 188) q(0 0 0 -1) r(1 1) U6"
+    ]
+  },
+  "kick.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "login.jw.org/connect/authorize?response_type=id_token&scope=openid%20profile&client_id=apps.jw.org&state=XjmgW3Tw1AHu8EWZOw3_P3uztKU&redirect_uri=https://apps.jw.org/oidc/redirect&nonce=WO61HXPHb319P8lGt2WzlI5jfhlhTkd7-sM4KA9Qwo8&response_mode=form_post&ui_locales=en": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.cuentorelatos.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "login.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "estacaonegocios.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.imdb.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "climss.imss.gob.mx": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "59-189099162-0 0NNN RT(1757014586202 195) q(0 -1 -1 -1) r(0 -1) B12(8,888100,0) U6"
+    ]
+  },
+  "www.lanacion.com.ar": {},
+  "www.mercadolibre.com.mx/gz/account-verification?go=https://autos.mercadolibre.com.mx/&tid=9bddd34b-67af-47dc-ba0f-4f028098ee41": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "alibaba",
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "doblaje.fandom.com/es/wiki/Doblaje_Wiki:Portada": {
+    "pop": [
+      "sjc",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "san jose",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "versus.com/en": {},
+  "www.pinterest.com": {
+    "provider": [
+      "fastly"
+    ]
+  },
+  "cdn.gd85.com": {},
+  "www.unotv.com": {},
+  "reycomix.com/porno-xxx/": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "becasmexico.org": {},
+  "www.accuweather.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.macstoreonline.com.mx": {},
+  "www.booking.com/index.es-mx.html?label=gen173nr-10CAEoggI46AdIM1gEaKABiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAK61OfFBsACAdICJGU2YjkzM2QyLTM4ODItNDhmYy1iYzAzLWEwNDFiNzdiZTMxYdgCAeACAQ&sid=49682e607a26cad386d0f7e70eb36812&keep_landing=1&sb_price_type=total&": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "amfs.tec.mx/nidp/saml2/sso?SAMLRequest=fVJLTwIxEL77Kza975uH28AmCDGSoBJAD15M6c5Ck227droK/96yKxEPcp3O95yOkMmqppPG7tUKPhpA6x1kpZC2D2PSGEU1Q4FUMQlILafryeOCJkFEa6Ot5roiF5DrCIYIxgqtiDefjck775WDdDuM/JjHzO/F2dZnWXrr97flsCj6aZQNBsR7BYMOMyaOwgERG5grtExZN4qSvh9lftTbxBlNBzS5fSPezOUQitkWtbe2RhqGTJYYWOCBPIRKFHV48puEiJp4k7OxqVbYSDBrMJ%2BCw8tq8UsAhxqMAMUFS%2BIzU6V3QrVUxFv%2BFHInVCHU7noX224J6cNms/SXz%2BsNyUcnHtomNPlJ1qk6nQKkVhaMgWMgXHLTcNsYCLiWXYhReAkcdUd9cpLz2VJXgh%2B9e20ks/87ioO4nYjCL9tV2iisgYtSQOH6qSr9NTXALIyJ0wcS5p3o38%2BT33wD&SigAlg=http://www.w3.org/2000/09/xmldsig%23rsa-sha1&Signature=ZOX3RD4CAjLDbMN2T%2BBEalmp4H/V0r20rMFtfq%2ByYmD1vuanb0mg1aXZr29hF6SkW5L30WWh0Y8TbRuG%2B0k7J2kOuv9VsPSTczSvldQxCK22FuqAiKJsMwNwUFfVD/1eOYi1AJnlO6PM3EHnBHWxM0CKHi3mpOZOAEHD5M0o6np3kTfylfob2NYN1dSQ1gnvCyELMcsBD6bGcmOBL7GPqjt3gX5gp%2BEvv%2BIWPlSZZEu7DR1XduhLUTTXw%2BuYa65bvBUx/CIm%2B92/YP9J1CdqePjf8LpsX7qtxgjdk8NEBObDBWhOLoMXkptf1ceXZrzEl9zrF0S%2ByEahnze1vGVNFQ%3D%3D": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "60-167309616-167309662 NNNN CT(35 64 0) RT(1757014589036 187) q(0 0 1 -1) r(2 2) U12"
+    ]
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://accounts.google.com/&followup=https://accounts.google.com/&ifkv=AdBytiMJ6E4VQfXUF9FbDIuPsoLyFhJx4Zv1GHThpNnoEM1OBciG9dl8vG2Bi528xkcH3BA6_Q38-A&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1842806999:1757014588529812": {
+    "provider": [
+      "google"
+    ]
+  },
+  "dce.goodkidsgame.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.fuegodevida.com": {},
+  "www.actividadesdeinfantilyprimaria.com": {},
+  "www.att.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.vento.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "x.com": {
+    "pop": [
+      "iah"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "houston"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "hcm19.sapsf.com/sf/start/": {},
+  "natura-auth.prd.naturacloud.com/?client_id=31ndsgochinbk61v3jk8dhsf2o&country=mx&language=es&company=natura&redirect_uri=https://minegocio.natura-avon.com.mx/natura-callback?return_url=": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "subes.becasbenitojuarez.gob.mx": {},
+  "xbato.com": {
+    "pop": [
+      "zrh"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "zurich"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ch"
+  },
+  "manga-oni.com": {
+    "pop": [
+      "zrh"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "zurich"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ch"
+  },
+  "sssinstagram.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "campus.paho.org/es": {},
+  "www.cam4.com/browserupgrade": {},
+  "www.canva.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.eleconomista.es": {},
+  "lineadirectaportal.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.soriana.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "mx"
+  },
+  "lifeafter20.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "es.hentaicams.xxx": {},
+  "visormanga.com": {
+    "pop": [
+      "zrh"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "zurich"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ch"
+  },
+  "www.hsbc.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "despensa.bodegaaurrera.com.mx/blocked?url=Lw==&uuid=72e4fc8f-89c6-11f0-897b-14d6a67d9117&vid=&g=b": {
+    "provider": [
+      "AK"
+    ]
+  },
+  "l1dbe1.lakakids.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "portal.facturaelectronica.sat.gob.mx": {},
+  "www.elektra.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "51-22724965-22724973 NNNY CT(1 2 0) RT(1757014587078 185) q(0 0 0 1) r(0 0) U6"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.leercapitulo.co": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "apkpure.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.lacomer.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "ads.google.com": {},
+  "www.bancoazteca.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "57-67029766-67029778 NNNY CT(0 6 0) RT(1757014587207 184) q(0 0 0 -1) r(0 0) U24"
+    ],
+    "contentLocality": "mx"
+  },
+  "espanol.yahoo.com": {},
+  "www.xnxx.com": {},
+  "novelbin.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.rappi.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.luckia.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www2.hm.com": {},
+  "consola.zione.com.mx/main4.asp?dts=DTS000": {},
+  "www.canal26.com": {},
+  "peopleenespanol.com": {
+    "pop": [
+      "iah"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "houston"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "open.spotify.com/": {
+    "pop": [
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "zm"
+  },
+  "sofifa.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.tarjetarojaenvivo.nl": {},
+  "jkanime.net": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "es.redtube.com": {},
+  "noodlemagazine.com/new-video": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "apr.ebc.edu.mx/casad/login?service=https://moodlepro.ebc.edu.mx/login/index.php": {},
+  "www.volaris.com": {
+    "pop": [
+      "dfw",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "cloudfront",
+      "AWS (not CDN)",
+      "fastly"
+    ],
+    "location": [
+      "dallas-fort worth",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront, MISS, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "bienestar.edomex.gob.mx": {},
+  "www.record.com.mx": {
+    "pop": [
+      "klo",
+      "chi",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kalibo",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS, MISS"
+    ],
+    "contentLocality": "ph"
+  },
+  "www.capcut.com": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "TCP_MISS from a23-200-39-209.deploy.akamaitechnologies.com (AkamaiGHost/22.2.3-889b1cd919645cc1f89ca3d96ade65e0) (-)"
+    ]
+  },
+  "www.udemy.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "support.microsoft.com/en-us": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.unadmexico.mx": {},
+  "www.pages05.net": {},
+  "gnc.com.mx": {
+    "pop": [
+      "kjy",
+      "iad",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.hentai.name/home.html": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.officedepot.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.pelotalibrevivo.net/": {
+    "pop": [
+      "zrh"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "zurich"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ch"
+  },
+  "futura.com.mx": {
+    "pop": [
+      "yto"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "3-5979819-5979834 NNNN CT(4 3 0) RT(1757014588019 242) q(0 0 0 -1) r(0 1) U6"
+    ]
+  },
+  "servicedesk.coppel.com": {},
+  "www.wikidex.net/wiki/WikiDex": {
+    "cacheStatus": [
+      "HIT",
+      "front2 hit/10"
+    ]
+  },
+  "sfpya.edomexico.gob.mx/recaudacion/": {},
+  "m.webnovel.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "toyhou.se": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "idse.imss.gob.mx/imss/": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "0-4045880-4045881 SNNy RT(1757014587993 436) q(0 0 0 0) r(0 0) U6"
+    ]
+  },
+  "www.tvazteca.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "natura-auth.prd.naturacloud.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.menshealth.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ]
+  },
+  "futbollibre.mx": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "emisoras.com.mx": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "lectormangaa.com": {
+    "pop": [
+      "cdg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "paris"
+    ],
+    "contentLocality": "fr"
+  },
+  "prepaenlinea.sep.gob.mx": {},
+  "www.innovasport.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.xpaja.net": {},
+  "validate.perfdrive.com/?ssa=70248e99-17cf-43a6-a2ff-0f496bd0779b&ssb=40580212179&ssc=https://www.mitelcel.com/&ssi=17e7e448-c4un-4f51-a3d3-9e7ca4e061a7&ssk=support@shieldsquare.com&ssm=27382439719685762103597288682690&ssn=1c536f0692c85b1001930151f046b5714b25e251277d-392a-4a19-bcbe7d&sso=de2f2513-6defde046ba905c9fa90f9d772bc541f7fc58f9c81c4edf1&ssp=55213926811757034551175704770815368&ssq=84500161458816328264214588475751071421094&ssr=MTI4LjE0LjEwMi4xNTE=&sst=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.124+Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwZmU0MjNlN2ItNTcwZi00MjY4LWE3YjMtOTEyMDdiNTk5NDljMS0xNzU3MDE0NTg4MzA0MC04NWQyOGQxZWQxYzhlOTUyMTAiLCJfX3V6bWYiOiI3ZjkwMDBlMjUxMjc3ZC0zOTJhLTRhMTktYjUxMy02ZGVmZGUwNDZiYTkxLTE3NTcwMTQ1ODgzMDQwLTAwMDZjOWIyMTg4ZjViYWU1MjQxMCIsInJkIjoibWl0ZWxjZWwuY29tIn0=": {},
+  "y2mate.nu/R2lu/": {},
+  "actualidad.rt.com": {},
+  "siat.sat.gob.mx": {},
+  "www.elfinanciero.com.mx": {},
+  "edu.google.com/intl/en-US/workspace-for-education/products/classroom/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.studocu.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "contentLocality": "es"
+  },
+  "mujeresconbienestar.gob.mx": {},
+  "solicitaahora.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "visualikigai.deliciousdelight.online": {},
+  "fr.xvideos.com": {},
+  "lectorikigai.rxdog.xyz": {},
+  "www.newera.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "toonx.net/comics-porno/": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.apple.com": {},
+  "www.mi.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "offers1st.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "TCP_REMOTE_HIT"
+    ]
+  },
+  "es.luxuretv.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "adsmanager.facebook.com": {},
+  "www.espn.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&ifkv=AdBytiNx4cYPriZuqSgfwPGYCfhUK64Y_gycimZgVtflUzvZARt2nuL4TXGGy2hpXMtpuQBVHDSltQ&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1876218663:1757014589622742": {
+    "provider": [
+      "google"
+    ]
+  },
+  "es.youporn.com": {},
+  "dle.rae.es": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "linktr.ee": {
+    "pop": [
+      "pdx",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "cloudflare",
+      "fastly"
+    ],
+    "location": [
+      "portland",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT",
+      "HIT, HIT, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "cklass.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "es.pornhub.com": {},
+  "manhwa-online.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "lookerstudio.google.com/overview": {
+    "provider": [
+      "google"
+    ]
+  },
+  "sexosintabues30.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "sisu.xboxlive.com": {},
+  "es.fapello.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.morritastube.com": {
+    "pop": [
+      "zrh"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "zurich"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ch"
+  },
+  "www.winner.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.jafranet.com.mx": {},
+  "www.vw.com.mx/es.html": {
+    "pop": [
+      "kdf",
+      "dfw"
+    ],
+    "provider": [
+      "fastly",
+      "akamai"
+    ],
+    "location": [
+      "dallas-fort worth"
+    ],
+    "cacheStatus": [
+      "Hit from child"
+    ],
+    "contentLocality": "us"
+  },
+  "es.stripchat.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "fine10.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "nixe2.ixe.com.mx": {},
+  "elpais.com/mexico/": {},
+  "uniteconline.blackboard.com": {},
+  "accounts.spotify.com/es/v2/login": {},
+  "www.tnaflix.com": {},
+  "amp.xnxx.com": {},
+  "mi.tv": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.bodas.com.mx": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "wetransfer.com": {
+    "pop": [
+      "atl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "atlanta"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "aws.amazon.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.cdmx.gob.mx": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "62-247674948-247675006 NNNY CT(77 213 0) RT(1757014589427 194) q(0 0 0 -1) r(3 3) U6"
+    ]
+  },
+  "www.chess.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://contacts.google.com/&followup=https://contacts.google.com/&ifkv=AdBytiPXv4smi3XlARbxTFOsEZp1eezSNOCDkSWK5vVDkwJVt2FI-rg6UyFTZnpem8Ww_M-NjIYN&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-704341302:1757014590167469": {
+    "provider": [
+      "google"
+    ]
+  },
+  "remotedesktop.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.santander.com.mx": {},
+  "mx.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.megacable.com.mx": {},
+  "www.twitch.tv": {},
+  "brainly.lat": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.fotoscaserasx.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "futbol-11.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.codere.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "oficinavirtual.issste.gob.mx": {},
+  "www.izzi.mx/home/": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "m.animeflv.net": {},
+  "xorgasmo.com": {},
+  "campuscobaev.veracruz.gob.mx/moodle2020/index.php": {},
+  "www.apple.com/app-store/": {},
+  "converse.com.mx": {
+    "pop": [
+      "kbf",
+      "bfi",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "aristeguinoticias.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "es.scribd.com": {
+    "pop": [
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "zm"
+  },
+  "manhwaweb.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.cerdas.com": {},
+  "www.cinecalidad.ec": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.etsy.com": {
+    "pop": [
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "zm"
+  },
+  "login.coppel.com": {},
+  "appsmais.com": {
+    "pop": [
+      "mia"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "miami"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.pornpics.com": {},
+  "www.chunkbase.com": {
+    "pop": [
+      "mx1"
+    ],
+    "provider": [
+      "bunny"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "manhwas.net": {},
+  "kfc.com.mx": {
+    "pop": [
+      "dfw"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "dallas-fort worth"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.msn.com": {
+    "pop": [
+      "dfw"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "dallas"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ],
+    "contentLocality": "us"
+  },
+  "www.farfetch.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "loyalty.coinmaster.com": {
+    "pop": [
+      "phx",
+      "qro"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "phoenix",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.lpsg.com": {},
+  "www.uv.mx": {},
+  "www.istockphoto.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.loterianacional.gob.mx": {},
+  "atomix.vg": {},
+  "chatgpt.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "contentLocality": "mx"
+  },
+  "aplicacionesc.mat.sat.gob.mx": {},
+  "superateconfundacionbbva.mx/home": {},
+  "vix.com/es-es": {
+    "pop": [
+      "kjy",
+      "iad",
+      "mmq",
+      "qro"
+    ],
+    "provider": [
+      "google",
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "mbala",
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.adidas.mx": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "aurivexia.com": {
+    "pop": [
+      "zrh"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "zurich"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ch"
+  },
+  "www.gq.com.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.shutterstock.com": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "mx"
+  },
+  "www.marca.com": {
+    "pop": [
+      "ams",
+      "kbu",
+      "bur"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "amsterdam",
+      "stagen - laut island",
+      "burbank"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "loginda.siat.sat.gob.mx": {},
+  "mail.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.kia.com/mx/main.html": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "mx"
+  },
+  "siie.tamaulipas.gob.mx": {},
+  "www.caliente.mx": {
+    "pop": [
+      "qro"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "querã©taro"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "mx"
+  },
+  "drive.usercontent.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.youjizz.com": {},
+  "www.honda.mx": {}
+}

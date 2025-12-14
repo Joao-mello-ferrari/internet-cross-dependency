@@ -1,0 +1,8583 @@
+{
+  "pelisflix20.onl/": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.ebay.es": {
+    "provider": [
+      "akamai",
+      "Akamai"
+    ]
+  },
+  "venta.renfe.com": {},
+  "www.obramat.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "es"
+  },
+  "www.desigual.com/es_ES/": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.futbolemotion.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.ultimahora.es": {},
+  "www.bolsamania.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.tomaticket.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "madridsecreto.co": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.lolacasademunt.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.mayoclinic.org": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.deia.eus": {},
+  "www.elmueble.com": {},
+  "www.paston.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "es"
+  },
+  "www.aireuropa.com": {},
+  "www.muyinteresante.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "jysk.es": {},
+  "discord.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "search.brave.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.diariosur.es": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "www.pornolargo.com": {},
+  "dehu.redsara.es": {},
+  "www.tombola.es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "fr.pornhub.com": {},
+  "www.instagram.com": {},
+  "www.laregion.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.procyclingstats.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.vesselfinder.com": {},
+  "www.filmaffinity.com/es/main.html": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.movistarplus.es": {},
+  "es.chaturbate.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.miravia.es": {
+    "provider": [
+      "alibaba"
+    ],
+    "cacheStatus": [
+      "MISS TCP_MISS dirn:-2:-2"
+    ]
+  },
+  "www.sklum.com/es/": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "citapasion.com": {},
+  "www.lidl.es": {},
+  "www.sofascore.com": {},
+  "www.getyourguide.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "www.zona-militar.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "amt3.com": {},
+  "recetasdecocina.elmundo.es": {},
+  "info.mercadona.es": {},
+  "missav.ws": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.alvaromoreno.com/es_es/home": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.chollometro.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.cuerpomente.com": {},
+  "www.vanitatis.elconfidencial.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "36-20490294-20546503 sNNy RT(1757524815689 2357383) q(0 1 1 0) r(6 6) U24",
+      "HIT"
+    ]
+  },
+  "kick.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "sede-tu.seg-social.gob.es/wps/portal/tussR/tuss/Login/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_QwdXQ09gg0C3EO8nA0CPbzMQr2dPQ2NAk31wwkpiAJKG-AAjgZA_VFgJThMCDYzgyrAY0ZBboRBpqOiIgCNEBoU/dz/d5/L2dBISEvZ0FBIS9nQSEh/": {},
+  "www.nexusmods.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "murciaplaza.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.pornpics.com": {},
+  "www.iberia.com": {},
+  "www.ixxx.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.resultados-futbol.com": {},
+  "www.bancsabadell.com/bsnacional/es/": {},
+  "www.game.es": {},
+  "www.motosan.es": {},
+  "www.crunchyroll.com/es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.samsung.com": {},
+  "casino.bet365.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "contentLocality": "es"
+  },
+  "www.paypal.com/es/home": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS, MISS"
+    ],
+    "contentLocality": "es"
+  },
+  "es.xhamster.desi": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.guess.eu/es-es/homepage": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "support.coinmastergame.com/hc/en-us": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "www.foroparalelo.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.sephora.es": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.ryanair.com/es/es": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.atrapamuebles.com": {},
+  "www.meteo.cat": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&ifkv=AdBytiNdrJV0xrIcTyznmqMV83IyAnmHXbY9YGVRWBWllrEDMltZspJGuPMw_Kf5fvGIPTkJJilQ&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1664945470:1757527211047109": {
+    "provider": [
+      "google"
+    ]
+  },
+  "sis.redsys.es": {},
+  "www.mangago.me": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "pepco.es": {},
+  "www.partslink24.com/partslink24/index.jsp": {},
+  "store.steampowered.com": {},
+  "www.fichajes.net": {},
+  "p2yn.com": {},
+  "movil.titsa.com": {},
+  "www.manhwaweb.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.compradiccion.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "amp.sport.es": {},
+  "www.diariodesevilla.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.kiabi.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "es"
+  },
+  "www.betfair.es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "www.seur.com": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "62-108482082-0 0NNN RT(1757527209719 264) q(0 -1 -1 -1) r(0 -1) B12(8,888100,0) U6"
+    ]
+  },
+  "www.paxinasgalegas.es": {},
+  "mariquitatrasquila.com": {},
+  "www.tiempo.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.amazon.de": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.erome.com": {},
+  "www.informacion.es": {},
+  "alicanteplaza.es": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "tarifaluzhora.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.autohero.com/de/": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "rubias19.com": {},
+  "www.bbva.es": {},
+  "prestaciones.seg-social.es": {},
+  "www.doctoralia.es": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.sport.es": {},
+  "fetlife.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.deviantart.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.diariodenavarra.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.eurostarshotels.com": {},
+  "www.lagradaonline.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "es.spankbang.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "www.arenal.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.lefties.com": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Miss from child, Hit from parent"
+    ]
+  },
+  "es.pinterest.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "es.wikiloc.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.quironsalud.com": {},
+  "www.guiasnintendo.com": {},
+  "www.xvideos.com": {},
+  "bb2r.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "m.fanfiction.net": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://www.youtube.com/signin?action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Des%26next%3Dhttps%253A%252F%252Fstudio.youtube.com%252F%26feature%3Dredirect_login&hl=es&ifkv=AdBytiOnig9PjhP2G4wzbNKpQTVtM7j_qW1yNNMEDATZlpmaXysQnAyg-r4kRL7mltUsAbpacca0&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S470411857:1757527212145433": {
+    "provider": [
+      "google"
+    ]
+  },
+  "pcbolsa.com": {},
+  "www.mangooutlet.com/es/es": {},
+  "www.radio-espana.es": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.superdeporte.es": {},
+  "elmuletazo.com": {},
+  "motos.coches.net": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.laprovincia.es": {},
+  "www.mediasetinfinity.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.laopiniondemurcia.es": {},
+  "www.boe.es": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "scalperscompany.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "elpais.com/juegos/": {},
+  "www.meteosat.com": {},
+  "www.infojobs.net": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "titsa.com": {},
+  "www.idealo.es": {
+    "pop": [
+      "fra"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "frankfurt am main"
+    ],
+    "contentLocality": "de"
+  },
+  "emisora.org.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.buzzfeed.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.escapadarural.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "noodlemagazine.com": {},
+  "www.tiktok.com/explore": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "TCP_MISS from a23-33-143-23.deploy.akamaitechnologies.com (AkamaiGHost/22.2.4.1-a037218b67efe8ad9050157600b4a630) (-)"
+    ]
+  },
+  "support.microsoft.com/en-us": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.cotilleando.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "hentaila.tv": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "web.gencat.cat/ca/inici": {},
+  "www.revistavanityfair.es": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "nuevapasion.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "4kporn.xxx": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "es.quora.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.logitravel.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.renfe.com/es/es": {},
+  "dontorrent.lighting/": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.zalando-prive.es": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "opusdei.org/en-us/": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.aemet.es/es/portada": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.hibridosyelectricos.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.salamanca24horas.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.youporn.com": {},
+  "www.eldiario.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.estadiodeportivo.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.comuniazo.com": {},
+  "www.esdemarca.com/es": {},
+  "www.elperiodicodearagon.com": {},
+  "www.amigosmadrid.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.noticiasdenavarra.com": {},
+  "www.vozpopuli.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "m.jdsports.es": {
+    "pop": [
+      "let",
+      "toj"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "leticia",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "co"
+  },
+  "www.bauhaus.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.fichajes.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS"
+    ]
+  },
+  "xbato.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.hln.be": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.prozis.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "www.stikets.es": {},
+  "www.nacex.es/irHome.do;jsessionid=EtkTvdVvMaKd5UBUhvodi0dUBhiMjUz4qKKjFmSs.sv1846:PRD-NACEXWEB-SV1846-1": {},
+  "fr.xvideos.com": {},
+  "e-noticies.cat": {
+    "pop": [
+      "kda",
+      "dfw",
+      "mad"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "kolda",
+      "dallas-fort worth",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "sn"
+  },
+  "www.casinogranmadridonline.es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "sede.agenciatributaria.gob.es/Sede/errores/erro4033.html": {},
+  "www.destacamos.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.pirlotv.pl": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.sportium.es": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Hit from child"
+    ]
+  },
+  "www.skyscanner.es/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=0026ccd1-8e70-11f0-a314-ceecd416f11e&vid=": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "singularu.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.elnortedecastilla.es": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "es.pandora.net": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "www.jw.org": {},
+  "www.microsoft.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.diariomotor.com": {
+    "pop": [
+      "fr1"
+    ],
+    "provider": [
+      "bunny"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ]
+  },
+  "estoesatleti.es": {
+    "pop": [
+      "kdf",
+      "dfw",
+      "let",
+      "toj",
+      "mad"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "dallas-fort worth",
+      "leticia",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT (2) - SSDV2, HIT, MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "love4porn.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.autocasion.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.caib.es/webgoib/": {},
+  "cloud.aeolservice.es": {},
+  "www.madrid.es": {},
+  "xhamster.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "medlineplus.gov": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.mediamarkt.es/es/": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.theblowers.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "es.fapello.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "mercadona.avature.net": {},
+  "chaturbate.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "icp.administracionelectronica.gob.es": {},
+  "www.elconfidencial.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "5-23917456-23789043 pNNN RT(1757527157928 25) q(0 0 0 1) r(16 16) U24",
+      "HIT"
+    ]
+  },
+  "www12.playdede.link": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "es.luxuretv.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "loyalty.coinmaster.com": {
+    "pop": [
+      "mad",
+      "bcn"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "madrid",
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.gaymaletube.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.lasprovincias.es": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "www.blablacar.es": {},
+  "www.expansion.com": {
+    "pop": [
+      "ams",
+      "let",
+      "toj"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "amsterdam",
+      "leticia",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.deckshop.pro": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "es.motorsport.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.marca.com/": {
+    "pop": [
+      "ams",
+      "let",
+      "toj"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "amsterdam",
+      "leticia",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "jobtoday.com/es": {},
+  "www.marca.com": {
+    "pop": [
+      "ams",
+      "let",
+      "toj"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "amsterdam",
+      "leticia",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www3.animeflv.net": {},
+  "es.xhamsterlive.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.elprogreso.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.nationalgeographic.com.es": {},
+  "www.skechers.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "beteve.cat": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "www2.agenciatributaria.gob.es/wlpl/MOVI-P24H/ObtenerClaveMovilQR?ref=/": {},
+  "www.tokyvideo.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "carpetaciudadana.gob.es/carpeta/clave.htm": {},
+  "www.mi.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.atresplayer.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.google.es": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.eleconomista.es": {},
+  "shop.mango.com/es/es": {},
+  "www.pornhub.com": {},
+  "womensecret.com/es/es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "e-hentai.org": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "librefutboltv.su": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "accounts.spotify.com": {},
+  "www.eldesmarque.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.chateagratis.net": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.banak.com": {},
+  "www.ilovepdf.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "s1-es.ogame.gameforge.com": {},
+  "www.rtve.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.sedecatastro.gob.es": {},
+  "account.booking.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.clicars.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.mujerhoy.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "www.vemostv.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.orquestasdegalicia.es": {},
+  "www.yaencontre.com": {},
+  "www.amateur.tv/": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.webcamsdeasturias.com": {},
+  "www.hipercor.es": {},
+  "open.spotify.com/": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "es"
+  },
+  "www.airbnb.es": {},
+  "www.vogue.es": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www2.agenciatributaria.gob.es": {},
+  "www.joyclub.com/es/": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.kimovil.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "www.fpo.xxx": {},
+  "wplace.live": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "aibs.appluscorp.com": {},
+  "www.directoalpaladar.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.lavozdegalicia.es": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "secure.abc.es": {},
+  "historia.nationalgeographic.com.es": {},
+  "www.lavanguardia.com": {},
+  "books.google.es": {},
+  "foros.diariovasco.com": {},
+  "www.pornogratisdiario.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.vogue.mx": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.realmadrid.com": {},
+  "open.spotify.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "es"
+  },
+  "esc4.guerrastribales.es": {},
+  "www.clara.es": {},
+  "www.comuniate.com": {},
+  "www.hosteltur.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.diezminutos.es": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "www.tnaflix.com": {},
+  "www.tablondeanuncios.com": {},
+  "www.cam4.com/browserupgrade": {},
+  "www.analiticafantasy.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "fides.sergas.es": {},
+  "www.vueling.com/es": {},
+  "www.ea.com": {},
+  "m.ok.ru": {},
+  "www.eltiempo.es": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.infodefensa.com": {},
+  "www.buscounchollo.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.teledigo.com": {
+    "pop": [
+      "19"
+    ],
+    "provider": [
+      "sucuri"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "atlas.gls-spain.es/Account/Login?ReturnUrl=/&Error=Expired%20Session": {},
+  "www.bodas.net": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.elmira.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.uned.es/universidad/inicio.html": {},
+  "serviciodecorreo.es": {},
+  "cnnespanol.cnn.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, HIT, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.fotogramas.es": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ]
+  },
+  "www.ikea.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare",
+      "azure"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "okdiario.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.meetic.es": {},
+  "wolfmax4k.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "es.m.wikipedia.org/wiki/Wikipedia:Portada": {
+    "cacheStatus": [
+      "HIT",
+      "cp6013 hit, cp6010 hit/5259",
+      "hit-front"
+    ]
+  },
+  "www.dieselogasolina.com": {},
+  "www.noticiasdegipuzkoa.eus": {},
+  "www.cttexpress.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.esperanzagraciaoficial.es": {},
+  "www.inpost.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.rojadirectaenvivo.pl": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.ups.com": {},
+  "www.losandes.com.ar": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.nissan.es": {},
+  "www.fragrantica.es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.trenes.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.defensacentral.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "es.eporner.com": {},
+  "www.justwatch.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.zeword.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "cuenta.elcorteingles.es": {},
+  "www.videosdemadurasx.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.eduardolosilla.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.pullandbear.com/es/": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Hit from child"
+    ]
+  },
+  "duckduckgo.com": {},
+  "esradio.libertaddigital.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.platanomelon.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.boyfriendtv.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.onecasino.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "es.redtube.com": {},
+  "elplacerdelalectura.com": {},
+  "es.pornhub.com": {},
+  "www.elotrolado.net": {},
+  "www.indomio.es": {},
+  "www.tycsports.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "chatgpt.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "sede.mjusticia.gob.es": {},
+  "www.planetarealmadrid.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.tramasmas.com": {},
+  "djatoya.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.fnac.es": {},
+  "es.wikipedia.org/wiki/Wikipedia:Portada": {
+    "cacheStatus": [
+      "HIT",
+      "cp6013 miss, cp6010 hit/14065",
+      "hit-front"
+    ]
+  },
+  "www.loteriasyapuestas.es": {},
+  "archiveofourown.org": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.kiwoko.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.regio7.cat": {},
+  "esquelas.larioja.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "key-drop.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.elidealgallego.com": {},
+  "www.sspa.juntadeandalucia.es": {},
+  "www.casadellibro.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.ara.cat": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "diariodeavisos.elespanol.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "best.aliexpress.com/?commercial_type=bestPage&hc_1214_tag=ByAffPage&aff_fcid=5327d6117b944484a2ba68ad30de5ec6-1757527245862-06473-_pz9sEiR&aff_fsk=_pz9sEiR&aff_platform=portals-promotion&sk=_pz9sEiR&aff_trace_key=5327d6117b944484a2ba68ad30de5ec6-1757527245862-06473-_pz9sEiR&terminal_id=d0180c5ec8fb47d6b2e3f61862c1d780": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.diaridegirona.cat": {},
+  "faphouse.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.primeriti.es": {},
+  "www.sexemodel.com/": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "workspace.google.com/intl/en-US/products/drive/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "o2online.es": {},
+  "www.laopiniondemalaga.es": {},
+  "chat.chateagratis.net": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.coches.net": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "es"
+  },
+  "www37.mejortorrent.eu/": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "fapello.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.casinobarcelona.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.iberdrola.es": {},
+  "www.juegosonce.es": {},
+  "www.publico.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.lavozdeasturias.es": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/&followup=https://sites.google.com/&ifkv=AdBytiPNR08Y7xX7XdpIbNwKesgotu5a5A-1yCYWsm86NDV83QDjn8jxxgXD_cuPHqvncYFL4XGF&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1125640869:1757527234265967": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.xnxx.com": {},
+  "www.ocasionplus.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "oxax.tv": {},
+  "domestico24.es/es": {},
+  "navarra.okdiario.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.infobae.com/espana/": {},
+  "www.makro.es": {},
+  "www.gestorvet.com": {},
+  "www.pisos.com": {},
+  "www.sprintersports.com": {},
+  "es.jooble.org": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.xnxx.es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "workspace.google.com/products/meet/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "naciodigital.cat": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.intimissimi.com/es/": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.sepe.es/HomeSepe": {},
+  "www.vidaxl.es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.huffingtonpost.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.dia.es": {
+    "cacheStatus": [
+      "true"
+    ]
+  },
+  "es.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "foroporno.com": {},
+  "es.3hentai.net": {},
+  "www.compraonline.alcampo.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "accounts.lidl.com": {},
+  "www.laverdad.es": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "www.reddit.com": {},
+  "cosasdecasa.lecturas.com": {},
+  "www.rome2rio.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "ofertas.carwow.es/users/sign_in": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "es"
+  },
+  "www.catawiki.com": {},
+  "www.discogs.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "www.granadahoy.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "es.scribd.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "es.indeed.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.eurosport.es": {},
+  "workspace.google.com/intl/en-US/products/calendar/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.amazon.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "es"
+  },
+  "nuevecuatrouno.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "sede.gobiernodecanarias.org/sede/": {},
+  "www.infolibre.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "consent.google.com/m?continue=https://gemini.google.com/&gl=ES&m=0&pc=bard&cm=2&hl=en-US&src=1": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.loquosex.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.kayak.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "es"
+  },
+  "www.canalsur.es/portada-2808.html": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "finofilipino.org": {},
+  "www.hsnstore.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "cronicaglobal.elespanol.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.backmarket.es/es-es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "infoemplea2.com": {},
+  "www.burbuja.info/inmobiliaria/forums/": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.km77.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.juntadeandalucia.es": {
+    "cacheStatus": [
+      "HIT",
+      "HIT porvar04"
+    ]
+  },
+  "www.mundotoro.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.goodreads.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.primor.eu/es_es/": {},
+  "www.wattpad.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "es"
+  },
+  "www.guitarristas.info": {},
+  "vandal.elespanol.com": {},
+  "www.gronze.com": {},
+  "www.vilaweb.cat": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "MISS"
+    ],
+    "contentLocality": "fr"
+  },
+  "beeg.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "movil.todorelatos.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.tvguia.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.taquilla.com": {},
+  "www.puritanas.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "es"
+  },
+  "www.espinof.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.elcorreo.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "subastas.boe.es": {},
+  "www.online-reservations.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.aupaathletic.com/home": {},
+  "ww3.animeonline.ninja": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS"
+    ],
+    "contentLocality": "es"
+  },
+  "rule34.xxx": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.amazon.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "es"
+  },
+  "www.xataka.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.maisonsdumonde.com": {
+    "cacheStatus": [
+      "miss"
+    ]
+  },
+  "www.temu.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "es.bravoporn.com": {},
+  "ssstik.io": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "ppii.redsys.es": {},
+  "mygls.gls-spain.es": {
+    "pop": [
+      "let",
+      "toj"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "leticia",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "co"
+  },
+  "www.diariodeibiza.es": {},
+  "nacionalloteria.mundodeportivo.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "contentLocality": "es"
+  },
+  "teldeactualidad.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.civitatis.com/es/": {
+    "pop": [
+      "ams",
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "amsterdam",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "en.m.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp6009 hit, cp6010 hit/979",
+      "hit-front"
+    ]
+  },
+  "www.oscaro.es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "viajar.elperiodico.com": {
+    "pop": [
+      "let",
+      "toj"
+    ],
+    "provider": [
+      "Fastly",
+      "fastly"
+    ],
+    "location": [
+      "leticia",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "co"
+  },
+  "es.onswingers.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "sudoku.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "simpcity.cr": {},
+  "www.epicgames.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.youtube.com/?app=desktop": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.mediafire.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "es.xgroovy.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.thefork.es": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "x.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.consejosytrucos.co": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "consent.google.com/m?continue=https://translate.google.com/&gl=ES&m=0&pc=t&cm=2&hl=en-US&src=1": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.nytimes.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT, MISS, MISS"
+    ],
+    "contentLocality": "es"
+  },
+  "www.cerdas.com": {},
+  "www.bet365.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "contentLocality": "es"
+  },
+  "www.glamour.es": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.conforama.es": {},
+  "decoracion.trendencias.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.disneyplus.com": {},
+  "myspringfield.com/es/es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "es.restaurantguru.com": {},
+  "www.wowhead.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "sede.educacion.gob.es": {},
+  "me1.quiztests.net": {},
+  "www.elnacional.cat": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "sede.sepe.gob.es/portalSede": {},
+  "www.lasexta.com": {
+    "pop": [
+      "mad",
+      "let",
+      "toj"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid",
+      "leticia"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.es.lastminute.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.roblox.com": {},
+  "letterboxd.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "pasarela.clave.gob.es": {},
+  "www.esquire.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "imgsrc.ru": {},
+  "www.zara.com": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Miss from child, Hit from parent"
+    ]
+  },
+  "cordopolis.eldiario.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.motor.es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.diariodeburgos.es": {},
+  "www.elmundo.es": {
+    "pop": [
+      "ams",
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "amsterdam",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "es.tradingview.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.imagefap.com": {},
+  "www.eldebate.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "sede.seg-social.gob.es/wps/portal/sede/sede/Inicio": {},
+  "m.facebook.com": {},
+  "www.correos.es/es/es/particulares": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "vercomicsporno.com/comics-porno/": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "contentLocality": "es"
+  },
+  "www.levante-emv.com": {},
+  "www.panini.es/shp_esp_es/": {
+    "pop": [
+      "edd",
+      "fra",
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "frankfurt am main",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "app.clinic-cloud.com": {},
+  "www.diariodecadiz.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.wikidex.net/wiki/WikiDex": {
+    "cacheStatus": [
+      "HIT",
+      "front2 hit/27"
+    ]
+  },
+  "www.atptour.com/en": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "es.wallapop.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.hobbyconsolas.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "es.besoccer.com": {
+    "pop": [
+      "lfp",
+      "par",
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "lakefield",
+      "paris",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "www.womenshealthmag.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "www.barcelo.com/es-es/": {},
+  "pisos.mitula.com": {},
+  "esquelas.elcorreo.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "www.iberlibro.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "m.habitaclia.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.bwin.es/es/sports": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.booking.com/index.es.html?label=gen173nr-10CAEoggI46AdIM1gEaEaIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AtT5hsYGwAIB0gIkN2NlZjA0NjEtZjQxNS00MjEzLTgxYTMtYzVmZDA1NGQwMDc52AIB4AIB&sid=b94577b1c9b3825de518d4fc6493cb56&keep_landing=1&sb_price_type=total&": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.getyourguide.es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "www.lagacetadesalamanca.es": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "www.laopiniondezamora.es": {},
+  "www.primark.com": {},
+  "lacuerda.net": {},
+  "outlook.office.com/mail/": {},
+  "www.jornadaperfecta.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "gg.jeinzmacias.pe": {},
+  "www.lavozdealmeria.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.bolsasymercados.es": {},
+  "www.euskadi.eus/hasiera/": {},
+  "jkanime.net": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.betisweb.com/web/": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "ca.m.wikipedia.org/wiki/Portada": {
+    "cacheStatus": [
+      "HIT",
+      "cp6013 miss, cp6010 hit/290",
+      "hit-front"
+    ]
+  },
+  "madrid-barcelona.com": {
+    "pop": [
+      "kda",
+      "dfw",
+      "mrs"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "kolda",
+      "dallas-fort worth",
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "sn"
+  },
+  "www1.sedecatastro.gob.es": {},
+  "www.comunidad.madrid": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.revistainteriores.es": {},
+  "topflex-web.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.trendencias.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.vodafone.es/c/particulares/es/": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "17-100367159-100367187 SNNy RT(1757527259112 598) q(0 0 0 -1) r(1 1) U24"
+    ]
+  },
+  "www.listaspam.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "fr.m.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal": {
+    "cacheStatus": [
+      "HIT",
+      "cp6012 miss, cp6010 hit/2771",
+      "hit-front"
+    ]
+  },
+  "clave-dninbrt.seg-social.gob.es": {},
+  "www.canva.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "sedeclave.dgt.gob.es": {},
+  "www.skylinewebcams.com": {},
+  "www.orange.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.filmin.es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "onlyfans.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.ofertero.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.shopify.com/": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.adolfodominguez.com/site-selector": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.lavuelta.es/en/": {
+    "pop": [
+      "lfp",
+      "par",
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "lakefield",
+      "paris",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.dgt.es/inicio/": {},
+  "www.encuentromoda.com/pen/es/home": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.vamosmisevillafc.com": {},
+  "spalumi.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.druni.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "workspace.google.com/intl/en-US/gmail/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.elle.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "www.entradas.com": {},
+  "cincodias.elpais.com": {},
+  "www.euromillones.com.es": {},
+  "www.telemadrid.es": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.todocoleccion.net": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.xpaja.net": {},
+  "badoo.com/": {},
+  "www.yelmocines.es": {},
+  "www.vidaextra.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "fra.xhamster.com": {},
+  "openai.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.digimobil.es": {},
+  "sofifa.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "es.erome.com": {},
+  "accounts.nintendo.com": {},
+  "www.farodevigo.es": {},
+  "www.accuweather.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.naturitas.es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "hit",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.parfois.com/es/es/country/": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "pivigames.blog": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "tablademareas.com": {},
+  "sede.administracionespublicas.gob.es": {},
+  "www.combinacionganadora.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.euskalmet.euskadi.eus/hasiera/": {},
+  "lichess.org": {},
+  "www.diaridetarragona.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.elespanol.com": {},
+  "www.porn300.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.hola.com": {},
+  "www.esquelasdecantabria.com": {},
+  "www.bankinter.com/banca/inicio": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.jovencitas.gratis": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "es.pictoa.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "store.supercell.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.xatakahome.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.poringa.net/": {},
+  "www.cardmarket.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.showroomprive.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.bancosantander.es": {},
+  "www.zalando.es": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.ebay.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.telecinco.es": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "xcatalunya.cat": {
+    "pop": [
+      "kdf",
+      "dfw",
+      "mrs"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "dallas-fort worth",
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT (1) - SSDV2, HIT, MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.sexomercadobcn.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "x3os.com": {},
+  "www.cinesa.es/": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "porcupinepress.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "mail.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.20minutos.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.itvcita.com/Welcome.do;jsessionid=-QwMrjrPbZPfw1EeeFrFAisRB9Wze7RmIcMnEWHG.slave:nodo-citas2": {},
+  "www.alsa.es/": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "44-8077082-8067353 pNNy RT(1757527326075 259) q(0 0 0 -1) r(3 3) U6"
+    ]
+  },
+  "www.winamax.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "support.google.com": {},
+  "www.autodoc.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "foro.biwenger.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.rapimueble.com": {},
+  "www.create-store.com/es/": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "tmohentai.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.tutete.com/tienda/": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "en.boardgamearena.com/": {},
+  "www.nintendo.com/es-es/": {
+    "pop": [
+      "edd",
+      "fra",
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "frankfurt am main",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.toroporno.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "consent.google.com/m?continue=https://store.google.com/?hl%3Des&gl=ES&m=0&pc=gs&cm=2&hl=es&src=1": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.antena3.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.ecartelera.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "e621.net": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.eldiariomontanes.es": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "pornone.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.aena.es/es/pasajeros/pasajeros.html": {},
+  "www.eldigitaldealbacete.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.thetrainline.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "github.com": {},
+  "weather.com/es-ES/tiempo/hoy/l/SPXX0050:1:SP?Goto=Redirected": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "thisvid.com": {},
+  "www.conectate.com.do": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.todorelatos.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "es.linkedin.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.norauto.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.hoy.es": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "www.antena3.com/": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "noticiastrabajo.huffingtonpost.es": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.maturetube.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.primevideo.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "es"
+  },
+  "fortnitetracker.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.fotocasa.es/es/": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "es"
+  },
+  "www.gays-cruising.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "es.bidoo.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.elperiodico.com/es/": {},
+  "www.windguru.cz": {},
+  "www.sensacine.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "andro4all.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "hdfull.love": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.3cat.cat/3cat/": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.aldi.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "app-eu1.hubspot.com/home-beta": {
+    "pop": [
+      "mrs",
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "marseille",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.meteovigo.es": {},
+  "www.genbeta.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.bbc.co.uk": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.flashscore.es": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.eldia.es": {},
+  "www.harpersbazaar.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "www.solitar.io": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "one.google.com/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.educa2.madrid.org/educamadrid/": {},
+  "cdn.aucey.com": {},
+  "www.bonviveur.es": {},
+  "www.easyjet.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.autoscout24.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "canales.diariovasco.com": {},
+  "portal.seg-social.gob.es/wps/portal/importass/importass": {},
+  "www.movistar.es": {},
+  "login.laliga.es": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.cronista.com/espana/": {},
+  "motherless.com": {},
+  "www.tiendeo.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.jazztel.com": {
+    "cacheStatus": [
+      "miss"
+    ]
+  },
+  "www.myprotein.es": {
+    "pop": [
+      "lhr",
+      "egl",
+      "lcy",
+      "mad"
+    ],
+    "provider": [
+      "cloudflare",
+      "fastly"
+    ],
+    "location": [
+      "london",
+      "negele borana",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ],
+    "contentLocality": "gb"
+  },
+  "sede.dgt.gob.es": {},
+  "es.investing.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.cofidis.es/es/index.html": {},
+  "www.arquitecturaydiseno.es": {},
+  "www.clarin.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.decathlon.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.bricodepot.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.simyo.es": {},
+  "www.lineadirecta.com": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "42-9184833-9165908 pNNy RT(1757527273764 259) q(0 0 0 -1) r(3 3) U6"
+    ]
+  },
+  "manhwaweb.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.caixabank.es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "www.dailymail.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.goldenpark.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.diariodemallorca.es": {},
+  "topesdegama.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.hoyaragon.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.menshealth.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://accounts.google.com/&followup=https://accounts.google.com/&ifkv=AdBytiNQ-gnbgFhbXrBV8rtkpfsBuz5RsWu1bPciWD52fwc4tOrPVVhUPp2kg4mm8mDQLb2mce1EMQ&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-98464879:1757527274657174": {
+    "provider": [
+      "google"
+    ]
+  },
+  "zonatmo.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "viajes.nationalgeographic.com.es": {},
+  "www.elcorreogallego.es": {},
+  "www.eliteguias.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.vertbaudet.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.cajamar.es/es/comun/": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "poki.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "elpais.com": {},
+  "www.bbc.com": {
+    "pop": [
+      "let",
+      "toj"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "leticia",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "co"
+  },
+  "www.financieraelcorteingles.es": {},
+  "www.byd.com/es-es": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.naiz.eus": {},
+  "es.flightaware.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "es"
+  },
+  "www.superporn.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.hogarmania.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.ecobolsa.com": {},
+  "www.facebook.com": {},
+  "www.vevor.es": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.adidas.es": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.citapreviadnie.es": {},
+  "danbooru.donmai.us": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "contentLocality": "es"
+  },
+  "www.espanafascinante.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.machotube.tv": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.ecosia.org": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.vinted.es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.madurasespana.com/splash": {},
+  "es.stripchat.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "es.gizmodo.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "valenciaplaza.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "myactivity.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.gazzetta.it": {
+    "cacheStatus": [
+      "MISS, HIT, HIT"
+    ]
+  },
+  "www.lne.es": {},
+  "www.omio.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.segre.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.xnxx-arabic.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.liruch.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.msn.com": {
+    "pop": [
+      "par"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "paris"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "m.esquelasdeasturias.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "m.fabswingers.com": {},
+  "computerhoy.20minutos.es": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "clave.gob.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.instant-gaming.com/es/": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.centraldereservas.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.tuscasasrurales.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.menorca.info": {},
+  "www.locanto.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www2.hm.com": {},
+  "www.change.org": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "info64.org": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.xvideos.es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.ideal.es": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "www.malagahoy.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.groupon.es": {},
+  "andaluciainforma.eldiario.es": {},
+  "www.xvlivecams.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.guerrastribales.es/": {},
+  "www.todotest.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.elledecor.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "imhentai.xxx": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "m.shein.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "www.theguardian.com/europe": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "esquelas.eldiariomontanes.es": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "www.puntodebreak.com": {},
+  "sede.agenciatributaria.gob.es": {},
+  "telegram.org/": {},
+  "www.solvia.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.teletexto.com": {},
+  "www.meneame.net": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.silbonshop.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.netflix.com": {},
+  "www.rac1.cat": {},
+  "steamcommunity.com": {},
+  "www.apple.com": {},
+  "es.search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.elplural.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.voyage-prive.es/login/index": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.amazon.co.uk": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "vets.wakyma.com/usuario/login": {},
+  "www.einforma.com": {},
+  "hoes.tube": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.diariodeleon.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "casas.trovit.es": {},
+  "forocoches.com/foro/": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.ing.es": {},
+  "cima.aemps.es": {},
+  "www.sudoku-online.org": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "amp.telva.com": {},
+  "www.bing.com": {},
+  "www.muchodeporte.com": {},
+  "m.meteo.cat": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.zooplus.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "sede.carm.es/web/pagina?IDCONTENIDO=11&IDTIPO=180": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "62-94151397-94151412 NNNY CT(24 32 0) RT(1757527329304 257) q(0 0 0 1) r(0 3) U6"
+    ]
+  },
+  "www.cashconverters.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.europapress.es": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.elperiodicomediterraneo.com": {},
+  "www.etsy.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "es"
+  },
+  "www.palabreto.com": {},
+  "www.diariovasco.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "www.stradivarius.com": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Hit from child"
+    ]
+  },
+  "www.forumsport.com/es-es/": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "johnpyesubastas.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.memora.es": {},
+  "cecotec.es/es": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "lobby.ogame.gameforge.com": {},
+  "feverup.com/en": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.ecoticias.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "fr"
+  },
+  "aucorsa.es": {},
+  "www.dazn.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "practicatest.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "as.com": {},
+  "www.elcomercio.es": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "www.gobiernodecanarias.org/principal/": {},
+  "www.sede.fnmt.gob.es": {},
+  "dle.rae.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.formulatv.com": {},
+  "www.dominospizza.es": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "37-8840242-8834351 pNNy RT(1757527291589 264) q(0 0 0 -1) r(5 5) U6"
+    ]
+  },
+  "www.ficherio.com": {},
+  "moovitapp.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.fuegodevida.com": {},
+  "www.lecturas.com": {},
+  "www.paginasamarillas.es": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "60-46533539-46533555 NNNN CT(34 36 0) RT(1757527296632 274) q(0 0 0 -1) r(1 2) U6"
+    ]
+  },
+  "www.preferente.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "foro.aupazaragoza.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.nike.com/es/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.nuevoloquo.ch": {
+    "pop": [
+      "fr1"
+    ],
+    "provider": [
+      "bunny"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "es.youporn.com": {},
+  "www.flexicar.es": {},
+  "www.flightradar24.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "rule34video.com": {},
+  "www.strava.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.google.com/account/about/?hl=en-US": {
+    "provider": [
+      "google"
+    ]
+  },
+  "teatroporno.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "cortefiel.com/es/es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "tiroalpalo.me": {},
+  "sellercentral.amazon.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "app.hubspot.com/home-beta": {
+    "pop": [
+      "bcn",
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "barcelona",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "es"
+  },
+  "www.autobild.es": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.futbin.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "faq.whatsapp.com": {},
+  "www.canarias7.es": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "tbg.seriesturcastv.to/": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT From tbg.seriesturcastv.to",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.cuatro.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.pccomponentes.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "www.elpuntavui.cat": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.cronicabalear.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.gayporntube.com": {},
+  "ts3.x1.america.travian.com": {},
+  "www.meteoblue.com/en/weather/week/barcelona_spain_3128760": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.tripadvisor.es": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "catalunyadiari.com": {
+    "pop": [
+      "ktk",
+      "dfw",
+      "mrs"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "kunua",
+      "dallas-fort worth",
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "pg"
+  },
+  "kinepolis.es": {},
+  "www.abc.es": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "www.luckia.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.tiendasmgi.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.diariocordoba.com": {},
+  "yelmocines.es": {},
+  "www.deepl.com/en/translator": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "consent.yahoo.com": {},
+  "www.larazon.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.lanacion.com.ar": {},
+  "www.lasexta.com/": {
+    "pop": [
+      "mad",
+      "let",
+      "toj"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid",
+      "leticia"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "veopornogratis.xxx": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "es.motor1.com": {
+    "cacheStatus": [
+      "HIT",
+      "HIT!"
+    ]
+  },
+  "empresas3.gruposantander.es": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "33-13216940-13216945 NNNN CT(24 24 0) RT(1757527310325 259) q(0 0 0 -1) r(0 0) U24"
+    ]
+  },
+  "www.asos.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.coches.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "4-4055707-4055715 NNNN CT(0 2 0) RT(1757527301252 267) q(0 0 0 -1) r(0 0) U24"
+    ],
+    "contentLocality": "es"
+  },
+  "www.ocu.org": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.xbox.com/es-ES/": {},
+  "en.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp6009 hit, cp6010 hit/2044",
+      "hit-front"
+    ]
+  },
+  "www.solcasino.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "archive.org": {},
+  "foros.acb.com/forum/": {},
+  "es.privalia.com/gr/home/default": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "milpasiones.com": {},
+  "www.hltv.org": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "consent.google.es/m?continue=https://translate.google.es/&gl=ES&m=0&pc=t&cm=2&hl=es&src=1": {
+    "provider": [
+      "google"
+    ]
+  },
+  "amp.elmundo.es": {},
+  "www.trivago.es": {},
+  "lectormangaa.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.caranddriver.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "cadenaser.com": {},
+  "www.laredoute.es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "granadablogs.com/": {},
+  "alumnos.goquiz.es": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.patreon.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "www.carwow.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "fiftyoutlet.com/es/es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.larioja.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ]
+  },
+  "www.futbolfantasy.com": {},
+  "www.twitch.tv": {},
+  "wise.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "sxyprn.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "futbol-11.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "nhentai.net": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.ashemaletube.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.bdfutbol.com": {},
+  "www.mobile.de": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.action.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "app.wtransnet.com": {},
+  "es.kiosko.net": {},
+  "www.portaventuraworld.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "cookidoo.es/foundation/es-ES": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.timeout.com/es": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.yobingo.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "wol.jw.org": {},
+  "outlook.office365.com/mail/": {},
+  "www.atida.com/es-es": {
+    "pop": [
+      "let",
+      "toj",
+      "mad"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "leticia",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "co"
+  },
+  "www.ultimahora.es/": {},
+  "www.cosmopolitan.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "www.idealista.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.letras.com": {},
+  "m.animeflv.net": {},
+  "aternos.org/:en/": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "es"
+  },
+  "www.vente-unique.es": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.milanuncios.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "es"
+  },
+  "www.whatsapp.com": {},
+  "www.lavozdelanzarote.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "EXPIRED"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.youjizz.com": {},
+  "cm65.com": {},
+  "www.edreams.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.elindependiente.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.riazor.org": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.manomano.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.chasiscero.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "EXPIRED"
+    ],
+    "contentLocality": "es"
+  },
+  "lapalabradeldia.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.carrefour.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "play.google.com/store/games?device=windows": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.just-eat.es": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.laliga.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "TCP_MISS"
+    ]
+  },
+  "realmadridconfidencial.com": {
+    "pop": [
+      "kda",
+      "dfw",
+      "let",
+      "toj",
+      "mad"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "kolda",
+      "dallas-fort worth",
+      "leticia",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT (1) - SSDV1, MISS, HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "sn"
+  },
+  "www.leroymerlin.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "es"
+  },
+  "www.elcorreoweb.es": {},
+  "cookpad.com/jp": {
+    "pop": [
+      "kjy",
+      "iad",
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "madrid"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.fcf.cat": {},
+  "motor.elpais.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.telepizza.es": {
+    "pop": [
+      "cdg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "paris"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.thomann.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "web.whatsapp.com": {},
+  "www.seg-social.es": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "talent24h.okdiario.com": {},
+  "www.toyota.es": {},
+  "outlook.live.com/mail/": {},
+  "ecoinventos.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "es.trustpilot.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.curseforge.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "shop.coinmaster.com": {
+    "pop": [
+      "lhr",
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "london",
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "olympusbiblioteca.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.mundodeportivo.com": {},
+  "www.booking.com/index.es.html?label=gen173nr-10CAEoggI46AdIM1gEaEaIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4ApL6hsYGwAIB0gIkOTIzOTUyMzctYTIxNC00OGU4LTkyMDgtOWI3ZTdiNzE1YTlk2AIB4AIB&sid=b94577b1c9b3825de518d4fc6493cb56&keep_landing=1&sb_price_type=total&": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.xamigos.es/bienvenido/": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.cope.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.diariodelaltoaragon.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "madurird.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "es.shein.com": {},
+  "www.heraldo.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.vlr.gg": {},
+  "espndeportes.espn.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.elperiodicoextremadura.com": {},
+  "www.facebook.com/": {},
+  "www.kumanga.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "contentLocality": "es"
+  },
+  "www.viajeselcorteingles.es": {},
+  "m.imdb.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.linkedin.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "login.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.grupostelegram.net": {},
+  "www.adslzone.net": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.cmmedia.es": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.mundosexanuncio.com/": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "elmon.cat": {
+    "pop": [
+      "mad",
+      "let",
+      "toj"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid",
+      "leticia"
+    ],
+    "cacheStatus": [
+      "MISS-CLUSTER"
+    ],
+    "contentLocality": "es"
+  },
+  "fiestas.net": {},
+  "www.eporner.com": {},
+  "polar-tecnicos.orange.es": {},
+  "character.ai": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "www.serviporno.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.google.com/photos/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "odeonmulticines.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "STALE",
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "workspace.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.instyle.es": {},
+  "www.ondacero.es": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "www.mediavida.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "pixabay.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "www.deporvillage.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.elcorteingles.es": {},
+  "www.imdb.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "context.reverso.net": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "contentLocality": "es"
+  },
+  "www.tezenis.com/es/": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.atrapalo.com": {
+    "pop": [
+      "mad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "madrid"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "es"
+  },
+  "theobjective.com": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.laopinioncoruna.es": {},
+  "www.tradeinn.com/es": {
+    "cacheStatus": [
+      "miss"
+    ]
+  },
+  "www.promofarma.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.leonoticias.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "www.libertaddigital.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.avamet.org": {},
+  "madridinforma.eldiario.es": {},
+  "www.chess.com": {
+    "pop": [
+      "bcn"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "barcelona"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "es"
+  },
+  "www.semana.es": {},
+  "www.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.lapreferente.com": {},
+  "www.leercapitulo.co": {
+    "pop": [
+      "mrs"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "marseille"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "fr"
+  },
+  "www.dailymotion.com": {},
+  "www.wordreference.com": {},
+  "emocion.movistar.es": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.3djuegos.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "empresite.eleconomista.es": {},
+  "www.educa.jcyl.es/es": {},
+  "www.muyzorras.com": {}
+}

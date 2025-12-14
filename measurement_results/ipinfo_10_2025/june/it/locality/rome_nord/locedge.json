@@ -1,0 +1,7889 @@
+{
+  "ciclamino.it": {},
+  "www.lefrecce.it": {},
+  "faq.whatsapp.com": {},
+  "www.yoox.com/it/": {},
+  "www.ilmilanista.it": {},
+  "www.logitravel.it": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.ilfoglio.it": {
+    "pop": [
+      "mxp",
+      "fco"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "milan",
+      "rome"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "outlook.office365.com/mail/": {},
+  "nhentai.net": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "telematici.agenziaentrate.gov.it": {},
+  "www.scuolainforma.news": {},
+  "www.palermotoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.polito.it/didattica": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.forumagricolturasociale.it": {},
+  "www.lagazzettadelmezzogiorno.it": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "56-40977102-40958627 PNNN RT(1757105164511 2895) q(0 0 0 7) r(1 1) U6"
+    ]
+  },
+  "www.getyourguide.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.amazon.de": {
+    "cacheStatus": [
+      "NotCacheable from child"
+    ]
+  },
+  "context.reverso.net": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "forum.finanzaonline.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "necrologie.repubblica.it": {
+    "cacheStatus": [
+      "EXPIRED"
+    ]
+  },
+  "www.auto-doc.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.legami.com/it_it/": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "account.booking.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.888casino.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.temu.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.vanityfair.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "play.google.com/store/games?device=windows": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.angolotesti.it": {},
+  "www.tubegalore.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.decathlon.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.mondosportivo.it": {},
+  "www.gazzettadimodena.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.leroymerlin.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.conad.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.stol.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "/page-cache///pc__index__pc.html",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.liberta.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.facebook.com": {},
+  "www.mobilitasostenibile.it": {},
+  "imgsrc.ru": {},
+  "www.paginebianche.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.monzatoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "gestionale.immobiliare.it/signin/": {},
+  "imhentai.xxx": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.facebook.com/": {},
+  "dilei.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "steamcommunity.com": {},
+  "www.trauerhilfe.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.italiaoggi.it": {},
+  "fetlife.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "battwo.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "poki.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.tuttonapoli.net/": {},
+  "lms.pegaso.multiversity.click": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.milannews.it/": {},
+  "www.pianetamilan.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "it.pandora.net": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "laprovinciapavese.gelocal.it/pavia/": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "nunalie.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "scholar.google.com": {},
+  "www.giallozafferano.it/ricette-cat/": {},
+  "www.fanpage.it": {},
+  "www.corrieredellosport.it/": {},
+  "www.tecnicadellascuola.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "it.xhamsterlive.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.agrieuro.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "chaturbate.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.tennisworlditalia.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.trovacasa.it": {},
+  "torinocronaca.it": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "5-14980294-14655119 pNNy RT(1757105168761 1667) q(0 1 1 0) r(1 1) U6"
+    ]
+  },
+  "it.indeed.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "fr.pornhub.com": {},
+  "corrieredibologna.corriere.it": {
+    "pop": [
+      "ams",
+      "mxp"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "amsterdam",
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.gaet.it": {},
+  "www.gtt.to.it": {},
+  "perugia.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.flashscore.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "alloggiatiweb.poliziadistato.it/PortaleAlloggiati/": {},
+  "www.webcrew.trenitalia.it": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.youjizz.com": {},
+  "www.ebay.it": {
+    "provider": [
+      "akamai",
+      "Akamai"
+    ]
+  },
+  "chatgpt.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "varese.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.solopornoitaliani.xxx": {},
+  "www.intimissimi.com/it/": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.comune.roma.it/web/it/home.page": {},
+  "www.ilbianconero.com": {},
+  "www.snai.it": {},
+  "elearning.unimib.it": {},
+  "jysk.it": {},
+  "www.codicefiscaleonline.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.money.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "services.brt.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "turistipercaso.it": {},
+  "mowmag.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.bonprix.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.superenalotto.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "it.shein.com": {},
+  "www.curseforge.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.fidal.it": {},
+  "support.google.com": {},
+  "www.ilovepalermocalcio.com": {},
+  "www.radioradio.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "login.klarna.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "m.jdsports.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.ita-airways.com": {},
+  "www.sicilianews24.it": {},
+  "it.jooble.org": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "fapello.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "libreriamo.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.youtube.com/?app=desktop": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.calzedonia.com/it/": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "m.my-personaltrainer.it": {},
+  "www.gay.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.inchiostroverde.it": {},
+  "www.nike.com/it/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.gnoccaforum.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.promoqui.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.doveconviene.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.motorinews24.com": {},
+  "www.tv8.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "mail.tiscali.it": {},
+  "www.ilnapolista.it": {
+    "pop": [
+      "15"
+    ],
+    "provider": [
+      "sucuri"
+    ],
+    "location": [
+      "frankfurt"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.tuttomercatoweb.com": {},
+  "www.itpornit.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "it.wikiloc.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.altroconsumo.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.juvenews.eu": {},
+  "www.medicitalia.it": {},
+  "www.futbol24.com": {},
+  "www.panorama.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.upday.com/it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.ricettasprint.it": {},
+  "www.tuttocitta.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.prima.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.reddit.com/?rdt=35285": {},
+  "www.scarpescarpestore.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.deepl.com/en/translator": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "character.ai": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "noipa.mef.gov.it/cl/web/guest/home": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&ifkv=AdBytiNRij4g1mPFx4W9yXcTUJ_pIcw6gfZoBFMZO2PJDRt8I18QmohJ-FKZf8_kYgdO14dUlERC1A&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S203414357:1757105187354368": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.farmaciasoccavo.it": {},
+  "www.avvenire.it": {},
+  "www.transfermarkt.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.fattoincasadabenedetta.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.matrimonio.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "multiplayer.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.radio-italiane.it": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "registro.axioscloud.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.galbani.it": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.liberoquotidiano.it": {},
+  "www.forlitoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.bresciatoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.salernotoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "pubmed.ncbi.nlm.nih.gov": {},
+  "www.ilmattino.it": {},
+  "areariservata.subito.it/login_form": {},
+  "it.wikipedia.org/wiki/Pagina_principale": {
+    "cacheStatus": [
+      "HIT",
+      "cp6012 miss, cp6012 hit/6333",
+      "hit-front"
+    ]
+  },
+  "www.tavolartegusto.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.airbnb.it": {},
+  "www.passioneinter.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "movieplayer.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.linkiesta.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.piemontetopnews.it": {},
+  "x.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "it.cam4.com": {},
+  "www.obi-italia.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "amasens.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.msn.com": {
+    "pop": [
+      "mil"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.pinalli.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.zooplus.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.prozis.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "auto.everyeye.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.discogs.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.investireoggi.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.rinascimento.com": {},
+  "www.lacucinaitaliana.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.wordreference.com": {},
+  "faphouse.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "it.simpleescort.com/": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "eper.parts.fiat.com": {},
+  "ads.google.com": {},
+  "www.redcare.it": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.affaritaliani.it": {},
+  "www.ecosia.org": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.msccrociere.it": {},
+  "milano.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "m.bild.de": {},
+  "www.targatocn.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.notino.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.qvc.it": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.santagostino.it/it": {},
+  "www.tim.it": {},
+  "en.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp6009 miss, cp6012 hit/23259",
+      "hit-front"
+    ]
+  },
+  "store.steampowered.com": {},
+  "streaming-community.uno": {},
+  "www.triesteprima.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.ilgiornale.it": {},
+  "www.messaggeroveneto.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.voglioporno.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.focus.it": {},
+  "www.romatoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "bari.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.sorrisi.com/guidatv/": {},
+  "www.volantinofacile.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.ticketone.it": {},
+  "www.fascicolo-sanitario.it/fse/?1": {},
+  "search-sprint.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.paypal.com/it/home": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS, MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.whatsapp.com": {},
+  "pnrr.pubblica.istruzione.it": {},
+  "www.meteolive.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.superporn.com/it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.agenziaentrateriscossione.gov.it": {},
+  "www.ilcittadino.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.nytimes.com": {
+    "pop": [
+      "lga",
+      "fco"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "new york",
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.terranovastyle.com/it_it/": {},
+  "www.vecchiasignora.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.voyage-prive.it/login/index": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.fallcoaste.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.escortdimension.net": {},
+  "cotralspa.it": {},
+  "www.livescore.in": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "prefettura.interno.gov.it/it": {},
+  "cb01net.quest/": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "accessnoipa.mef.gov.it": {},
+  "www.bestmovie.it": {},
+  "m.facebook.com": {},
+  "amp.xnxx.com": {},
+  "www.tuttocalcioestero.it": {},
+  "www.samsung.com": {},
+  "lecce.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "m.imdb.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.goal.com/it": {},
+  "www.oraridiapertura24.it": {},
+  "bato.to": {},
+  "www.gettyimages.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.armiusate.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.betpoint.it/Pagine/Home.aspx": {},
+  "comozero.it": {},
+  "it.youporn.com": {},
+  "www.guess.eu/it-it/homepage": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.mangaworld.nz": {},
+  "www.preghiereperlafamiglia.it": {},
+  "account.mediasetinfinity.mediaset.it/account/home": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.lanazione.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.thomann.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.melodicamente.com": {},
+  "www.tuttosport.com": {},
+  "it.eporner.com": {},
+  "www.vogue.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.ilsole24ore.com": {},
+  "www.inpa.gov.it": {},
+  "www.manomano.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.iltquotidiano.it": {},
+  "www.baritoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "wol.jw.org": {},
+  "sport.virgilio.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "consent.google.com/m?continue=https://news.google.com/&gl=IT&m=0&pc=n&cm=2&hl=en-US&src=1": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.gqitalia.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.mandamentonotizie.it": {},
+  "www.ubitennis.com": {
+    "cacheStatus": [
+      "HIT",
+      "cached"
+    ]
+  },
+  "altadefinizione.spa": {},
+  "consent.google.com/m?continue=https://gemini.google.com/&gl=IT&m=0&pc=bard&cm=2&hl=en-US&src=1": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.rsi.ch": {},
+  "www.thun.com": {
+    "pop": [
+      "egl",
+      "lhr",
+      "fco"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london",
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ],
+    "contentLocality": "et"
+  },
+  "www.ryanair.com/it/it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.inbiz.intesasanpaolo.com/it/": {},
+  "www.google.it": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.yuvideos.com": {},
+  "www.subito.it": {},
+  "www.google.com/account/about/?hl=en-US": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.tecnocasa.it": {},
+  "www.ups.com": {},
+  "casino.bet365.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.areanapoli.it": {},
+  "it.euronews.com": {},
+  "hentai-ita.net/porno/": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.romait.it": {},
+  "it.mc2saintbarth.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.accordiespartiti.it": {},
+  "mangabuddy.com/official": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.rainews.it": {},
+  "www.casa-lodi.it": {},
+  "www.simonandthestars.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "it.pictoa.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.annunci69.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.tezenis.com/it/": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.theguardian.com/europe": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.forzaroma.info": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.suedtirolnews.it": {
+    "cacheStatus": [
+      "EXPIRED"
+    ]
+  },
+  "ivaservizi.agenziaentrate.gov.it/portale/": {},
+  "www.catawiki.com": {},
+  "www.trevisotoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.idealista.it": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "it.motorsport.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.buttalapasta.it": {},
+  "www.libero.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.today.it/": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "saas.hrzucchetti.it": {},
+  "www.ilmessaggero.it": {},
+  "iam.sicurezzapostale.it/realms/pec/protocol/openid-connect/auth?response_type=code&client_id=172396fe-4e32-4b34-b954-ed5a61ae753e&scope=openid&redirect_uri=https://webmail.namirial.it/index.php/login/oauth&state=8KW6AFumqe1X": {},
+  "www.moscarossa.biz": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.ilcommiato.it": {},
+  "www.anagrafenazionale.interno.it": {},
+  "wetransfer.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "weather.com/it-IT/tempo/oggi/l/ITXX0067:1:IT?Goto=Redirected": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.arezzonotizie.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "gls-group.com": {},
+  "www.deviantart.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.docsity.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.enel.it": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "60-61207765-61194484 pNNy RT(1757105227229 1060) q(0 1 1 10) r(1 1) U6"
+    ]
+  },
+  "www.miodottore.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.partslink24.com/partslink24/index.jsp": {},
+  "www.lottomatica.it": {},
+  "www.tripadvisor.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.cardmarket.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.bottabottafiofio.it": {
+    "cacheStatus": [
+      "EXPIRED"
+    ]
+  },
+  "www.youporn.com": {},
+  "federa.lepida.it/idm/": {},
+  "www.laverita.info": {
+    "pop": [
+      "kcg",
+      "iad",
+      "fco"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.marinecue.it": {},
+  "www.napolitoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "edu.google.com/intl/en-US/workspace-for-education/products/classroom/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.pittarello.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.primevideo.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.primocanale.it": {},
+  "aziende.subito.it": {},
+  "www.leggimenu.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.researchgate.net": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.atptour.com/en": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "it.pinterest.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.sanita.puglia.it": {
+    "cacheStatus": [
+      "HIT",
+      "HIT from Varnish-PugliaSalute-PS01"
+    ]
+  },
+  "youweb.bancobpm.it": {},
+  "www.formulapassion.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "google",
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "terremoti.ingv.it": {},
+  "it.investing.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "aunicalogin.polimi.it": {},
+  "www.edenviaggi.it": {},
+  "iechub.rfi.it": {},
+  "www.facile.it": {},
+  "it.marella.com": {},
+  "www.dailybest.it": {},
+  "guidatv.quotidiano.net": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.porn300.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.unionesarda.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.xnxx.com": {},
+  "outlook.office.com/mail/": {},
+  "www.gazzettadiparma.it": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "61-50331483-50159082 pNNN RT(1757105246567 273) q(0 0 0 4) r(1 1) U6"
+    ]
+  },
+  "luxq8.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.fiscoetasse.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "en.boardgamearena.com/": {},
+  "www.starvegas.it": {},
+  "lms-courses.mercatorum.multiversity.click": {},
+  "www.lanuovasardegna.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "ita.stripchat.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.mangago.me": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.mediaworld.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.milanotoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.rome2rio.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.monopolygo.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "forum.alfemminile.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.centrometeolombardo.com": {},
+  "it.pornhub.com": {},
+  "www.lottoced.com": {},
+  "www.giornalone.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.frasicelebri.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "mypage.infocamere.it/c/portal/login": {},
+  "thecuckold.com": {},
+  "www.autohero.com/pl/": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.bing.com": {},
+  "www.euronics.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "kisskiss.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.fitp.it": {},
+  "www.leggo.it": {},
+  "www.pierluigibersani.it": {},
+  "privati.vodafone.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront",
+      "imperva"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "54-47783509-47783552 NNNY CT(1 1 0) RT(1757105252184 260) q(0 0 0 0) r(0 0) U24"
+    ],
+    "contentLocality": "it"
+  },
+  "www.iodonna.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.canva.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.infojobs.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.skylinewebcams.com": {},
+  "ita.xhamster.desi": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.cardtrader.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.chess.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.xvideos.com": {},
+  "www.arcaplanet.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.cataniatoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.vetinfo.it": {},
+  "bologna.repubblica.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.agrigentonotizie.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.ilfattoquotidiano.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "it"
+  },
+  "www.oggi.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.piccoletrasgressioni.it": {},
+  "www.tnaflix.com": {},
+  "it.intrend.it": {},
+  "firenze.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "it.xvideos.com": {},
+  "www.ilsecoloxix.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.nexusmods.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.kasanova.com/it": {
+    "pop": [
+      "edd",
+      "fra",
+      "fco"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "frankfurt am main",
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.mondoconv.it": {},
+  "genius.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.betflag.it": {},
+  "salerno.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "interattiva.eniplenitude.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.ircri.it": {},
+  "www.insolenzadir2d2.it": {},
+  "www.raiplaysound.it": {},
+  "www.sian.it/portale/": {},
+  "www.lidl.it": {},
+  "www.gamelife.it/": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.formazionedoncalabria.it": {},
+  "mercati.ilsole24ore.com": {
+    "cacheStatus": [
+      "pass uncacheable"
+    ]
+  },
+  "www.tvblog.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.managementcue.it": {},
+  "www.nencinisport.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "sportando.basketball": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "app.promekevolution.it/login": {},
+  "thisvid.com": {},
+  "www.ecoblog.it": {},
+  "www.interlive.it": {},
+  "www.elle.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "www.mim.gov.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "it.chaturbate.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.pornpics.de": {},
+  "www.animeworld.ac": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "webmail.infocert.it/legalmail/": {},
+  "www.mininterno.net": {},
+  "video.gazzetta.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "livesicilia.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.lafeltrinelli.it": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.1001giochi.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "it.search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.admiralbet.it": {},
+  "www.animeunity.so": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.tuttosalernitana.com/": {},
+  "gaia.cri.it": {},
+  "onlyfans.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "wordwall.net": {},
+  "www.ilmeteo.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "associazionerugantino.it/": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.studiopartipilo.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.toronews.net": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.netflix.com": {},
+  "www.traghettilines.it": {},
+  "www.meteogiornale.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.inbank.it/go/00000.htm": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "56-53068544-53067280 PNNy RT(1757105277811 258) q(0 0 0 -1) r(0 0) U6"
+    ]
+  },
+  "ricettaqubi.it": {},
+  "www.inps.it/": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.ilpescara.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "video.corriere.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.fcinternews.it/": {},
+  "www.costacrociere.it": {},
+  "www.toyota.it": {},
+  "www.immobiliare.it": {},
+  "www.jw.org": {},
+  "napolipiu.com": {},
+  "brescia.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.sportmediaset.mediaset.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "uniweb.unipd.it": {},
+  "www.dizy.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "workspace.google.com/intl/en-US/gmail/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.supertennis.tv": {},
+  "www.laprovinciadicomo.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.motivi.com/it_IT": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "megaescort.info": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "it"
+  },
+  "www.bricocenter.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.kiabi.it": {
+    "pop": [
+      "ams",
+      "mxp"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "amsterdam",
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "ippica.snai.it/partenti": {},
+  "www.automobile.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.flixbus.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.nirvam.it": {},
+  "en.luxuretv.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.virgilio.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "immobiliare.mitula.it": {},
+  "madurird.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.milanofinanza.it": {},
+  "www.diretta.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "copilot.microsoft.com": {},
+  "www.sky.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.eurobet.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.iltempo.it": {
+    "pop": [
+      "mxp",
+      "fco"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "milan",
+      "rome"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "it.bidoo.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "d.repubblica.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.mim.gov.it/web/guest/home": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "openai.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.calciomercato.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.milanlive.it": {},
+  "www.tomshw.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "STALE",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "m.calcionapoli24.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.strumentimusicali.net": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.giallorossi.net": {},
+  "www.cookist.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.outletmoto.eu": {},
+  "www.google.com/photos/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.corriereadriatico.it": {},
+  "www.bbc.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.mymovies.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.e-personam.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.qdpnews.it": {},
+  "tg24.sky.it": {},
+  "workspace.google.com/intl/en-US/products/calendar/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "spid.namirial.it": {},
+  "archiveofourown.org": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "posteid.poste.it": {},
+  "backoffice.slope.it/login": {},
+  "it.motor1.com": {
+    "cacheStatus": [
+      "HIT",
+      "HIT!"
+    ]
+  },
+  "e-hentai.org": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.amazon.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.pec.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "questure.poliziadistato.it": {},
+  "www.libraccio.it": {},
+  "ot11ot2.it": {},
+  "sister.agenziaentrate.gov.it": {},
+  "gazzettadelsud.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.agenziaentrate.gov.it/portale/": {},
+  "workspace.google.com/products/meet/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.quattroruote.it": {},
+  "sport.sky.it": {},
+  "shop.coinmaster.com": {
+    "pop": [
+      "mxp",
+      "fco"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "milan",
+      "rome"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.mcdonalds.it": {},
+  "www.romanews.eu": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.geopop.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.vesselfinder.com": {},
+  "fr.xvideos.com": {},
+  "it.finecobank.com": {},
+  "www.ternananews.it": {},
+  "www.firenzetoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.wattpad.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "moovitapp.com": {
+    "pop": [
+      "sfo"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "san francisco"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.futbin.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "app.alfadocs.com/login": {},
+  "www.dltviaggi.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "it.erome.com": {},
+  "www.ilpost.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "buonielibretti.poste.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront",
+      "azure"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ],
+    "contentLocality": "it"
+  },
+  "spunteblu.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.uniecampus.it": {},
+  "ristovip.it": {},
+  "www.xnxx-arabic.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "roma.corriere.it": {
+    "pop": [
+      "ams",
+      "mxp"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "amsterdam",
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.fantacalcio.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "xhamster.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "corrieredelveneto.corriere.it": {
+    "pop": [
+      "ams",
+      "fco"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "amsterdam",
+      "rome"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.corriereromagna.it": {},
+  "www.hentai-archive.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "dipendente.sigmapaghe.com": {},
+  "m.dagospia.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.comingsoon.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.wizzair.com/en-gb": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "gds.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.vaticannews.va": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "TCP_REMOTE_HIT"
+    ]
+  },
+  "www.firenzeviola.it/": {},
+  "www.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.justeat.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "support.microsoft.com/en-us": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.birkenstock.com/it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.soldionline.it": {},
+  "search.brave.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.casa.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "roma.repubblica.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "sudoku.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.nicolaporro.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "web.crypto.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.viamichelin.it": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "TCP_REMOTE_HIT"
+    ]
+  },
+  "login.virgilio.it": {},
+  "consent.google.it/m?continue=https://translate.google.it/&gl=IT&m=0&pc=t&cm=2&hl=it&src=1": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.iliad.it": {},
+  "www.ravennatoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.amica.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.megasesso.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "youbusinessweb.bancobpm.it/youbiz.web/security/sec/": {},
+  "securelogin.poste.it/jod-fcc/fcc-authentication.html": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.imdb.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "corrieredellumbria.it": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "2-11660200-11561039 pNNN RT(1757105259841 259) q(0 0 0 0) r(1 1) U6"
+    ]
+  },
+  "www.cartaidentita.interno.gov.it": {},
+  "www.dailymotion.com": {},
+  "www.hdblog.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.lupoporno.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.pornhub.com": {},
+  "m.tuttoannunci.org": {},
+  "www.ildolomiti.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.ixxx.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.padovaoggi.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.roblox.com": {},
+  "www.bergamonews.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.goldbet.it": {},
+  "www.orizzontescuola.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "it.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "cinema.everyeye.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.genovatoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.bricobravo.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.circuitolavoro.it": {},
+  "danbooru.donmai.us": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "github.com": {},
+  "www.sportal.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.procyclingstats.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.ilovepdf.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.gaymaletube.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "history.paypal.com/it/home": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS, MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.bet365.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.gazzetta.it": {
+    "cacheStatus": [
+      "MISS, HIT, HIT"
+    ]
+  },
+  "www.ladige.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.asos.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.clubalfa.it": {
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ]
+  },
+  "www.lastampa.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.calcionapoli1926.it": {},
+  "palermo.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.sprintesport.it": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "62-50988621-50985121 pNNy RT(1757105262572 261) q(0 0 0 0) r(1 1) U6"
+    ]
+  },
+  "mytim.tim.it/login-authorize.html": {},
+  "www.carrefour.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "sapere.virgilio.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.phica.eu/forums/": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "4kporn.xxx": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.ansa.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "firenze.repubblica.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.microsoft.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "it.privalia.com/gr/home/default": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.thespacecinema.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.animesaturn.cx": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.marieclaire.it": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "cbi.bpergroup.net": {},
+  "postepay.poste.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront",
+      "azure"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.doctolib.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "it.bestchoice.com": {},
+  "www.accuweather.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.mercatinomusicale.com": {},
+  "www.sisal.it": {},
+  "lichess.org": {},
+  "www.lesacoutlet.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.giallozafferano.it": {},
+  "www.idealo.it": {
+    "pop": [
+      "fra"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "frankfurt am main"
+    ],
+    "contentLocality": "de"
+  },
+  "www.udinetoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "escarpe.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.libreriauniversitaria.it": {},
+  "it.xgroovy.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "rule34.xxx": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.fashionblog.it": {},
+  "web.whatsapp.com": {},
+  "www.sfpdentalserviceversilia.it": {},
+  "mail.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.parmatoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.temporeale.info": {},
+  "www.open.online": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.drmax.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "it.finecobank.com/": {},
+  "www.aranzulla.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.action.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "noodlemagazine.com/new-video": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.farmasave.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "larchitetto.it": {},
+  "www.hentaisaturn.tv": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "nuvola.madisoft.it/login": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.solitalian.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.superporn.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "wubook.net": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://www.youtube.com/signin?action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dit%26next%3Dhttps%253A%252F%252Fstudio.youtube.com%252F%26feature%3Dredirect_login&hl=it&ifkv=AdBytiMcz7PGfq88LV3-zLAOJF5kS5BM1GMjwE-q-i-1cSKuY4kKwgN2yWSaa0p0F4JvK81osEbC&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1607906162:1757105267199984": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.anconatoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.buildingcue.it": {},
+  "www.apple.com": {},
+  "www.flightradar24.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.bolognatoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.ecodibergamo.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.cittaceleste.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.cineblog.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.informazionescuola.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.italotreno.com/it": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.meteo.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "login.dpdgroup.com/auth/realms/login/protocol/openid-connect/auth?response_type=code&client_id=MYDPD-PROD-MIDDLEWARE&scope=openid&state=uBbb_El8BGofgGfYsbsRrmNSZ-QdZ65_GviXP7pzpkE%3D&redirect_uri=https://www.mybrt.it/it/mybrt/sso/login&nonce=klFyOiUOcmawQNgZUE4cMwnAgGwBzQOHNL0pu0pnhOc&prompt=none": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.greenme.it": {
+    "cacheStatus": [
+      "HIT",
+      "hit cached"
+    ]
+  },
+  "www.intesasanpaolo.com": {},
+  "www.ikea.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare",
+      "azure"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.efarma.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.tuttobiciweb.it": {},
+  "romamobile.it": {},
+  "web.spaggiari.eu/home/app/default/login.php?custcode=": {},
+  "www.pianetabasket.com/": {},
+  "streaming-community.prof": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.financecue.it": {},
+  "www.betitaly.it": {},
+  "portale.agenziaentrate.gov.it": {},
+  "www.brocardi.it": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://accounts.google.com/&followup=https://accounts.google.com/&ifkv=AdBytiM95t-GujCDm6xy8xYr0PuF5YG1w4cwunO4XLHwoeOv-gj0R5Fa4FQVwcdUxiqB9WvEfDDt0Q&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1964165877:1757105268509274": {
+    "provider": [
+      "google"
+    ]
+  },
+  "it.m.wikipedia.org/wiki/Pagina_principale": {
+    "cacheStatus": [
+      "HIT",
+      "cp6012 miss, cp6012 hit/7538",
+      "hit-front"
+    ]
+  },
+  "www.cookaround.com": {},
+  "www.asromalive.it": {},
+  "www.instagram.com": {},
+  "verona.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.filmtv.it": {},
+  "www.laprovinciacr.it": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "4-13373567-13373576 NNNY CT(36 36 0) RT(1757105271179 259) q(0 0 0 0) r(0 0) U6"
+    ]
+  },
+  "telegram.org/": {},
+  "www.ilcentro.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "1",
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.linkedin.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.edreams.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "segavideo.it": {},
+  "sansone.clsoft.it": {},
+  "login.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.borsaitaliana.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.juzaphoto.com": {},
+  "www.tiktok.com/login?redirect_url=https://www.tiktok.com/&lang=en&enter_method=mandatory": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "TCP_MISS from a23-206-251-53.deploy.akamaitechnologies.com (AkamaiGHost/22.2.3-dd2e9ddb9a7176afbd825015b8856261) (-)"
+    ]
+  },
+  "www.windtre.it": {},
+  "www.cronachemaceratesi.it/": {},
+  "elezioni.interno.gov.it": {},
+  "healthy.thewom.it": {},
+  "www.stylevana.com/en_US/": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "sxyprn.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "iampe.agenziaentrate.gov.it/sam/UI/Login?realm=/agenziaentrate": {},
+  "www.lalaziosiamonoi.it/": {},
+  "lifestyle.everyeye.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "veralab.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "streaming-community.cafe/": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.cosmopolitan.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "m.shein.com/it/?cdn_rsite=cf&ref=m&rep=dir&ret=mit": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.corriere.it": {
+    "pop": [
+      "ams",
+      "mxp"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "amsterdam",
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.10elotto5.it": {},
+  "www.unieuro.it": {},
+  "www.staseraintv.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.tuttomercatoweb.com/": {},
+  "www.energycue.it": {},
+  "www.oltre.com/it_IT": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "consent.google.com/m?continue=https://translate.google.com/&gl=IT&m=0&pc=t&cm=2&hl=en-US&src=1": {
+    "provider": [
+      "google"
+    ]
+  },
+  "webmail.pec.it": {},
+  "www.foggiatoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.giochi24.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "contentLocality": "it"
+  },
+  "equiresults.com": {},
+  "webmail.aruba.it": {},
+  "www.tiava.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "fattureweb.sistemi.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.iltirreno.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.my-personaltrainer.it": {},
+  "www.maturetube.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.adnkronos.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.escort-advisor.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.viaggiatreno.it": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.gamberorosso.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "bergamo.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "workspace.google.com/intl/en-US/products/drive/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.varesenews.it": {},
+  "www.sportitalia.it": {},
+  "www.fastweb.it/": {},
+  "www.torinotoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "one.google.com/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "webmail.tim.it": {},
+  "www.paginegialle.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.ufficiocamerale.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.dagospia.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "unica.istruzione.gov.it/portale/it/home": {},
+  "www.castedduonline.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.trenitalia.com/it.html": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "milan"
+    ],
+    "contentLocality": "it"
+  },
+  "www.hwupgrade.it": {},
+  "www.fascicolosanitario.regione.lombardia.it/web/fserl-pubblica/": {},
+  "www.amazon.it": {
+    "cacheStatus": [
+      "NotCacheable from child"
+    ]
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/&followup=https://sites.google.com/&ifkv=AdBytiPVjXvVHRPcJGUHpfE_fPimtCxkmEMHd9sjKv6XbOb21cGWa2A3e6h04mQc76Dh4os_K9s0_A&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-131416445:1757105277553727": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.ilrestodelcarlino.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.toptransitalia.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "rule34video.com": {},
+  "www.studocu.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.booking.com/index.it.html?label=gen173nr-10CAEoggI46AdIM1gEaHGIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AoCZ7cUGwAIB0gIkZjg2MWFkNjUtNTFmZi00YmI3LWI4MTUtNTAyZWM2YTVkYzU22AIB4AIB&sid=816c8cb6b3dc0a8441d4c3f4ff394fd4&keep_landing=1&sb_price_type=total&": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.newsbiella.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.thefork.it": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.ilgiornaledivicenza.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.ibs.it": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "login.libero.it": {},
+  "www.inps.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.ovs.it/it/it/": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "amp.tgcom24.mediaset.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.greenstyle.it": {},
+  "www.livetennis.it": {},
+  "love4porn.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "contentLocality": "it"
+  },
+  "duckduckgo.com": {},
+  "www.meteoam.it/it/home": {
+    "provider": [
+      "Served-By-Zenedge"
+    ],
+    "cacheStatus": [
+      "NOTCACHED"
+    ]
+  },
+  "www.fcinter1908.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.mysnep.com": {},
+  "idserver.servizicie.interno.gov.it": {},
+  "mediasetinfinity.mediaset.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "outlook.live.com/mail/": {
+    "pop": [
+      "gvx"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "gã¤vle / sandviken"
+    ],
+    "contentLocality": "se"
+  },
+  "www.twitch.tv": {},
+  "www.fastweb.it": {},
+  "gls-group.com/IT/it/home/": {},
+  "tuttonotizie.eu": {},
+  "it.quora.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.viaggiavventurenelmondo.it": {},
+  "it.trustpilot.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.livornotoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.polesine24.it": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "9-11262424-11261924 PNNN RT(1757105294028 264) q(0 0 0 1) r(1 1) U6"
+    ]
+  },
+  "napoli.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.alpitour.it": {},
+  "www.acquistinretepa.it/opencms/opencms/": {},
+  "www.tusciaweb.eu": {},
+  "digital.mps.it/pri/login/home_mobile.jsp": {},
+  "storiesig.info/en/": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.giornaledibrescia.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "servizi2.inps.it": {},
+  "es.pornhub.com": {},
+  "www.quotidianodipuglia.it": {},
+  "catania.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.griffeshop.com/home": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.speedtest.net": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.mps.it": {},
+  "www.raiplay.it": {},
+  "bologna.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.brt.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.lotto-italia.it": {},
+  "itaincontri.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "it"
+  },
+  "obqj2.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "business.facebook.com": {},
+  "www.goldenpoint.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "contentLocality": "it"
+  },
+  "apptel.agenziaentrate.gov.it": {},
+  "it.spankbang.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "ucicinemas.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "sofifa.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "workspace.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.ivg.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.nordest24.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.cesenatoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.ternitoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "it.redtube.com": {},
+  "www.motorzoom.it": {},
+  "www.everyeye.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.portavolantino.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "cyclingpro.net": {},
+  "www.thetrainline.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "latina.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.sorrisi.com": {},
+  "www.quicomo.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.serieturche.eu": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.fiorellarubino.com/it_IT": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.today.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.fansale.it": {},
+  "www.portaleargo.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.alvolante.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.esquire.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "www.huffingtonpost.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "necrologie.messaggeroveneto.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.zalando.it": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.trovaprezzi.it": {},
+  "www.ilportaledellautomobilista.it/web/portale-automobilista/home": {},
+  "www.poste.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront",
+      "azure"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.violanews.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.lagazzettadiviareggio.it": {},
+  "www.calliope.style/it-it/": {},
+  "www.larena.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.cremonaoggi.it": {
+    "cacheStatus": [
+      "HIT",
+      "cached"
+    ]
+  },
+  "www.secoloditalia.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "notube.link/it/youtube-app-228": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.avvocatoandreani.it": {},
+  "www.erome.com": {},
+  "www.altoadige.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.deporvillage.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.lametino.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.spaziogames.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.inail.it": {},
+  "www.madeinoltrepo.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.saldiprivati.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "virtuale.unibo.it": {},
+  "www.calciomercato.com": {},
+  "www.eurospin.it": {},
+  "www.ilpiacenza.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.auntmia.com": {},
+  "cookidoo.it/foundation/it-IT": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "en.m.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp6009 hit, cp6012 hit/6332",
+      "hit-front"
+    ]
+  },
+  "www.blogsicilia.it": {
+    "cacheStatus": [
+      "STALE"
+    ]
+  },
+  "www.perugiatoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "it.fdating.com": {},
+  "m.nirvam.it/register/lnd3/default.aspx": {},
+  "myactivity.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.cdt.ch": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.unisalute.it": {},
+  "www.ascuolaoggi.com": {
+    "pop": [
+      "lin"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.ilgazzettino.it": {},
+  "www.quotidiano.net": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "it"
+  },
+  "www.xnxx.es": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.instant-gaming.com/it/": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.3bmeteo.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.romeo.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.tombola.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www2.hm.com": {},
+  "www.modenatoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.cisalfasport.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.moto.it": {},
+  "www.skyscanner.it/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=ac770a01-8a99-11f0-aaa9-b4276f53f64b&vid=": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.vinted.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "eniplenitude.com": {
+    "pop": [
+      "lin"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "milan"
+    ],
+    "contentLocality": "it"
+  },
+  "palermo.gds.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.fragrantica.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "live-tennis.eu/en/atp-live-ranking": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "m.planetwin365.it": {},
+  "aternos.org/:en/": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "servizi.agenziaentrateriscossione.gov.it/equitaliaServiziWeb/": {},
+  "www.gpone.com/en": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.roadtvitalia.it": {},
+  "it.linkedin.com": {},
+  "onepiecepower.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.lecceprima.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.sephora.it": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.autoscout24.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.esselunga.it/it-it/homepage.html": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "insta-stories-viewer.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.new.planetwin365.it": {},
+  "www.msdmanuals.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "m.laroma24.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "assicurazioni.segugio.it": {},
+  "notizie-inter.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "uncached",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "pornototale.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.humanitas.it": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "14-7611642-7611653 NNNY CT(20 46 0) RT(1757105310537 258) q(0 0 0 0) r(0 0) U6"
+    ]
+  },
+  "www.ispacnr.it": {},
+  "www.itabus.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare",
+      "akamai"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "lms-courses.pegaso.multiversity.click": {},
+  "www.dazn.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.1000farmacie.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "video.sky.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.adidas.it": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.brindisireport.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.concorsipubblici.com": {},
+  "sellercentral.amazon.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "roma.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.pianoinclinato.it": {},
+  "servizipst.giustizia.it/PST/": {},
+  "www.trivago.it": {},
+  "books.google.it": {},
+  "loyalty.coinmaster.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "badoo.com/": {},
+  "www.iperceramica.it": {},
+  "padova.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.ilgiorno.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "it"
+  },
+  "www.webboh.it": {},
+  "playfootball.games": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.consorziobonificadiarneo.it": {},
+  "m.betflag.it/default.aspx": {},
+  "cassetto.agenziaentrate.gov.it": {},
+  "torino.bakecaincontrii.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "www.betpassion.it": {},
+  "www.veneziatoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.tuttojuve.com/": {},
+  "open.spotify.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.cucchiaio.it": {},
+  "nove.tv": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.concorsipubblici.net": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.seriebnews.com": {},
+  "www.studenti.it": {},
+  "www.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "tech.everyeye.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.mistergadget.tech": {},
+  "www.eurosport.it": {},
+  "www.tgcom24.mediaset.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.tuttocampo.it": {},
+  "milano.corriere.it": {
+    "pop": [
+      "ams",
+      "mxp"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "amsterdam",
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.easyjet.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "blog.giallozafferano.it/community/": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.diregiovani.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "BYPASS",
+      "MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.repubblica.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.zalando-prive.it": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.chiesacattolica.it": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.ilmeteo.net": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.cupsolidale.it": {},
+  "www.oasport.it": {},
+  "www.wired.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "it.flightaware.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.fly-go.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "xbato.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.unicredit.it/it/privati.html": {},
+  "www.infoiva.com": {},
+  "milano.repubblica.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.deghi.it": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "m.wiki.pokemoncentral.it": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.eroticiracconti.it": {},
+  "serial.everyeye.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "travel.thewom.it": {},
+  "incontriamoci.xxx": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.la7.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.riminitoday.it": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.treccani.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.etsy.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.expert.it/it/it/exp/?r=1": {},
+  "www.corrieredellosport.it": {},
+  "www.boyfriendtv.com": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "contentLocality": "it"
+  },
+  "www.telepass.com/it/privati": {
+    "provider": [
+      "google"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.xnxx.com/": {},
+  "www.sofascore.com": {},
+  "www.superguidatv.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.estrazionedellotto.it": {},
+  "www.superenalotto.it": {},
+  "www.tecnomat.it/it/": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "it"
+  },
+  "www.amaporn.com": {},
+  "www.fiorentinanews.com/news/541804367366/quella-volta-che-in-campo-volo-un-copertone-contro-schillaci-lo-stadio-fece-viola-di-fischi-baggio-e-quella-meravigliosa-coreografia": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  },
+  "www.menshealth.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "www.prealpina.it": {},
+  "www.eporner.com": {},
+  "www.agi.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "it"
+  },
+  "www.planetwin365.it": {},
+  "www.it.lastminute.com": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "contentLocality": "it"
+  },
+  "bari.repubblica.it": {
+    "pop": [
+      "mxp"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "milan"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "it"
+  },
+  "www.stroilioro.com/it_IT": {
+    "pop": [
+      "fco"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "rome"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "it"
+  }
+}

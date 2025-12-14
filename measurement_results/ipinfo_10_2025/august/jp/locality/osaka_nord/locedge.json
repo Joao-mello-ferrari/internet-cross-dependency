@@ -1,0 +1,6658 @@
+{
+  "delishkitchen.tv": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "weathernews.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "times.abema.tv": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "event.rakuten.co.jp": {},
+  "www.uta-net.com": {},
+  "yakkun.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "sekai-kabuka.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "forbesjapan.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "b.2ch2.net": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "sp.macour.jp": {},
+  "www5.tmn-anshin.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "review.rakuten.co.jp": {},
+  "twitcasting.tv": {},
+  "www.irisplaza.co.jp": {},
+  "tokubai.co.jp": {},
+  "wowma.jp": {},
+  "dmarket.docomo.ne.jp": {},
+  "www.ooedoonsen.jp": {
+    "pop": [
+      "itm"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "fastly"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "k2k.sagawa-exp.co.jp": {},
+  "accounts.secure.freee.co.jp/sessions/new?redirect_url=https://secure.freee.co.jp/users/after_login&service_name=accounting&sign_up_url=https://secure.freee.co.jp/users/sign_up": {},
+  "jp.pornhub.com": {},
+  "pokemongo.gamewith.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.jp-weathernews.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "s.kabutan.jp": {},
+  "ad.games.dmm.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "chat.shalove.net": {},
+  "hitomi.la": {},
+  "www.daily.co.jp": {
+    "pop": [
+      "rjt",
+      "nrt"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.yahoo.co.jp/": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.dlsite.com/index.html": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.hotpepper.jp": {},
+  "play.games.dmm.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "service.smt.docomo.ne.jp": {},
+  "www.mgstage.com/": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "bingo.point-game.jp": {},
+  "money.smt.docomo.ne.jp": {},
+  "joshinweb.jp": {},
+  "pro.store.yahoo.co.jp": {},
+  "tvguide.myjcom.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "openai.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "comic.k-manga.jp": {},
+  "www.194964.com/": {},
+  "ponta-farm.ib-game.jp": {},
+  "market.laxd.com": {},
+  "supjav.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "pan-ymd.s.commseed.jp": {},
+  "lp.p.pia.jp": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "TCP_HIT"
+    ]
+  },
+  "www.furusato-tax.jp": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "gree.jp/": {},
+  "xn--h-k9tybb8g5ivhkczry701afhpm4sru6d.net": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8": {
+    "cacheStatus": [
+      "HIT",
+      "cp5020 miss, cp5020 hit/18011",
+      "hit-front"
+    ]
+  },
+  "andpad.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "EXPIRED",
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "cfg.smt.docomo.ne.jp": {},
+  "smart.keibalab.jp": {},
+  "www.locondo.jp/shop/": {},
+  "chiebukuro.yahoo.co.jp": {},
+  "my.jcb.co.jp/Login": {},
+  "mnlt.syosetu.com": {},
+  "www.oricon.co.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "doujin-freee.cc": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "encount.press": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "kakaku.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "mangaraw.ac": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "imhentai.xxx": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.creema.jp": {},
+  "www.nissen.co.jp": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "109cinemas.net": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "coconala.com": {},
+  "www.jorudan.co.jp/": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "mbga.jp/": {},
+  "apps.gree.net/?action=app_info_devices&app_id=99": {},
+  "chatgpt.com": {
+    "pop": [
+      "hkg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "hong kong"
+    ],
+    "contentLocality": "hk"
+  },
+  "number.bunshun.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "video.laxd.com/a/": {},
+  "www.canva.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.animatetimes.com": {},
+  "www.jtb.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.lettuceclub.net": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.nhk.or.jp": {},
+  "accounts.nintendo.com": {},
+  "www.buzzfeed.com/jp": {
+    "pop": [
+      "kia",
+      "iad",
+      "itm"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "gendai.media": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "jp-apps.gree.net/ja/112": {},
+  "www.jrkyushu.co.jp": {},
+  "www.rakuten-sec.co.jp": {},
+  "s.n-kishou.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.chugoku-np.co.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "i.tipness.co.jp/i/auth/login": {},
+  "support.google.com": {},
+  "woman.excite.co.jp": {},
+  "www.chichi-pui.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "monitor.macromill.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "product.starbucks.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "missav.ws": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "retty.me": {
+    "pop": [
+      "tyo",
+      "rjt",
+      "nrt"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "tokyo",
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "dic.pixiv.net": {
+    "pop": [
+      "hkg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "hong kong"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "hk"
+  },
+  "thisvid.com": {},
+  "video.dmm.co.jp": {},
+  "weekly.coopdeli.jp": {},
+  "fuzoku.jp": {},
+  "aso-bo.com": {},
+  "mainmenu.rms.rakuten.co.jp": {},
+  "nekochan.jp": {},
+  "trafficnews.jp": {
+    "pop": [
+      "nrt",
+      "kix"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "tokyo / narita",
+      "osaka"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "lee.hpplus.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "topics.smt.docomo.ne.jp": {},
+  "www.tv-asahi.co.jp": {
+    "pop": [
+      "itm"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "zozovideo.com": {},
+  "www.tiktok.com/explore": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "TCP_MISS from a23-48-161-136.deploy.akamaitechnologies.com (AkamaiGHost/22.2.3-dd2e9ddb9a7176afbd825015b8856261) (-)"
+    ]
+  },
+  "mezamashi.media": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.nexusmods.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "baby-calendar.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "tuma.jp": {},
+  "koshien.hanshin.co.jp": {},
+  "aiia.jang-keun-suk-game.com": {},
+  "netmall.hardoff.co.jp": {},
+  "a001.sengokuixa.jp/false/login_sessionout.php": {},
+  "macaro-ni.jp": {},
+  "www.cmoa.jp": {},
+  "www.esthe-ranking.jp": {},
+  "www.ikyu.com": {
+    "pop": [
+      "rjt",
+      "nrt"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.youjizz.com": {},
+  "jisin.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "nan-net.com": {},
+  "news.mynavi.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "edu.google.com/intl/en-US/workspace-for-education/products/classroom/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "news.yahoo.co.jp": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.kurashiru.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "infopanel.jp": {},
+  "missav.live/dm15/ja": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "mnb-game3.gamecity.ne.jp": {},
+  "kimetsu.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "kepco.jp": {},
+  "dcard.docomo.ne.jp": {},
+  "store.world.co.jp": {},
+  "comic.pixiv.net": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "spmode.smt.docomo.ne.jp": {},
+  "www.lifehacker.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.hellowork.mhlw.go.jp": {},
+  "yama96.jp/tuto/?guid=on&rnd=1757425589": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "relief-ticket.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "app.minijob.rakuten.co.jp": {},
+  "www.clubjt.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.homes.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "s.response.jp": {
+    "cacheStatus": [
+      "HIT",
+      "HIT from ctms3-www22.ctms.iri-ct.jp"
+    ]
+  },
+  "www.mbga.jp/_game_intro?game_id=12017742": {},
+  "jp.indeed.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "dshopping-3ple.docomo.ne.jp": {},
+  "panasonic.jp": {
+    "pop": [
+      "tyo"
+    ],
+    "provider": [
+      "fastly",
+      "akamai"
+    ],
+    "location": [
+      "tokyo"
+    ]
+  },
+  "nijihorosokuvtubermatome.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.muji.com": {},
+  "oshioki24.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "xhamster.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "sp.atrc.jp": {},
+  "www.takashimaya.co.jp": {},
+  "kyushoku.hellowork.mhlw.go.jp": {},
+  "bbs.minna.cc": {},
+  "www.jalan.net": {},
+  "transit.yahoo.co.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.xvideos.com": {},
+  "point-news.jp/sp/": {},
+  "workspace.google.com/intl/en-US/products/calendar/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "newsdig.tbs.co.jp": {},
+  "sp.handycomic.jp": {},
+  "www.mos.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "fes.rakuten-bank.co.jp": {},
+  "game-tsutaya.tsite.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "hentai-covers.site": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "crosset.onward.co.jp": {},
+  "yomou.syosetu.com": {},
+  "www.biccamera.com": {},
+  "www.au.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.shuminoengei.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "girlschannel.net": {},
+  "service.officestation.jp": {},
+  "note.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "plus-msg.auone.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.thefirsttimes.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "a60050.app.gree-pf.net": {},
+  "keiba.rakuten.co.jp": {},
+  "nikkei225jp.com": {},
+  "www.fujitv.co.jp": {
+    "cacheStatus": [
+      "REFRESH_HIT/S"
+    ]
+  },
+  "www.shop-shimamura.com/?b=shimamura": {},
+  "www.dot-st.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudfront",
+      "akamai"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.scroll-fan.com": {},
+  "furunavi.jp": {},
+  "pc.moppy.jp": {},
+  "www.sankei.com": {},
+  "mangaraw.ma": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "my.keirin.kdreams.jp": {},
+  "lipscosme.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "belluna.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "insight.monex.co.jp/Error/NotFound?aspxerrorpath=/": {},
+  "login.account.rakuten.com": {},
+  "minne.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.eropuru.com": {},
+  "www.oddspark.com": {},
+  "zerocha.jp": {},
+  "mamahiroba.com": {},
+  "www.24028-net.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.d-deltanet.com": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "57-75882233-0 0NNN RT(1757425643015 340) q(0 -1 -1 0) r(0 -1) B15(11,4131928,0) U6"
+    ]
+  },
+  "www.ragnet.co.jp": {},
+  "www.ufret.jp": {},
+  "nyaa.si": {},
+  "www1.smaregi.jp/control/": {},
+  "books.rakuten.co.jp": {},
+  "search.uranai.nosv.org": {},
+  "aniero.von.jp": {},
+  "amb-uranai.ameba.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "komachi.yomiuri.co.jp": {
+    "pop": [
+      "rjt",
+      "nrt"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "s.minkabu.jp": {},
+  "shonenjumpplus.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.tohotheater.jp/": {},
+  "book.dmm.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "store.steampowered.com": {},
+  "staysafe.mcafeemobilesecurity.com": {},
+  "www.chobirich.com": {},
+  "jp.stanby.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.athome.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.kuronekoyamato.co.jp": {},
+  "www.ozmall.co.jp": {
+    "pop": [
+      "itm"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "jp"
+  },
+  "job-medley.com": {},
+  "enjoy.point.auone.jp/": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "web.familyclub.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.agoda.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "xvideo-jp.com": {},
+  "suumo.jp": {},
+  "www.ebay.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "ela.education.ne.jp": {},
+  "keirin.jp/pc/top": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "shueisha.online": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "dic.nicovideo.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "t-mall.contents-group.work": {},
+  "www.shiseido.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "bangumi.org": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "xtech.nikkei.com": {},
+  "shopping.yahoo.co.jp/": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "web.vsmobile.jp": {},
+  "www.digimart.net": {},
+  "news.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.youtube.com/?app=desktop": {
+    "provider": [
+      "google"
+    ]
+  },
+  "weather.yahoo.co.jp": {},
+  "www.tohotheater.jp": {},
+  "booklive.jp": {},
+  "news.allabout.co.jp": {
+    "provider": [
+      "google"
+    ]
+  },
+  "manga-zip.is": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "sports.yahoo.co.jp/error/notfound": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "game8.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "MISS"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.mbga.jp/_game_intro?game_id=12016469": {},
+  "www.newsweekjapan.jp": {},
+  "db.netkeiba.com": {},
+  "www.fucolle.com": {},
+  "yahoo-mbga.jp/": {},
+  "www.sony.jp": {},
+  "koe-koe.com": {},
+  "search.travel.rakuten.co.jp": {},
+  "nanos.jp": {},
+  "p-bandai.jp": {},
+  "kuji.dmarket.docomo.ne.jp/error/404": {},
+  "tv.rakuten.co.jp": {},
+  "loilonote.app/login?backTo=/": {},
+  "id.moneyforward.com/sign_in?client_id=mCyJfotN4OjhcG2ovwIFm7TAZJy4Kvoq8rsP2OO7H6Q&code_challenge=eNnTU_aqzyeJY1vtP63HYiz49agB5_a45kpI1lEm6FU&code_challenge_method=S256&redirect_uri=https://accounting.moneyforward.com/auth/mfid/fullback_callback&response_type=code&scope=openid+email&state=be20c475-48fd-4d91-9074-9e86c26b0cb2": {
+    "pop": [
+      "hkg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "hong kong"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "hk"
+  },
+  "www.jrepoint.jp": {
+    "pop": [
+      "hnd",
+      "kix"
+    ],
+    "provider": [
+      "cdnetworks"
+    ],
+    "location": [
+      "ota, tokyo",
+      "osaka"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "jp"
+  },
+  "nhentai.net": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "rawfree.me": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.ana.co.jp": {},
+  "www.rakuten.co.jp": {},
+  "detail.chiebukuro.yahoo.co.jp": {},
+  "grapee.jp": {
+    "cacheStatus": [
+      "EXPIRED"
+    ]
+  },
+  "kanto.hostlove.com": {},
+  "www.starbucks.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.lawson.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "search.rakuten.co.jp": {},
+  "www.takarakuji-official.jp": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "14-61228885-61226669 PNNN RT(1757425596012 321) q(0 0 0 -1) r(0 0) U6"
+    ]
+  },
+  "movie.eroterest.net": {},
+  "mdpr.jp": {
+    "pop": [
+      "tyo",
+      "itm"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "tokyo",
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "rakuten-sp.dropgame.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "carview.yahoo.co.jp": {},
+  "booth.pm": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.uqwimax.jp/mobile/support/app/life/": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.navitime.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "store.google.com/?hl=ja": {
+    "provider": [
+      "google"
+    ]
+  },
+  "sukebei.nyaa.si": {},
+  "qvc.jp": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "vmall-sp.wamgame.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "auth.user.ameba.jp/signin?redirect_uri=https://auth.user.ameba.jp/connect/authorize?response_type%3Dcode%26client_id%3Dc579a7a626151a2b0fa8dacd524040650f3529e7ecdb9597a867c20ceff9f17a%26redirect_uri%3Dhttp://s.mogg.ameba.jp/loginComplete%26scope%3Dopenid%2520coin%2520profile%2520application%26state%3Dfvf316JSzHI%26nonce%3DNMUQ5Co2pgcL%26code_challenge%3D7McEMqgk73Uf41yQL6zIM429hoPxs_PAemJpBnNns-Y%26code_challenge_method%3DS256&client_id=c579a7a626151a2b0fa8dacd524040650f3529e7ecdb9597a867c20ceff9f17a": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.sokmil.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.dmm.co.jp/top/": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "piccoma.com/web/": {},
+  "dbook.docomo.ne.jp": {},
+  "gourmet.watch.impress.co.jp": {},
+  "k-tai.watch.impress.co.jp": {},
+  "www.infoseek.co.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.carsensor.net": {},
+  "trackings.post.japanpost.jp": {},
+  "www.c-sqr.net": {},
+  "www.fruitmail.net/": {},
+  "www.gizmodo.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "er.550909.com/": {},
+  "mangaraw.ad": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "cn.pornhub.com": {},
+  "hobby.dengeki.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "a009.sengokuixa.jp/false/login_sessionout.php": {},
+  "www.honeys-onlineshop.com/shop/default.aspx": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "pointmall.aeon.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "11-64706581-64706637 NNNN CT(2 6 0) RT(1757425602546 326) q(0 0 1 2) r(1 2) U6"
+    ],
+    "contentLocality": "jp"
+  },
+  "eromani777.com/s/index.html": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "yanmaga.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "2shot.chat.shalove.net": {},
+  "game.granbluefantasy.jp": {},
+  "wikiwiki.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "gran-tv.jp": {},
+  "www.nifty.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "mamastar.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.yoasobi.co.jp": {},
+  "fuzokudx.com": {},
+  "www.4gamer.net": {},
+  "purelovers.com": {},
+  "www.animate-onlineshop.jp": {},
+  "www.infomart.co.jp/index.asp": {},
+  "l-tike.com": {},
+  "mxp1.monex.co.jp": {},
+  "mi-mollet.com": {},
+  "www.syakouba.com": {},
+  "s.keibabook.co.jp": {},
+  "bbs.animanch.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "dpcq.macaron.docomo.ne.jp": {},
+  "s.dto.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "s.inside-games.jp": {
+    "cacheStatus": [
+      "HIT",
+      "HIT from ctms3-www20.ctms.iri-ct.jp"
+    ]
+  },
+  "toku.yahoo.co.jp": {},
+  "www.goo-net.com": {
+    "cacheStatus": [
+      "BYPASS"
+    ]
+  },
+  "www.mhlw.go.jp/index.html": {},
+  "video.fc2.com": {},
+  "www.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "nlab.itmedia.co.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "katene.chuden.jp": {},
+  "mainichi.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "vi-vo.link": {},
+  "news.infoseek.co.jp": {},
+  "jable.tv": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.palcloset.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "news.golfdigest.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "mama.smt.docomo.ne.jp": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.baseballchannel.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "play.google.com/store/games?device=windows": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.minkou.jp": {},
+  "ymobile.yahoo.co.jp/packet/noauth": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "ec.toranoana.jp": {},
+  "brandavenue.rakuten.co.jp": {},
+  "magmix.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.uniqlo.com/jp/ja/": {},
+  "toyokeizai.net": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "papimo.jp": {},
+  "accounts.booth.pm": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "scratch.mit.edu": {
+    "pop": [
+      "itm"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "renta.papy.co.jp": {},
+  "www.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "may.2chan.net": {},
+  "p.eagate.573.jp": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "0-11535423-11535437 NNNN CT(2 2 0) RT(1757425617466 320) q(0 0 0 23) r(1 1) U24"
+    ]
+  },
+  "www.sanspo.com": {},
+  "tenshoku.mynavi.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.amiami.jp": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "7mmtv.sx": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "bigcomics.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "jbbs.shitaraba.net": {},
+  "niconsul.com": {},
+  "tktwaitingroom.expo2025.or.jp": {},
+  "otonasalone.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "tktwaitingroom.expo2025.or.jp/softblock/?c=expo2025&e=ticket0001a&t=https://ticket.expo2025.or.jp/&l=ticket-0001&rticr=2": {},
+  "www.mensnet.jp": {},
+  "ja.m.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8": {
+    "cacheStatus": [
+      "HIT",
+      "cp5020 miss, cp5020 hit/6492",
+      "hit-front"
+    ]
+  },
+  "mixi.jp": {},
+  "doda.jp": {},
+  "www.shufoo.net/": {},
+  "www.daiwa.co.jp": {},
+  "dot.asahi.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "log-lio.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "recipe.rakuten.co.jp": {},
+  "pictbland.net": {},
+  "www.kyounoryouri.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "youravhost.net": {
+    "cacheStatus": [
+      "HIT",
+      "HIT desktop"
+    ]
+  },
+  "shop-list.com": {},
+  "research-panel.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "workman.jp/shop/default.aspx": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "accounts.dmm.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "diamond.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.lpga.or.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://accounts.google.com/&followup=https://accounts.google.com/&ifkv=AfYwgwWgp_B1AgZ8xkALyVwgrlbHQPa-phTmpGAOLTvNIwxVE-mnjMNDbLchSljRj_BTHUe70lhr&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1796975732:1757425612120798": {
+    "provider": [
+      "google"
+    ]
+  },
+  "finance.yahoo.co.jp": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "av-wiki.net": {},
+  "www.kobe-np.co.jp": {},
+  "sp.manga.nicovideo.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "jp-apps.gree.net/ja/98": {},
+  "www.google.com/photos/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.warau.jp": {},
+  "www.alba.co.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "swpf.touch.hange.jp": {},
+  "sp-web.search.auone.jp": {},
+  "www.dinos.co.jp": {},
+  "www.chariloto.com": {},
+  "zmero.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "jin115.com": {},
+  "s2.ta.kingoftime.jp": {},
+  "webshop.montbell.jp": {},
+  "mrh-garoon.cybozu.com": {},
+  "www.facebook.com": {},
+  "ascii.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "iko-yo.net": {},
+  "www.erome.com": {},
+  "www.data.jma.go.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "motor-fan.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "my-best.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "spgirl.cityheaven.net": {
+    "pop": [
+      "kix",
+      "hnd"
+    ],
+    "provider": [
+      "cdnetworks"
+    ],
+    "location": [
+      "osaka",
+      "ota, tokyo"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "jp"
+  },
+  "syosetu.org": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "rakuten-sp.wamgame.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "hint-pot.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "kamikouryaku.net": {},
+  "umanity.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "abema.tv": {
+    "pop": [
+      "tyo"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "tokyo"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "login.account.rakuten.com/sso/authorize?client_id=rakuten_ichiba_bookmark_web&redirect_uri=https://my.bookmark.rakuten.co.jp&response_type=code&scope=openid&state=Tk9fUEFSQU0=": {},
+  "wnacg.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.matsuyafoods.co.jp": {},
+  "tonarinoyj.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "hamusoku.com": {},
+  "www.unitedcinemas.jp/index.html": {},
+  "www.smbc.co.jp": {},
+  "altema.jp": {},
+  "ecs.toranoana.jp": {},
+  "livebb.jlc.ne.jp": {},
+  "www.life-n.jp/sp/": {},
+  "www.47news.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront",
+      "AWS (not CDN)"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "1geki.jp": {
+    "cacheStatus": [
+      "BYPASS"
+    ]
+  },
+  "jp.eporner.com": {},
+  "salonboard.com": {},
+  "toi.kuronekoyamato.co.jp": {},
+  "fujinkoron.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.suruga-ya.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "loveh.org": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.angel-live.com": {},
+  "pay.rakuten.co.jp": {},
+  "www.google.com/account/about/?hl=en-US": {
+    "provider": [
+      "google"
+    ]
+  },
+  "jobcan.ne.jp/": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "zukan.pokemon.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "img.2chan.net": {},
+  "cloud.tkc.co.jp": {},
+  "websearch.rakuten.co.jp": {},
+  "ecnavi.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "momon-ga.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.fnn.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.p-world.co.jp/index.html": {
+    "cacheStatus": [
+      "MISS from tx03.private.p-world.co.jp"
+    ]
+  },
+  "github.com": {},
+  "tters.jp": {},
+  "m.qoo10.jp": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "orekou.net": {},
+  "spweb.brtb.jp": {},
+  "yaraon-blog.com": {},
+  "www.walkerplus.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "jp.mercari.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "baseball.omyutech.com": {},
+  "blog.livedoor.com": {},
+  "championcross.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "ja.stripchat.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "twicomi.com": {},
+  "md-account.pia.jp": {},
+  "crea-tv.jp": {},
+  "www.instagram.com": {},
+  "pointmall.rakuten.co.jp": {},
+  "youngchampion.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "mxp3.monex.co.jp": {},
+  "accounts.dmm.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "healmate.jp/login": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.felissimo.co.jp": {
+    "pop": [
+      "hkg",
+      "nrt"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "hong kong",
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "hk"
+  },
+  "travel.rakuten.co.jp": {},
+  "www.toshin.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.msn.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "workspace.google.com/intl/en-US/gmail/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "dengekionline.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "ameba.plgl.syapp.jp/amebanoreg": {},
+  "m.site777.jp": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "51-53423376-0 0NNN RT(1757425625429 350) q(0 -1 -1 0) r(0 -1) B15(11,4090452,0) U6"
+    ]
+  },
+  "nana-press.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "ranking-deli.jp": {},
+  "jjgirls.com": {
+    "pop": [
+      "sjc"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "san jose"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "travel.yahoo.co.jp": {
+    "pop": [
+      "tyo"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "tokyo"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS"
+    ]
+  },
+  "en.wav.tv/": {},
+  "www.wnacg.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.yahoo.co.jp": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "r.gnavi.co.jp/area/jp/rs/": {
+    "pop": [
+      "itm"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "jp"
+  },
+  "paypayfleamarket.yahoo.co.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.musasi.jp": {},
+  "jr-central.co.jp": {},
+  "auctions.yahoo.co.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.sugotoku.docomo.ne.jp/cs/top.html": {},
+  "www.fashion-press.net": {},
+  "npb.jp": {},
+  "yomipo.yomiuri.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "13-76801963-76794210 PNNy RT(1757425667085 321) q(0 0 0 -1) r(0 0) U6"
+    ],
+    "contentLocality": "jp"
+  },
+  "gamerch.com": {},
+  "network.mobile.rakuten.co.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "gora.golf.rakuten.co.jp": {},
+  "live.fc2.com": {},
+  "www.itmedia.co.jp": {},
+  "hometrade.nomura.co.jp": {},
+  "missav.ai": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.yomiuri.co.jp": {
+    "pop": [
+      "tyo",
+      "itm"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "tokyo",
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "menu.starbucks.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.pixiv.net": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "googirl.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "sellercentral-japan.amazon.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.sbisec.co.jp/ETGate/": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.supersports.com/ja-jp/xebio/": {},
+  "hanabi.walkerplus.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "member.kms.kuronekoyamato.co.jp": {},
+  "syosetu.com/": {},
+  "sushida.net": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.85po.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "spoilerplus.tv": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.kura-vie.jp/sp/": {},
+  "www.dreammail.jp": {},
+  "www.expo2025.or.jp": {},
+  "vk.sportsbull.jp/koshien/": {},
+  "hochi.news": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "payment2.smt.docomo.ne.jp": {},
+  "www.aeoncinema.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "jp.daisonet.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "mechacomic.jp": {},
+  "myactivity.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "filmarks.com": {},
+  "xn--bck3aza1a2if6kra4ee0hf.gamewith.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www3.nhk.or.jp/news/": {},
+  "giga.web.docomo.ne.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "gs.kensetsu-site.com": {},
+  "marrish.com": {},
+  "www.bing.com": {},
+  "www.pokemon-card.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.dmm.co.jp/age_check/=/?rurl=https://games.dmm.co.jp/": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.eki-net.com": {},
+  "www.roomie.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.dmm.co.jp/age_check/=/?rurl=https://dlsoft.dmm.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "mobile.dxlive.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "forzastyle.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "2ch-c.net": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.satofull.jp": {},
+  "www.trepy.jp/sp/": {},
+  "www.jreast.co.jp": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.fanbox.cc": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "duga.jp": {},
+  "typingerz.com": {},
+  "www.boatrace.jp": {},
+  "www.dailyshincho.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "bookwalker.jp": {},
+  "attendance.moneyforward.com/employee_session/new": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "ponta.abstractpainting.work": {},
+  "www.cainz.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.ymobile.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.hotosena.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "comic-walker.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "login.account.rakuten.com/sso/authorize?client_id=rakuten_horseracing_a_web&scope=openid&response_type=code&redirect_uri=https://bet.keiba.rakuten.co.jp/login/&ui_locales=ja-JP&state=https://bet.keiba.rakuten.co.jp/&prompt=login": {},
+  "www2.keiba.go.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "zerodora.razest.net/?M=TutorialStart": {},
+  "www.jma.go.jp/jma/index.html": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "search.yahoo.co.jp": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.dmm.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.rakuten-card.co.jp": {},
+  "gold.jaic.org": {},
+  "kabutan.jp": {},
+  "weather.yahoo.co.jp/weather/": {},
+  "hokkai.hostlove.com": {},
+  "momoniji.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.amazon.co.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.mistore.jp": {},
+  "exhentai.org/": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "itainews.com": {},
+  "kakuyomu.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "theater.aeoncinema.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.madamlive.tv": {},
+  "park.ajinomoto.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.netbk.co.jp/wpl/NBGate": {},
+  "www.ntv.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "mantan-web.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "cocoromembers.jp.sharp/sic-front/": {},
+  "tumadouga.jp": {},
+  "trade.smbcnikko.co.jp": {},
+  "job.axol.jp": {},
+  "fujoho.jp": {},
+  "posfie.com": {},
+  "race.netkeiba.com": {},
+  "www.shopch.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "pcmax.jp/pcm/?ad_id=unknown": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "site2.sbisec.co.jp/ETGate/": {},
+  "t-mall.tsite.jp": {
+    "pop": [
+      "hkg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "hong kong"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "hk"
+  },
+  "www.chatpia.jp": {},
+  "nl.syosetu.com/": {},
+  "sp.pokepara.jp": {},
+  "www.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "health-trends.net": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.melonbooks.co.jp": {},
+  "www.famitsu.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "mobile.suntory.co.jp": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "poinews.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "pc.mpo.jp/?mbred": {},
+  "rocketnews24.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "search.bilibili.com": {},
+  "a023.sengokuixa.jp/false/login_sessionout.php": {},
+  "live.nicovideo.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "weather.smt.docomo.ne.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.jr-odekake.net": {},
+  "www.keiba.go.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.kikkoman.co.jp": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://www.youtube.com/signin?action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dja%26next%3Dhttps%253A%252F%252Fstudio.youtube.com%252F%26feature%3Dredirect_login&hl=ja&ifkv=AfYwgwVieeiFix84OAWaERBKtzYTF4DpDUMCwXPGUZVI9g8rCku8T0T_vcidMn_gZ_mZdfehW5PVdw&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-2046672869:1757425645655205": {
+    "provider": [
+      "google"
+    ]
+  },
+  "mnc.mizuho-sc.com": {},
+  "cloud-adt.oms.tkc.co.jp": {},
+  "game.watch.impress.co.jp": {},
+  "tsumanne.net": {},
+  "www.pokemoncenter-online.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "hotel.travel.rakuten.co.jp": {},
+  "pex.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "monsnode.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "kamigame.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "connect.auone.jp": {},
+  "a018.sengokuixa.jp/false/login_sessionout.php": {},
+  "mauth-sso.kabu.co.jp/masession/404.html?aspxerrorpath=/masession/auth/login": {},
+  "tabelog.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "allabout.co.jp": {
+    "provider": [
+      "google"
+    ]
+  },
+  "rule34video.com": {},
+  "www.goobike.com/index.html": {},
+  "baycrews.jp": {},
+  "www.reddit.com/?rdt=39756": {},
+  "www.apple.com": {},
+  "syosetu.com": {},
+  "dpoint.docomo.ne.jp": {},
+  "s2.movacal.net": {},
+  "tsite.gamefactory.jp/static/not_login.html": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.tokyo-np.co.jp": {},
+  "www.yamada-denkiweb.com": {},
+  "ad-contents.jp": {},
+  "sp.oddspark.com": {},
+  "map.yahoo.co.jp": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "yamada.kaizoku-jolly.com": {},
+  "eplus.jp": {},
+  "www.japanet.co.jp/shopping/": {},
+  "animesoku.com": {},
+  "manga-zip.info": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "yamada.gira2football.com": {},
+  "myna.go.jp/": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.pornpics.com": {},
+  "member.rakuten-sec.co.jp": {},
+  "senzuri.tube": {},
+  "workspace.google.com/intl/en-US/products/drive/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "stripe-club.com": {},
+  "comic-days.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "animestore.docomo.ne.jp/animestore/tp_pc": {},
+  "appmedia.jp": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&ifkv=AfYwgwV8ZIwSQ_MVSMbGGGfT1M1HJkwDD2U_P96EAKsMZzKl42HRjlDqoC3Yq7vmbYfxINsptkaR&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S656325845:1757425669187161": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.at-mania.com": {},
+  "wanchan.jp": {},
+  "nar.netkeiba.com/top/": {},
+  "mocom.tv": {},
+  "www.hareruyamtg.com/ja/": {},
+  "news.livedoor.com": {},
+  "access.line.me/oauth2/v2.1/login?returnUri=/oauth2/v2.1/authorize/consent?client_id%3D1656914823%26redirect_uri%3Dhttps%253A%252F%252Fburuburu.app%252F%253Fcdn_cid%253D1656914823%2526cdn_ts%253D1757425652263%26response_type%3Dcode%26scope%3Dprofile%2520openid%2520friend.affinity%2520friends%2520message.write%2520trident.user.key%26state%3Dv1d7jypnv2g%26bot_prompt%3Dnormal&loginChannelId=1656914823&loginState=pWQnwg4ACGUbDvLTsrL0lA": {},
+  "www.sbisec.co.jp/ETGate/?_ControlID=WPLEThmR001Control&_PageID=DefaultPID&_DataStoreID=DSWPLEThmR001Control&_ActionID=DefaultAID&getFlg=on&OutSide=on": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "my.ymobile.jp": {},
+  "mobile.pantswalker.net": {},
+  "kkmpcmax.ima-apps.net": {},
+  "site1.sbisec.co.jp/ETGate/": {},
+  "kuruma-news.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "jra.webcdn.stream.ne.jp": {
+    "cacheStatus": [
+      "MISS/S"
+    ]
+  },
+  "store.united-arrows.co.jp": {},
+  "auone.ib-game.jp": {},
+  "www.jprime.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "hiroba.dqx.jp/sc/": {},
+  "www.twitch.tv": {},
+  "kyoteibiyori.com": {},
+  "www.anige-sokuhouvip.com": {},
+  "younganimal.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "daidata.goraggio.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.pet-home.jp": {},
+  "www.pointtown.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "4-23190025-23190050 NNNY CT(1 3 0) RT(1757425655530 332) q(0 0 0 -1) r(0 1) U6"
+    ],
+    "contentLocality": "jp"
+  },
+  "bakusai.com": {},
+  "p-town.dmm.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.matsukiyococokara-online.com/store/": {},
+  "www.tv-tokyo.co.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "japanesebeauties.one": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "e-hentai.org": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "x.com": {
+    "pop": [
+      "hkg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "hong kong"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "hk"
+  },
+  "jolly-roger.razest.net/?M=TutorialPrologue": {},
+  "keirin.kdreams.jp": {},
+  "www.edion.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "store.wacoal.jp": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "jp-apps.gree.net/ja/95": {},
+  "rakuten.dropgame.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.pornhub.com": {},
+  "www.tokyomotion.net": {},
+  "missav123.com/dm15/cn": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "president.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.jiji.com": {},
+  "www.jpnumber.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "ticketjam.jp": {},
+  "www.jartic.or.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "blog.esuteru.com": {},
+  "itest.5ch.net": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.po-kaki-to.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "bookpass.auone.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "dokiraw.blog": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "rule34.xxx": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.nikkansports.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.softbank.jp": {
+    "provider": [
+      "azure"
+    ]
+  },
+  "www.yodobashi.com": {},
+  "www.girls-navi.com": {},
+  "dokusho-ojikan.jp": {},
+  "video.unext.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "m.shein.com/jp/?cdn_rsite=ak&ref=m&rep=dir&ret=mjp": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.afpbb.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "smt.docomo.ne.jp": {},
+  "pointi.jp/": {},
+  "www.nintendo.com/jp/index.html": {
+    "pop": [
+      "tyo",
+      "rjt",
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "fastly"
+    ],
+    "location": [
+      "tokyo",
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS, HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "j.cocacola.co.jp/member/": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "itandi-accounts.com/login?client_id=moushikomi_uketsukekun&redirect_uri=https://moushikomi-uketsukekun.com/itandi_accounts_callback&response_type=code&state=342816a30bdd5ea86029945d7794b92f08dc6b355c38b2981d8919d991aba7f1": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.komeda.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "uranai.nosv.org": {},
+  "book.dmm.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.chunichi.co.jp": {},
+  "www.yukoyuko.net": {},
+  "news.tv-asahi.co.jp": {
+    "pop": [
+      "rjt",
+      "nrt"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "natalie.mu": {
+    "cacheStatus": [
+      "MISS",
+      "miss"
+    ]
+  },
+  "app2.logiless.com": {},
+  "yomiho.cmoa.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "ebookjapan.yahoo.co.jp": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "point.recruit.co.jp": {},
+  "www.docomo.ne.jp": {},
+  "with.is/welcome": {},
+  "xn--0ck4aw2h.gamewith.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "manga.nicovideo.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "tower.jp": {},
+  "bm.best-hit.tv": {},
+  "comic.iowl.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.asahi.com": {},
+  "minkara.carview.co.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.jal.co.jp": {},
+  "123av.com/ja": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "txxx.com": {},
+  "danbooru.donmai.us": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "contentLocality": "us"
+  },
+  "the-ans.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.roblox.com": {},
+  "t.pia.jp": {},
+  "www.jleague.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "jp.gotchamall.com": {},
+  "www.baidu.com": {},
+  "famikura-store.jp/s/j/?ima=4748": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "tabelog.com/": {
+    "pop": [
+      "hkg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "hong kong"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "hk"
+  },
+  "steamcommunity.com": {},
+  "www.honda.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.nukistream.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "official.ameba.jp": {},
+  "tantora.jp/pc": {},
+  "shopping.bookoff.co.jp": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "ddd-smart.net": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "hiroba.dpoint.docomo.ne.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "10-54407439-54405180 PNNN RT(1757425680614 326) q(0 0 0 0) r(1 1) U6"
+    ],
+    "contentLocality": "jp"
+  },
+  "gashapon.jp": {},
+  "sp.mbga.jp/": {},
+  "www.eporner.com": {},
+  "wiki.seesaa.jp/": {},
+  "arca.live": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "cookpad.com/jp": {
+    "pop": [
+      "kjy",
+      "iad",
+      "itm"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "osaka"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "article.yahoo.co.jp": {},
+  "mintj.com/msm/?adv=__": {},
+  "sp.seiga.nicovideo.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.xnxx.com": {},
+  "expo2025shop.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "saita-puls.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.aeon.co.jp": {},
+  "jbpress.ismedia.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "jp.xhamster.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "full-count.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "gravure.mantan-web.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "tenki.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.nikkan-gendai.com": {},
+  "www.monotaro.com": {},
+  "www.hokkaido-np.co.jp": {},
+  "www.zoff.co.jp/shop/default.aspx": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.news-postseven.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "ftnews.jp": {},
+  "nishispo.nishinippon.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "race.sp.netkeiba.com": {},
+  "ekitan.com": {},
+  "ponta-sp.dropgame.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "jp.pinterest.com": {
+    "provider": [
+      "fastly"
+    ]
+  },
+  "just-smilenext.jp/app/portal/home": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "news.denfaminicogamer.jp": {
+    "cacheStatus": [
+      "-"
+    ]
+  },
+  "kakaku.com/": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "gentosha-go.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.nicovideo.jp/?redirected=1": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "pro-manager.cityheaven.net/login/index": {},
+  "article.auone.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "trilltrill.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "eiga.com": {
+    "pop": [
+      "hkg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "hong kong"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "hk"
+  },
+  "shop.nijisanji.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "site4.sbisec.co.jp/ETGate/": {},
+  "freepdfcomic.eu": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "mamekichimameko.blog.jp": {},
+  "ja.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "jp.spankbang.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.cloudsign.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "plaza.rakuten.co.jp": {},
+  "vcard.ameba.jp/authenticate?loginUrl=https://auth.user.ameba.jp/connect/authorize?scope%3Dopenid%2Bcoin%2Bprofile%2Bapplication%26response_type%3Dcode%26client_id%3D98e5b04d87dd022cf6979eec98d6b20b63e5851ac19c5140076b448d61d97426%26redirect_uri%3Dhttp%253A%252F%252Fvcard.ameba.jp%252Fas_renewal_login%253FredirectUrl%253Dhttp%253A%252F%252Fvcard.ameba.jp%252F%253F%26state%3DnbZaZix06kV%26nonce%3D3-GFOZ_jqUV8%26code_challenge%3Df0O4k56OQsY-wVTYnWALqZQUJId-l1izHohvsFvCb6Y%26code_challenge_method%3DS256%26prompt%3Dlogin": {},
+  "www.tbs.co.jp": {},
+  "noutore.enjoy.point.auone.jp": {},
+  "www.dto.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "zozo.jp": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "store-jp.nintendo.com": {
+    "pop": [
+      "kix",
+      "nrt"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "osaka",
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "cloud.ielove.jp": {},
+  "db.sp.netkeiba.com": {},
+  "www.baitoru.com": {
+    "pop": [
+      "rjt",
+      "nrt"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "jp"
+  },
+  "store.disney.co.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "shop.aeon.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "oceans-nadia.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "kemono.cr": {},
+  "sp.jra.jp": {},
+  "www.spat4.jp": {
+    "cacheStatus": [
+      "-"
+    ]
+  },
+  "www.telnavi.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "portal.kanamic.net": {},
+  "www.j-live.tv": {},
+  "login.account.rakuten.com/sso/authorize?nonce=nonce&scope=openid%20profile%20email&response_type=code&client_id=rakuten_pointmail_web&redirect_uri=https://member.pointmail.rakuten.co.jp/auth/callback&state=/&r10_audience=jid": {},
+  "www.clubdam.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "njavtv.com/dm15/ja": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "spc.sp.mbga.jp": {},
+  "www.tokyodisneyresort.jp": {},
+  "ameblo.jp": {},
+  "www.bloomberg.co.jp": {},
+  "www.kyoto-np.co.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "qiita.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "suki-kira.com": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "sp.netkeiba.com": {},
+  "bunshun.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "nar.sp.netkeiba.com/top/": {},
+  "fep.sps-system.com": {},
+  "digicafe.jp": {},
+  "vmall-sp.dropgame.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "reserve.489ban.net": {},
+  "www.steranet.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.smt-cinema.com": {},
+  "fantia.jp": {},
+  "www.alphapolis.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "pointmall-rakuten-farm.ib-game.jp": {},
+  "gstn.bkrs2.syapp.jp/auth/forbidden?next_url=/&_ss=": {},
+  "www.nikkei.com": {},
+  "www.mizuhobank.co.jp/index.html": {},
+  "www.fukuishimbun.co.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "asg.to": {},
+  "www.mbga.jp/_game_intro?game_id=12010355": {},
+  "animanch.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.hbc.co.jp": {},
+  "www.netflix.com": {},
+  "www.grail.bz": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.post.japanpost.jp/index.html": {},
+  "ponta-sp.wamgame.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.nissan.co.jp/": {},
+  "www.familyclub.jp/": {},
+  "tver.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "select.mamastar.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "eroanime-movie.com/main": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "order-rp.rms.rakuten.co.jp": {},
+  "www.asoview.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "ichioshi.smt.docomo.ne.jp": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.suzuki.co.jp": {},
+  "a022.sengokuixa.jp/false/login_sessionout.php": {},
+  "yamazakicp.com/end": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "jmty.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "a943.app.gree-pf.net": {},
+  "www.nitori-net.jp": {},
+  "www.sponichi.co.jp": {
+    "pop": [
+      "rjt",
+      "nrt"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "tktube.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "beauty.hotpepper.jp": {},
+  "www.booking.com/index.ja.html?label=gen173nr-10CAEoggI46AdIM1gEaHWIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4ApPggMYGwAIB0gIkOTg0ZWE3MTAtNmUyZC00ZTUwLTgyMTAtM2YxZmNlNWRmNGQz2AIB4AIB&sid=385f28d61fe0987c9a61fe9aed246604&keep_landing=1&sb_price_type=total&": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "adult-machiko.com": {},
+  "togetter.com": {},
+  "www.jra.go.jp": {},
+  "en.m.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp5020 miss, cp5020 hit/2209",
+      "hit-front"
+    ]
+  },
+  "www.google.co.jp": {
+    "provider": [
+      "google"
+    ]
+  },
+  "prtimes.jp": {
+    "pop": [
+      "rjt",
+      "nrt"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "m.facebook.com": {},
+  "npr-gstn.sg.drecom.jp": {},
+  "seiga.nicovideo.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "kuji.rakuten.co.jp": {},
+  "utaten.com": {},
+  "sp.pf.mbga.jp": {},
+  "anigenavi.blog": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "maidonanews.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "job.mynavi.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.kaldi.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.skylark.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "xn--pckua2a7gp15o89zb.com": {
+    "pop": [
+      "hkg"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "hong kong"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "hk"
+  },
+  "www.huffingtonpost.jp": {
+    "pop": [
+      "kia",
+      "iad",
+      "rjt",
+      "nrt"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "sellercentral.amazon.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "anime.eroterest.net": {
+    "pop": [
+      "la1"
+    ],
+    "provider": [
+      "bunny"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ]
+  },
+  "www.buyma.com": {
+    "pop": [
+      "itm"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "javmix.tv": {
+    "pop": [
+      "lax"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "los angeles"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.family.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "poipiku.com": {},
+  "www.hmv.co.jp": {},
+  "noc.syosetu.com": {},
+  "wear.jp": {
+    "pop": [
+      "rjt",
+      "nrt"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "jp"
+  },
+  "stesso.tg-assist.net": {},
+  "dshopping.docomo.ne.jp": {},
+  "ero-video.net": {},
+  "plus.nhk.jp": {},
+  "www.irasutoya.com": {},
+  "www.iza.ne.jp": {},
+  "estama.jp": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.deal.matsui.co.jp/common/err/InternalServerErr.jsp": {},
+  "nyahentai.re": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "enjoy.point.auone.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "honto.jp": {},
+  "ci-en.dlsite.com": {},
+  "poki.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "contact.auctions.yahoo.co.jp": {},
+  "vjav.com": {},
+  "www.mcdonalds.co.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "contentLocality": "jp"
+  },
+  "dfashion.docomo.ne.jp": {},
+  "sports.yahoo.co.jp": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.showroom-live.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "item.rakuten.co.jp": {},
+  "www.pscube.jp": {},
+  "blend.school/login": {},
+  "keiba-lv-st.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "tjoy.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "jp.finalfantasyxiv.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.temu.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "info.mykomon.com/": {},
+  "www.nicovideo.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "novel.prcm.jp": {
+    "provider": [
+      "google"
+    ]
+  },
+  "meru-para.com/msm/?adv=__": {},
+  "netorder.mos.co.jp/pc/top": {},
+  "honkaku-uranai.jp": {
+    "pop": [
+      "rjt",
+      "nrt"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "dh2020.jp": {},
+  "www.eheya.net": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "famu.jp": {},
+  "www.smbc-card.com": {},
+  "shopping.yahoo.co.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "a24.app.gree-pf.net/auth/forbidden?next_url=/&_ss=&_ss=": {},
+  "www.ikea.com": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare",
+      "azure"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.openwork.jp": {},
+  "n2ch.net/?guid=ON": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "povo.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "limo.media": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.ipat.jra.go.jp": {},
+  "blog.goo.ne.jp": {},
+  "play.ponta.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "payroll.moneyforward.com/users/auth/mfid?prompt=select_account&redirect_uri=https://payroll.moneyforward.com:443/users/auth/mfid/callback": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/&followup=https://sites.google.com/&ifkv=AfYwgwXnHnmv9o56ESiMmubvbnPjBJ6X3TZHBUmxLfs6JvwIVYia47Omv6LfPFtahTJZV6u5_YDWkA&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1912232388:1757425695689550": {
+    "provider": [
+      "google"
+    ]
+  },
+  "blog.livedoor.jp": {},
+  "jp-apps.gree.net/ja/97": {},
+  "www.bilibili.com": {},
+  "gamewith.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "a815.app.gree-pf.net": {},
+  "www.nhk.or.jp/": {},
+  "gemini.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.cityheaven.net": {
+    "pop": [
+      "hnd"
+    ],
+    "provider": [
+      "cdnetworks"
+    ],
+    "location": [
+      "ota, tokyo"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.yoshinoya.com": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "jra.jp": {},
+  "www.girls-chat.tv/User/ViComm/man/NonUserTop.aspx?guid=ON": {},
+  "www.tokyo-sports.co.jp": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "news.ntv.co.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "member.studying.jp/login/": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.cosme.net": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "jp"
+  },
+  "toyota.jp": {},
+  "newmanager.cityheaven.net": {
+    "pop": [
+      "hnd"
+    ],
+    "provider": [
+      "cdnetworks"
+    ],
+    "location": [
+      "ota, tokyo"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "jp"
+  },
+  "adult.contents.fc2.com": {},
+  "www.bellemaison.jp": {},
+  "ecnavi.ib-game.jp": {},
+  "happymail.co.jp": {},
+  "pasha.rakuten.co.jp": {},
+  "b.hatena.ne.jp": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.hankyu-travel.com": {},
+  "mitsui-shopping-park.com": {},
+  "1kuji.com": {},
+  "9db.jp": {},
+  "my.hama-sushi.co.jp": {},
+  "portal.auone.jp": {},
+  "masutabe.info": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "www.nankankeiba.com": {
+    "cacheStatus": [
+      "REFRESH_MISS/S"
+    ]
+  },
+  "www.sej.co.jp": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "59-78544525-78544652 NNNY CT(4 4 0) RT(1757425699825 321) q(0 0 0 -1) r(0 0) U6"
+    ]
+  },
+  "fullcast.jp/": {},
+  "s.pigg.ameba.jp": {},
+  "store.alpen-group.jp": {
+    "pop": [
+      "kix"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "osaka"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "jp"
+  },
+  "a60462.app.gree-pf.net/page/top/expired": {},
+  "matome-plus.com": {},
+  "site3.sbisec.co.jp/ETGate/": {},
+  "bandai-hobby.net": {
+    "pop": [
+      "nrt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "tokyo / narita"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "jp"
+  }
+}

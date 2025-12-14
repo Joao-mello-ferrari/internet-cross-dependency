@@ -1,0 +1,8666 @@
+{
+  "www.youtube.com/?app=desktop": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.jeuxvideo.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.hyundaicanada.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "56-11863293-11863321 NNNN CT(0 2 0) RT(1755725587162 152) q(0 1 1 0) r(1 9) U24"
+    ]
+  },
+  "secure.royalbank.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.canac.ca": {
+    "pop": [
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.westjet.com/en-ca": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "spankbang.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "playhop.com/showcaptcha?cc=1&form-fb-hint=8.89&mt=839598704D7215CC50ACB5CDDA8825E914E9FAFC4686AE3C92CDDA8473A9088F057831DB6E8DD27844CC1798A921265C4112DCC6FF71ABBE3A00D1394A7ADFF55B308E15C8EB397FB7269AD079A385BC8966B29BFD60EDD2CD9A34AD027EBCD4368364B06790620FC148530801F22CB0062B2C89CBF2A88A02C5FFB1D3BED51954AFCCE3F99281E624CA160E3017D2CEBB49283DD7F13075B7AB45AC9C4728AD0FCDA4ED4234E93EFEE5F6C42675719791F807502D75280A17387CC4BE0372012645C4CE5988C8B3C16BB9D8CA7CC73555C0122A9D48782DB0D6A00169&retpath=aHR0cHM6Ly9wbGF5aG9wLmNvbS8__83d220e3cc09b332d4d9f7b84edf3d36&t=2/1755725587/0047ec55f534a9cc0acc4d2507ecfb70&u=7144285222278979672&s=edacb9f588f24e3384292898bcf21597": {},
+  "usito.usherbrooke.ca": {},
+  "www.furaffinity.net": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www2.gov.bc.ca/gov/content/home": {
+    "cacheStatus": [
+      "EXPIRED"
+    ]
+  },
+  "www.walmart.ca/blocked?url=L2Vu&uuid=4350bc82-7e0d-11f0-b45c-44536f5c14b6&vid=&g=b": {
+    "provider": [
+      "azure"
+    ]
+  },
+  "duproprio.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "apps8.ams-sga.cra-arc.gc.ca": {},
+  "www.ultimate-guitar.com/explore": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "myanimelist.net": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "NotCacheable from child"
+    ]
+  },
+  "www.canadapost-postescanada.ca/cpc/en/home.page": {},
+  "www.earth.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.npr.org": {},
+  "login.mathletics.com": {},
+  "hianime.to": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.msnbc.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "catalunyadiari.com": {
+    "pop": [
+      "ktk",
+      "dfw",
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kunua",
+      "dallas-fort worth",
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.thespec.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "avenue.ca": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.qssweb.com": {},
+  "www.boredpanda.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "montreal.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.webtoons.com/en/": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.deviantart.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.crazygames.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "vancouver.craigslist.org": {},
+  "well.ca": {},
+  "srv136.services.gc.ca": {},
+  "aternos.org/:en/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "linktr.ee": {
+    "pop": [
+      "pdx",
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "cloudflare",
+      "fastly"
+    ],
+    "location": [
+      "portland",
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS",
+      "HIT, HIT, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "ytmp3.cx/": {},
+  "fizz.ca/en": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "gemini.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "mobile.squirt.org": {},
+  "www.cafr.ebay.ca": {
+    "provider": [
+      "akamai",
+      "Akamai"
+    ]
+  },
+  "www.thingiverse.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "accweb.mouv.desjardins.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.pathofexile.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "online.simplii.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "myactivity.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.literotica.com": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://accounts.google.com/o/saml2/continue?idpid%3DC04aympbp%26SAMLRequest%3DjdE7T8MwEADgHYn/EHlP7NhtHlZSqYKlUllaYGBBjn1tIiV28DmIn49LVcHIdg%252Bd9N1ds11Cbw/wsQCGZPfYElTT6K/5uwAoT7yriirnK3ESHeNlWSrgzHBeiJokr%252BBxcLYlPGMk2SEusLMYlA2xxPg6ZVXK2TPPpRCS1RnL1%252BuVqN5IskUEH%252BLsg7O4TOCP4D8HDS%252BHfUv6EGaUlPYGuwxGUN4O9uxsUH5wmVbU8JGOM1VRT0d3Hiy9uPeXKIs9knxNo8WWLN5Kp3BAadUEKIOWx%252B3TXkaunL0LTruRbO7vkqT5wfv/DKobnWxuUMM0M2Vctsu5SVfaQNoVBUuN5qyqayhFybMANh4Gs84P5z7grDRk2k2/9IZeERHU0L%252Bf2XwD%26omethod%3DHEAD&faa=1&followup=https://accounts.google.com/o/saml2/continue?idpid%3DC04aympbp%26SAMLRequest%3DjdE7T8MwEADgHYn/EHlP7NhtHlZSqYKlUllaYGBBjn1tIiV28DmIn49LVcHIdg%252Bd9N1ds11Cbw/wsQCGZPfYElTT6K/5uwAoT7yriirnK3ESHeNlWSrgzHBeiJokr%252BBxcLYlPGMk2SEusLMYlA2xxPg6ZVXK2TPPpRCS1RnL1%252BuVqN5IskUEH%252BLsg7O4TOCP4D8HDS%252BHfUv6EGaUlPYGuwxGUN4O9uxsUH5wmVbU8JGOM1VRT0d3Hiy9uPeXKIs9knxNo8WWLN5Kp3BAadUEKIOWx%252B3TXkaunL0LTruRbO7vkqT5wfv/DKobnWxuUMM0M2Vctsu5SVfaQNoVBUuN5qyqayhFybMANh4Gs84P5z7grDRk2k2/9IZeERHU0L%252Bf2XwD%26omethod%3DHEAD&ifkv=AdBytiNfhvuxXvVUCJzwsQjqkVev5pe4aNyoVqL7-ydgNwum_V8MHM9-BEagmjoFJOgpQoHxVnKldw&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1478283657:1755725591994936": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.redflagdeals.com": {
+    "pop": [
+      "klo",
+      "chi",
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kalibo",
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "ph"
+  },
+  "xhamster.desi": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "onlyhotlocals.com": {},
+  "portailparents.ca/content/pages/404.html?aspxerrorpath=/": {},
+  "info.51.ca": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "danbooru.donmai.us": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "dailyhive.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "freeip.me": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.hollisterco.com/shop/ca": {
+    "cacheStatus": [
+      "MISS, MISS"
+    ]
+  },
+  "www.mangago.me": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.saveonfoods.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "rateyourmusic.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.insidehalton.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.sciencedirect.com/unsupported_browser": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.simons.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.wowhead.com": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "newark"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "fortune.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ricardocuisine.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.virginplus.ca/index.html": {},
+  "www.timesofisrael.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "toytheater.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.fido.ca": {},
+  "www.journaldemontreal.com": {
+    "cacheStatus": [
+      "TCP_REFRESH_MISS from a23-33-24-169.deploy.akamaitechnologies.com (AkamaiGHost/22.2.2-1df3f50fb263534fbc9222a3273eb851) (S)"
+    ]
+  },
+  "www.dairyqueen.com/en-us/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "azure",
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "TCP_REMOTE_HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.snapchat.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "mybell.bell.ca/Login?targetURL=/": {},
+  "support.google.com": {},
+  "www.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.pricecharting.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "f95zone.to": {},
+  "www.imagefap.com": {},
+  "www.golftown.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.temu.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "puckpedia.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.bathandbodyworks.ca": {
+    "pop": [
+      "ord",
+      "yyz",
+      "yul"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare",
+      "fastly"
+    ],
+    "location": [
+      "chicago",
+      "toronto",
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "HIT",
+      "Hit from cloudfront, MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "chaturbate.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.tdinsurance.com": {},
+  "www.hindustantimes.com": {},
+  "baseball.fantasysports.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "cms-sgj.cra-arc.gc.ca": {},
+  "news.yahoo.co.jp": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "financialpost.com": {},
+  "fr.redtube.com": {},
+  "elearning.trubicars.ca": {},
+  "www.gimkit.com": {},
+  "www.glassdoor.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.petsmart.ca": {},
+  "ici.radio-canada.ca": {},
+  "www.yesstyle.com/en/home.html": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "timesofindia.indiatimes.com/us": {},
+  "www.flightaware.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "m.espacejeux.com": {},
+  "ca.hotels.com": {},
+  "www.goodhousekeeping.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ]
+  },
+  "www.disneyplus.com": {},
+  "dragonflyshipping.ca/en/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.ravelry.com/account/login": {},
+  "www.realtor.ca": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "50-5000750-0 NNNN RT(1755725606164 151) q(0 -1 -1 12) r(0 -1) B12(14,0,0) U6"
+    ]
+  },
+  "www.thecooldown.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "business.google.com/ca-en/business-profile/?ppsrc=GPDA2": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.albumoftheyear.org": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.autotrader.ca": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "51-6847287-0 0NNN RT(1755725602408 150) q(0 -1 -1 1) r(0 -1) B10(8,888100,0) U6"
+    ]
+  },
+  "www.bmo.com": {},
+  "www.victoriassecret.com": {},
+  "www.69shuba.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.theglobeandmail.com": {},
+  "tdsb.elearningontario.ca/d2l/login": {},
+  "www.cnn.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ancestry.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.escorteintime.com": {},
+  "ca.images.search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "ww4.fmovies.co/21/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "freecash.com/en": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "fa.m.wikipedia.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C": {
+    "cacheStatus": [
+      "HIT",
+      "cp1110 miss, cp1110 hit/62",
+      "hit-front"
+    ]
+  },
+  "facetofacegames.com": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "newark"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.travelandtourworld.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "m.flighthub.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "thepiratebay.org/index.html": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.setlist.fm": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "hdtodayz.to": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "instructionalproducts.paragontesting.ca": {},
+  "www.boyfriendtv.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.mapquest.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.sportskeeda.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "loteries.lotoquebec.com/fr/accueil": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "54-9704080-9700175 sNNN RT(1755725591556 324) q(0 0 0 0) r(1 1) U6"
+    ]
+  },
+  "www.instagram.com": {},
+  "sellercentral.amazon.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.netflix.com": {},
+  "recruiting.ultipro.ca/JobBoardView": {},
+  "www.tvanouvelles.ca": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.fiverr.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.tvasports.ca/": {},
+  "weather.gc.ca": {},
+  "www.activenetwork.com/activenet": {
+    "pop": [
+      "iad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "vancouversun.com": {},
+  "sxyprn.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.ctvnews.ca": {},
+  "www.airbnb.ca": {},
+  "www.borderconnect.com": {},
+  "www.researchgate.net": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "ca.pandora.net": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "wrdsb.myontarioedu.ca": {},
+  "www.lapresse.ca": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.sootoday.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.svpsports.ca": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "newark"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.tsn.ca": {},
+  "www.xvideos.com": {},
+  "e621.net": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.cbc.ca": {},
+  "www.varzesh3.com": {
+    "cacheStatus": [
+      "EXPIRED"
+    ]
+  },
+  "kahoot.it": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.rds.ca": {},
+  "comicbook.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.getjobber.com/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.adobe.com": {},
+  "luticlip.com": {},
+  "colleague-ss.uoguelph.ca": {},
+  "www.express.co.uk": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.fmkorea.com": {},
+  "admin.google.com": {},
+  "www.roblox.com": {},
+  "www.danslescoulisses.com": {
+    "pop": [
+      "14"
+    ],
+    "provider": [
+      "sucuri"
+    ],
+    "location": [
+      "washington, d.c."
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.espn.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "mangafire.to": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.shopify.com/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "boardgamegeek.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.sepaq.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "workspace.google.com/intl/en-US/products/drive/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "imaginaire.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.stockwatch.com": {},
+  "funnyjunk.com": {},
+  "housesigma.com": {},
+  "fr.xvideos.com": {},
+  "stores.homedepot.ca": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "torontosun.com": {},
+  "www.aircanada.com/home/ca/fr/aco/flights": {
+    "pop": [
+      "dus"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront",
+      "akamai"
+    ],
+    "location": [
+      "dã¼sseldorf"
+    ],
+    "contentLocality": "de"
+  },
+  "asuracomic.net": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "discord.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.crunchyroll.com": {
+    "pop": [
+      "ord",
+      "yyz"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "chicago",
+      "toronto"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "myaccount.enbridgegas.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.lavieenrose.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.ndtv.com": {},
+  "www.thestreet.com": {
+    "pop": [
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.gapcanada.ca": {},
+  "www.amazon.ca": {
+    "pop": [
+      "ord"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "chicago"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "rumble.com/": {},
+  "www.resetera.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.starfall.com/h/": {},
+  "www.bilibili.com": {},
+  "www.hellomagazine.com/ca/": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.thespruce.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "outlook.office.com/mail/": {},
+  "gelbooru.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.hentai.name/home.html": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.kobo.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.fuq.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.sageone.com/?clear": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.yourtango.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "kia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "kaiapit"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.tnaflix.com": {},
+  "edu.google.com/intl/en-US/workspace-for-education/products/classroom/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.friv.com": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&ifkv=AdBytiPnVgel2zCudsEK6spD3BXnlpBJmBn5AM_RC0r2iggeC83QDJoKMy5NB1FxIQQUmUosufKy&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S219913312:1755725608002227": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.businessinsider.com": {
+    "pop": [
+      "kjy",
+      "iad",
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.mec.ca/en": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "mydramalist.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.imdb.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.nlclassifieds.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "bloodyelbow.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.microsoft.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "unionrayo.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.tumblr.com": {},
+  "m.facebook.com": {},
+  "www.hltv.org": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "en.boardgamearena.com/": {},
+  "www.iplusinteractif.com/modules/bibliotheque/?lang=en": {
+    "pop": [
+      "ord"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "chicago"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "secure.gggolf.ca/gggolf/": {},
+  "secure.scotiabank.com": {},
+  "www.costcotravel.ca": {},
+  "www.lcbo.com": {
+    "pop": [
+      "yul"
+    ],
+    "provider": [
+      "fastly",
+      "cloudfront"
+    ],
+    "location": [
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.alberta.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.trivago.ca": {},
+  "www.lillio.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "mybenefits.mcss.gov.on.ca": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "ca.iaai.com/Error?aspxerrorpath=/": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "56-9375151-9375164 SNNy RT(1755725595623 358) q(0 0 0 1) r(1 1) U6"
+    ]
+  },
+  "www.cheezburger.com/": {
+    "pop": [
+      "yto"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ]
+  },
+  "www.fool.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.rew.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.princessauto.com": {},
+  "www.rona.ca/en": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "nypost.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "et.interac.ca": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "30-3195605-3195608 NNNN CT(29 35 0) RT(1755725610266 150) q(0 0 0 -1) r(0 0) U6"
+    ]
+  },
+  "search.bilibili.com": {},
+  "secure.jackpotcitycasino.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.bell.ca": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Hit from child"
+    ]
+  },
+  "flyers.smartcanucks.ca": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "workspace.google.com/intl/en-US/gmail/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.popmart.com/us": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.noovo.info": {},
+  "saaq.gouv.qc.ca": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.on.mycarecompass.lifelabs.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "53-8102260-8102264 NNNY CT(9 11 0) RT(1755725596678 150) q(0 0 0 -1) r(0 0) U6"
+    ]
+  },
+  "www.bing.com": {},
+  "www.bloomberg.com": {
+    "pop": [
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.sportsnet.ca": {},
+  "www.noovomoi.ca": {},
+  "app.realmmlp.ca/signin": {},
+  "www.canucksdaily.com": {},
+  "www.sporcle.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.techradar.com": {
+    "pop": [
+      "lon",
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.facebook.com": {},
+  "www.goodreads.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.sportinglife.ca/fr-CA/homepage": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "exhentai.org/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "battwo.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.manualslib.com": {},
+  "www.theguardian.com/international": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "fapello.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.pof.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "recipesfiber.com": {},
+  "www.koodomobile.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "growagarden.fandom.com/wiki/Grow_a_Garden_Wiki": {
+    "pop": [
+      "kcg",
+      "iad",
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.newsweek.com": {
+    "cacheStatus": [
+      "HIT",
+      "hit"
+    ]
+  },
+  "zh.m.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5": {
+    "cacheStatus": [
+      "HIT",
+      "cp1110 miss, cp1110 hit/4",
+      "hit-front"
+    ]
+  },
+  "accesdc.mouv.desjardins.com": {},
+  "www.leons.ca": {
+    "pop": [
+      "iad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "archive.org": {},
+  "duckduckgo.com": {},
+  "www.nike.com/ca/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "myreadingmanga.info": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.rogers.com": {},
+  "www.ebgames.ca/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "people.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "authentication.td.com/uap-ui/?consumer=easyweb&locale=en_CA": {},
+  "www.thebrick.com": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "newark"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.visualcapitalist.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS"
+    ],
+    "contentLocality": "gb"
+  },
+  "shop.lululemon.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "calgaryherald.com": {},
+  "forums.d2jsp.org": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.aljazeera.net": {},
+  "store.steampowered.com": {},
+  "www.maxx.ca": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.cp24.com": {},
+  "login.totaladblock.com": {},
+  "scholar.google.ca": {},
+  "tvtropes.org": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.revenuquebec.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.wattpad.com": {
+    "pop": [
+      "ord"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "chicago"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "bell.mobi": {},
+  "missav.ai": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "contentLocality": "nl"
+  },
+  "crackstreams.cx": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "EXPIRED"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.desjardins.com": {},
+  "itch.io": {
+    "cacheStatus": [
+      "BYPASS"
+    ]
+  },
+  "armyrecognition.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.forbes.com": {
+    "pop": [
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "apps6.ams-sga.cra-arc.gc.ca": {},
+  "www.paypal.com/ca/home": {
+    "pop": [
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS, MISS, MISS, MISS, MISS, MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.linenchest.com/en_ca/": {},
+  "missav.ws": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "support.microsoft.com/en-us": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.rw-co.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.viarail.ca/en": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "yts.mx": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.timeanddate.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "liquipedia.net": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.orilliamatters.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.tangerine.ca/en/personal": {
+    "pop": [
+      "klo",
+      "chi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kalibo"
+    ],
+    "contentLocality": "ph"
+  },
+  "app.plexia.ca": {},
+  "www.playnow.com": {},
+  "www.thesimsresource.com": {
+    "pop": [
+      "yto",
+      "yyz"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "d2l.cbe.ab.ca/d2l/loginh/": {
+    "pop": [
+      "yul"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.nissan.ca": {},
+  "www.vancity.com": {},
+  "economictimes.indiatimes.com/?from=mdr": {},
+  "www.decathlon.ca/en": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.kia.ca": {
+    "pop": [
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.listesdemots.net": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "hockey30.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "solitaired.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.si.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.lego.com/en-ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "myahsconnect.albertahealthservices.ca/MyChartPRD/Authentication/Saml/Login?IdP=MADI/": {},
+  "zodiac3.gameassists.co.uk": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "accounts.spotify.com": {},
+  "www.bchydro.com/index.html": {},
+  "www.bricklink.com/v2/main.page": {},
+  "www.ynet.co.il/home/0,7340,L-8,00.html": {},
+  "shop.albertaparks.ca/?e4q=cd1c5746-0377-43cd-931b-886326bbc341&e4p=ab993cc9-969e-478d-b982-f29f2290844b&e4ts=1755725630&e4c=aspira&e4e=snasoab02&e4rt=Safetynet&e4h=9f6280e5224c2227ca941c9edb7c6d5a": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.autohebdo.net": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "59-18073664-18073076 PNNN RT(1755725605551 150) q(0 0 0 0) r(3 3) U6"
+    ]
+  },
+  "quizlet.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "shop.app": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.toronto.ca": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.totaladblock.com": {},
+  "www.toyota.ca": {},
+  "www.walmart.com": {},
+  "www.dignitymemorial.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "fra.xhamster.com": {},
+  "www.eporner.com": {},
+  "oldnavy.gapcanada.ca": {},
+  "twistedsifter.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.myucwest.ca/login/": {},
+  "www.bmr.ca/fr": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "universityofmanitoba.desire2learn.com/d2l/login": {},
+  "hdsb.myontarioedu.ca": {},
+  "ca.indeed.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "w2prod.sis.yorku.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "authentication.ubc.ca/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJLT8MwEITv/IrI98R5tLRYbaVChajEI2oKBy7IcTatpcQOXrvAv8dJqYADXDc78%2B2MM0PeNh1bOrtXG3h1gDZ4bxuFbPgwJ84opjlKZIq3gMwKVizvblkaxawz2mqhG/JD8r%2BCI4KxUisSrFdz8lKOMxhX51k4EXEVjtJRFk7jbBpmcFHWySSuoYxJ8AQGvWZOvIUXIjpYK7RcWT%2BK03EYT8M03qYJy0YsGT2TYOVzSMXtoNpb2yGjlPuQoKwUwzxypYgEp7LqqA9SywZof2dKN1BJA8LSonggwfJ08pVW6FowBZiDFPC4uf22FlwdOJ4sG72TivZtkCD/6uhSqkqq3f/1lMclZDfbbR7mD8WWLGa9DxtCm0XP87ieI30DxgnrDERCtwMundGf27Pj4957znqV60aKj%2BBam5bbv89IomSYyCqsh1XmFHYgZC2h8m00jX67MsAtzInnA6GLI/T3T7Q4%2BwQ%3D&SigAlg=http://www.w3.org/2001/04/xmldsig-more%23rsa-sha256&Signature=i8VNSjQvgGJXBeXUYDETEo4PO9k2u6g3o/tzlH/Ana1pi7e4%2BFeBR6WXchram0EU0VRJfGnd0/Qnu5JK6gnI6%2BtbX1Gx1IZaqjLkSeRs/0Q0BNZl5RbPjTVcKWEMYDNjIKax/iFIaiuL4lgh6JvPb/xaxJr8shuY9wNF6FTyWZ/zUpc6KnB/Cj46emJBbn6nA/24GvymrvfwYiSuJfaxkh%2B4xjIMPVCSh3wZJPGZZuwJQH9eWP4fOHWQ4r3oZCMpFH%2BoMdCbOYpSTdA3h7BZkGHg%2ByN6zjDkpe/eklY6ilGQL86GaWuqu7UTIhzZD8itUNq4KU%2B6DDuFltx6m6Xo8w%3D%3D": {},
+  "srv265.hrdc-drhc.gc.ca": {},
+  "studio.code.org/users/sign_in": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.metro.ca": {},
+  "www.sciencealert.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.costco.ca": {},
+  "www.hydroquebec.com": {},
+  "imgur.com": {
+    "pop": [
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "urban-planet.com": {
+    "pop": [
+      "iad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "account.samsung.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.brownsshoes.com/en/home": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.purolator.com/en": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.rockauto.com": {},
+  "www.dynamiteclothing.com/ca/": {
+    "pop": [
+      "iad"
+    ],
+    "provider": [
+      "cloudflare",
+      "akamai"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "faphouse.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "kent.ca": {
+    "pop": [
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "idp.wlu.ca/idp/profile/SAML2/Redirect/SSO?SAMLRequest=jdE7T8MwEADgHYn/EHlP/Eqb1EoqVbBUKksLDCzIdpw2kmMHn8Pj3%2BNSVTCy3UMnfXfXbOZ4cnvzNhuI2fa%2BRSBHGy75a08UoWQliV7qslyVsqqpUkxxXaqlMkuUPZsAg3ctYgVB2RZgNlsHUbqYSoQtclLnjDwyKjgXnBSUMV6V/AVlGwATYpq98w7m0YSDCe%2BDNk/7XYtOMU4gMB6/rJHBDe4Ik9Sm%2BLBzoSXumMV2wjLZsfXHweGzeneOitRD2edoHbRoDk54CQMIJ0cDImpx2DzsRMKKKfjotbdofXuTZc0PPfxnUF7haH1lLpTq6k7LnJqFycue8rymFc/7vlIdVelyXV9E49JZoFBhOJ7iZR/tx196gy%2BIBGrw37%2BsvwE%3D": {},
+  "www.fedex.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.allrecipes.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.iga.net": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "60-31129413-0 0NNN RT(1755725609928 149) q(0 -1 -1 -1) r(0 -1) B15(8,881081,0) U24"
+    ]
+  },
+  "www.gasbuddy.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "hanime1.me": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "m.fanfiction.net": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "newark"
+    ],
+    "contentLocality": "us"
+  },
+  "business.facebook.com": {},
+  "login.atb.com": {},
+  "www.quebec.ca": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.etsy.com": {
+    "pop": [
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.findagrave.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "money.tmx.com": {},
+  "ca.pinterest.com": {
+    "provider": [
+      "fastly"
+    ]
+  },
+  "learn.microsoft.com/en-us/": {
+    "provider": [
+      "azure",
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Hit from child"
+    ]
+  },
+  "cas.torontomu.ca/login?service=https://courses.torontomu.ca/d2l/custom/cas": {},
+  "m.online.adp.com": {},
+  "store.401games.ca": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "newark"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.google.com/sorry/index?continue=https://www.google.ca/&q=EhAqC_MBBDKNS7G3ODZBzzNNGKn-mMUGIjDALqNiQWZJQGU9N5QXoJrHg97ID4zxkSGqYy0clJ7I0Dh1qQ2VzWbtZUsVk5kefh4yAnJSShlTT1JSWV9BQlVTSVZFX05FVF9NRVNTQUdFWgFD": {},
+  "www.paramountplus.com/ca/": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.reddit.com/?rdt=34206": {},
+  "ads.google.com": {},
+  "www.crocs.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.cartersoshkosh.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "geediting.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.xnxx.es": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.scribd.com": {
+    "pop": [
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.huffpost.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.scotiabank.com/global/en/global-site.html": {},
+  "www.merriam-webster.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.reuters.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "my.wealthsimple.com/app/": {
+    "pop": [
+      "iad",
+      "yyz"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "washington",
+      "toronto"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.foodbasics.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.ticketmaster.ca": {
+    "pop": [
+      "yvr"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "vancouver"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "translate.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.pornhub.com": {},
+  "www.youjizz.com": {},
+  "stripchat.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.mathplayground.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "steamcommunity.com": {},
+  "www.dndbeyond.com/error?aspxerrorpath=/": {
+    "pop": [
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.getyourguide.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.housedigest.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "vmobile.mobi": {},
+  "www.nbcnews.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.shutterstock.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.vancouverisawesome.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.penningtons.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.pgatour.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.baseball-reference.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "app.secure-booker.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.gaydaddy.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.xvideos.es": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "en.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp1110 miss, cp1110 hit/42633",
+      "hit-front"
+    ]
+  },
+  "www.eatingwell.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.usatoday.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ]
+  },
+  "athlonsports.com": {
+    "pop": [
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "pg"
+  },
+  "onlyfans.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.cineplex.com": {
+    "provider": [
+      "azure",
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "TCP_MISS",
+      "55-9427576-9426206 PNNy RT(1755725619660 149) q(0 0 0 1) r(1 1) U24"
+    ]
+  },
+  "auth.scotiaonline.scotiabank.com": {},
+  "www.thedodo.com": {
+    "pop": [
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.accuweather.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "anime-sama.fr": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.espacejeux.com": {},
+  "www.jysk.ca": {
+    "pop": [
+      "kbf",
+      "bfi",
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle",
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "id"
+  },
+  "www.locanto.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "globalnews.ca": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "rosehillonline.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.tomsguide.com": {
+    "pop": [
+      "lon",
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.erome.com": {},
+  "www.flyporter.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "help.powerschool.com/t5/Support-Case-Chat/ct-p/SupportCaseChat": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.stylevana.com/en_US/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.dropbox.com": {},
+  "www.taktube.net": {},
+  "escortalligator.com.listcrawler.eu": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.eliteprospects.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "my.canadalife.com/s/": {},
+  "www.landmarkcinemas.com": {},
+  "www.mayoclinic.org": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.memoryexpress.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.motor1.com": {
+    "cacheStatus": [
+      "MISS",
+      "MISS!"
+    ]
+  },
+  "www.teeon.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "letterboxd.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.therecord.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.canadacomputers.com": {},
+  "chatgpt.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal": {
+    "cacheStatus": [
+      "HIT",
+      "cp1110 miss, cp1110 hit/278",
+      "hit-front"
+    ]
+  },
+  "schoolzone.epsb.ca": {},
+  "adsmanager.facebook.com": {},
+  "open.spotify.com/": {
+    "pop": [
+      "kcg",
+      "iad",
+      "kia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "kaiapit"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "pubmed.ncbi.nlm.nih.gov": {},
+  "outlook.live.com/mail/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.jigsawplanet.com": {},
+  "www.wclc.com/home.htm": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.cibconline.cibc.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "apps7.ams-sga.cra-arc.gc.ca": {},
+  "pokemondb.net": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "login.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.shoptoyota.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.videotron.com": {},
+  "chromewebstore.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "rt.pornhub.com": {},
+  "ca.news.yahoo.com": {},
+  "www.youporn.com": {},
+  "novelbin.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.messenger.com": {},
+  "www.lesoleil.com": {},
+  "dnd5e.wikidot.com": {},
+  "www.remax.ca": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "newark"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.theweathernetwork.com/en": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.istockphoto.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "connexion.lotoquebec.com": {},
+  "www.nhl.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "ottawacitizen.com": {},
+  "sso-4ccc589b.sso.duosecurity.com/saml2/sp/DIQVOPC5SS7M2W0Z0AJU/sso?SAMLRequest=jdE9a8MwEAbgvdD/YLRbsmU5toUdCO0SSJek7dClKPIlMciSq5Pb/vwqDaEds90HLzzctas5nOwWPmbAkKwfO4JqNP7SvwuelYemr4q6zwSUQmkheJMvDlDnUNWaJK/gcXC2I5xmJFkjzrC2GJQNcZTxMs3qlGfPPJdFIcuG5gteFrx4I8kKEXyI2QdncR7B78B/DhpetpuOnEKYUDJmQHlL5y8VwBvnqFas54aZianoZsYdB8vO4s25onFHku/RWOzI7K10CgeUVo2AMmi5Wz1tZITKybvgtDNkeX%2BXJO0v298SVFc0WV6JB91AWVUi3e95lYq%2B7lNVFnWa51XeqIw3vVA0gI0nQbr3w/EUcFIaqHbjH71lF0QEtez/T5Y/": {},
+  "www.lenecrologue.com": {},
+  "accounts.intuit.com/app/sign-in?route_case=legacyRedirect": {},
+  "ilearn.canadorecollege.ca/d2l/login": {},
+  "www.natomanga.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.mapleleafsdaily.com": {},
+  "stake.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "intelcom.ca/fr/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "apps2.ams-sga.cra-arc.gc.ca": {},
+  "ca.ixl.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "y2mate.nu/rcTC/": {},
+  "www.bcferries.com": {
+    "cacheStatus": [
+      "MISS from wwwbe.bcferries.corp"
+    ]
+  },
+  "www.the-sun.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.aparat.com": {},
+  "jable.tv": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.peelschools.org": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.gunpost.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.skechers.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.covers.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.baytoday.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "collider.com": {},
+  "www.expediapartnercentral.com/Account/Logon?returnUrl=https://apps.expediapartnercentral.com/": {},
+  "yukongold3.gameassists.co.uk": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "apps5.ams-sga.cra-arc.gc.ca": {},
+  "consent.yahoo.com": {},
+  "fetlife.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "ww1.goojara.to": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.xbox.com/en-CA/": {},
+  "www.skipthedishes.com": {
+    "pop": [
+      "yyz",
+      "ord"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "toronto",
+      "chicago"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ca"
+  },
+  "sellercentral.amazon.ca": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.jw.org": {},
+  "app.hubspot.com/home-beta": {
+    "pop": [
+      "yyz",
+      "iad"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "toronto",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.axios.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www1.royalbank.com": {},
+  "aniwatchtv.to": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.amazon.in": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "wise.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www1.surgelearning.ca/login.php?redirect=/": {},
+  "qc.signin.interac-id.ca": {},
+  "idpz.utorauth.utoronto.ca/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fVLLbsIwELz3KyLfEychqGBBJAqqikRbRGgPvVSOs4ClxAZ73dfX1wl9wIWbtbszszPrkeVNvWcThzu1goMDi8FHUyvLusaYOKOY5lZapngDlqFgxeR%2BwdIoZnujUQtdkxPIZQS3FgxKrUgwn43JaybKZCB4Gm7iRIRZVl2HQwH9sBwkpRiKCnrZkATPYKzHjImn8EBrHcyVRa7Ql%2BK0H8aDMI3XacJ6GUv6LySYeR9ScexQO8S9ZZTKav8VOdSGe7fdQyvUkeBth3ozG1kDbXdN6QoqaUAgLYpHEkx%2B155qZV0DpgDzJgU8rRb/9IczylpvpaJtIiRY/uR0I1Ul1fZyROVxyLK79XoZLh%2BLNclHLQ/rjJu81fNyf2LSR2GcQGcgErrpNNMRPYWMjld%2B8GLz2VLXUnwGt9o0HC/v0lZkFW66UYaGKytBoQ%2BkrvX71ABHGBOvDoTmR8nzv5RffQM%3D&SigAlg=http://www.w3.org/2001/04/xmldsig-more%23rsa-sha256&Signature=I5XO6IxSQPayRkXgqp4jAMLTUYXmuSsCVfdSOjZWX3IXQOWcY8FZwvr9mnSYZ%2Bhs3emb1HhCRcA1WX1OC%2BfAVkOfYL30A0955h%2BC%2BuFwk%2BgnAc9lEOget0bdN6yk1ISjWQminOJMoGM%2Bvausd8bd1JnprYyxxiSoN3EIdShokj7RoodORgfg9GLjlNT3E1PmL5%2BTfm5/R3JNMFvWOmMzMWg9B0HEPPEtiS3GK9PEmlwwoCNq8v9E/u7GZWgt8Ddujw9G0Nf4g9KBhtQWYrpO871HMoPMoSvWxC5RXvRuCae9aXD6/tT1EwArb0rSiBhGMm7DqkU1dZfh8qgLyegT/Q%3D%3D": {},
+  "secure-oldnavy.gapcanada.ca": {},
+  "www.buzzfeed.com/ca": {
+    "pop": [
+      "kia",
+      "iad",
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "bato.to": {},
+  "www.adidas.ca": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.coolmathgames.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "myeducation.gov.bc.ca/aspen-login/?deploymentId=aspen": {},
+  "www.ikea.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare",
+      "azure"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.aznude.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.linkedin.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.fragrantica.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.sephora.com/ca/fr/": {},
+  "www.51.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://accounts.google.com/&followup=https://accounts.google.com/&ifkv=AdBytiNlOC3pN7N_wOZPecvfPkog8HPugRs1eQm3ODGO4tDar8FZ7c8_alOF9Jk_zbEzPlfitfmfQA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S252553557:1755725623741653": {
+    "provider": [
+      "google"
+    ]
+  },
+  "sports.yahoo.com": {
+    "pop": [
+      "ord"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "chicago"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.usmagazine.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "stardewvalleywiki.com/Stardew_Valley_Wiki": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "hit cached",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.simplyrecipes.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "lichess.org": {},
+  "shib.yorku.ca/idp/profile/SAML2/Redirect/SSO?SAMLRequest=jVLLTsMwEPyVyPfEiZNCsdpKhQpRqdCqKRy4IMfZUIvEDl4H6N/jpiAeEhU3az0zOzPaEYqmbvm0c1u9hucO0AVvTa2R9x9j0lnNjUCFXIsGkDvJ8%2Bn1grMo5q01zkhTk2%2BU4wyBCNYpo0kwn43JQ5IOs3RQpKcZK1hSQSlPzmBQFUWWnsl0OGAwTKCoKpGS4A4seuaYeCFPR%2BxgrtEJ7fwoZoMwHoYs3rCEpxnP4nsSzHwapYXrWVvnWuSU4lYV0c7Ypy6SgqqypT5GpWqge5eMrqFUFqSjeb4kwfTT8IXR2DVgc7AvSsLtevElCbL2wb5EhW%2BT7stgFNvDIxQSo3bb/saSYPVR4rnSpdKPx/srDiDkV5vNKlwt8w2ZjPYLeN%2BHnfzPUgNOlMKJvaMR/c4fHe7hxm%2Bez1amVnIXXBrbCPe3sSRK%2Bokqw6qH8k5jC1JVCkpfYV2b1wsLwsGYONsBoZPD0p93N3kH&RelayState=https://eclass.yorku.ca/&SigAlg=http://www.w3.org/2001/04/xmldsig-more%23rsa-sha256&Signature=MkmjwyMki1SH3iP2FS/DlWM%2BTWbQ%2B/J729/3BEL17qQB/Z9so%2BjKc/QM/KcZbr3XInHXx3V3S6W3218UL1BjqCjNrPQSL%2BXXBFomhd/i1MrWpK40FdEPWn5vVO/RkGK06kyCmQtp4yxZiyNVhHgeHEon22z7u5e7NPrLSNvRtGAbr5ZXMtHlamGOsQeGuh5aU0ZYkFXZYGzw6iMMOFEWrxZxq02EgOBv0Ht59o%2BNEeOp9Xu1miT/hAYLKkPsPTtli/dTpSnlSL6sOy8MVQ6tTfpGh3WDN2ys1kCLrvcHUFbmh2naf4O0otCmAMaxKh%2BH2utY7G1cGLnhRkXdGZilnA%3D%3D": {},
+  "poshmark.ca": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.marriott.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "id.merchantos.com/login?client_id=21c05b92d10a65b9f97c5af7cfc1e5d9&redirect_uri=https://cloud.merchantos.com/admin/auth/oidc/callback&response_type=code&scope=openid&state=UuGfoassOvNM6OTiv3fZi8oOi3lswovJHPqs3eCv&product=retail&login_domain=merchantos.com&exp=1755729250578": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "poki.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.tdsb.on.ca": {},
+  "www.aol.ca/?r=www.aol.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.nexusmods.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.royalroad.com/home": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "laura.ca": {
+    "pop": [
+      "iad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ontarioparks.ca": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "pixabay.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "jalf.com": {},
+  "www.deepl.com/en/translator": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "voyagesarabais.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.flashscore.ca": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "fr.pornhub.com": {},
+  "hentaihaven.xxx": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "m.fanfox.net": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "BYPASS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.bbc.co.uk": {
+    "pop": [
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.mensjournal.com": {
+    "pop": [
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.pinterest.com": {
+    "provider": [
+      "fastly"
+    ]
+  },
+  "www.tsc.ca": {},
+  "www.wcoflix.tv": {},
+  "qssweb.com": {},
+  "www.canva.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.famousbirthdays.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.habsfanatics.com": {},
+  "www.fanfiction.net": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "login.yahoo.com/?.src=ym&pspid=159600001&activity=mail-direct&.lang=en-US&.intl=us&.done=https://mail.yahoo.com/d": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.michaelkors.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.primevideo.com": {
+    "pop": [
+      "ord"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "chicago"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.cabelas.ca": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "meteo.gc.ca": {},
+  "webmail.shaw.ca": {},
+  "ais.usvisa-info.com": {},
+  "app.avaros.ca/login": {},
+  "www2.hm.com": {},
+  "www.wordreference.com": {},
+  "www.visions.ca": {
+    "pop": [
+      "yyz",
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "toronto",
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "artfight.net": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "one.google.com/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "character.ai": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.booking.com/index.en-gb.html?label=gen173nr-10CAEoggI46AdIM1gEaCeIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Asn-mMUGwAIB0gIkZjRiN2ZjYzQtNWVkMi00ZTI0LTgwMzEtODc3ZmE0ZjhlZDlh2AIB4AIB&sid=39700972ab2862e5786ebefef4239d5a&keep_landing=1&sb_price_type=total&": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "newark"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.xnxx.com/": {},
+  "betty.ca": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.zillow.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "login.nait.ca/0b02d6a7-2604-4718-8bea-744881dff5e6/B2C_1A_brightspace_signup_signin_with_registration/samlp/sso/login?SAMLRequest=jdHPa4MwFAfw%2B2D/g%2BRuojFRE7RQtkuhu7TbDruMGGMraOLy4tifv3SlbMfd3g%2B%2B8OG9ZruGsz2Yj9VASHaPLQI1T/7av9dlzVTPh4yKglHaq9pURSnqXvChYoyh5NV4GJ1tEcUZSnYAq9lZCMqGOMooT7M6pdkzzWXBJMtxycqyyvkbSrYAxoeYfXAW1tn4o/GfozYvh32LziEsIAmZZsBWjQFrRXo6kWkhKoLJ5E6jJRfq/lLhuEPJ1zxZaNHqrXQKRpBWzQZk0PK4fdrLKJSLd8FpN6HN/V2SND9e/5%2BgumnR5maryo52PNfpYHiWMj50qRBMpEPWCVUP2ghe4GBsvAXgzo%2Bnc4BFaYO1m3/pDbkiIqghf5%2Bx%2BQY%3D": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.uline.ca": {},
+  "www.mlb.com": {
+    "pop": [
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "pg"
+  },
+  "getadblock.com/en/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www1.flightrising.com": {},
+  "courselink.uoguelph.ca/shared/login/login.html": {},
+  "www.blooket.com": {
+    "pop": [
+      "klo",
+      "chi",
+      "ewr"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "kalibo",
+      "newark"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT"
+    ],
+    "contentLocality": "ph"
+  },
+  "www.homedepot.ca/en/home.html": {},
+  "www.meteomedia.com/fr": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.sudbury.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.costcobusinesscentre.ca": {},
+  "www.lenovo.com/ca/en/": {},
+  "www.yardbarker.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.ixxx.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.eventbrite.ca": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "rule34video.com": {},
+  "www.jetpunk.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.vistaprint.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "doublelist.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.elcabildo.org": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "fr.spankbang.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "m.scan-manga.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.rentfaster.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "ca.finance.yahoo.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.ecosia.org": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.marapets.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "vocm.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.ecampuslife.ca/login/": {},
+  "www.ultimate-guitar.com": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "newark"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "toronto.citynews.ca": {},
+  "www.discogs.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.pizzahut.ca": {
+    "pop": [
+      "fra"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "frankfurt am main"
+    ],
+    "contentLocality": "de"
+  },
+  "dl.cssd.ab.ca/d2l/login": {},
+  "www.ubereats.com": {},
+  "apps3.ams-sga.cra-arc.gc.ca": {},
+  "www.flighthub.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.canadianappliance.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.vacationstogo.com": {},
+  "noodlemagazine.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.google.com/photos/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.nintendo.com/en-ca/": {
+    "pop": [
+      "kjy",
+      "iad",
+      "kcg",
+      "kia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "chignik",
+      "kaiapit"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, HIT, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.nytimes.com": {
+    "pop": [
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS, MISS, MISS"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.popmart.com/ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "rule34.xxx": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "ca.thehalara.com": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "newark"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.zoom.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.bilibili.tv": {},
+  "www.xnxx-arabic.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "forums.hfboards.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.rbcroyalbank.com": {},
+  "workspace.google.com/products/meet/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.superc.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.myucwest.ca/login/?saml_type=d2l&SAMLRequest=jdE7T8MwEADgHYn/EHlP7Dhx7FhJpQqWSmVpgYEFubbTRkrs4HN4/HtSqgpGtnvopO/umvUcT25n32YLMdnctwjUOIRL/ip4lR8Y452u8pJwK4qyq8WBd0ZwYkiNkmcboPeuRTQjKNkAzHbjICoXlxKhLCUipeSR5rIoJREZzVkpGH9ByRrAhrjM3nkH82jD3ob3Xtun3bZFpxgnkBgPVgXXuyNMStts/Jr1R6YVNnTAw4TVYseDP/YOn9Xbc5QtPZR8joODFs3BSa%2BgB%2BnUaEFGLffrh61csHIKPnrtB7S6vUmS5oce/jOornC0ujJpyWktSpsawkhaFpSntalMqnlh8s6wWhmWReuWs0B2CP3xFC8baT/%2B0ht8QSygBv/9y%2Bob": {},
+  "www.yelp.ca/montreal-qc-ca": {
+    "pop": [
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "fr.tripadvisor.ca": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.cibc.com/en/personal-banking.html": {},
+  "ca.search.yahoo.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "ca.shein.com": {},
+  "www.pinkbike.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "clients.mindbodyonline.com/Error?aspxerrorpath=/Launch": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "old.reddit.com": {},
+  "www.marqueur.com": {},
+  "www.cbr.com": {},
+  "www.houseful.ca": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "infopannes.solutions.hydroquebec.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.quebec.ca/gouvernement/identite-numerique/authentification-gouvernementale": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "github.com": {},
+  "ca.linkedin.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "accounts.nintendo.com": {},
+  "www.aljazeera.com": {},
+  "www.circulaires.com": {},
+  "www.alibaba.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.ancestry.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "courrielweb.videotron.com/iwc_static/layout/login.html?lang=en-us&3.0.2.2.0_20010958&svcs=calendar,abs,mail,c11n": {},
+  "kotnauction.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.bestbuy.ca": {},
+  "www.lemonde.fr": {
+    "pop": [
+      "egm",
+      "lcy",
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sege",
+      "london",
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "sb"
+  },
+  "www.narcity.com": {
+    "pop": [
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.stm.info/fr": {},
+  "pmc.ncbi.nlm.nih.gov": {},
+  "www.timescolonist.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.uniqlo.com/ca/en/": {},
+  "www.chess.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.renaud-bray.com/accueil.aspx": {},
+  "www.tripadvisor.ca": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.lespac.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "57-11092380-11091955 PNNN RT(1755725651599 150) q(0 0 0 -1) r(0 0) U6"
+    ]
+  },
+  "www.canadiantire.ca": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "imhentai.xxx": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.alc.ca/content/alc/en.html": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "outlook.office365.com/mail/": {},
+  "www.centris.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "ebird.org/ebird/home": {},
+  "account.microsoft.com": {},
+  "www.flightradar24.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "play.google.com/store/games?device=windows": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.annonce123.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.ledevoir.com": {
+    "pop": [
+      "yul",
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "montrã©al",
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "auth.uber.com/v2/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "ca"
+  },
+  "v.daum.net": {},
+  "www.royallepage.ca/en/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "sudoku.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "ca"
+  },
+  "cas.sfu.ca/cas/login?service=https://canvas.sfu.ca/login/cas": {},
+  "admin.shopify.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.cmu.fr": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.apartments.com": {},
+  "www.mcdonalds.com/ca/en-ca.html": {
+    "pop": [
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.shoppersdrugmart.ca": {},
+  "m.dcinside.com": {},
+  "parks.canada.ca": {},
+  "locals2match.com": {},
+  "open.spotify.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "kia"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "kaiapit"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "scholar.google.com": {},
+  "www.wsj.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "rezka.ag": {},
+  "mangabuddy.com/official": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "game8.co": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.guelphtoday.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.yggtorrent.top": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.ilovepdf.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.thekitchn.com": {
+    "pop": [
+      "lga",
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "google",
+      "fastly"
+    ],
+    "location": [
+      "new york",
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.foxnews.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "klo",
+      "chi"
+    ],
+    "provider": [
+      "fastly",
+      "akamai"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "kalibo"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.airtransat.com/en-CA/home": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "61-32804863-32804880 SNNy RT(1755725670019 344) q(0 0 0 6) r(2 2) U6"
+    ]
+  },
+  "x.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.4chan.org/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.abercrombie.com/shop/ca": {
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ]
+  },
+  "word.tips": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.bluejaysinsider.com": {},
+  "www.grammarly.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.indigo.ca/en-ca/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.td.com/ca/en/personal-banking": {},
+  "www.xnxx.com": {},
+  "www.insauga.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.torn.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.cnbc.com": {},
+  "www.journaldequebec.com/": {
+    "cacheStatus": [
+      "TCP_MEM_HIT from a23-33-24-169.deploy.akamaitechnologies.com (AkamaiGHost/22.2.2-1df3f50fb263534fbc9222a3273eb851) (-)"
+    ]
+  },
+  "www.canuckaudiomart.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.telus.com/en": {
+    "pop": [
+      "yul"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "rencontresportive.com/fr": {},
+  "www.iranintl.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "ca"
+  },
+  "openai.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "canada.michaels.com": {},
+  "stackoverflow.com/questions": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "es.pornhub.com": {},
+  "genius.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "stockhouse.com": {},
+  "web.whatsapp.com": {},
+  "www.castanet.net": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.curseforge.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.enterprise.ca": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.thestar.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "hitomi.la": {},
+  "www.vlr.gg": {},
+  "app-elb.pushoperations.com/login": {},
+  "www.52shuku.net/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "captaincooks3.gameassists.co.uk": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.olg.ca/en/home.html": {
+    "pop": [
+      "klo",
+      "chi",
+      "yyz"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "kalibo",
+      "toronto"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT"
+    ],
+    "contentLocality": "ph"
+  },
+  "www.msn.com": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "NotCacheable from child"
+    ]
+  },
+  "www.realcanadiansuperstore.ca/en": {},
+  "telegram.org/": {},
+  "www.politico.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "horizon.mcgill.ca/pban1/twbkwbis.P_WWWLogin": {},
+  "www.allocine.fr": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "am.ticketmaster.com": {
+    "pop": [
+      "yvr"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "vancouver"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.holtrenfrew.com": {},
+  "www.amazon.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.clubpiscine.ca": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "cardgames.io": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "mobile.guideautoweb.com/": {},
+  "my.clevelandclinic.org": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "standardbredcanada.ca": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.7jours.ca/": {
+    "cacheStatus": [
+      "TCP_REFRESH_MISS from a23-33-24-71.deploy.akamaitechnologies.com (AkamaiGHost/22.2.2-1df3f50fb263534fbc9222a3273eb851) (S)",
+      "MISS"
+    ]
+  },
+  "kemono.su": {},
+  "mangadex.org": {},
+  "www.hockeydb.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "authentication.td.com": {},
+  "www.pornpics.com": {},
+  "www.sportchek.ca": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "suzyshier.com": {
+    "pop": [
+      "iad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.tmz.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "oldschool.runescape.wiki": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "xbato.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.calculator.net": {},
+  "rentals.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.chatrwireless.com": {},
+  "www.gay411.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "classifieds.castanet.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "ca.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.ebay.ca": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "farmingdale-observer.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "m.simons.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "web.bwanet.ca": {},
+  "toyhou.se": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "hiring.amazon.ca": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.dailymail.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "ontariolearn.desire2learn.com/d2l/loginh/": {
+    "pop": [
+      "yul"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "ca"
+  },
+  "archiveofourown.org": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "patrickmorin.com": {
+    "pop": [
+      "yyz",
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "toronto",
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.bnnbloomberg.ca": {},
+  "www.gianttiger.com": {
+    "pop": [
+      "iad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "forums.redflagdeals.com": {
+    "pop": [
+      "klo",
+      "chi",
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kalibo",
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "ph"
+  },
+  "tukif.porn": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.creditkarma.ca/Error_Credit_Karma.htm?referenceerror=18.5962a17.1755725662.9a4252d": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.twitch.tv": {},
+  "janitorai.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.circulaire-en-ligne.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "auth.remitly.com": {},
+  "motherless.com": {},
+  "matrix.centris.ca": {},
+  "www.bnc.ca": {},
+  "www.ctfs.com": {},
+  "www.lookmovie2.to": {},
+  "www.pixiv.net": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "gamerant.com": {},
+  "www.google.com/account/about/?hl=en-US": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.doordash.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.fanmtl.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.crave.ca": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.jobillico.com/fr": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.biblegateway.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "etransfer.interac.ca": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "62-53791782-53791820 NNNN CT(20 23 0) RT(1755725663778 151) q(0 0 0 -1) r(1 1) U6"
+    ]
+  },
+  "www.kidsa-z.com/ng/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "m.shein.com/ca/?cdn_rsite=ak&ref=m&rep=dir&ret=mca": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.neopets.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "nationalpost.com": {},
+  "ta.yrdsb.ca/yrdsb/": {},
+  "www.canadaswonderland.com": {},
+  "borderconnect.com": {},
+  "psiphon.news": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.ca.kayak.com": {
+    "pop": [
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.dominos.ca": {},
+  "quickbooks.intuit.com": {},
+  "service.canada.ca/en/auth/login": {},
+  "mozaikportail.ca": {},
+  "www.americanexpress.com/en-ca/": {},
+  "en.m.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp1110 miss, cp1110 hit/35039",
+      "hit-front"
+    ]
+  },
+  "login.microsoftonline.com/49bba7a4-424b-4070-a70e-886e9dd7caef/saml2?SAMLRequest=jZE7T8MwEIB3JP5D5D2x68SlsZJKFSyVytICAwvy49pESuzgcxA/H7dVESPbPXS677trNnPs3B4%2BZ8CYbZ9agmocwjX/AF6xstZgbW2rpTlqoe2DYowZvloqBiR7g4C9dy3hBSPZFnGGrcOoXEwlxkXOVjlnL3why0pyUSzLWpS8fCfZBhFCTLOP3uE8QjhA%2BOoNvO53LelinFBSaufQqdH4YYATFBawD8AHUMEVxo/U8oEOE1XJgQ7%2B1Dt6pt%2BdoyL1SPY9Dg5bMgcnvcIepVMjoIxGHjbPO5mg5RR89GkDWd/fZVlzUQj/GVQ3AbK%2B4QrNeFk%2BVDkwbfKKaZ0rWNT5UQgmLK%2BFUaqI4NJ5sNChP3URJ2XgIvOL3tArRAJq6N//rH8A": {
+    "provider": [
+      "azure"
+    ]
+  },
+  "www.aritzia.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.saq.com": {
+    "pop": [
+      "yul",
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "montrã©al",
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.pcgamer.com": {
+    "pop": [
+      "lon",
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER"
+    ],
+    "contentLocality": "pg"
+  },
+  "flixtor.to": {},
+  "fr.m.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal": {
+    "cacheStatus": [
+      "HIT",
+      "cp1110 miss, cp1110 hit/132",
+      "hit-front"
+    ]
+  },
+  "portal.onehome.com/en-US/": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "34-5166961-5166972 SNNy RT(1755725665236 345) q(0 0 0 -1) r(0 0) U6"
+    ]
+  },
+  "www.blogto.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.expedia.ca": {},
+  "www.healthline.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "shahvani.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.saltwire.com": {},
+  "clients.powerpay.ca/powerpay/Logon": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.typing.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "en.luxuretv.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "secure.mdg.ca": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.homedepot.com": {},
+  "www.bfmtv.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.rottentomatoes.com": {},
+  "m.cricbuzz.com": {},
+  "mramc.in": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "isw.dlsaccelerator.com/webasp/": {},
+  "www.habsetlnh.com": {},
+  "www.reitmans.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.nitrotype.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.scotiaonline.scotiabank.com": {},
+  "news.google.com/home?hl=en-CA&gl=CA&ceid=CA:en": {
+    "provider": [
+      "google"
+    ]
+  },
+  "9animetv.to": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.ign.com/ca": {
+    "pop": [
+      "kcg",
+      "iad",
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.redgifs.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.marks.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.ebay.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.ardene.com/on/demandware.store/Sites-ardene-Site/en_CA/DDUser-Challenge?redirect=/on/demandware.store/Sites-ardene-Site/en_CA/Default-Start": {
+    "pop": [
+      "ord",
+      "kig",
+      "chi",
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "cloudflare",
+      "fastly"
+    ],
+    "location": [
+      "chicago",
+      "koingnaas",
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.facebook.com/": {},
+  "www.sunnet.sunlife.com/redirector.html?TYPE=33554432&REALMOID=06-7dbcf0bc-4a50-1000-abba-8344b012304d&GUID=&SMAUTHREASON=0&METHOD=HEAD&SMAGENTNAME=-SM-vnzZipTlYFhTbdvwtRD%2BFfcstaT019Aed3AC0x2Ioco/HG0NGrSJQ5u9pG29W7sL&TARGET=-SM-https://www.sunnet.sunlife.com/": {},
+  "gamefaqs.gamespot.com": {},
+  "www.rt.com": {},
+  "emplois.ca.indeed.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.nairaland.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.gamingbible.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.cbssports.com": {},
+  "provision.vauto.app.coxautoinc.com/Va/api/vauto/oauth2Callback/V1/landingPage?returnUrl=/Va": {},
+  "grandmondial3.gameassists.co.uk": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "scratch.mit.edu": {
+    "pop": [
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.wayfair.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "apnews.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "m.imdb.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "wecdsb.myontarioedu.ca": {},
+  "1337x.to": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "finance.yahoo.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "services.signin.interac-id.ca": {},
+  "www.cargurus.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.hpibet.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "62-66881701-66876231 PNNy RT(1755725668643 149) q(0 0 0 0) r(1 1) U6"
+    ]
+  },
+  "www.tripcentral.ca": {},
+  "www.lioden.com": {},
+  "www.audible.ca": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.espncricinfo.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.long-mcquade.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "ww7.123moviesfree.net/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "bsky.app": {},
+  "epicapps.toh.ca": {},
+  "vegoutmag.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.sunwing.ca/en/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "myflixerz.to": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "cn.pornhub.com": {},
+  "payroll.payworks.ca/loginscreen.asp": {},
+  "pokefarm.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "theconversation.com/ca": {
+    "pop": [
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.gotransit.com/en": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.torontopubliclibrary.ca": {
+    "provider": [
+      "Served-By-Zenedge"
+    ],
+    "cacheStatus": [
+      "NOTCACHED"
+    ]
+  },
+  "www.tradingview.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "forums.spacebattles.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.britannica.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.gamesradar.com": {
+    "pop": [
+      "lon",
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER"
+    ],
+    "contentLocality": "pg"
+  },
+  "loteries.espacejeux.com": {},
+  "www.marketwatch.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "osap.gov.on.ca": {},
+  "www.tiktok.com/explore": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "TCP_MISS from a23-55-232-174.deploy.akamaitechnologies.com (AkamaiGHost/22.2.2-05ad9ce1cdc7210c47ee85d3fce34210) (-)"
+    ]
+  },
+  "www.quora.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "quillbot.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.ontario.ca": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.roomies.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.telegraph.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "apps1.ams-sga.cra-arc.gc.ca": {},
+  "www.meublesrd.com/fr/": {
+    "pop": [
+      "kia",
+      "iad",
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.pinkcherry.ca": {
+    "pop": [
+      "ewr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "newark"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "m.jalf.com": {},
+  "hollywoodpq.com": {
+    "pop": [
+      "14"
+    ],
+    "provider": [
+      "sucuri"
+    ],
+    "location": [
+      "washington, d.c."
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "uwaterloo.ca": {
+    "pop": [
+      "yyz",
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "toronto",
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT, MISS"
+    ],
+    "contentLocality": "ca"
+  },
+  "nhentai.net": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.epicgames.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.opentable.ca": {},
+  "music.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "screenrant.com": {},
+  "www.apple.com": {},
+  "www.washingtonpost.com": {},
+  "thisvid.com": {},
+  "variety.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.monopolygo.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.samsung.com": {},
+  "www.fanadiens.com": {},
+  "play.blooket.com/play": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "hdporncomics.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.jobbank.gc.ca/home": {},
+  "ib.servus.ca/Servus/SignInServus.aspx": {},
+  "www.birkenstock.com/ca": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "us"
+  },
+  "www.flyerbox.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.strava.com": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.bbc.com": {
+    "pop": [
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.redbubble.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "cheknews.ca": {},
+  "www.redtube.com": {},
+  "clegc-gckey.gc.ca/j/SP-01-bil": {},
+  "arca.live": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "edmontonjournal.com": {},
+  "www.lefigaro.fr": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/&followup=https://sites.google.com/&ifkv=AdBytiMF4sb7B1H15luJgAokG7kIjyGNUmzartnnSzrotenDFW5oDfuPJ9_lIqLODz2wYpjlwx3g1A&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-2128114653:1755725683855624": {
+    "provider": [
+      "google"
+    ]
+  },
+  "account.alberta.ca/ui/sign-in/sign-in-from-ped": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "e-hentai.org": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.independent.co.uk": {
+    "pop": [
+      "lga",
+      "egl",
+      "lhr",
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "new york",
+      "negele borana",
+      "london",
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "parade.com": {
+    "pop": [
+      "kia",
+      "iad"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.skyscanner.ca/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=7c30d87a-7e0d-11f0-a597-441574cfa65c&vid=": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.mangakakalot.gg": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.kijiji.ca": {
+    "provider": [
+      "google"
+    ]
+  },
+  "scryfall.com": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "dotoritv.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.vrbo.com": {},
+  "sask.staffscheduling.ca/login/?next=/": {},
+  "www.staples.ca": {
+    "pop": [
+      "iad"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "washington"
+    ],
+    "contentLocality": "us"
+  },
+  "www.gayporntube.com": {},
+  "www.lenouvelliste.ca": {},
+  "www.tamildhool.net": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.thegamer.com": {},
+  "fortnine.ca/en/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "mynew.aolcc.ca/login/canvas": {},
+  "www.homehardware.ca/en/": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.canlii.org": {},
+  "demonicscans.org": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "apps4.ams-sga.cra-arc.gc.ca": {},
+  "imgsrc.ru": {},
+  "www.gbnews.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "yul"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "montrã©al"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS"
+    ],
+    "contentLocality": "pg"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://www.youtube.com/signin?action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fstudio.youtube.com%252F%26feature%3Dredirect_login&hl=en-GB&ifkv=AdBytiM46Ww9tNpTtZe8sPIAwnMkbfgjDSedDYR2mFKGXWOrTwE0vD0ABxmBvlq5baWUwoDYpx7-Iw&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1557971296:1755725685274167": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.dell.com": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Error from child"
+    ]
+  },
+  "sniffies.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "weather.com/en-CA/weather/today/l/584018bec07ce9573837c14fa59da031fa6fcdeb1c3c9e3b2b27cb79ce254b5a?Goto=Redirected": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "workspace.google.com/intl/en-US/products/calendar/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "workspace.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "vancouver.citynews.ca": {},
+  "www1.bmo.com/banking/digital/login?lang=en": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.zolo.ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.vevor.ca": {
+    "pop": [
+      "jfk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "www.torrid.com/on/demandware.store/Sites-torrid-Site/default/DDUser-Challenge?redirect=/on/demandware.store/Sites-torrid-Site": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.jeancoutu.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.dailymotion.com": {},
+  "www.condocontrol.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "m.fabswingers.com": {},
+  "www.futbin.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "play.prodigygame.com": {},
+  "weebcentral.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "id.blooket.com/login": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "ca.pcpartpicker.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.sportingnews.com/ca": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.ups.com": {},
+  "www.horoscope.com/us/index.aspx": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "m.fmkorea.com": {},
+  "mangatoto.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.leolist.cc": {
+    "pop": [
+      "ams"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "amsterdam"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.patreon.com": {
+    "pop": [
+      "yyz"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "toronto"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.tanguay.ca": {}
+}

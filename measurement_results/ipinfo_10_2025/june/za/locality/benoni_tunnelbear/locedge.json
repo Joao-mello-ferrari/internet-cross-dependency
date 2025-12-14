@@ -1,0 +1,8656 @@
+{
+  "frixoby.site": {},
+  "playbet.net": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "online.alexforbes.com": {},
+  "sabc-plus.com": {},
+  "www.tradingview.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.cubig.club": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.unisa.ac.za/sites/corporate/default": {
+    "cacheStatus": [
+      "MISS from lmkn-wemiweb02.int.unisa.ac.za"
+    ]
+  },
+  "order.kfc.co.za": {
+    "pop": [
+      "fra"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "frankfurt am main"
+    ],
+    "contentLocality": "de"
+  },
+  "ekasiwap.com": {},
+  "duckduckgo.com": {},
+  "sparkschools.ed-space.net/login.cfm?CFID=395af055-fab5-4ba2-b29d-eb768ebd7995&CFTOKEN=0": {},
+  "moviebox.ng": {},
+  "www.cellc.co.za/cellc/home": {},
+  "pahe.win": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.automart.co.za": {},
+  "www.rain.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "scholar.google.com": {},
+  "en.m.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp6009 miss, cp6012 hit/404",
+      "hit-front"
+    ]
+  },
+  "preply.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.wootware.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.cosmeticconnection.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "za.linkedin.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "hds.turkish123.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT From hds.turkish123.com",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.ewn.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.cashbuild.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "m.facebook.com": {},
+  "debicheck.nupayments.co.za": {},
+  "snowreport.co.za/home/": {},
+  "clothingjunction.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "cdn.me88v.com": {},
+  "www.planetf1.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "mzansi247.com": {},
+  "oceanofpdf.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.gov.za": {},
+  "ytmp3.as/AOPR/": {},
+  "bank.tymedigital.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "farpost.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.thetennisgazette.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.cipc.co.za": {},
+  "www.airbnb.co.za": {},
+  "www.lookmovie2.to": {},
+  "istorepreowned.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "samotorlease.co.za": {},
+  "github.com": {},
+  "www.ccmdd.org.za/login": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "chickenlicken.co.za": {},
+  "fr.xvideos.com": {},
+  "bash.com": {
+    "pop": [
+      "nbo",
+      "jnb"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "nairobi",
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "ke"
+  },
+  "casino.guru": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "mrfoe.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "hdmp4mania2.com": {},
+  "sassa-status.web.za": {},
+  "www.picknpayclothing.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "m.yuppiechef.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.spitz.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.football365.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.amazon.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.marketglobalweb.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "bikehub.co.za": {},
+  "m.guzzle.co.za": {},
+  "authentication.dstv.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "witness.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.dstv.com/en-za/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "youthvillage.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "uncached",
+      "MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "www.mzansifun.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.sportingbet.co.za/en/sports": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "happymod.com": {},
+  "www.uwc.ac.za": {},
+  "en.luxuretv.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "durbangov.erecruit.co/candidateapp/Jobs/Browse": {},
+  "www.tut.ac.za": {},
+  "music.apple.com/us/new": {
+    "cacheStatus": [
+      "TCP_REFRESH_MISS from a23-46-13-112.deploy.akamaitechnologies.com (AkamaiGHost/22.2.3-889b1cd919645cc1f89ca3d96ade65e0) (S)"
+    ]
+  },
+  "portelizabeth.adsafrica.co.za": {},
+  "new.betway.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.education.gov.za": {},
+  "fetlife.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "ride.bolt.eu": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.absa.co.za/personal/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.pornhat.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "m.imdb.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "alison.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "amp.xnxx.com": {},
+  "waploaded.com": {},
+  "dstv.stream": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "play.sunbet.co.za": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.news24.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.eservices.gov.za": {},
+  "www.eskom.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "playlive.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "casprd.nwu.ac.za": {},
+  "www.nupayments.co.za": {},
+  "www.wattpad.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "racingnews365.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "my.xm.com": {},
+  "en1.savefrom.net/14KS/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "eservices.cipc.co.za": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/&followup=https://sites.google.com/&ifkv=AdBytiNuWtpOwBmqfMl7ZpPdcOvVbOBDVAhD2Q-6s8JdibFhgJaFlGNdBuWyNlASFIVigF-ix875Yw&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1137382276:1757168526361027": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.onedayonly.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.saps.gov.za": {},
+  "www.builders.co.za/blocked?url=Lw==&uuid=d913d913-8b2c-11f0-b5a8-89322c6e9da7&vid=&g=b": {},
+  "cdn.rejve.com": {},
+  "www.busbud.com/en": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.allfreenovel.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "gamesnacks.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "openai.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.privateproperty.co.za": {},
+  "visionarywritings.com": {},
+  "trakcarelabwebview.nhls.ac.za": {},
+  "bato.to": {},
+  "www.yourtango.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.avbob.co.za": {},
+  "careers.mediclinic.com": {},
+  "www.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "officelondon.truworths.co.za": {},
+  "www.momentum.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "za"
+  },
+  "rule34.xxx": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "meetdownload.com": {},
+  "aniwatchtv.to": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.youporn.com": {},
+  "ww25.soap2day.day": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "livescoresweb.moyafree.co": {},
+  "learn.sants.co.za": {},
+  "blog.hollywoodbets.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.travelandtourworld.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.slotstemple.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "imhentai.xxx": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "cdn.aucey.com": {},
+  "redvelvet.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.citizen.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "cashcrusaders.co.za": {},
+  "workspace.google.com/products/meet/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "nkiri.com": {},
+  "www.mandela.ac.za": {},
+  "za.indeed.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "my.redvelvet.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "thenetnaija.com.ng": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "news.sky.com": {},
+  "bookabet.supabets.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "wikideals.co.za": {
+    "pop": [
+      "13"
+    ],
+    "provider": [
+      "sucuri"
+    ],
+    "location": [
+      "london"
+    ]
+  },
+  "www.payprop.com/za": {
+    "pop": [
+      "dub"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "dublin"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ie"
+  },
+  "manhwaclan.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT from Backend",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.miladys.com": {
+    "pop": [
+      "jnb",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "payroll.simplepay.cloud/login?requested_path=/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.amapiano.co/za/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "randwater.erecruit.co/candidateapp/Jobs/Browse": {},
+  "www.ecr.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.google.co.za": {
+    "provider": [
+      "google"
+    ]
+  },
+  "ownpaycapitec-payment.hollywoodbets.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "maths.gsed.co.za/_login/": {},
+  "skillslab.ja-africa.org": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.adsafrica.co.za": {},
+  "www.tnaflix.com": {},
+  "www.xvideos.com/": {},
+  "web1.carparts-cat.com": {
+    "pop": [
+      "fra"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "frankfurt am main"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "de"
+  },
+  "lobby.springbokcasino.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "hdtodayz.to": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.imdb.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "za.edreams.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.webafrica.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "ristechy.com": {},
+  "www.hellomagazine.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "tsebo.erecruit.co/candidateapp/Jobs/Browse": {},
+  "www.studocu.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "myflixerz.to": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "portal.sunshineloans.co.za/s/login/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "myrunway.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "playtube.co.za": {},
+  "www.boomplay.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "za"
+  },
+  "www.nexusmods.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "9jarocks.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "soweto.adsafrica.co.za": {},
+  "novelbin.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "sports.betway.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.msn.com": {
+    "provider": [
+      "azure",
+      "akamai"
+    ],
+    "cacheStatus": [
+      "NotCacheable from child"
+    ]
+  },
+  "hpcsaonline.custhelp.com": {},
+  "www.govpage.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "za"
+  },
+  "www.allrecipes.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "exclusive-spin.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.capfin.co.za/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "ienabler.ufh.ac.za": {},
+  "www.givemesport.com": {},
+  "www.yr.no/nb": {},
+  "mercury.dut.ac.za": {},
+  "v3.mp3juice.za.com/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.flysafair.co.za": {
+    "pop": [
+      "cpt",
+      "jnb"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "cape town",
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "ngl.link": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.lulacloud.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.dazn.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "westerncapegov.erecruit.co/candidateapp/Jobs/Browse": {},
+  "www.sheetstreet.com": {
+    "pop": [
+      "jnb",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "fzmovie.co.za": {},
+  "fzmovies.host": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT from Backend",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.deviantart.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.swingingheaven.za.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.crazystore.co.za": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.ilovepdf.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.theperfumeco.online/login": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "support.microsoft.com/en-us": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "digitalservices.psira.co.za": {},
+  "www.paypal.com/za/home": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS, MISS"
+    ]
+  },
+  "sanport.sanlam.co.za": {},
+  "betfred.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "campus.uctonlinehighschool.com": {},
+  "mp3juice.co": {},
+  "myactivity.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.flashscore.co.za": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.mweb.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.showmax.com": {},
+  "south-play-game.online": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "workspace.google.com/intl/en-US/products/calendar/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "inqaku.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "fzmovies.live": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT from Backend",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "imgsrc.ru": {},
+  "mobiworkx.com": {},
+  "portal.thecourierguy.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "selfservice.avbob.co.za": {},
+  "video.genyt.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "m.forebet.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "gb"
+  },
+  "stylephase.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "vut.ac.za": {},
+  "workspace.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://accounts.google.com/&followup=https://accounts.google.com/&ifkv=AdBytiPHCSPgXmg2DGOwG-VpC6ZxLSxy3Oj7hJFNJOhW8OZHtSBlqwuUgkp0lvlHPS8mhX478uLP&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-469248362:1757168523215850": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.careers24.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.russells.co.za": {
+    "pop": [
+      "jnb",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "www.careerjunction.co.za": {},
+  "www.twpornstars.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.homechoice.co.za": {},
+  "www.africanbank.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.takealot.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "teatimeresults.info": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.accuweather.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.telkom.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "dailyvoice.co.za/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "fztvseries.live": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT from Backend",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.researchgate.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "sweepsouth.datafree.co": {},
+  "personal.nedbank.co.za/home.html": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "TCP_REMOTE_HIT"
+    ]
+  },
+  "justnaija.com/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "accounts.spotify.com": {},
+  "www.wcoflix.tv": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "netnaija.xyz": {},
+  "www.google.com/account/about/?hl=en-US": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.cput.ac.za": {},
+  "www.ceenaija.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "support.google.com": {},
+  "www.temu.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.yellowsubtrading.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "cdn.s3601.com": {},
+  "index.buffaloex.com/client/login?projectType=customer&origUrl=http://index.buffaloex.com/": {},
+  "www.tabgold.co.za": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://www.youtube.com/signin?action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fstudio.youtube.com%252F%26feature%3Dredirect_login&hl=en-GB&ifkv=AdBytiM8zlbjEPDYXYvPfTa3nP2neNBqRtFzXqT8VB3z3KwfvYhUUIhC1R4K7RYxXNgX3nI2fpRRxA&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-265337662:1757168525590679": {
+    "provider": [
+      "google"
+    ]
+  },
+  "search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "onlyfans.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "nofunds.mtn.co.za": {},
+  "www.bbc.com": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "srd-sassa-gov.co.za": {},
+  "yts.mx": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.soccerladuma.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "ienabler.ump.ac.za": {},
+  "www.cataloguespecials.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.livescore.com/en/": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "snaptik.app/en2": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.fairprice.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.roblox.com": {},
+  "gentlove.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "badoo.com/": {},
+  "www.testpapers.co.za": {
+    "pop": [
+      "egl",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "et"
+  },
+  "combatmusicradio.com/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "m.shein.com/za/?cdn_rsite=ak&ref=m&rep=dir&ret=mza": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.carfind.co.za": {},
+  "online.natis.gov.za": {},
+  "www.crosswordsolver.com": {
+    "cacheStatus": [
+      "EXPIRED"
+    ]
+  },
+  "www.livescore.in": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "results.finishtime.co.za": {},
+  "www.independent.co.uk": {
+    "pop": [
+      "egl",
+      "lhr",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS"
+    ],
+    "contentLocality": "et"
+  },
+  "www.standardbank.co.za/southafrica/personal": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.gauteng.net/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www19.hiphopkit.com/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "za.shein.com": {},
+  "interbet.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "vans.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "carbonite.co.za/index.php": {},
+  "learn.microsoft.com/en-us/": {
+    "provider": [
+      "azure",
+      "akamai"
+    ],
+    "cacheStatus": [
+      "Hit from child"
+    ]
+  },
+  "www.sabcnews.com/sabcnews/": {},
+  "one.google.com/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.capetown.gov.za": {},
+  "shows.waploaded.com/183/tv-series-fz-tvseries-mobile-movies": {},
+  "app.prolific.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.cashconverters.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "webapp.placementpartner.com/clients/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "dailypulse.co.za": {},
+  "www.reddit.com/?rdt=61363": {},
+  "geediting.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "gomovies.sx": {},
+  "topbet.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.tvsa.co.za": {},
+  "www.fnb.co.za/": {},
+  "www.takealot.com/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.kickoff.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.jackpotcity.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "wcedeportal.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "firstrand.wd3.myworkdayjobs.com": {
+    "pop": [
+      "fra"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "frankfurt am main"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "de"
+  },
+  "www.formula1.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "cricstreams.re/": {},
+  "www.hirschs.co.za": {
+    "pop": [
+      "cpt",
+      "jnb"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "cape town",
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.goodreads.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "wise.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "catalunyadiari.com": {
+    "pop": [
+      "ktk",
+      "dfw",
+      "let",
+      "toj",
+      "jnb"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "kunua",
+      "dallas-fort worth",
+      "leticia",
+      "madrid",
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "pg"
+  },
+  "hiphopde.com": {},
+  "crocssa.co.za/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "admissionportal.coltech.co.za": {},
+  "elearning.thensg.gov.za": {},
+  "sbpay.co.za/registerV3?clickId=H3_Supabets": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "archiveofourown.org": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "contentLocality": "gb"
+  },
+  "rule34video.com": {},
+  "telegram.org/": {},
+  "ib.africanbank.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.mangago.me": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "gaming.supabets.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "nhentai.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "majuba.coltech.co.za": {},
+  "www.istore.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "flixtor.to": {},
+  "www.scribd.com": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "app.fosterthemoney.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.postermywall.com": {},
+  "24drama.to": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.incredible.co.za": {
+    "pop": [
+      "jnb",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "www.jw.org": {},
+  "www.snl24.com/dailysun": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "lulabet.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "people.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "tubidy.dance": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.pepstores.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "obqj2.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "auth.sayouth.mobi": {},
+  "elangeni.coltech.co.za": {},
+  "www.lacoste.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "customer.payflex.co.za": {},
+  "m.flashscore.info": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.edgars.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.adzuna.co.za": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.manchestereveningnews.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "MISS"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.junkmail.co.za": {},
+  "tubidy.limited/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "wc.worldsportsbetting.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "kimoitv.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.scoresinlive.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.gbnews.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "login.kfc.co.za": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "sassa-status.co.za": {},
+  "www.pornpics.com": {},
+  "onlinebanking.standardbank.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "srd.sassa.gov.za": {},
+  "zatunes.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "outlook.office365.com/mail/": {
+    "pop": [
+      "cdg"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "paris"
+    ],
+    "contentLocality": "fr"
+  },
+  "elsewedyelectricnf.com": {},
+  "www.cambrilearn.com": {},
+  "tubidy.rocks": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "app.pns.co.za": {},
+  "www.uj.ac.za/admissions-aid/": {},
+  "univenierp01.univen.ac.za": {},
+  "www.tiktok.com": {},
+  "sassacheck.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.raingo.co.za": {},
+  "www.monopolygo.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.dischem.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "hit",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "dailysports.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "checksrd.com/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "netnaijafiles.xyz": {},
+  "www.autotrader.co.za": {},
+  "www.cars.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.nytimes.com": {
+    "pop": [
+      "lga",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "new york"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.quora.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.ticketmaster.co.za": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "tubidy.band": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.samsung.com": {},
+  "x365.ai": {},
+  "www.riseupwv.org": {},
+  "admissions.westerncape.gov.za/admissions/ADMISSION.login": {},
+  "www.goldrush.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "e-recruitment.westerncape.gov.za": {},
+  "archive.org": {},
+  "forms.office.com": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "sportcenter.sir.sportradar.com": {},
+  "cineb.rs": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.booking.com/index.en-gb.html?label=gen173nr-10CAEoggI46AdIM1gEaPsBiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKSh_HFBsACAdICJDFlOGQzMDljLTIyY2QtNGUyMS1hYTZiLTJlNjkxNDQ1MjFkMdgCAeACAQ&sid=ddb78f7396812dda6101dec9bd491d70&keep_landing=1&sb_price_type=total&": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "zamusic.org": {
+    "pop": [
+      "13"
+    ],
+    "provider": [
+      "sucuri"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.wits.ac.za": {},
+  "stratus.unisa.ac.za": {},
+  "en.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp6009 miss, cp6012 hit/1549",
+      "hit-front"
+    ]
+  },
+  "www.facebook.com": {},
+  "studies.nwu.ac.za": {},
+  "www.biblegateway.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "games.gbets.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.e-tshwane.co.za/eTshwane/": {},
+  "www.sarugbymag.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "primeloans.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.canva.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "noodlemagazine.com/new-video": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "siyakhokha.ekurhuleni.gov.za/?AspxAutoDetectCookieSupport=1": {},
+  "www.carmag.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "dgdg.sharkquiz.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.vodacom.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "auth.uber.com/v2/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "za"
+  },
+  "www.yebocasino.co.za": {},
+  "app-eu1.hubspot.com/home-beta": {
+    "pop": [
+      "cdg",
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "paris",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "fr"
+  },
+  "briefly.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "za"
+  },
+  "www.ethosgo.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.locanto.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "maroelamedia.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.thefuse.co.za": {},
+  "ehome.dha.gov.za": {
+    "cacheStatus": [
+      "MISS from rproxy.dha.gov.za"
+    ]
+  },
+  "ainouzaudre.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.808ball2.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT || 3600s || www.808ball2.com/",
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.eatingwell.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "crm.razormarkets.co.za/login": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "punterschallenge.hollywoodbets.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "waploaded.co": {},
+  "pixabay.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.finchoice.mobi": {},
+  "www.chess.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "talksport.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.pnp.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "xhamsterlive.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "web.facebook.com": {},
+  "www.amazon.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.formgrids.info": {},
+  "www.fzmovies.ng": {},
+  "www.soccer6.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "azure",
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "TCP_REVALIDATED_HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "allporncomic.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.datafree.hollywoodbets.net": {},
+  "sports.worldsportsbetting.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.faithful-to-nature.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "cas.unisa.ac.za": {},
+  "www.mtn.co.za/home": {},
+  "www.blueprint.gov.za": {},
+  "www.latestspecials.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.clearscore.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "register.hollywoodbets.net/south-africa/1": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "49sresult.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.woolworths.co.za": {},
+  "live.vodacom.co.za/za": {},
+  "screenrant.com": {},
+  "upnet.up.ac.za": {},
+  "www.original-play.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.isasa.org": {},
+  "www.hotebonytube.com": {},
+  "jobs.gauteng.gov.za": {},
+  "music.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "asuracomic.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "battwo.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "unifi.credit/za/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.ctm.co.za": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "medupi.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "EXPIRED",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.supabets.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "x.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "amrod.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "enterprisestsmobile.standardbank.co.za": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "livebetter.capitecbank.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.paid-to-read-email.com": {},
+  "www.ackermans.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "parade.com": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "joziporn.com": {},
+  "www.hungryliononlinelearning.co.za": {},
+  "www.bradlows.co.za": {
+    "pop": [
+      "jnb",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "www.primevideo.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.pnet.co.za": {},
+  "www.lekkeslaap.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "erecruitment.ecotp.gov.za": {},
+  "bloemfontein.adsafrica.co.za": {},
+  "ieweb.wsu.ac.za": {},
+  "lendplus.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www1.up.ac.za": {},
+  "sextrader.co.za": {},
+  "domikids.tv": {},
+  "collective.world": {
+    "cacheStatus": [
+      "BYPASS"
+    ]
+  },
+  "mzansipornvideos.com": {},
+  "www.spar.co.za/Home": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.algoafm.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "google-c42d.net": {},
+  "wol.jw.org": {},
+  "m.tubidy.lc/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.redtube.com": {},
+  "chatgpt.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.skysports.com": {},
+  "www.hindustantimes.com": {},
+  "uifonline.labour.gov.za/uifOnline/": {},
+  "services.dha.gov.za": {
+    "cacheStatus": [
+      "MISS from rproxy.dha.gov.za"
+    ]
+  },
+  "mysrd.co.za": {
+    "pop": [
+      "egl",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "et"
+  },
+  "lottostar.co.za": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "sundayworld.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "portalsso.yum.com/idp/SSO.saml2?SAMLRequest=fVLJbtswEP0VgXctZmQpJmwDboyiBtLGiNwcciloaVQT5aJyhmnz96XpBk0vPhGcmbfMI5cojZ7EJtDJPsLPAEjZb6MtitRYseCtcBIVCisNoKBedJvP94IXlZi8I9c7zd5BriMkInhSzrJst12xb/N6NrRwXNTHZhznFXDZLJpqcYSbtm7a9vamqWdNf8s5Z9kTeIzIFYtEEY4YYGeRpKVYqvg8rxZ51RxmteBc1O0zy7ZxG2UlJdSJaEJRlpPzJDWiK16DKXpnSjVMZdc9FGf7UWfz5vHOWQwGfAf%2BRfXw9fH%2BHwud4EUGTcWPsU8kqMyk4UxRGjcEDcV0msp0x8vJc9ljqkbhCMtHGMAnd3lMcmDZ/m%2BeH5QdlP1%2BPcrjZQjFp8Nhn%2B8fugNbL886IkXj128WE/myfN9aXl79SyTdbfdOq/41%2B%2Bi8kXRd81xRQz6mUUFeWlRgKWamtft150ESrBj5AKxcXyT//1vrPw%3D%3D&RelayState=https://thevault.kfc.com/saml_login?destination%3D%252Fdashboard": {},
+  "www.ubereats.com": {},
+  "dateclub.co.za": {},
+  "o2tvseries4u.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "webgw.moyafree.co": {},
+  "www.mrd.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.mediafire.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "za.jobsora.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.mrphome.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "onionplay.ch": {},
+  "www.1377x.to": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "ikamva.uwc.ac.za": {},
+  "www.soccer24.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.transfermarkt.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.intercape.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "topauto.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "za"
+  },
+  "www.apps.disneyplus.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.erome.com": {},
+  "www.spursteakranches.com/za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "y2mate.nu/R2lu/": {},
+  "cdn.qaliy.com": {},
+  "johannesburg.adsafrica.co.za": {},
+  "afrohouseking.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.fnb.co.za": {},
+  "motheo.coltech.co.za": {},
+  "joburg.org.za": {},
+  "www.etsy.com": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "oauth.shoptoshop.co.za": {},
+  "www.newsnow.co.uk/h/": {},
+  "www.ebay.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "faq.whatsapp.com": {},
+  "buyacar.weelee.co.za": {},
+  "fica.hollywoodbets.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.sportybet.co.za/za/": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "bawasfurn.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "mangabuddy.com/official": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.dailymaverick.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.adidas.co.za": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "tubidy.cool/za971": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "rams.weconnectu.co.za/login": {},
+  "app.hubspot.com/home-beta": {
+    "pop": [
+      "jnb",
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "johannesburg",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "za"
+  },
+  "www.gbets.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.livesports088.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT || 3600s || www.livesports088.com/",
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.shutterstock.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.toysrus.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "miss",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.sanecentre.org": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.merriam-webster.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.businesslive.co.za": {
+    "provider": [
+      "google"
+    ]
+  },
+  "swiftgear.autos": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.netwerk24.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "essa.labour.gov.za": {},
+  "fapello.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "weather.com/en-ZA/weather/today/l/SFXX0044:1:SF?Goto=Redirected": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.thesouthafrican.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "trendybeatz.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "motherless.com": {},
+  "account.samsung.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "c42d.cc": {},
+  "bds.ms": {},
+  "connectu.vodacom.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.specsavers.co.za": {},
+  "justzahiphop.co": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "games.goldrush.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "xhamster.desi": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.pamgolding.co.za": {},
+  "www.nike.com/za/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "secure.sarsefiling.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.myroof.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "sasastatuscheck.co.za": {},
+  "highlifeng.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.cao.ac.za": {},
+  "betxchange.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "edu.google.com/intl/en-US/workspace-for-education/products/classroom/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "capital40.com": {},
+  "www.bbc.co.uk": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "thekwini.coltech.co.za": {},
+  "way2.bet": {},
+  "darknaija.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.up.ac.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "za.national-lottery.com": {},
+  "www.unisa.ac.za/sites/myunisa/default/": {
+    "cacheStatus": [
+      "MISS from lmkn-wemiweb02.int.unisa.ac.za"
+    ]
+  },
+  "lustpals.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "wsu.ac.za/index.php/en/": {},
+  "www.hellopeter.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "thisvid.com": {},
+  "ak.stikroltiltoowi.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.yaga.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "cdn.sqrtl.com": {},
+  "www.fzmovies.live": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT from Backend",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.boxer.co.za": {},
+  "efundi.nwu.ac.za": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "stripchat.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.dunns.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.genyt.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.jacarandafm.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.lottoland.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "za"
+  },
+  "www.sowetanlive.co.za": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.flashscore.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "myexams.unisa.ac.za": {},
+  "www.gobid.co.za": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "TCP_HIT"
+    ]
+  },
+  "easytenders.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.dpsa.gov.za": {},
+  "www.lg.com/za/": {},
+  "tvshows4mobile.org": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.radio-south-africa.co.za": {
+    "cacheStatus": [
+      "MISS",
+      "HIT"
+    ]
+  },
+  "vipleague.im": {},
+  "sa-seta.co.za/": {},
+  "www.kaya959.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "xbato.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "ragesa.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.mrp.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "app.deriv.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.jobjack.co.za": {
+    "pop": [
+      "egl",
+      "lcy"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "et"
+  },
+  "www.makro.co.za/blocked?url=Lw==&uuid=e550b790-8b2c-11f0-9b66-65379f9c3439&vid=&g=b": {},
+  "galxboy.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "lichess.org": {},
+  "clickup.up.ac.za": {},
+  "dreamdrive.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.legit.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "a05.4kzgame.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.truworths.co.za": {},
+  "www.betexplorer.com": {
+    "cacheStatus": [
+      "MISS",
+      "uncached"
+    ]
+  },
+  "www.youjizz.com": {},
+  "49s.events/lunchtime": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.fawanews.sc": {},
+  "www.express.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.hollywoodbets.net/?from=legacy": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "m.aiscore.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.twitch.tv": {},
+  "yesplay.bet": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "fitgirl-repacks.site": {},
+  "psspf.benefitcounsellor.com/login": {},
+  "bettabets.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.vfsvisaonline.com": {},
+  "leaktube.net": {},
+  "numetro.co.za": {},
+  "apkpure.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.labour.gov.za": {},
+  "www.houseandhome.co.za": {},
+  "www.shoecity.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "doi.mtndep.co.za": {},
+  "www.fawanews.com": {},
+  "amp.xvideos.com": {},
+  "foodloversmarket.co.za": {},
+  "www.uj.ac.za": {},
+  "www.instagram.com": {},
+  "nkangala.coltech.co.za": {},
+  "supernova.to": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "student.sun.ac.za": {},
+  "pssa.ufs.ac.za": {},
+  "www.info-desk.co.za": {},
+  "loadedfiles.org": {},
+  "www.cheezburger.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "rcs.co.za": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "PRIVATE_NOSTORE"
+    ]
+  },
+  "scorenga.com": {},
+  "oob.telkom.co.za": {},
+  "services.sassa.gov.za/portal/r/sassa/sassa/home": {},
+  "www.puntcasino.co.za": {},
+  "iporntv.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "onlineapp.postnet.co.za": {},
+  "sajustice.caselines.com": {},
+  "www.sterkinekor.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "za.puma.com": {
+    "pop": [
+      "nbo",
+      "jnb"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "nairobi",
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "ke"
+  },
+  "www.autozoneonline.co.za": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "PRIVATE_NOSTORE"
+    ]
+  },
+  "www.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.adendorff.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.livescore.cz": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "REVALIDATED"
+    ],
+    "contentLocality": "za"
+  },
+  "www.mayoclinic.org": {
+    "provider": [
+      "google"
+    ]
+  },
+  "1337x.to": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.mirror.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.bobshop.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.cmu.fr": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.luckyfish.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "learnerprofiler.com": {},
+  "bitly.com/": {},
+  "payflex.co.za": {},
+  "khawlah.co.za/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "accounting.sageone.co.za/Landing/Default.aspx": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.google.com/photos/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.aznude.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.game.co.za/blocked?url=Lw==&uuid=fa7d790f-8b2c-11f0-9eb9-46126ee71a97&vid=&g=b": {},
+  "songslover.li": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.graduates24.com": {},
+  "www.4x4community.co.za/forum/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.okfurniture.co.za": {},
+  "stevemadden.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "chaturbate.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.wondacool.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "edition.cnn.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "play.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "za"
+  },
+  "superbalist.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "auth.sayouth.mobi/connect/authorize?client_id=4F4133BA-117B-4E4E-932C-CAE6F58E944A&redirect_uri=https://sayouth.mobi/signin-persistent&response_type=code&scope=openid%20profile&code_challenge=OBcQTPKpQDRiqj_f82CkFqLLomN9BZ7a0SwzmOgqrmM&code_challenge_method=S256&response_mode=form_post&nonce=638927653724562392.MjJhNGNhYTctZjNhNC00ZmRhLWI0YTYtYzViYWE2ZTE4YWZhNjZmMTQyZDEtODY4Yi00YmMxLThkYTgtZDFkMDBlOTY5NGE4&txnID=62d1ed73-1953-416b-a644-3f298c0730d1&prompt=none&state=CfDJ8AzZa0lKxRZAr06f-E6MJaR9_Yfsi7NVc9LFEo15bT-AScXKM-LBquoJMl0owqboVNJbsJiReWPUmrADPC52objrYiDVJ209MtgUTNWY6NhuGMbsBEzcgwFZzgCM3Nithq6S9wZ3WbufZycucc8ZTXjF0nAXrYQTk9ZERvs72ifPAQaW2zBMlKLnX3DdwhViQIsYv-WfGxYB1GQkeDhz63j9__X8Rp4bdbbIgw-4CEF9VCZMQZkF0zuyTI2SB-CzAiDzUSI6IUOlK0MRFFgGtwYZYIdKewQ0NeiBVtXkv8YEQFCEjejEVrEAImz7tp5KIZPO6NzRXjMCjIWz5rPQBWqzjAsmwLvlIMnXVH8dhs9o4SwslylePOjE-Z8Ff38JXw&x-client-SKU=ID_NET8_0&x-client-ver=7.5.1.0": {},
+  "www.bing.com": {},
+  "www.zabursaries.co.za": {},
+  "www.scubedonline.co.za": {},
+  "www.businessinsider.com": {
+    "pop": [
+      "kjy",
+      "iad",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "learn2025.ukzn.ac.za": {},
+  "www.altcointrader.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "9animetv.to": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "groundup.org.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.forbes.com": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "m.cricbuzz.com": {},
+  "za.thinkdigitalacademy.org/login": {},
+  "fhaccess.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "sisportal-100997.campusnexus.cloud": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "app.surveoo.com/en/login?ss/=": {},
+  "www.son.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "za"
+  },
+  "fibertime.app": {
+    "pop": [
+      "cpt"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "za"
+  },
+  "www.netflix.com": {},
+  "www.elcabildo.org": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "sassa.web.za": {},
+  "iol.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "secure.myclient.oldmutual.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "sellers.takealot.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.bible.com": {
+    "pop": [
+      "klo",
+      "chi",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kalibo"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "ph"
+  },
+  "www.property24.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.timeslive.co.za": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.cut.ac.za": {},
+  "www.3movs.com": {},
+  "www.futbol24.com": {},
+  "www.refinerystore.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "midrand.adsafrica.co.za": {},
+  "ienabler.tut.ac.za": {},
+  "forevernew.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.vipbox.lc": {},
+  "cellc.mobi": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.identity.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.siyavula.com": {},
+  "telkomplus.co.za/": {},
+  "za.pinterest.com": {
+    "provider": [
+      "fastly"
+    ]
+  },
+  "www.roomies.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "cosmocity.adsafrica.co.za": {},
+  "www.forexfactory.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.singles2meet.co.za": {},
+  "polokwane.adsafrica.co.za": {},
+  "an1.com": {},
+  "unemployededucators.gauteng.gov.za": {},
+  "www.whatsapp.com": {},
+  "www.sanparks.org": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.sofascore.com": {},
+  "cao.ac.za": {},
+  "supersport.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "TCP_MISS"
+    ]
+  },
+  "www.paxi.co.za": {
+    "pop": [
+      "dub"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "dublin"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "ie"
+  },
+  "durban.adsafrica.co.za": {},
+  "romanspizza.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.supersportbet.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.teamtalk.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.goal.com/en-za": {},
+  "www.mobiletvshows.site": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT from Backend",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.timeanddate.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.planetrugby.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "character.ai": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "flixtor.li": {},
+  "secured.nedbank.co.za": {},
+  "www.netflorist.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "mpowafin.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "focuslogicsocialclub.com": {},
+  "tubidy.cv": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "my.avon.co.za": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.dailymotion.com": {},
+  "greenflyn.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.net9ja.com.ng": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "applications.wsu.ac.za": {},
+  "sassagrantcheck.co.za": {},
+  "www.udemy.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "fine10.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "thepiratebay.org/index.html": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.webuycars.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "ccg90.com": {},
+  "www.directaxis.co.za": {},
+  "identity.yourhcm.com/connect/authorize?client_id=nextgen&request_uri=urn:ietf:params:oauth:request_uri:145281858D55EEA056DFF0A412352F1572848FFC80CFAED09B653E5CD0AAB95D": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "supersportbet.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "ulc-prod-webserver.ul.ac.za": {},
+  "www.webtickets.co.za/v2/": {},
+  "www.xvideos.com": {},
+  "m.gsmarena.com": {},
+  "kwik.si": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "ww1.goojara.to": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "offers.betway.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "fdown.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "za.lottonumbers.com": {},
+  "www.cielo.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.auctionnation.co.za": {},
+  "pietermaritzburg.adsafrica.co.za": {},
+  "decofurnsa.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "ccba.erecruit.co/candidateapp/Jobs/Browse": {},
+  "mydorpie.com/m/?page=home": {},
+  "stanmorephysics.com": {},
+  "www.rosebankcollege.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.sapapers.co.za": {
+    "pop": [
+      "egl",
+      "lhr"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS"
+    ],
+    "contentLocality": "et"
+  },
+  "www.studio-88.co.za": {
+    "pop": [
+      "cpt",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "cape town"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "reg.betway.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "za"
+  },
+  "ww4.fmovies.co/21/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "capetown.adsafrica.co.za": {},
+  "rustenburg.adsafrica.co.za": {},
+  "www.horoscope.com/us/index.aspx": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "outlook.office.com/mail/": {
+    "pop": [
+      "cwl"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "cardiff"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.twinkl.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "53-119534664-119515515 PNNN RT(1757168609668 373) q(0 0 0 0) r(2 2) U6"
+    ],
+    "contentLocality": "za"
+  },
+  "pornone.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "workspace.google.com/intl/en-US/gmail/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "theperfumeco.online/login": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "quillbot.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.capitecbank.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "clicks.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.powerball.net": {},
+  "ienablerprod.vut.ac.za": {},
+  "www.porn.com": {},
+  "www.fastway.co.za": {},
+  "cfonline.labour.gov.za": {},
+  "genius.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "timesofindia.indiatimes.com": {},
+  "www.boyfriendtv.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.quicket.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "hianime.to": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "applynow.nwu.ac.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.worldsportsbetting.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "open.spotify.com": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ]
+  },
+  "id.discovery.co.za/Account/Login?ReturnUrl=/": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "46-19358292-19358315 NNNN CT(2 3 0) RT(1757168609531 372) q(0 1 1 -1) r(1 1) U6"
+    ]
+  },
+  "reg.supabets.co.za/registerV3?clickId=H3_Supabets": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "client.esa.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Not cachable",
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "dailyinvestor.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.checkers.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.linkedin.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "moviesjoytv.to": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.ufs.ac.za": {},
+  "mybroadband.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "secure.csd.gov.za": {
+    "cacheStatus": [
+      "MISS from ntsecrevpx.treasury.gov.za"
+    ]
+  },
+  "aurivexia.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "solid.vox.co.za": {},
+  "sflix.to": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.wsu.ac.za/index.php/en/": {},
+  "romsfun.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.youtube.com/?app=desktop": {
+    "provider": [
+      "google"
+    ]
+  },
+  "safarioutdoor.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "za"
+  },
+  "www.emulatorgames.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.amazon.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "portal.rcgmarkets.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.jobmail.co.za": {},
+  "mzansiporn.mobi": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "massage.co.za": {},
+  "web.whatsapp.com": {},
+  "www.fanmtl.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.autostyle.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "pepcell.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "eastlondon.adsafrica.co.za": {},
+  "www.shoprite.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "gosloto.app": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.pornhub.com": {},
+  "m.attheraces.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "animepahe.ru": {},
+  "flexyhiphop.org/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "gemini.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "edatv.news": {
+    "pop": [
+      "kdf",
+      "dfw",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "dallas-fort worth"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "gobid.co.za": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "TCP_MISS"
+    ]
+  },
+  "www.oldmutual.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "tembisa.adsafrica.co.za": {},
+  "www.soccervital.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "apply.ufs.ac.za/Application/Start": {},
+  "www.10bet.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "cellcwin.co.za": {},
+  "habanero.supabets.co.za": {},
+  "cottonon.com/ZA/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.edupstairs.org": {},
+  "www.literotica.com": {},
+  "m.flashscore.co.za": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.mcdonalds.co.za": {},
+  "www.microsoft.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.awafim.tv": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "businesstech.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "app.weconnectu.co.za/signin": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "mangafire.to": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "pixerldrain.xyz": {},
+  "spankbang.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.sportsmanswarehouse.co.za": {},
+  "ufiling.labour.gov.za/uif/": {},
+  "borwap.net": {},
+  "workspace.google.com/intl/en-US/products/drive/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "store.steampowered.com": {},
+  "www.score808pro.com": {},
+  "computicket.com": {},
+  "leroymerlin.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "hit",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.dha.gov.za": {
+    "cacheStatus": [
+      "MISS from rproxy.dha.gov.za"
+    ]
+  },
+  "xhamster.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "fakaza.com": {},
+  "pretoria.adsafrica.co.za": {},
+  "films.waploaded.com/169/hollywood-movies-war-films": {},
+  "www.fashionworld.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "mooc.unisa.ac.za": {},
+  "sassacheckstatus.co.za": {},
+  "www.discovery.co.za": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "50-77852345-77850250 PNNy RT(1757168610955 377) q(0 0 0 0) r(7 7) U6"
+    ]
+  },
+  "biblehub.com": {},
+  "www.nationallottery.co.za": {},
+  "zordaustewhoh.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "za-specials.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.sahometraders.co.za": {},
+  "easybet.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.timesofisrael.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.sanlamonline.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.enca.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "streetgym.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "rems.ekurhuleni.gov.za": {},
+  "checkmygrant.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "legacy.winningform.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.dailymail.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "hollywoodbetsza-gc-prod-bgsp.egt-ong.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "www.theguardian.com/international": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "tekkietown.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "enroll.cut.ac.za/pls/prodi41/w99pkg.mi_login": {},
+  "www.yiv.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.playabets.co.za": {},
+  "www.inews21.com": {
+    "provider": [
+      "alibaba"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT TCP_REFRESH_HIT dirn:11:465748928"
+    ]
+  },
+  "janitorai.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.tripadvisor.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "quizlet.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.medicalnewstoday.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "c.newsnow.co.uk": {},
+  "www.capetownetc.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.eskom.co.za/recruit-maintenance/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.natomanga.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "fibre.mtn.co.za/home": {},
+  "app.clearscore.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.hollywoodbets.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "nedbankbusinesshub.nedbank.co.za": {},
+  "www.shelflife.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.alibaba.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "acspay.co.za": {},
+  "ajnvirals.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "www.inclave.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "downloadwella.com": {},
+  "apkaward.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "m.worldsportsbetting.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.sars.gov.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.cheapflights.co.za": {
+    "pop": [
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.freegames.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.moneyweb.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.wonga.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "self-service.wits.ac.za/psp/csprod/UW_SELF_SERVICE/HRMS/?&cmd=login&languageCd=ENG": {},
+  "www.aljazeera.com": {},
+  "sponsored.moyafree.co": {},
+  "www.bizportal.gov.za": {},
+  "www.xnxx.com": {},
+  "accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&ifkv=AdBytiN9my4M05X_L3PGnWgeiDCzpF_FtkMdlpMAhGzBKr52nI4rEcZd_JNHp6Z63WSRD8mtwo5o1w&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1140940776:1757168614939794": {
+    "provider": [
+      "google"
+    ]
+  },
+  "mail.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.defenceweb.co.za": {},
+  "unionrayo.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.farfetch.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.foxnews.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "jnb"
+    ],
+    "provider": [
+      "fastly",
+      "akamai"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "johannesburg"
+    ],
+    "contentLocality": "pg"
+  },
+  "poki.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "eng.cartoonsarea.cc": {},
+  "alecto.cput.ac.za": {},
+  "ww7.123moviesfree.net/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.flashscore.mobi": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "REVALIDATED"
+    ],
+    "contentLocality": "za"
+  },
+  "www.hificorp.co.za": {
+    "pop": [
+      "jnb",
+      "lon"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS"
+    ],
+    "contentLocality": "za"
+  },
+  "thecourierguy.co.za": {},
+  "www.capeunionmart.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.ixxx.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "49s.co.uk": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "m.fanfiction.net": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "plutomovies.com": {},
+  "ulink.uj.ac.za": {},
+  "career2.successfactors.eu": {},
+  "app.jobjack.co.za": {},
+  "consent.yahoo.com": {},
+  "mdundo.com": {},
+  "www.lovisajewellery.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "series.netnaija.xyz": {},
+  "www.capfin.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "gb"
+  },
+  "my.clevelandclinic.org": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "noveldrama.org": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.sabcsport.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.lotteryextreme.com": {},
+  "play.google.com/store/games?device=windows": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.infolinity.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "learn.ecubed-dbe.org": {},
+  "www.sportskeeda.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "za"
+  },
+  "revibe.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.808fubo.com": {},
+  "apps.mandela.ac.za": {},
+  "rugby365.com": {},
+  "tvseries.in": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "HIT from Backend",
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.espncricinfo.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.sunbet.co.za": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "account.dineplan.com/login": {},
+  "www.healthline.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "fakazahub.com": {},
+  "www.tab.co.za/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.colcampus.com": {},
+  "www.esa.co.za": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Not cachable",
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "gb"
+  },
+  "himovies.sx": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.gumtree.co.za": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.idiskitimes.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.imagefap.com": {},
+  "www.eporner.com": {},
+  "www.torn.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.astraszenecaglobal.xyz": {},
+  "hdporncomics.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.xvlivecams.com": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  },
+  "www.careers-page.com": {
+    "pop": [
+      "lhr"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "london"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "gb"
+  },
+  "www.smd.co.za": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "contentLocality": "za"
+  },
+  "www.myhope.org.za/user/login?ReturnUrl=/": {
+    "pop": [
+      "jnb"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "johannesburg"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "za"
+  }
+}

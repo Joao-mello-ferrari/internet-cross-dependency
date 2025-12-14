@@ -1,0 +1,9866 @@
+{
+  "www.kathmandu.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "login.tech.tvnz.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "moodle.unitec.ac.nz": {},
+  "www.roomies.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.gbnews.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "chromewebstore.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "m.bestdeals.co.nz": {},
+  "www.discogs.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.amazon.in": {
+    "cacheStatus": [
+      "NotCacheable from child"
+    ]
+  },
+  "www.morningside.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "xhamster2.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "outlook.live.com/mail/": {},
+  "nz.shein.com": {},
+  "www.flashscore.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.ign.com/au": {
+    "pop": [
+      "kia",
+      "iad",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.businessinsider.com": {
+    "pop": [
+      "kjy",
+      "iad",
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "classic3.gameassists.co.uk": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.lightingplus.co.nz": {},
+  "rnzspca.shelterbuddy.com": {},
+  "renti.co": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "pauasoftware.co.nz/paua/home": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.crackerjack.co.nz": {
+    "pop": [
+      "krn",
+      "bfi",
+      "kbf"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle",
+      "karubaga-papua island"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "se"
+  },
+  "obqj2.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.golf.co.nz": {},
+  "www.kiwiswingers.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ascolour.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "app.companiesoffice.govt.nz": {},
+  "quizlet.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "talent.seek.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "REVALIDATED"
+    ],
+    "contentLocality": "nz"
+  },
+  "papanui.bridge.school.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.google.com/photos/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.kiwiblog.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "grandmondial3.gameassists.co.uk": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.amazon.co.jp": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.ami.co.nz": {
+    "pop": [
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sudbury"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.nzpersonals.com": {},
+  "www.trivago.co.nz": {},
+  "www.guncity.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "archiveofourown.org": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "music.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.writerstoolbox.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.mrfortune.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.warriors.kiwi": {
+    "pop": [
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "booking.jetstar.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "contact.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.adidas.co.nz": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.evocycles.co.nz": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.skyscanner.co.nz/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=a60f26fe-8cd3-11f0-bd6e-a8bcfb848c0c&vid=": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "noveldrama.org": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "eztvx.to": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.fmkorea.com": {},
+  "kahoot.it": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "old.reddit.com": {},
+  "app.sharesies.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.cashmere.school.nz": {},
+  "www.6park.com/main.shtml": {},
+  "translate.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.toyota.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.zerotackle.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "app.educationperfect.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.neontv.co.nz": {},
+  "vipleague.im": {},
+  "www.nine.com.au": {
+    "pop": [
+      "syd",
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "thehalara.au": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.erome.com": {},
+  "www.smartbooking.co.nz": {},
+  "www.instagram.com": {},
+  "ww25.soap2day.day": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "casino.z1.bet365.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "faphouse.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "cn.pornhub.com": {},
+  "www.mathsonline.com.au": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.nexusmods.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.nothingnaughty.kiwi.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "people.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.ordermeal.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "speedcafe.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "federation.aucklandtransport.govt.nz": {},
+  "www.raywhite.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.skycitycasino.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "news.yahoo.co.jp": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "careers.woolworthsgroup.com.au/en_GB/apply": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://accounts.google.com/&followup=https://accounts.google.com/&ifkv=AdBytiNhq6axg0Gh1u7nhomyA8W9d7kfsIT1wGM-S4EGS9g_bed_9ymFD_tBbmBIgT7BgvshtYb56A&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1811745771:1757350134348961": {
+    "provider": [
+      "google"
+    ]
+  },
+  "zodiac3.gameassists.co.uk": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "github.com": {},
+  "news.google.com/home?hl=en-NZ&gl=NZ&ceid=NZ:en": {
+    "provider": [
+      "google"
+    ]
+  },
+  "nz.yahoo.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.letour.fr/en/": {
+    "pop": [
+      "lfp",
+      "par",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "lakefield",
+      "paris",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.google.com/account/about/?hl=en-US": {
+    "provider": [
+      "google"
+    ]
+  },
+  "ww1.goojara.to": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "weather.com/en-NZ/weather/today/l/NZXX0049:1:NZ?Goto=Redirected": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.lioden.com": {},
+  "poki.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.odt.co.nz": {},
+  "www.numberoneshoesandhannahs.co.nz": {
+    "pop": [
+      "kbf",
+      "bfi",
+      "krn"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle",
+      "kiruna"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.seek.com.au": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "signin.spark.co.nz": {},
+  "www.max.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.manoramaonline.com": {},
+  "m.shein.com/nz/?cdn_rsite=ak&ref=m&rep=dir&ret=mnz": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.crunchyroll.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront",
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "patientportal.myindici.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.newsweek.com": {
+    "cacheStatus": [
+      "HIT",
+      "hit"
+    ]
+  },
+  "www.espncricinfo.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.twinkl.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "11-28313381-28313384 NNNN CT(1 3 0) RT(1757350112666 372) q(0 1 1 -1) r(1 7) U6"
+    ],
+    "contentLocality": "nz"
+  },
+  "oceanofpdf.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.merriam-webster.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "moviebox.ng": {},
+  "givealittle.co.nz": {},
+  "library.sunshineonline.com.au/login/student": {},
+  "www.microsoft.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.weatherwatch.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.neopets.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "workspace.google.com/intl/en-US/gmail/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "floandfrankie.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.lululemon.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.dominos.co.nz": {},
+  "web.whatsapp.com": {},
+  "www.1news.co.nz": {
+    "pop": [
+      "cgk"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "jakarta"
+    ],
+    "contentLocality": "id"
+  },
+  "steamcommunity.com": {},
+  "www.pagani.co.nz": {
+    "pop": [
+      "kbf",
+      "bfi",
+      "krn"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle",
+      "kiruna"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.bedbathandbeyond.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.qantas.com/nz/en.html": {},
+  "app.hcslqms.com": {},
+  "student.readingplus.com": {},
+  "www.albumoftheyear.org": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.careers.govt.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "15-58004914-58004870 PNNN RT(1757350121752 351) q(0 0 0 -1) r(1 1) U6"
+    ]
+  },
+  "www.metroinfo.co.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "7-13540631-13540634 NNNN CT(31 36 0) RT(1757350112531 343) q(0 0 1 -1) r(1 2) U6"
+    ]
+  },
+  "www.bfc.co.nz": {},
+  "www.cordys.co.nz": {},
+  "tvtropes.org": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.ifurniture.co.nz": {},
+  "hdtodayz.to": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://docs.google.com/&emr=1&followup=https://docs.google.com/&ifkv=AdBytiNFDtoi_RQIPBvmUafRKzkb5ozCbUHe6E-TPLpCe2W_-wemAD22oKMqQNs7MfInCBWacgZ-lg&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1613952448:1757350150879142": {
+    "provider": [
+      "google"
+    ]
+  },
+  "1chart.nz": {},
+  "www.planetf1.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "homes.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "gazette.education.govt.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "mylotto.co.nz": {},
+  "harcourts.net": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.booking.com/index.en-gb.html?label=gen173nr-10CAEoggI46AdIM1gEaK4BiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALskfzFBsACAdICJDIwOGZmYzEzLTcyOGEtNGEwYS1iNzc4LWJmMTA4MDAyOWUyMNgCAeACAQ&sid=5e1790138d6238380e1022f2431881ef&keep_landing=1&sb_price_type=total&": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "cardgames.io": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "paperspast.natlib.govt.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "4-31797988-31797990 NNNY CT(17 26 0) RT(1757350135954 370) q(0 0 0 -1) r(0 1) U6"
+    ]
+  },
+  "computerlounge.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.expedia.co.nz": {},
+  "en.m.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp4044 miss, cp4044 hit/5784",
+      "hit-front"
+    ]
+  },
+  "www.ultimate-guitar.com/explore": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "nzmuscle.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "broadband.2degrees.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.politico.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "app.procore.com/auth/procore": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "redirector3.valueactive.eu": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "imhentai.xxx": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.marketwatch.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "builderscrack.co.nz": {},
+  "www.barkersonline.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.looksharpstore.co.nz": {},
+  "captainspins.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "sell.trademe.co.nz": {},
+  "v.daum.net": {},
+  "www.westpac.co.nz": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.express.co.uk": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.waikato.ac.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "Tuesday, 09-Sep-2025 04:48:45 NZST",
+      "1-2532913-2532914 NNNN CT(34 39 0) RT(1757350125493 373) q(0 0 1 -1) r(1 1) U6"
+    ]
+  },
+  "beebom.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.asics.com": {},
+  "www.ravelry.com/account/login": {},
+  "www.nrl.com": {
+    "pop": [
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "activitycontentscreen.mathletics.com": {},
+  "www.massey.ac.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "REVALIDATED",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.allfreenovel.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.golfwarehouse.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "medschool.otago.ac.nz": {},
+  "www.thetimes.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "us02.procore.com/auth/procore": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.huntingandfishing.co.nz": {
+    "pop": [
+      "akl",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "auckland",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.yr.no/nb": {},
+  "www.eventcinemas.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.briscoes.co.nz": {
+    "pop": [
+      "syd",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "www.foxnews.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "ysb",
+      "wsi"
+    ],
+    "provider": [
+      "fastly",
+      "akamai"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "sudbury"
+    ],
+    "contentLocality": "pg"
+  },
+  "c.newsnow.co.uk": {},
+  "www.futbin.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "m.cricbuzz.com": {},
+  "my.eroad.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "secure.jackpotcitycasino.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.bayleys.co.nz": {
+    "pop": [
+      "syd",
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "letterboxd.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.crazygames.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.etsy.com": {
+    "pop": [
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.fragrantica.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "zh.m.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5": {
+    "cacheStatus": [
+      "HIT",
+      "cp4044 miss, cp4044 hit/1",
+      "hit-front"
+    ]
+  },
+  "watchdocumentaries.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "secure.crystalpayroll.co.nz": {},
+  "www.perfumenz.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "designerwardrobe.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "openai.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.cnbc.com": {},
+  "nypost.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "fortnitetracker.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.cheapflights.co.nz": {
+    "pop": [
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "se"
+  },
+  "www.amazon.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "captaincooks3.gameassists.co.uk": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.rnz.co.nz": {
+    "pop": [
+      "syd",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.lego.com/en-nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.4chan.org/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.roopdarshan.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.timestables.co.nz": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.justice.govt.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.netflix.com": {},
+  "www.metservice.com": {},
+  "www.everydayrewards.co.nz": {},
+  "nz.linkedin.com": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "onlyfans.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "secure.luckynuggetcasino.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.barfoot.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.biblegateway.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "ole.saintkentigern.com": {},
+  "hianime.to": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "home.nzcity.co.nz": {},
+  "rule34video.com": {},
+  "www.citybeach.com/us/homepage": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "www.specsavers.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.theoodie.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "beta.imagefap.com": {},
+  "banqer.co/nz/primary": {},
+  "www.spca.nz": {
+    "pop": [
+      "akl",
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "auckland",
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.healthline.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.spinbet.com/en-nz/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "discord.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "e-asttle.education.govt.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "premier.ticketek.co.nz": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "au.news.yahoo.com": {},
+  "findsomeone.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.airbnb.co.nz": {},
+  "www.friv.com": {},
+  "www.mocka.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.youporn.com": {},
+  "dangerfield.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.intercity.co.nz": {},
+  "store.steampowered.com": {},
+  "petdirect.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.geni.com": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "12-27256417-27256418 NNNN CT(196 395 0) RT(1757350124054 373) q(0 0 6 -1) r(10 10) U6"
+    ]
+  },
+  "app.stepsweb.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.talkie-ai.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "rangiorahigh.school.kiwi": {},
+  "scratch.mit.edu": {
+    "pop": [
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "se"
+  },
+  "sudoku.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.placemakers.co.nz/online/": {},
+  "www.paypal.com/nz/home": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "realgroovy.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "meet.google.com": {},
+  "www.tumblr.com": {},
+  "nz.mail.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.nzherald.co.nz": {},
+  "www.vivo.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.flightcentre.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "finance.yahoo.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "partsmanager.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "gamerant.com": {},
+  "www.glassons.com": {
+    "pop": [
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.rugbypass.com": {},
+  "www.journeys.nzta.govt.nz/journey-planner": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "2-3294126-3294127 SNNN RT(1757350149226 824) q(0 0 0 0) r(0 0) U6"
+    ]
+  },
+  "nz.pandora.net": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.timeanddate.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "musescore.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "xhamster.desi": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.grabaseat.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.kiwikidsnews.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "accounts.spotify.com": {},
+  "www.mangago.me": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "nz.jora.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.samsung.com": {},
+  "fapello.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "notices.nzherald.co.nz/nz/obituaries/nzherald-nz/browse": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.playerssports.co.nz": {},
+  "tekura.desire2learn.com/d2l/login": {},
+  "www.ird.govt.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "goodoil.news": {
+    "pop": [
+      "ams",
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "amsterdam",
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "nl"
+  },
+  "www.accuweather.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.thenile.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "play.prodigygame.com": {},
+  "one.nz": {
+    "pop": [
+      "syd",
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney",
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "portal.managemyhealth.co.nz/m/Main/login": {},
+  "www.linkedin.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.chess.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.betcha.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "healthify.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.eporner.com": {},
+  "app.mysmartlab.com.au/Account/Login?ReturnUrl=/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "adsmanager.facebook.com": {},
+  "www.ancestry.com.au": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.civildefence.govt.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "REVALIDATED"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.workandincome.govt.nz": {},
+  "rule34.xxx": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://www.youtube.com/signin?action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den-GB%26next%3Dhttps%253A%252F%252Fstudio.youtube.com%252F%26feature%3Dredirect_login&hl=en-GB&ifkv=AfYwgwWSVly145JTfAzYvVHZIbS2cvxz-8mwoICJc0aOtL60rk_8YJxJX84lypGtk71xMmqPCQBeWA&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1758519966:1757350137989413": {
+    "provider": [
+      "google"
+    ]
+  },
+  "hikoco.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "myactivity.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.shaktihitech.co.in": {},
+  "www.aainsurance.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "artfight.net": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.drfrost.org/index.php": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "autotrader.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "MISS"
+    ],
+    "contentLocality": "nz"
+  },
+  "noodlemagazine.com/new-video": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.neighbourly.co.nz": {
+    "pop": [
+      "akl",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "auckland",
+      "kiruna",
+      "seattle"
+    ],
+    "contentLocality": "nz"
+  },
+  "online.gilmours.co.nz": {},
+  "my.msd.govt.nz": {},
+  "login.vaultre.com.au": {},
+  "www.anzdirect.co.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "15-58005991-58005993 NNNN CT(3 6 0) RT(1757350232748 351) q(0 1 1 -1) r(1 1) U24"
+    ]
+  },
+  "www.ndtv.com": {},
+  "app.sharesies.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "REVALIDATED"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.ebgames.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "nz.images.search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "canvas.apps.chrome": {
+    "pop": [
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "id"
+  },
+  "www.purenature.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.transum.org": {},
+  "bulbsdirect.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.deckshop.pro": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.reddit.com/?rdt=50027": {},
+  "moodle.op.ac.nz": {},
+  "app-ap1.hubspot.com/home-beta": {
+    "pop": [
+      "akl",
+      "syd"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "auckland",
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "racingnews365.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "new.grabone.co.nz/auckland": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.torpedo7.co.nz": {
+    "pop": [
+      "krn",
+      "bfi",
+      "kbf"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle",
+      "karubaga-papua island"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "se"
+  },
+  "www.jaycar.co.nz": {},
+  "www.lifepharmacy.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "archive.org": {},
+  "asp.tramada.com.au": {},
+  "www.fanfiction.net": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.vipbox.lc": {},
+  "www.armyandoutdoors.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "mangadex.org": {},
+  "freeviewnz.tv": {},
+  "bank.westpac.co.nz/wone/app.html": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "myir.ird.govt.nz": {},
+  "www.liquorland.co.nz": {},
+  "www.nrf.org.nz": {},
+  "gemini.google.com": {},
+  "kfc.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "cottonon.com/NZ/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "app.hapara.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "mycrushfinder.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.sjs.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.nitrotype.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "simpcity.cr": {},
+  "www.bedbathntable.co.nz": {
+    "pop": [
+      "syd",
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "www.hyperride.co.nz": {},
+  "pmc.ncbi.nlm.nih.gov": {},
+  "www.realestate.com.au": {},
+  "www.sciencedirect.com/unsupported_browser": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "nz"
+  },
+  "store.nzfarmsource.co.nz": {},
+  "www.viprow.nu": {},
+  "www.blooket.com": {
+    "pop": [
+      "mel",
+      "akl"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "melbourne",
+      "auckland"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "rototuna.schoology.com/login?&school=1369346021": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "go.metroinfo.co.nz/mtbp/en-gb/": {},
+  "staff.edgelearning.co.nz/Loginpage.aspx?returnurl=/": {},
+  "www.whitedoor.co.nz": {},
+  "id.blooket.com/login": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.reinz.co.nz": {},
+  "www.nbcnews.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.newstalkzb.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "login.realme.govt.nz": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "economictimes.indiatimes.com/?from=mdr": {},
+  "365servicehub.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.posthaste.co.nz": {},
+  "www.canva.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "business.facebook.com": {},
+  "www.literotica.com": {},
+  "www.realestate.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.aol.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.bilibili.tv": {},
+  "www.tomsguide.com": {
+    "pop": [
+      "lon",
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-STALE-CLUSTER"
+    ],
+    "contentLocality": "id"
+  },
+  "ww4.fmovies.co/21/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "bato.to": {},
+  "dotti.jgl.co.nz": {},
+  "www.tamildhool.net": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.scribd.com": {
+    "pop": [
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "taku.nzqa.govt.nz/login-landing-page/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "stripchat.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "order.dominos.co.nz": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.deviantart.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.anz.co.nz/personal/": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "15-58005204-58002159 pNNN RT(1757350153617 348) q(0 0 0 0) r(0 0) U6"
+    ]
+  },
+  "www.kefxs.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "outlook.office365.com/mail/": {},
+  "portal.afterpay.com/nz/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.repco.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.researchgate.net": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.famousbirthdays.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "mygameday.app/": {
+    "pop": [
+      "yvr"
+    ],
+    "provider": [
+      "cloudflare",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "vancouver"
+    ],
+    "cacheStatus": [
+      "3-44721172-44721204 NNNN CT(1 9 0) RT(1757350157659 478) q(0 0 0 0) r(1 1) U6"
+    ],
+    "contentLocality": "ca"
+  },
+  "www.xero.com/nz/": {
+    "provider": [
+      "AWS (not CDN)",
+      "akamai"
+    ]
+  },
+  "www.cin7.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "secure.anz.co.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "13-35280704-35280709 NNNN CT(2 4 0) RT(1757350138338 360) q(0 0 0 -1) r(0 0) U6"
+    ]
+  },
+  "www.forbes.com": {
+    "pop": [
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "se"
+  },
+  "www.kmart.co.nz": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.theguardian.com/international": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "beecard.co.nz": {},
+  "www.paye.net.nz": {},
+  "funnyjunk.com": {},
+  "www.typing.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "blocked.syd-1.linewize.net": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "en.wikipedia.org/wiki/Main_Page": {
+    "cacheStatus": [
+      "HIT",
+      "cp4044 miss, cp4044 hit/8492",
+      "hit-front"
+    ]
+  },
+  "www.whitcoulls.co.nz": {
+    "pop": [
+      "krn",
+      "bfi",
+      "kbf"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle",
+      "karubaga-papua island"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "se"
+  },
+  "asuracomic.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "ent.kotui.org.nz": {},
+  "www.ixxx.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.merchant1948.co.nz": {
+    "pop": [
+      "akl",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "auckland",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ],
+    "contentLocality": "nz"
+  },
+  "hotcopper.com.au": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "moodle.whitireiaweltec.ac.nz": {},
+  "nhentai.net": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.ib.kiwibank.co.nz/login?ReturnUrl=/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www1.flightrising.com": {},
+  "www.propertyvalue.co.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "14-140733324-140733345 NNNN CT(35 74 0) RT(1757350152320 369) q(0 0 1 -1) r(1 1) U6"
+    ]
+  },
+  "nz.puma.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.xbox.com/en-NZ/": {},
+  "nzhistory.govt.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "motherless.com": {},
+  "nzta.govt.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "13-49781403-49781404 NNNN CT(10 11 0) RT(1757350145954 370) q(0 0 1 0) r(3 3) U6"
+    ]
+  },
+  "m.jdsports.co.nz": {
+    "pop": [
+      "kbf",
+      "bfi",
+      "krn"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle",
+      "kiruna"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "drivingschool.aa.co.nz": {},
+  "www.ebay.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.jackpotcitycasino.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.openpolytechnic.ac.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "17-112987740-112987751 NNNN CT(27 30 0) RT(1757350142798 359) q(0 0 0 -1) r(1 9) U6"
+    ]
+  },
+  "aniwatchtv.to": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.canterbury.ac.nz": {
+    "pop": [
+      "krn",
+      "bfi",
+      "kbf"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle",
+      "karubaga-papua island"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "se"
+  },
+  "www.mountainwarehouse.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "mcd.maxtel.com/employeemobile/": {},
+  "arion.aut.ac.nz": {},
+  "genius.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.backpackerboard.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.onecasino.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "hentaifox.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.northbeach.co.nz": {
+    "pop": [
+      "krn",
+      "bfi",
+      "kbf"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle",
+      "karubaga-papua island"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "se"
+  },
+  "www.ancestry.co.uk": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.woolworths.co.nz": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.flightaware.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.youtube.com/?app=desktop": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.treasurebox.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ilovepdf.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "readtheoryapp.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "thisvid.com": {},
+  "earlysettler.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.bcasino.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.metlink.org.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "sflix.to": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "iam.auckland.ac.nz/profile/SAML2/Redirect/SSO?SAMLRequest=fZLLUsIwFIZfpZM9vSkUMrQzFRYyg9qh6MKNk7anNmOaYE4i6tNbKCKyYJ3//JdvMkXWig1NrWnkCt4toHE%2BWyGR7h9iYrWkiiFHKlkLSE1J8/RuSUPXpxutjCqVIE6KCNpwJWdKom1B56A/eAmPq2VMGmM2SD1vu926aGwF0rjMlm%2BCycplpSu/vbzhRaEEmMZFVN4uIfSyh3xNnHlXiUu2M/%2Bz4qw9t%2BjK1FzA4XYFFddQGi/PH4izmMfkpfajcMwqCMJRVNTRpKrr8VVYBMNo7BcTqDsZooWFRMOkiUnoh8OBPxn443UwotcTGkTPxMkOm2%2B4rLh8vQyo6EVIb9frbNDveQKN%2By2dgCTTHWa6D9Yn4C/bsl/aJDmyhUIra%2BCcCh7BXsA/9U5a9JU29L6LXcwzJXj55aRCqO1MAzMQk4B4SX/y/%2BMkPw%3D%3D&RelayState=cookie:1757350157_4255&SigAlg=http://www.w3.org/2001/04/xmldsig-more%23rsa-sha256&Signature=VfpkJV4fHJ88Nsju8WthIMGTQkx2HCpinoH2y4wt/qdZ9MxVdIAPOI9aqil3/5Kpo9LWT2x2EiAE2TabTbXq1t5ABJNZ36hBnpEwAuN3SdEBhyV4TBT90nvGadmSLcB1AGxnhyE8bPDRElIizDjU1K0%2BD51h%2BGW7SGSJuwyU8z9FYPoYVMb5dMYmOXJ9IMbHoq%2B3Un1FdKOBLulHQc8ajuooFkhYalkD29Onu5hjLKD/tGBWyqfF16SdbpuQbp78Xx8Cjn6fq2rIq8HekL9FZ4EoXJMWnkAPFCBKJ6JzEzSMsie82I09eofl9nLDeC%2BYyfPs5d9t1gggoKvno2caQw%3D%3D": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.targetfurniture.co.nz": {},
+  "manhuaus.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "etap.co.nz": {},
+  "www.alibaba.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.acc.co.nz": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "2-14725967-0 0NNN RT(1757350231878 387) q(0 -1 -1 -1) r(0 -1) B12(8,888100,0) U6"
+    ]
+  },
+  "www.healthpoint.co.nz": {},
+  "www.tewhatuora.govt.nz": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "2-27377862-0 0NNN RT(1757350236453 440) q(0 -1 -1 -1) r(0 -1) B12(8,888100,0) U6"
+    ]
+  },
+  "www.taste.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "create.roblox.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "moodle.ara.ac.nz/login/index.php": {},
+  "admin.shopify.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "growagarden.fandom.com/wiki/Grow_a_Garden_Wiki": {
+    "pop": [
+      "sjc",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "san jose",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "smsportal.massey.ac.nz/sitsvision/wrd/siw_lgn": {},
+  "www.animates.co.nz": {
+    "pop": [
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "id"
+  },
+  "www.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.paris2018.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "parade.com": {
+    "pop": [
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "wellington.govt.nz": {},
+  "ideallearningapproach.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.facebook.com": {},
+  "www.ebay.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.imperialwins.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.world.rugby": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.geonet.org.nz": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.nzkoreapost.com": {},
+  "www.tpsportal.co.nz/auth/login": {},
+  "www.kiwihousesitters.co.nz": {},
+  "collider.com": {},
+  "www.webjet.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.gamingbible.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.allblacks.com": {
+    "provider": [
+      "imperva"
+    ],
+    "cacheStatus": [
+      "8-33158816-0 0NNN RT(1757350148856 372) q(0 -1 -1 -1) r(0 -1) B12(8,888100,0) U6"
+    ]
+  },
+  "www.quora.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "iam.auckland.ac.nz/profile/SAML2/Redirect/SSO?execution=e1s1": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "support.google.com": {},
+  "www.carsguide.com.au": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.manualslib.com": {},
+  "outlook.office.com/mail/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "sunlive.co.nz": {},
+  "www.ecosia.org": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.macpac.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "edition.cnn.com": {
+    "pop": [
+      "kcg",
+      "iad",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "chignik",
+      "washington",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/&followup=https://sites.google.com/&ifkv=AdBytiMofVc-oPZJ-XVUsgLo3TiOy26dlml9m8iiohd1YiaEqWX09Ffwv4IKP4nYTxJsVQD34ulyuA&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1945247437:1757350165316235": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.strava.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.tvnz.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.turners.co.nz": {},
+  "www.newzealandgirls.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.jetpunk.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.haywards.co.nz": {},
+  "www.planetrugby.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "9animetv.to": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.msn.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "azure"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ],
+    "contentLocality": "au"
+  },
+  "www.mayoclinic.org": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.bunnings.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.thetoolshed.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "MISS"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.wordplays.com": {},
+  "www.paperplus.co.nz": {},
+  "www.thesun.co.uk": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "practicemanager.xero.com": {},
+  "www.companyhub.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "sec.windcave.com/pxmi3/logon": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "toyhou.se": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.farmers.co.nz": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.prezzycard.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.whakapapa.com": {},
+  "idm.2degrees.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "squaredle.app": {},
+  "www.agoda.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "myanimelist.net": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "NotCacheable from child"
+    ]
+  },
+  "theconversation.com/nz": {
+    "pop": [
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "se"
+  },
+  "www.hellomagazine.com/au/": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.immigration.govt.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "14-22402195-22402326 PNNy RT(1757350123428 38519) q(0 0 0 -1) r(4 4) U6"
+    ]
+  },
+  "www.ruck.co.uk": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "m.fmkorea.com": {},
+  "learn.microsoft.com/en-us/": {
+    "provider": [
+      "azure",
+      "akamai"
+    ],
+    "cacheStatus": [
+      "RefreshHit from child, Hit from parent"
+    ]
+  },
+  "www.nzhuntingandshooting.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.franknews.global/signup": {},
+  "edu.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "jonnyjackpot.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "staff.helixsms.co.nz/Loginpage.aspx?returnurl=/": {},
+  "www.lookmovie2.to": {},
+  "www.tnaflix.com": {},
+  "nz.indeed.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.allrecipes.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.strandbags.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.thewarehouse.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "hdporncomics.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.autoevolution.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.temu.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.threenow.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Active",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "geediting.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "weebcentral.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "spin.city/en": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.grammarly.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "secure.royalvegascasino.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.eatingwell.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.spinbit.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.theroar.com.au": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.rubbermonkey.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "api.svc.waikato.ac.nz/uowidp/v1/auth?response_type=code&client_id=SITS-Prod&redirect_uri=https://my.waikato.ac.nz/sitsvision/wrd/siw_sso.openid_response&scope=openid&state=ID24C03C50-8686-403D-9AE7-D412177DAA1B&nonce=MjAyNTA5MDkwNDQ5NTkzOS1BQjY0OThGRC0yREE5LTRGQzYtOTY5NS0wRjJDQkVGNUE0MDk%3D": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "nz.simpleescort.com/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.goodreads.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.warehousestationery.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.webtoons.com/en/": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.firsttable.co.nz": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.noelleeming.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.horoscope.com/us/index.aspx": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.citychic.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "mangafire.to": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.singaporeair.com/en_UK/nz/home": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "medi-map.co.nz": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.formula1.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.roblox.com": {},
+  "www.theoutlet.co.nz": {
+    "pop": [
+      "syd",
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "ifurniture.co.nz": {},
+  "www.redbubble.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.thepress.co.nz": {
+    "pop": [
+      "akl",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "auckland",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "bato.si": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.furaffinity.net": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.mthutt.co.nz": {},
+  "maoridictionary.co.nz": {},
+  "www.usatoday.com": {
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ]
+  },
+  "www.fresha.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "nz.search.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.bdmhistoricalrecords.dia.govt.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "13-126164063-126164079 NNNY CT(12 18 0) RT(1757350160570 585) q(0 0 0 -1) r(0 0) U6"
+    ]
+  },
+  "www.xvideos.com": {},
+  "janitorai.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "shop.farmlands.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.dndbeyond.com": {
+    "pop": [
+      "kia",
+      "iad",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kaiapit",
+      "washington",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "pg"
+  },
+  "pricespy.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "topup.2degrees.nz/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "vote.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "58-50700964-50701148 NNNN CT(151 156 0) RT(1757350186835 516) q(0 0 3 8) r(5 16) U6"
+    ]
+  },
+  "check.msd.govt.nz": {},
+  "www.aljazeera.com": {},
+  "validate.perfdrive.com/ab466d675e06052c21f7cc4df3656c91/?ssa=24389995-2c75-48af-81b6-84ace7b0f66a&ssb=22197217051&ssc=https://www.spark.co.nz/&ssi=78c46a15-cv5f-4ff7-8be6-c692406c7489&ssk=botmanager_support@radware.com&ssm=13456659497020957104099738671291&ssn=40f9cab1120abf55d483085bc6af0380244f55102948-44bb-48ee-aba66b&sso=c8857857-421eda66edc00e7eada55d5a452501834c46401469e67a1f&ssp=52706507291757398023175733305454445&ssq=80581935017706751144550177107253997095039&ssr=MjEyLjE1Ljg3LjUz&sst=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.124+Safari/537.36&ssu=&ssv=&ssw=&ssx=eyJyZCI6InNwYXJrLmNvLm56IiwiX191em1mIjoiN2Y5MDAwNTUxMDI5NDgtNDRiYi00OGVlLWE4NTctNDIxZWRhNjZlZGMwMS0xNzU3MzUwMTc4MzY3MC0wMDAwMGFhY2YzY2Q0MDlmNDQ5MTAiLCJ1em14IjoiN2Y5MDAwOGIyZTQ4NjctMTIzNC00NzQzLTgzYTEtNzVhNDU3NDMwZWZmMS0xNzU3MzUwMTEzMTA4NjUyNTktMzMxNGJiZTFmNWNiZTA2MjEzIn0=": {},
+  "www.rewardia.co.nz": {},
+  "yukongold3.gameassists.co.uk": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "app.cartoncloud.com": {},
+  "www.delivereasy.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.waikatotimes.co.nz": {
+    "pop": [
+      "akl",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "auckland",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "grocer.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "auspost.com.au": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "edmondscooking.co.nz": {},
+  "www.independent.co.uk": {
+    "pop": [
+      "egl",
+      "lhr",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "negele borana",
+      "london",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, MISS"
+    ],
+    "contentLocality": "et"
+  },
+  "mobile.squirt.org": {},
+  "support.microsoft.com/en-us": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.sportsfuel.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "superette.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "spankbang.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.metvuw.com": {},
+  "www.govt.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "12-37653467-37653468 NNNN CT(27 36 0) RT(1757350165633 350) q(0 0 1 1) r(1 8) U6"
+    ]
+  },
+  "www.peteralexander.co.nz": {},
+  "en.boardgamearena.com/": {},
+  "play.blooket.com/play": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "jamiekay.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "bbs.skykiwi.com/forum.php": {},
+  "www.crosswordsolver.org": {},
+  "vegoutmag.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.shopify.com/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.pcgamer.com": {
+    "pop": [
+      "lon",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS-CLUSTER"
+    ],
+    "contentLocality": "se"
+  },
+  "auctions.webbs.co.nz": {},
+  "www.69shuba.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.drivingtests.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.nbr.co.nz": {},
+  "www.cheezburger.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Hit from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "course.oxforddigital.com.au": {},
+  "www.getepic.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.pureturoa.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.sporty.co.nz/v2": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.wowhead.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.bookme.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.houseoftravel.co.nz": {},
+  "secure.spincasino.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.jbhifi.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "at.govt.nz": {},
+  "www.telegraph.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.torn.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "practicetest.aa.co.nz/login?ReturnUrl=/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.livescience.com": {
+    "pop": [
+      "lon",
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-CLUSTER"
+    ],
+    "contentLocality": "id"
+  },
+  "chatgpt.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.nzx.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "contentLocality": "au"
+  },
+  "www.facebook.com/": {},
+  "www.royalroad.com/home": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "app.schoology.com/login": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "nood.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "rateyourmusic.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.ballantynes.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.pickapart.co.nz": {},
+  "jable.tv": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.skysports.com": {},
+  "www.hindustantimes.com": {},
+  "www.tiktok.com/explore": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "TCP_MISS from a23-211-240-7.deploy.akamaitechnologies.com (AkamaiGHost/22.2.3-dd2e9ddb9a7176afbd825015b8856261) (-)"
+    ]
+  },
+  "www.sunlive.co.nz": {},
+  "www.ebay.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "edu.google.com/intl/en-US/workspace-for-education/products/classroom/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "nz.tradevine.com": {},
+  "www.locanto.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "vjcooks.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.52shuku.net/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.sciencealert.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.monopolygo.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.tsbliving.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "ytmp3.as/AOPR/": {},
+  "bol.westpac.co.nz": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.smh.com.au": {
+    "pop": [
+      "syd",
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.wgtn.ac.nz": {
+    "pop": [
+      "akl",
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "auckland",
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "my.clevelandclinic.org": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.auckland.ac.nz/en/about-us/about-the-university/identity-and-access-management/iam.html": {
+    "pop": [
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "open.spotify.com/": {
+    "pop": [
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.supercheapauto.co.nz": {
+    "pop": [
+      "syd",
+      "akl"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "sydney",
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "au"
+  },
+  "wafflegame.net": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "RefreshHit from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "homebank.tsbbank.co.nz": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "e621.net": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "jobs.nzfarmsource.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.nzdating.com": {},
+  "app.practicemanager.xero.com": {},
+  "www.google.co.nz": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.gordonharris.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "MISS"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.pizzahut.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.messenger.com": {},
+  "ww7.123moviesfree.net/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "adulttoymegastore.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "mangabuddy.com/official": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "in.xero.com": {},
+  "hello.gomytrucking.com/connect/authorize?state=5536c1265f7606c08c9e1635a76a2df3&scope=openid%20profile%20email%20companyApi.read%20companyApi.write%20jobApi.read%20jobApi.write%20invoicingApi.read%20invoicingApi.write%20openid&response_type=code&approval_prompt=auto&redirect_uri=https://gomytrucking.com/login/auth&client_id=XERBJXQ5YEVQXX76BOMA)I3MPJ%25LS%26LW6IXKSAMSME9NHN2%26": {},
+  "www.apple.com": {},
+  "learning.prototec.co.nz": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.buzzfeed.com/au": {
+    "pop": [
+      "kjy",
+      "iad",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "washington",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "www.lornajane.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "twistedsifter.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.moneyhub.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "nz"
+  },
+  "shop.cashconverters.co.nz": {},
+  "www.jetstar.com": {},
+  "www.disneyplus.com": {},
+  "www.doc.govt.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "fetlife.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "manhuaplus.org/404": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "au"
+  },
+  "www.discoverchildcare.co.nz": {},
+  "auth.uber.com/v2/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "BYPASS"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.jigsawplanet.com": {},
+  "www.mitre10.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "word.tips": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "solitaired.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.asb.co.nz": {},
+  "nzissues.com": {},
+  "sso.golf.co.nz/login?b=&c=1&n=Live&r=https://live.golf.co.nz/default.aspx&v=https://live.golf.co.nz/validate.aspx&ds=nz&s=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJxdWVyeVN0cmluZyI6ImI9JmM9MSZuPUxpdmUmcj1odHRwcyUzYSUyZiUyZmxpdmUuZ29sZi5jby5ueiUyZmRlZmF1bHQuYXNweCZ2PWh0dHBzJTNhJTJmJTJmbGl2ZS5nb2xmLmNvLm56JTJmdmFsaWRhdGUuYXNweCZkcz1ueiIsImxvZ291dFVybCI6Imh0dHBzOi8vbGl2ZS5nb2xmLmNvLm56L2xvZ291dC5hc3B4IiwiaWF0IjoxNzU3MzUwMTc2LCJleHAiOjE3NTk5NDIxNzZ9.DWgm7C_L_ZiM9NzX7BFqJxjn2NoXGkoaKQF1JYG6c94": {},
+  "www.boredpanda.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "us"
+  },
+  "escortify.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.gamesradar.com": {
+    "pop": [
+      "lon",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS-CLUSTER"
+    ],
+    "contentLocality": "se"
+  },
+  "www.tab.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ],
+    "contentLocality": "nz"
+  },
+  "app.linc-ed.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "openpolytechnic.iqualify.com/login": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "14-140735467-140735512 NNNY CT(24 57 0) RT(1757350204007 746) q(0 1 1 0) r(1 1) U6"
+    ]
+  },
+  "secure2.ipayroll.co.nz/login": {},
+  "www.mangago.zone": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "mcdonalds.co.nz": {},
+  "www.tower.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "14-44823791-44823796 NNNN CT(1 2 0) RT(1757350177262 358) q(0 1 1 -1) r(1 1) U24"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.wattpad.com": {
+    "pop": [
+      "sin"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "singapore"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "sg"
+  },
+  "takingshape.com/AU/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.google.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.coinspot.com.au": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.9news.com.au": {
+    "pop": [
+      "syd",
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.dailymotion.com": {},
+  "www.tripadvisor.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.reuters.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "LambdaGeneratedResponse from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.otago.ac.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.xnxx.com": {},
+  "www.youtube.com": {
+    "provider": [
+      "google"
+    ]
+  },
+  "en.luxuretv.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "duckduckgo.com": {},
+  "www.asos.com": {},
+  "www.rottentomatoes.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.calculator.net": {},
+  "online.asb.co.nz": {},
+  "au.unleashedsoftware.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "login.realme.govt.nz/32179062-92f6-4eb0-89bc-df400a9e0367/B2C_1A_DIA_RealMe_LoginService/samlp/sso/login?SAMLRequest=nVNLb9pAEP4r1t6NF/MKI0ByQG2RSBVB20MvaGMPYGW96%2ByMw%2BPXZ20gQmqSQ6/j%2BZ6zHpEqdAlJxTuzxJcKiYM/6Ci3ZizilhTBfDYW666rpmo3f/69KF/C/fJHXJ628X28XT76BaIK54ZYGfYYGfdCOQzl3a92H3oSZLc16PT%2BiuCbdSk2QmPBrkIRJETo2EtNraGqQLdC95qnnizDw1i0RTDzfnKjuLGzYy4JokjbbW5aDpUusLW1r9wyp6gTtwdD2Y/DYbzph118kuHd8CkNs01XSjVE2ekPovt4um4n69k8WS89/AHXi5rrIhs1XURE9iwhgkOhDUEzHovKGbCKcgKjCiTgFFbJwwJ8S1A6yza1WkxG9TY0nbgb/NdwdS1CTK4hiavsqHPz/J7wfRIVpEfRjc5ZtISfnng%2Be7Q6T49BorXdT31LjNe%2B/QUKxV9bqSd5Fm6aVSjrp0CMhkV0Vbk8E8yaW/rTMR74kvt2NNU%2B1hI3/9NCvWZOGurskKcMxBmBqtkhw1LbY%2BE9wffF6gaeQlpLetaF3a/Yodny7lLUR8Ym52%2BfJor%2B/Tcmbw%3D%3D&RelayState=OQFoZgVyCBnkhF4ZTr3Uk9PJTxybuq&SigAlg=http://www.w3.org/2001/04/xmldsig-more%23rsa-sha256&Signature=jOUI3v/hBMISwUUJ26w4TjWF/EMrhCyOG0wOCNM1j0lGYwnaevR1M1tE0wMX7eTrn/0Ely2X8N5H1snQyDKLZyF6NAHtG7eCLbufmV3bhogGqtQSm2eI5yJtIsCPeWXpjJfrB40TNjSr6gLEcUsdyHQOP8VL8b7Zrh8OU3ytb5VVm%2B/R%2BjSnPpf6ghir2z%2B7d5HVYVfH5M62g0T2t/6t8J0p6M0wUv7ZoGCExeQXjMqris6KMydVRpD2BHVathu9%2BnWS%2BqAcMdNFGYKQoUszmFNlQQY4vp/uw/bx6xvbnvvAdWnT4oF6%2Boh7k0Xt5wseYs2ZKukE4UqQhfQYRidqOA%3D%3D": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.studyladder.co.nz": {},
+  "www.newworld.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.crosswordsolver.com": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "game8.co": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.theiconic.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.fnl.co.nz/qik/QikLogin.asp": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "11-93571565-93571572 SNNN RT(1757350193133 772) q(0 0 0 0) r(0 0) U6"
+    ]
+  },
+  "shineon.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.patreon.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.spotlightstores.com/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "mytimesheets.co/Login": {},
+  "evision.otago.ac.nz/sitsvision/wrd/siw_lgn": {},
+  "pma.ecnz.ac.nz": {},
+  "www.ticketmaster.co.nz": {
+    "pop": [
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "se"
+  },
+  "m.facebook.com": {},
+  "koawatealearn.co.nz": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.eventfinda.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "login.aut.ac.nz/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJLT8MwEITv/IrI98QhbQq12kqFClGJR9UUDlzQ1tkWS4ldvBtevx4nBVEuvdo78%2B2MPSKoq52aNvxil/jaIHH0UVeWVHcxFo23ygEZUhZqJMVaFdPbG5Ulqdp5x067ShxIjiuACD0bZ0U0n43FM/SGG0jzNE6HZxD3sRzEkPfSeJNla90HHJz31yJ6RE9BMxbBIgiJGpxbYrAcjtIsD%2Bo4PV%2BdDlSeqix/EtEs5DAWuFO9MO9ISVm5rbEJNJyATuyXNOVOhggbU6FsN8zkEkvjUbMsinsRTX%2BXvXSWmhp9gf7NaHxY3vyZarBvQAeuHUW2VYho8VPQhbGlsdvj3az3Q6SuV6tFvLgvVmIyan1Ul9hPWmQgtigT4vtGc%2BMx0a7ucNlIHk6P9i97Fzjz2cJVRn9GV87XwMfXaE9MGW%2B6UcUeLBm0HOqoKvd%2B6REYxyLQUcjJHvn//0xOvgE%3D&SigAlg=http://www.w3.org/2001/04/xmldsig-more%23rsa-sha256&Signature=4YYdqQSfT5e7Z8lOm7sUKaCBv8yBYytlyJyJGljA5dHhBtxcwzzsu5vJc3nb/q90oF1mMVQOf3SLhapXbPlYaLYTtxgfz%2BqYzxEq9o2LOsHizD8EEDneJllMMInphCuLjbaYIpnUgzaF0J%2BWdc%2BbgIW6MS0ZwAjmSaE3Te9uTvImmoW8dALHEF5V7z3drwByn32zGxTSN7dhxiBqtC8ky5z6dWnNK6ckXyCrBdDZppvDEoiOx8kUCXOe7jjuR58pvxEUeFEff/9beElrZZTa8rX8IK8fYPjk9nhgGdb4LMkI9KQf0bx%2BGWIbpyEws4am5LxpKB14j4JsDxHdlPQkQw%3D%3D": {},
+  "manhwaclan.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT from Backend",
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "s1.panel-quote.co.nz/member/php/login.php": {},
+  "thepiratebay.org/index.html": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.toyworld.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "drive.govt.nz": {},
+  "www.burnsco.co.nz": {
+    "pop": [
+      "syd",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, MISS, HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.flicks.co.nz": {},
+  "missav.ws": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.sharetrader.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "neal.fun": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "oldschool.runescape.wiki": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "nz.pinterest.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.fishpond.co.nz": {},
+  "our.linc-ed.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.carjam.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.nytimes.com": {
+    "pop": [
+      "lga",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "new york",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "elim.schoology.com/login?&school=1369308279": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.manheim.co.nz": {},
+  "forums.spacebattles.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "teara.govt.nz/en": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.boocasino.co": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.dailymail.co.uk": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.bbc.com": {
+    "pop": [
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "se"
+  },
+  "www.coolmathgames.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.legislation.govt.nz": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.livegood.com": {},
+  "timesofindia.indiatimes.com": {},
+  "www.kingsseeds.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "companies-register.companiesoffice.govt.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "14-68868175-68868177 NNNY CT(31 36 0) RT(1757350185832 374) q(0 0 0 -1) r(0 2) U6"
+    ]
+  },
+  "info.health.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "8-20648713-20648715 NNNN CT(27 31 0) RT(1757350187348 355) q(0 0 1 0) r(1 17) U6"
+    ]
+  },
+  "m.dcinside.com": {},
+  "www.postie.co.nz": {
+    "pop": [
+      "kbf",
+      "bfi",
+      "krn"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle",
+      "kiruna"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.pornhub.com": {},
+  "one.google.com/about/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.princesspolly.com.au": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.snapchat.com": {},
+  "www.tradingview.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.go.partstrader.co.nz/": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "chaturbate.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.nike.com/nz/": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.whiskyandmore.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "m.imdb.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.getyourguide.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "businessdesk.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.52shuku.net": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "www.imdb.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.marieclaire.com": {
+    "pop": [
+      "lon",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT-STALE-CLUSTER"
+    ],
+    "contentLocality": "se"
+  },
+  "www.thesaurus.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.youjizz.com": {},
+  "arca.live": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "bettywins.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.dicksmith.co.nz": {
+    "pop": [
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "tattle.life": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.redrat.co.nz": {
+    "pop": [
+      "krn",
+      "bfi",
+      "kbf"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle",
+      "karubaga-papua island"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "se"
+  },
+  "nzf.org.nz": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "shop.app": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.oneroof.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.educationperfect.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.vlr.gg": {},
+  "www.findagrave.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "kunmanga.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.myheritage.com/?lang=AR": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront",
+      "Imperva",
+      "imperva"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "18-96266329-96266334 NNNY CT(1 6 0) RT(1757350206902 374) q(0 0 0 0) r(0 15) U6"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.amazon.com.au": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "eship.nzpost.co.nz/intro/nzpost.aspx?ReturnUrl=/&AspxAutoDetectCookieSupport=1": {},
+  "www.ikea.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare",
+      "azure"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "app.gettimely.com/Account/Login?ReturnUrl=/calendar": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.washingtonpost.com": {},
+  "www.mathplayground.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "casinobrango.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.wildz.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "open.spotify.com": {
+    "pop": [
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.myinstants.com/en/index/gb/": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "au"
+  },
+  "dcn.healthmetrics.co.nz/main.php": {},
+  "screenrant.com": {},
+  "www.wikitree.com": {},
+  "flixtor.to": {},
+  "www.cheapies.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.spinyoo.com": {},
+  "www.trademe.co.nz/a/unsupported-device?redirectTo=/&showUnsupportedPage=true&canContinue=true&suggestBrowserUpdate=true": {},
+  "www.2cheapcars.co.nz": {},
+  "xplosiv.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.aucklandcouncil.govt.nz/Pages/default.aspx": {},
+  "mcobeauty.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.pornpics.com": {},
+  "www.pascoes.co.nz": {
+    "pop": [
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "se"
+  },
+  "catalunyadiari.com": {
+    "pop": [
+      "ktk",
+      "dfw",
+      "syd"
+    ],
+    "provider": [
+      "fastly",
+      "cloudflare"
+    ],
+    "location": [
+      "kunua",
+      "dallas-fort worth",
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "pg"
+  },
+  "www.amazon.co.uk": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.fruugo.co.nz": {},
+  "www.paknsave.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "sports.yahoo.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "www.consumer.org.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare",
+      "fastly"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "sitrep.fireandemergency.nz": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.aramex.co.nz": {
+    "provider": [
+      "akamai"
+    ],
+    "cacheStatus": [
+      "NotCacheable from child"
+    ]
+  },
+  "login.totaladblock.com": {},
+  "www.mercury.co.nz": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "www.natomanga.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.studylink.govt.nz": {},
+  "myreadingmanga.info": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "admin.google.com": {},
+  "e-hentai.org": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "imgsrc.ru": {},
+  "luxury3.gameassists.co.uk": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.totaladblock.com": {},
+  "app.careercentral.school.nz/sso": {},
+  "www.aucklandairport.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.discoverwildlife.com": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "us"
+  },
+  "www.aut.ac.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.footlocker.co.nz": {
+    "pop": [
+      "eto",
+      "fra",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "frankfurt am main",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, HIT, MISS"
+    ],
+    "contentLocality": "de"
+  },
+  "www.kiwibank.co.nz/personal-banking/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.tripadvisor.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "webmail.orcon.net.nz": {},
+  "fergus.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "app.storypark.com": {},
+  "www.imagefap.com": {},
+  "www.skygo.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.thepost.co.nz": {
+    "pop": [
+      "akl",
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "auckland",
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "madbutcher.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "secureib.sbsbank.co.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "8-11668863-11668868 NNNY CT(15 18 0) RT(1757350200375 378) q(0 1 1 -1) r(1 1) U6"
+    ]
+  },
+  "www.babyfactory.co.nz": {
+    "pop": [
+      "syd",
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "www.bigsave.co.nz": {},
+  "www.curseforge.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.genesisenergy.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "app.hubspot.com/home-beta": {
+    "pop": [
+      "akl",
+      "syd"
+    ],
+    "provider": [
+      "cloudflare",
+      "cloudfront"
+    ],
+    "location": [
+      "auckland",
+      "sydney"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.doordash.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.carolineeve.co.nz": {
+    "pop": [
+      "syd",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS, MISS, MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ubereats.com": {},
+  "bookings.rentalcarmanager.com/account/login.aspx": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "danbooru.donmai.us": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.boyfriendtv.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.mecca.com/en-nz/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.vistaprint.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "stirlingsports.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "wise.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "login.mathletics.com": {},
+  "xhamster.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "108.kiwi/forum.php": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.spincasino.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.airnewzealand.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "secure.powershop.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "indianexpress.com": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "workspace.google.com/intl/en-US/products/drive/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.michaelhill.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "rizk.com/en": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "lichess.org": {},
+  "m.naver.com": {},
+  "secure.bnz.co.nz": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.skysportnow.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.airpointsstore.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "goldentiger3.gameassists.co.uk": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.bilibili.com": {},
+  "bnz.tournamentsoftware.com": {},
+  "www.hallensteins.com": {
+    "pop": [
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS, MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "mathpro04.scholasticlearningzone.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Hit from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "scholar.google.com": {},
+  "tags.news.com.au/prod/newskey/generator.html?origin=https://www.foxsports.com.au/&17573502181605908714": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "health365.co.nz": {},
+  "www.onceit.co.nz": {
+    "pop": [
+      "syd",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "HIT, MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "www.schoolinterviews.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "auth.jackpotcitycasino.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "news.sky.com": {},
+  "www.britannica.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "discoverchildcare.co.nz": {},
+  "battwo.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "nz.iherb.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.bricklink.com/v2/main.page": {},
+  "www.hoyts.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.tradetested.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.nzpost.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.bnz.co.nz": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.harveynorman.co.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "1-9926749-9926751 NNNN CT(25 27 0) RT(1757350233192 350) q(0 0 1 -1) r(1 28) U24"
+    ]
+  },
+  "www.espn.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.recipetineats.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "transact.nzta.govt.nz": {},
+  "www.lskd.co": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "mangatoto.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.officemax.co.nz": {},
+  "www.bing.com": {},
+  "thespinoff.co.nz": {
+    "provider": [
+      "google"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "hit"
+    ]
+  },
+  "www.dropbox.com": {},
+  "student.whizz.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "AWS (not CDN)",
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "top10.co.nz": {},
+  "yts.mx": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.galacticwins.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "1337x.to": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.interest.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.hyperdrive.co.nz": {},
+  "nz.ixl.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.primevideo.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Error from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.rebelsport.co.nz": {
+    "pop": [
+      "syd",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "MISS, HIT, MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "www.nzta.govt.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "16-96113819-96113845 NNNN CT(11 12 0) RT(1757350235364 1529) q(0 0 0 -1) r(0 0) U6"
+    ]
+  },
+  "www.seek.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "app.myhr.works/login?url=/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.healthpost.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "pldc.service-now.com": {},
+  "www.twitch.tv": {},
+  "www.sporcle.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.redtube.com": {},
+  "www2.nzqa.govt.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "character.ai": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.aliexpress.com": {
+    "provider": [
+      "alibaba"
+    ]
+  },
+  "www.electrickiwi.co.nz": {},
+  "app.getpalace.com": {},
+  "www.bbcgoodfood.com": {
+    "pop": [
+      "dub",
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "dublin",
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "HIT, HIT"
+    ],
+    "contentLocality": "ie"
+  },
+  "x.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "kahoot.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.abc.net.au": {},
+  "www.stuff.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "mp3juice.co": {},
+  "www.news.com.au": {
+    "provider": [
+      "akamai"
+    ]
+  },
+  "www.marine-deals.co.nz": {},
+  "workspace.google.com/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.coingecko.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.legacy.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "play.google.com/store/games?device=windows": {
+    "provider": [
+      "google"
+    ]
+  },
+  "fnb.asb.co.nz/SignOn.aspx": {},
+  "ww.mathsbuddy.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront"
+    ],
+    "contentLocality": "nz"
+  },
+  "justjeans.jgl.co.nz": {},
+  "natlib.govt.nz": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "14-140736405-140641834 pNNy RT(1757350223377 375) q(0 1 1 0) r(1 1) U6"
+    ]
+  },
+  "www.pbtech.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "MISS"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.ancestry.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.jw.org": {},
+  "www.jdsports.co.nz": {
+    "pop": [
+      "krn",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT"
+    ],
+    "contentLocality": "se"
+  },
+  "apply.immigration.govt.nz/en-US/SignIn?ReturnUrl=/": {
+    "provider": [
+      "azure"
+    ]
+  },
+  "workspace.google.com/intl/en-US/products/calendar/": {
+    "provider": [
+      "google"
+    ]
+  },
+  "www.mechanicdesk.com.au": {},
+  "newsroom.co.nz": {},
+  "tradedepot.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.bbc.co.uk": {
+    "pop": [
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "id"
+  },
+  "www.flightradar24.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "xbato.com": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "login.echo360.net.au/login?appId=c08c41ee-50e3-45e8-a6e6-e9579b28f620&afterLoginUrl=/home": {},
+  "www.forevernew.co.nz": {
+    "pop": [
+      "syd",
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "sydney",
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "HIT",
+      "MISS, HIT, MISS"
+    ],
+    "contentLocality": "au"
+  },
+  "www.ribbonrose.co.nz": {},
+  "lovattspuzzles.com": {},
+  "m.daum.net": {},
+  "www.auckland.ac.nz/en.html": {
+    "pop": [
+      "krn",
+      "bfi",
+      "kbf"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "kiruna",
+      "seattle",
+      "karubaga-papua island"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "se"
+  },
+  "www.bargainchemist.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.culturekings.co.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "loveracing.nz/Home.aspx": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "m.fanfiction.net": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.thankyoupayroll.co.nz/": {
+    "pop": [
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "www.co-operativebank.co.nz/": {
+    "provider": [
+      "Imperva",
+      "imperva"
+    ],
+    "cacheStatus": [
+      "5-45614013-45614019 NNNN CT(31 65 0) RT(1757350228628 371) q(0 0 1 -1) r(1 1) U6"
+    ]
+  },
+  "nztc.ecelearn.com/security/login.aspx?ReturnUrl=/lms/Default.aspx": {
+    "provider": [
+      "azure"
+    ],
+    "cacheStatus": [
+      "CONFIG_NOCACHE"
+    ]
+  },
+  "portal.ttsuniversal.nz": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.skinny.co.nz": {
+    "cacheStatus": [
+      "HIT"
+    ]
+  },
+  "www.mirror.co.uk": {
+    "pop": [
+      "sea"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "seattle"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "MISS"
+    ],
+    "contentLocality": "us"
+  },
+  "novelbin.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "login.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.frontiertouring.com/?country=NZ": {
+    "pop": [
+      "auc1"
+    ],
+    "provider": [
+      "bunny"
+    ],
+    "cacheStatus": [
+      "EXPIRED"
+    ]
+  },
+  "minda.lic.co.nz/auth/login.html?wa=wsignin1.0&wtrealm=https://minda.lic.co.nz&wctx=rm%3D0%26id%3Dpassive%26ru%3D%252f&wct=2025-09-08T16:50:18Z": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.2degrees.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudfront"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "Miss from cloudfront",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "easycrypto.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "myflixerz.to": {
+    "pop": [
+      "syd"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "sydney"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "au"
+  },
+  "www.webjet.co.nz/": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.chelsea.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.f1oversteer.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "www.nziff.co.nz/2025/tamaki-makaurau-auckland/": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.aa.co.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare",
+      "fastly"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC",
+      "HIT"
+    ],
+    "contentLocality": "nz"
+  },
+  "missav.ai": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "newzealandcurriculum.tahurangi.education.govt.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "contentLocality": "nz"
+  },
+  "mydramalist.com": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "MISS",
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  },
+  "mail.yahoo.com": {
+    "cacheStatus": [
+      "MISS"
+    ]
+  },
+  "www.mightyape.co.nz": {
+    "pop": [
+      "kbf",
+      "bfi"
+    ],
+    "provider": [
+      "fastly"
+    ],
+    "location": [
+      "karubaga-papua island",
+      "seattle"
+    ],
+    "cacheStatus": [
+      "MISS"
+    ],
+    "contentLocality": "id"
+  },
+  "akatoi.careerforce.org.nz": {
+    "pop": [
+      "akl"
+    ],
+    "provider": [
+      "cloudflare"
+    ],
+    "location": [
+      "auckland"
+    ],
+    "cacheStatus": [
+      "DYNAMIC"
+    ],
+    "contentLocality": "nz"
+  }
+}
