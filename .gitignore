@@ -2,7 +2,6 @@ __pycache__
 venv
 database/**/*.csv
 .env
-results*
 .DS_Store
 *.pdf
 **/legacy/**
